@@ -1,0 +1,19 @@
+#test comment
+name: Science and Computing
+head: Dr Laurence Fitzhenry
+departments:
+ - name: Computing and Mathematics
+   head: Dr Alan Davy
+   code: CM
+ - name: Land Science
+   head: Eleanor Kent
+   code: LS
+ - name: Pharmacy
+   head: Dr Claire Lennon
+   code: PH
+ - name: Science
+   head: Dr Sinead O'Halloran
+   code: S
+ - name: Veterinary Medicine
+   head: Dr Mary Kate Burke
+   code: VM

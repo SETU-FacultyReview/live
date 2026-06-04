@@ -1,0 +1,248 @@
+﻿Programme_Code,Programme_Title,Programme_Category,School,Department
+WD_AARTS_MS,Master of Arts,26,Humanities,Law and Criminal Justice Studies
+WD_APSLA_D,Bachelor of Science - Laboratory Analyst,10,Science & Computing,Science
+WD_APSLT_C,Higher Certificate in Science - Laboratory Technician,16,Science & Computing,Science
+WD_AVISA_B,BA (Hons) in Visual Art,11,Humanities,Arts
+WD_BACCE_MS,Masters of Business,26,Business,Accountancy & Economics
+WD_BACCE_P,Doctor of Philosophy,27,Business,Accountancy & Economics
+WD_BACCE_PJ,PhD in Business Studies,27,Business,Accountancy & Economics
+WD_BACCE_PS,PhD in Business Studies,27,Business,Accountancy & Economics
+WD_BACCT_B,BA (Hons) in Accounting,11,Business,Accountancy & Economics
+WD_BADFE_B,BA (H) Adult & Further Education Research,11,SoELL,SoELL
+WD_BADFE_C,BADFE_C_Y1 HC in Arts in Adult & Further Education,16,SoELL,SoELL
+WD_BADFE_D,BA (Ord) in Adult & Further Education Level 7,10,SoELL,SoELL
+WD_BADLT_MA,Certificate in Adult Literacy Studies,15,SoELL,SoELL
+WD_BBADM_R,Master of Business Admin,25,Business,Graduate Business
+WD_BBADM_TP,Doctorate in Business Administration,27,Business,Graduate Business
+WD_BBBIS_B,Bachelor of Business (H) Business Inf Systems,11,Business,Accountancy & Economics
+WD_BBEDV_C,Higher Certificate In Business in Small Business Enterprise,16,SoELL,SoELL
+WD_BBUSI_B,Bachelor of Business (Hons),11,Business,Management & Organisation
+WD_BBUSI_C,HC in Business Studies,16,Business,Accountancy & Economics
+WD_BBUSI_D,Bachelor of Business,10,Business,Accountancy & Economics
+WD_BBUSM_G,Higher Diploma in Business in Management,29,Business,Graduate Business
+WD_BCEDV_B,BA (H) in Community Education & Development,11,SoELL,SoELL
+WD_BCEDV_D,BA Community Education & Development,10,SoELL,SoELL
+WD_BCOMM_C,Certificate in Arts Community Education and Development,16,SoELL,SoELL
+WD_BDMAP_G,PG Diploma in Digital Marketing Prac ,30,Business,Graduate Business
+WD_BDMAP_R,PG Diploma in Digital Marketing Prac ,25,Business,Graduate Business
+WD_BENTX_R,Master of Business in Lean Enterprise Excellence,25,Business,Graduate Business
+WD_BFIBA_G,PG Diploma in Business in Finance & Business Analytics,30,Business,Graduate Business
+WD_BFIBA_R,Master of Business in Finance & Business Analytics,25,Business,Graduate Business
+WD_BHRMG_MA,Minor Award Certificate in Human Resource Management,15,SoELL,SoELL
+WD_BINFA_R,Master of Business in Investment Fund Administration,25,Business,Graduate Business
+WD_BINTB_B,BA (H) International Business,11,Business,Management & Organisation
+WD_BINTM_B,Bachelor of Arts (Honours) in International Management,11,Business,Management & Organisation
+WD_BINTN_R,Master of Business in Internationalisation,25,Business,Graduate Business
+WD_BLEAN_SP,Diploma in Lean Fundamentals,12,Business,Graduate Business
+WD_BLITD_C,Higher Certificate in Arts in Literacy Development,16,SoELL,SoELL
+WD_BMABS_R,Master of Business,25,Business,Graduate Business
+WD_BMAED_P,Doctor of Philosophy,27,SoELL,SoELL
+WD_BMAED_PJ,PhD in Adult Education,27,SoELL,SoELL
+WD_BMAED_PS,PhD in Adult Education,27,SoELL,SoELL
+WD_BMBEF_SP,Certificate in Economics & Finance,23,Business,Graduate Business
+WD_BMGTD_SP,Certificate in Management Development,15,SoELL,SoELL
+WD_BMGTO_P,Doctor of Philosophy,27,Business,Management & Organisation
+WD_BMGTO_PJ,PhD in Business Studies,27,Business,Management & Organisation
+WD_BMGTO_PS,PhD in Business Studies,27,Business,Management & Organisation
+WD_BMKCO_SP,Certificate in Contemporary Marketing,15,Business,Management & Organisation
+WD_BMKDM_B,Bachelor of Arts (Honours) in Marketing & Digital Media,11,Business,Management & Organisation
+WD_BMTED_R,Master of Arts in Management in Education,25,SoELL,SoELL
+WD_BRADO_SP,Cert in Introduction to Radio Broadcast Journalism & Presentation,15,SoELL,SoELL
+WD_BREMG_D,BSc Retail Management,10,Business,Management & Organisation
+WD_BSUPR_SP,Diploma in Supervisory Practice,12,Business,Graduate Business
+WD_BTAFE_B,Bachelor of Arts (Honours) in Teaching in Adult and Further Education,11,SoELL,SoELL
+WD_BTEAC_B, BA (Hons) Teaching in Further Education,11,SoELL,SoELL
+WD_BTEAC_G,PG Diploma in Teaching in Further Education ,30,SoELL,SoELL
+WD_BTEAL_R,Master of Education in Teaching and Learning,25,SoELL,SoELL
+WD_BTECH_MA,Certificate in Technology Enhanced Learning,23,SoELL,SoELL
+WD_CARBM_B,BSc ( H ) in Architecture & BIM Technology,11,Engineering,Architecture
+WD_CATEC_D,BSc in Architectural Tech,10,Engineering,Architecture
+WD_CBARC_B,Bachelor of Architecture (H),11,Engineering,Architecture
+WD_CCONM_B,BSc (H) in Const Mgmt and Eng,11,Engineering,Built Environment
+WD_CCPMA_R,MSc in Construction Project Management,26,Engineering,Built Environment
+WD_CFIRE_D,Bachelor of Engineering in Fire Engineering,10,Engineering,Built Environment
+WD_CINNT_R,MEngSc in Innovative Tech,26,Engineering,Technology
+WD_CONMT_B,BSc (H) in Construction Management,11,Engineering,Built Environment
+WD_CPROM_R,MSc in Construction Project Management,26,Engineering,Technology
+WD_CQTSU_B,BSc (Hons) Quantity Surveying,11,Engineering,Built Environment
+WD_DPROJ_SP,Certificate in Project Management,15,SoELL,SoELL
+WD_DVISC_B,BA ((Hons) Design Visual Comm,11,Humanities,Arts
+WD_EADMA_D,Bachelor of Science in Additive Manufacturing,10,Engineering,Technology
+WD_EAUTO_B,Bachelor of Engineering (H) in Automation Engineering,11,Engineering,Technology
+WD_EAUTO_MA,Certificate in Automation Engineering,15,Engineering,Technology
+WD_EBUIL_PJ,Doctor of PhilosophY,27,Engineering,Built Environment
+WD_EBUIL_PS,PhD in Engineering,27,Engineering,Built Environment
+WD_ECIEN_D,BEng in Civil Engineering,10,Engineering,Built Environment
+WD_EEELC_B,BEng (H) in Electronic Engineering,11,Engineering,Technology
+WD_EEENG_D,BEng in Electronic Engineering,10,Engineering,Technology
+WD_EELCT_D,BEng in Electrical Engineering,10,Engineering,Technology
+WD_EELEC_C,HC in Electronic Engineering,16,Engineering,Technology
+WD_EENCE_B,Bachelor of Engineering (Honours) common entry,11,Engineering,Technology
+WD_EENGR_P,Postgraduate Studies - Engineering,27,Engineering,Technology
+WD_EENGR_PS,PhD in Engineering,27,Engineering,Technology
+WD_EETEC_P,PhD in Engineering,27,Engineering,Technology
+WD_EETEC_PS,PhD in Engineering,27,Engineering,Technology
+WD_EMANF_C,HC in Manufacturing Engineering,16,Engineering,Technology
+WD_EMANF_D,BEng in Manu Engineering,10,Engineering,Technology
+WD_EMANU_D,Bachelor of Engineering in Manufacturing Engineering (ND),10,Engineering,Technology
+WD_EMECH_C,HC in Mechanical Engineering,16,Engineering,Technology
+WD_EMECH_D,BEng in Mechanical Engineering,10,Engineering,Technology
+WD_EMSEN_B,BEng (H) Mech & Manufacturing,11,Engineering,Technology
+WD_ENZEB_MA,Certificate in nZEB Design,23,Engineering,Built Environment
+WD_EONIC_B,Bachelor of Engineering (Honours) in Electronic (BEng),11,Engineering,Technology
+WD_ESCIV_B,BEng (H) in Sustainable Civil Engineering,11,Engineering,Built Environment
+WD_ESERG_B,BEng (H) in Sustainable Energy Engineering,11,Engineering,Built Environment
+WD_ESERG_R,Master of Science in Sustainable Energy Engineering,26,Engineering,Built Environment
+WD_ESITE_D, Bachelor of Science in Construction site Management,10,Engineering,Built Environment
+WD_ESUSE_B,BEng (H) in Sustainable Civil Engineering,11,Engineering,Built Environment
+WD_ETRIC_B,BEng ( H) in Electrical Engineering,11,Engineering,Technology
+WD_FTOUR_C,HC in Business (Tourism),16,Humanities,Arts
+WD_GARTS_MS,Master of Arts,26,Humanities,Arts
+WD_GARTS_P,PhD in Arts,27,Humanities,Arts
+WD_GARTS_PJ,PhD in Arts,27,Humanities,Arts
+WD_GARTS_PS,PhD in Arts,27,Humanities,Arts
+WD_GMUSI_B,BA (H) in Music,11,Humanities,Arts
+WD_HAFSH_R,MA in Advanced Facilitation Skills for Health & Well Being,25,Health Sciences,Sport & Exercise Science
+WD_HAPSC_D,BA in Applied Social Care,10,Humanities,Social Care and Early Childhood Studies
+WD_HARTI_B,Bachelor of Arts (Honours)-International,11,Humanities,Arts
+WD_HARTS_B,Bachelor of Arts (Honours),11,Humanities,Arts
+WD_HCASC_D,Bachelor of Ars in Applied Social Care ,10,Humanities,Social Care and Early Childhood Studies
+WD_HCRJU_B,BA (H) in Criminal Justice Stu,11,Humanities,Law and Criminal Justice Studies
+WD_HCSCP_B,BA (H) in Social Care Practice,11,Humanities,Social Care and Early Childhood Studies
+WD_HCULA_B,Bachelor of Arts (Honours) in Culinary Arts,11,Humanities,Arts
+WD_HCULA_C,HC in Culinary Arts,16,Humanities,Arts
+WD_HCULA_SP,Higher Cert in Culinary Science,15,Humanities,Arts
+WD_HCURE_C,Higher Cert in Custodial Care,16,Humanities,Law and Criminal Justice Studies
+WD_HEALS_D,BSc in Health Care Studies,10,Health Sciences,Nursing & Health Care
+WD_HECCE_B,Bachelor of Arts (H) in Early Childhood Studies,11,Humanities,Social Care and Early Childhood Studies
+WD_HECHS_B,BA (H) in Early Childhood Stud,11,Humanities,Social Care and Early Childhood Studies
+WD_HECHS_G,Higher Diploma in Early Childhood Studies,29,Humanities,Social Care and Early Childhood Studies
+WD_HESCM_B,BSc (H) in Exercise Science,11,Health Sciences,Sport & Exercise Science
+WD_HEXHS_B,BA (H) in Exer & Health Studies,11,Health Sciences,Sport & Exercise Science
+WD_HHEEX_B,Bachelor of Science (H) in Health and Exercise Science,11,Health Sciences,Sport & Exercise Science
+WD_HHSCM_B,BSc (H) in Health Sciences,11,Health Sciences,Nursing & Health Care
+WD_HLANG_M,Master of Science,26,Humanities,Social Care and Early Childhood Studies
+WD_HLANG_PS,Social Care and Early Childhood Studies,27,Humanities,Social Care and Early Childhood Studies
+WD_HLEAD_MA,"Certificate
+ in Management & Leadership for Healthcare",15,Health Sciences,Sport & Exercise Science
+WD_HLEGA_C,HC in Legal Studies,16,Humanities,Law and Criminal Justice Studies
+WD_HLEGB_B,BA (H) in Legal Studies with B,11,Humanities,Law and Criminal Justice Studies
+WD_HLEGL_D,BA in Legal Studies,10,Humanities,Law and Criminal Justice Studies
+WD_HLEST_B,BA (Hons) in Law,11,Humanities,Law and Criminal Justice Studies
+WD_HNUEX_B,Bachelor of Science (H) in Nutrition and Exercise Science,11,Health Sciences,Sport & Exercise Science
+WD_HPLAN_SP,Certificate in Plant based Cookery and Sustainable Practices,15,Humanities,Hospitality & Culinary Arts
+WD_HPSYC_B,BA (H) in Psychology,11,Humanities,Arts
+WD_HPSYI_B,BA (H) in Psychology-International,11,Humanities,Arts
+WD_HPUBH_B,Bachelor of Science (Honours) in Public Health and Health Promotion,11,Health Sciences,Sport & Exercise Science
+WD_HRECL_D,BBS  in Rec & Sport Mgt,10,Health Sciences,Sport & Exercise Science
+WD_HRECR_B,Bachelor of Business (Honours) in Recreation and Sport Management,11,Health Sciences,Sport & Exercise Science
+WD_HSOCR_B,BA ( H ) in Social Care Practice,11,Humanities,Social Care and Early Childhood Studies
+WD_HSOSC_B,Bachelor of Arts (H) in Social Science,11,Humanities,Arts
+WD_HSPEX_B,Bachelor of Science (H) in Sport and Exercise Science,11,Health Sciences,Sport & Exercise Science
+WD_HSPEX_M,Master of Science,26,Health Sciences,Sport & Exercise Science
+WD_HSPEX_MJ,Master of Science,26,Health Sciences,Sport & Exercise Science
+WD_HSPEX_MS,Master of Science,26,Health Sciences,Sport & Exercise Science
+WD_HSPEX_R,Master of Science in Applied Sport and Exercise Psychology,25,Health Sciences,Sport & Exercise Science
+WD_HSPOR_B,BSc (H) Sports Coaching Performance,11,Health Sciences,Sport & Exercise Science
+WD_HSPOR_MJ,Master of Science,26,Health Sciences,Sport & Exercise Science
+WD_HSPOR_P,Doctor of Philosophy,27,Health Sciences,Sport & Exercise Science
+WD_HSPOR_PJ,PhD in Sports Studies,27,Health Sciences,Sport & Exercise Science
+WD_HSPOR_PS,PhD in Sports Studies,27,Health Sciences,Sport & Exercise Science
+WD_HSPPS_MA,Certificate in Applied Sports,15,Health Sciences,Sport & Exercise Science
+WD_HSPRT_R,Postgraduate Diploma in Applied Spirtuality,25,Humanities,Arts
+WD_HSSSC_B,BA (H) in Applied Social Studies,11,Humanities,Social Care and Early Childhood Studies
+WD_HSSSC_D,BA in Social Studies,10,Humanities,Social Care and Early Childhood Studies
+WD_HTOMA_B,BA (H) in Tourism Marketing,11,Humanities,Arts
+WD_HTVMP_G,HD i léiriú Teilifíse & na Mean,29,Humanities,Arts
+WD_INDMO_X,Independent Module Programme,14,Other,Other
+WD_INDPT_X,Independent Accredited modules Part-time,14,SoELL,SoELL
+WD_INTEX_X,International Exchange,14,Other,other
+WD_KACCM_B,BSc (H) in Applied Computing,11,Science & Computing,Computing & Mathematics
+WD_KCMSC_B,BSc (H) in Computer Science,11,Science & Computing,Computing & Mathematics
+WD_KAGIL_MA,Certificate in Agile Software Development,15,Science & Computing,Computing & Mathematics
+WD_KBUSY_G,Higher Diploma in Science in Business Systems Analysis,29,Science & Computing,Computing & Mathematics
+WD_KCESS_R,MSc in Computer Science (Enterprise Software Systems),25,Science & Computing,Computing & Mathematics
+WD_KCOEN_R,MSc in Computing (Enterprise Software Systems),25,Science & Computing,Computing & Mathematics
+WD_KCOFO_B,BSc (H) in Computer Forensics,11,Science & Computing,Computing & Mathematics
+WD_KCOMC_D,BSc in Software Systems Development,10,Science & Computing,Computing & Mathematics
+WD_KCOMP_B,BSc (H) in Applied Computing,11,Science & Computing,Computing & Mathematics
+WD_KCOMP_D,Bachelor of Science in Computing,10,Science & Computing,Computing & Mathematics
+WD_KCOSC_G,Higher Diploma in Science in Computer Science,29,Science & Computing,Computing & Mathematics
+WD_KCRCO_B,BSc (H) in Creative Computing,11,Science & Computing,Computing & Mathematics
+WD_KDATA_MA,Certificate in Data Mining,23,Science & Computing,Computing & Mathematics
+WD_KDEVP_B,BSc (H) in Software Sys Development,11,Science & Computing,Computing & Mathematics
+WD_KENTS_B,BSc (H) in Entertainments Systems,11,Science & Computing,Computing & Mathematics
+WD_KINFT_D,BSc in Information Technology,10,Science & Computing,Computing & Mathematics
+WD_KINTT_B,BSc (H) in the Internet of Things,11,Science & Computing,Computing & Mathematics
+WD_KISYP_R,MSc Comp (Info Systems Proc),25,Science & Computing,Computing & Mathematics
+WD_KITMA_B,BSc (H)  Information Technology,11,Science & Computing,Computing & Mathematics
+WD_KMULA_D,BSc in Multimedia Applications,10,Science & Computing,Computing & Mathematics
+WD_KPHTE_B,BSc (H) Physics for Modern Technology,11,Science & Computing,Science
+WD_KPQSC_P,PhD in Science,27,Science & Computing,Computing & Mathematics
+WD_KPQSC_PJ,PhD in Science,27,Science & Computing,Computing & Mathematics
+WD_KPQSC_PS,PhD in Science,27,Science & Computing,Computing & Mathematics
+WD_KSOFP_B,BSc (H) Software Systems Practice,11,Science & Computing,Computing & Mathematics
+WD_NAPHC_B,BSc (Honours) in Applied Health Care,11,Health Sciences,Nursing & Health Care
+WD_NCBTM_R,Master of Science in Cognitive Behaviour Therapy and MI for Practice,26,Health Sciences,Nursing & Health Care
+WD_NCDMD_MA,Certificate in Child Development & Mental Distress,15,Health Sciences,Nursing & Health Care
+WD_NEMNU_SP,Certificate in Emergency Nursing,15,Health Sciences,Nursing & Health Care
+WD_NGENN_B,BSc (H) in General Nursing,11,Health Sciences,Nursing & Health Care
+WD_NGENN_P,PhD in Nursing,27,Health Sciences,Nursing & Health Care
+WD_NGENN_PJ,PhD in Science,27,Health Sciences,Nursing & Health Care
+WD_NGENN_PS,Doctor of Philosophy,27,Health Sciences,Nursing & Health Care
+WD_NHEAL_D,Bachelor of Science in Applied Health Care,10,Health Sciences,Nursing & Health Care
+WD_NMENH_B,BSc (H) in Int Disa Nursing,11,Health Sciences,Nursing & Health Care
+WD_NMGTN_SP,Cert in Management for Nursing and Healthcare Professionals,23,Health Sciences,Nursing & Health Care
+WD_NNURC_R,Master of Science in Nursing  (clinical),26,Health Sciences,Nursing & Health Care
+WD_NNURS_MJ,MSc in Nursing,26,Health Sciences,Nursing & Health Care
+WD_NNURS_MS,MSc in Nursing,26,Health Sciences,Nursing & Health Care
+WD_NPCHP_SP,Cert in Respiratory Care Skills (ID),23,Health Sciences,Nursing & Health Care
+WD_NPRAD_SP,Certificate in Pre-Admission Nursing,15,Health Sciences,Nursing & Health Care
+WD_NPSYC_B,BSc (H) in Psych Nursing,11,Health Sciences,Nursing & Health Care
+WD_NRESP_SP,Cert in Respiratory Care Skills (ID),23,Health Sciences,Nursing & Health Care
+WD_NURCP_B,Bachelor of Science (H) in Clinical Practice Nursing,11,Health Sciences,Nursing & Health Care
+WD_NWELL_SP,Cert in Management of Occupational Stress and Wellbeing,15,Health Sciences,Nursing & Health Care
+WD_OHOSM_B,BA (H) in Hospitality Mgmt,11,Humanities,Arts
+WD_OHOSP_C,HC in Arts Hospitality Studies,16,Humanities,Arts
+WD_OREST_SP,Diploma in Restaurant Management,12,Humanities,Hospitality & Culinary Arts
+WD_SAENG_X,International exchange Engineering,14,Engineering,Built Environment
+WD_SAGRI_B,BSc (H) in Agricultural Science,11,Science & Computing,Land Sciences
+WD_SAGUL_D,BSc in Agriculture,10,Science & Computing,Land Sciences
+WD_SANSC_G,Postgraduate Diploma in Analytical Science with Quality Management,30,Science & Computing,Science
+WD_SANSC_R,Master of Science in Analytical Science with Quality Management,25,Science & Computing,Science
+WD_SBSAG_B,BSc (H) in Land Management (in Agriculture),11,Science & Computing,Land Sciences
+WD_SBSFO_B,BSc (H) in Land Management  (in Forestry),11,Science & Computing,Land Sciences
+WD_SBSHO_B,BSc (H) in Land Management (in Horticulture),11,Science & Computing,Land Sciences
+WD_SCLSC_MJ,Masters of Science,26,Science & Computing,Science
+WD_SCLSC_MS,Masters of Science,26,Science & Computing,Science
+WD_SCLSC_P,PhD in Science,27,Science & Computing,Science
+WD_SCLSC_PJ,PhD in Science,27,Science & Computing,Science
+WD_SCLSC_PS,PhD in Science,27,Science & Computing,Science
+WD_SCROP_MA,Certificate in Crop Management in Organic & Biological Agriculture,23,Science & Computing,Land Sciences
+WD_SDATA_MA,Certificate in Statistics & Data design,23,Science & Computing,Computing & Mathematics
+WD_SDESG_MA,Certificate in Landscape Design,15,Science & Computing,Land Sciences
+WD_SDRUG_MA,Certificate in Advanced Drug Formulation Science,23,Science & Computing,Science
+WD_SFDSC_D,BSc in Food Science with Business,10,Science & Computing,Land Sciences
+WD_SFOHE_MA,"Certificate in Food, Health & Nutrition",23,Science & Computing,Land Sciences
+WD_SFORS_D,BSc in Forestry,10,Science & Computing,Land Sciences
+WD_SFSIN_B,BSc (H) in Food Science & Innovation,11,Science & Computing,Land Sciences
+WD_SGARD_MA,Certificate in Garden Management,15,Science & Computing,Land Sciences
+WD_SGMPT_C,Higher Certificate in Science in Good Manufacturing Practice and Technology,16,Science & Computing,Science
+WD_SGMPT_D,Bachelor of Science in Good Manufacturing Practice and Technology,10,Science & Computing,Science
+WD_SHORT_D,BSc in Horticulture,10,Science & Computing,Land Sciences
+WD_SHORT_DX,BSc in Horticulture (Botanics),10,Science & Computing,Land Sciences
+WD_SINTR_MA,Certificate in International Regulatory Affairs,23,Science & Computing,Science
+WD_SLIVE_MA,Certificate in Livestock Management in Organic & Biological Agriculture,23,Science & Computing,Land Sciences
+WD_SMBIO_B,BSc (H) Molecular Biology,11,Science & Computing,Science
+WD_SMBIO_D,BSc in Molecular Biology with Biopharmaceutical Science,10,Science & Computing,Science
+WD_SNUST_MA,Certificate in Nursery Stock Production,15,Science & Computing,Land Sciences
+WD_SOBIA_G,Postgrad Dip in Science in Organic & Biological Agriculture,30,Science & Computing,Land Sciences
+WD_SOBIA_R,Master of Science in Organic and Biological Agriculture,25,Science & Computing,Land Sciences
+WD_SOCER_X,Socrates Programme,14,Other (Socrates),Excluded
+WD_SPHSC_B,BSc (H) in Pharmaceutical Science,11,Science & Computing,Science
+WD_SPHSC_D,BSc in Pharmaceutical Science,10,Science & Computing,Science
+WD_SQUAL_MA,Certificate in Strategic Quality Management,23,Science & Computing,Science
+WD_SSCCM_B,Bachelor of Science (Honours) (Common Entry),11,Science & Computing,Science
+WD_SSCIE_D,Bachelor of Science (Common Entry),10,Science & Computing,Science
+WD_SSOIL_MA,Certificate in Soil Health and Water Management,23,Science & Computing,Land Sciences
+WD_TCAMF_B,BSc (H) in Manufacturing Engin,11,Engineering,Technology

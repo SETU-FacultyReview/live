@@ -1,0 +1,7 @@
+# List of terms used in the documentation
+# TODO
+cluster: A collection of related modules. Clusters were developed to allow for a more maintainable group of modules. A module is in exactly one cluster. 
+subject_area: The modules in a programme core are arranged in subject areas. This is often one-to-one with clusters, but not always. The subject area is the means by which modules are grouped for describing the programme structure.
+stream: A stream is an elective, specialised sequence of modules, within a broader degree programme. 
+
+

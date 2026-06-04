@@ -1,0 +1,66 @@
+﻿code,title,category,faculty,department,handbook,review
+WD_KCOMP_D,Bachelor of Science in Computing,10,Science and Computing,Computing and Mathematics,,
+WD_KITMA_B,BSc (H) in Information Technology,11,Science and Computing,Computing and Mathematics,,
+WD_KCOMP_B,BSc (H) in Applied Computing,11,Science and Computing,Computing and Mathematics,,
+WD_KACCM_B,BSc (H) in Applied Computing,11,Science and Computing,Computing and Mathematics,,
+WD_KCOFO_B,BSc (H) in Computer Forensics and Security,11,Science and Computing,Computing and Mathematics,YES,YES
+WD_KCMSC_B,BSc (H) in Computer Science,11,Science and Computing,Computing and Mathematics,YES,YES
+WD_KCRCO_B,BSc (H) in Creative Computing,11,Science and Computing,Computing and Mathematics,YES,YES
+WD_KENTS_B,BSc (H) in Entertainments Systems,11,Science and Computing,Computing and Mathematics,NO,NO
+WD_KDEVP_B,BSc (H) in Software Sys Development,11,Science and Computing,Computing and Mathematics,YES,YES
+WD_KINTT_B,BSc (H) in the Internet of Things,11,Science and Computing,Computing and Mathematics,NO,NO
+WD_KSOFP_B,BSc (H) Software Systems Practice,11,Science and Computing,Computing and Mathematics,,
+WD_KINFT_D,BSc in Information Technology,10,Science and Computing,Computing and Mathematics,,
+WD_KMULA_D,BSc in Multimedia Applications,10,Science and Computing,Computing and Mathematics,,
+WD_KCOMC_D,BSc in Software Systems Development,10,Science and Computing,Computing and Mathematics,,
+WD_KAGIL_MA,Certificate in Agile Software Development,15,Science and Computing,Computing and Mathematics,YES,YES
+WD_KDATA_MA,Certificate in Data Mining,23,Science and Computing,Computing and Mathematics,,
+WD_SDATA_MA,Certificate in Statistics & Data design,23,Science and Computing,Computing and Mathematics,,
+WD_KBUSY_G,Higher Diploma in Science in Business Systems Analysis,29,Science and Computing,Computing and Mathematics,YES,YES
+WD_KCOSC_G,Higher Diploma in Science in Computer Science,29,Science and Computing,Computing and Mathematics,YES,YES
+WD_KISYP_R,MSc Comp (Info Systems Proc),25,Science and Computing,Computing and Mathematics,,
+WD_KCESS_R,MSc in Computer Science (Enterprise Software Systems),25,Science and Computing,Computing and Mathematics,YES,YES
+WD_KCOEN_R,MSc in Computing (Enterprise Software Systems),25,Science and Computing,Computing and Mathematics,NO,NO
+WD_KPQSC_P,PhD in Science,27,Science and Computing,Computing and Mathematics,,
+WD_KPQSC_PJ,PhD in Science,27,Science and Computing,Computing and Mathematics,,
+WD_KPQSC_PS,PhD in Science,27,Science and Computing,Computing and Mathematics,,
+WD_SAGRI_B,BSc (H) in Agricultural Science,11,Science and Computing,Land Sciences,,
+WD_SFSIN_B,BSc (H) in Food Science & Innovation,11,Science and Computing,Land Sciences,,
+WD_SBSFO_B,BSc (H) in Land Management  (in Forestry),11,Science and Computing,Land Sciences,,
+WD_SBSAG_B,BSc (H) in Land Management (in Agriculture),11,Science and Computing,Land Sciences,,
+WD_SBSHO_B,BSc (H) in Land Management (in Horticulture),11,Science and Computing,Land Sciences,,
+WD_SAGUL_D,BSc in Agriculture,10,Science and Computing,Land Sciences,,
+WD_SFDSC_D,BSc in Food Science with Business,10,Science and Computing,Land Sciences,,
+WD_SFORS_D,BSc in Forestry,10,Science and Computing,Land Sciences,,
+WD_SHORT_D,BSc in Horticulture,10,Science and Computing,Land Sciences,,
+WD_SHORT_DX,BSc in Horticulture (Botanics),10,Science and Computing,Land Sciences,,
+WD_SCROP_MA,Certificate in Crop Management in Organic & Biological Agriculture,23,Science and Computing,Land Sciences,,
+WD_SFOHE_MA,"Certificate in Food, Health & Nutrition",23,Science and Computing,Land Sciences,,
+WD_SGARD_MA,Certificate in Garden Management,15,Science and Computing,Land Sciences,,
+WD_SDESG_MA,Certificate in Landscape Design,15,Science and Computing,Land Sciences,,
+WD_SLIVE_MA,Certificate in Livestock Management in Organic & Biological Agriculture,23,Science and Computing,Land Sciences,,
+WD_SNUST_MA,Certificate in Nursery Stock Production,15,Science and Computing,Land Sciences,,
+WD_SSOIL_MA,Certificate in Soil Health and Water Management,23,Science and Computing,Land Sciences,,
+WD_SOBIA_R,Master of Science in Organic and Biological Agriculture,25,Science and Computing,Land Sciences,,
+WD_SOBIA_G,Postgrad Dip in Science in Organic & Biological Agriculture,30,Science and Computing,Land Sciences,,
+WD_APSLA_D,Bachelor of Science - Laboratory Analyst,10,Science and Computing,Science,,
+WD_SSCIE_D,Bachelor of Science (Common Entry),10,Science and Computing,Science,,
+WD_SSCCM_B,Bachelor of Science (Honours) (Common Entry),11,Science and Computing,Science,,
+WD_SGMPT_D,Bachelor of Science in Good Manufacturing Practice and Technology,10,Science and Computing,Science,,
+WD_SPHSC_B,BSc (H) in Pharmaceutical Science,11,Science and Computing,Science,,
+WD_SMBIO_B,BSc (H) Molecular Biology,11,Science and Computing,Science,,
+WD_KPHTE_B,BSc (H) Physics for Modern Technology,11,Science and Computing,Science,,
+WD_SMBIO_D,BSc in Molecular Biology with Biopharmaceutical Science,10,Science and Computing,Science,,
+WD_SPHSC_D,BSc in Pharmaceutical Science,10,Science and Computing,Science,,
+WD_SDRUG_MA,Certificate in Advanced Drug Formulation Science,23,Science and Computing,Science,,
+WD_SINTR_MA,Certificate in International Regulatory Affairs,23,Science and Computing,Science,,
+WD_SQUAL_MA,Certificate in Strategic Quality Management,23,Science and Computing,Science,,
+WD_APSLT_C,Higher Certificate in Science - Laboratory Technician,16,Science and Computing,Science,,
+WD_SGMPT_C,Higher Certificate in Science in Good Manufacturing Practice and Technology,16,Science and Computing,Science,,
+WD_SANSC_R,Master of Science in Analytical Science with Quality Management,25,Science and Computing,Science,,
+WD_SCLSC_MJ,Masters of Science,26,Science and Computing,Science,,
+WD_SCLSC_MS,Masters of Science,26,Science and Computing,Science,,
+WD_SCLSC_P,PhD in Science,27,Science and Computing,Science,,
+WD_SCLSC_PJ,PhD in Science,27,Science and Computing,Science,,
+WD_SCLSC_PS,PhD in Science,27,Science and Computing,Science,,
+WD_SANSC_G,Postgraduate Diploma in Analytical Science with Quality Management,30,Science and Computing,Science,,
