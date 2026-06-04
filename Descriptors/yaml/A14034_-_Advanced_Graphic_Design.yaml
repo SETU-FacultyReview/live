@@ -1,0 +1,87 @@
+reference: A14034
+full_title: Advanced Graphic Design
+short_title: Advanced Graphic Design
+credits: 5
+level: Advanced
+author: SORIORDAN
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Graphic Design and Animation
+aim: This module formulates an appreciation of graphic design through the study of
+  historical influences, styles and culture. The student gains an in-depth knowledge
+  of graphic and visual interpretation to develop a fluency in visual and textual
+  problem solving to the provision of solutions for multiple mediums.
+programmes:
+- timetable: COMP-0635
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0635
+  code: WD_KMULM_B
+  name: Bachelor of Science (Honours) in Multimedia Applications Development
+  stage: 4
+  semester: 2
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'History of Graphic Design: studies of influences and cultures'
+- Visual Styles & Approaches
+- 'Graphic Information Design: The Image and Its Role in Design, Infographics'
+- Expressive Typography
+- Advanced Colour Theory
+- Graphic Design Processes
+learning_outcomes:
+- Evaluate historical influences, styles and cultures in graphic design.
+- Arrange and design an infographic campaign.
+- Design text as art and apply expressive typography.
+- Design and create a graphic design project from problem to solution.
+learning_and_teaching_methods:
+- This module will be delivered using 2 hours of computer-based lectures, along with
+  2 hours of computer-based practicals each week.
+learning_modes:
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Portfolio
+  weighting: 100
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts in advanced graphic design.'
+- '40%-49%: Be able to interpret and describe key concepts of the advanced graphic
+  design.'
+- '50%-59%: Ability to discuss key concepts of advanced graphic design and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within advanced graphic design by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All of the above to an excellent level.'
+essential_material: []
+supplementary_material:
+- 'Eskilson, S.J. _Graphic Design A History_. 2nd ed. London: Laurence King, 2012.'
+- 'Heller, S. and V. Vienne. _100 Ideas That Changed Graphic Design_. 1st ed. London:
+  Laurence King, 2012.'
+- 'Skolos, N. and T. Wedell. _Graphic Design Process_. 1st ed. London: Laurence King,
+  2012.'
+- 'Taylor, F. _How to Create a Portfolio and Get Hired_. 1st ed. London: Laurence
+  King, 2012.'
+requested_resources:
+- 'COMPUTER LAB: Multimedia Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

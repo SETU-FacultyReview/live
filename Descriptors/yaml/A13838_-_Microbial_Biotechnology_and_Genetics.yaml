@@ -1,0 +1,121 @@
+reference: A13838
+full_title: Microbial Biotechnology and Genetics
+short_title: Microbial Biotech. & Genetics
+credits: 5
+level: Introductory
+author: ROMAHONY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Biology
+aim: The aim of this module is to introduce the principles of microbial molecular
+  biology and regulation of gene expression. In vivo and in vitro techniques of bacterial
+  genetics are also covered in this module. An introduction to basic fermentation
+  is given and products of biotechnology are explored.
+programmes:
+- timetable: MBIO-0006
+  code: WD_SMBIO_B
+  name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
+    Science
+  stage: 2
+  semester: 4
+  status: M
+- timetable: MBIO-0006
+  code: WD_SMBIO_D
+  name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Macromolecules and genetic information
+- DNA structure & replication
+- RNA & protein synthesis
+- Regulation of enzyme activity & transcription (positive and negative control)
+- 'Bacterial genetics: mutation & recombination'
+- In vivo & in vitro techniques of bacterial genetics
+- Introduction to bioprocess design and control
+- Bioreactors
+- Genetic engineering and biotechnology
+learning_outcomes:
+- Recall and explain biological information flow.
+- Describe the central dogma of genetics from DNA replication to protein synthesis.
+- Explain how cells control the expression of their genetic information.
+- Compare and contrast regulatory mechanisms in prokaryotes and eukaryotes.
+- Discuss mutation and genetic recombination.
+- Construct a flow diagram of a typical biotechnological process & describe bioreactor
+  design suited to different applications.
+- Employ basic techniques of in-vitro DNA manipulations.
+learning_and_teaching_methods:
+- A multiple modalities approach to teaching basic molecular concepts is used.
+- The creation of multimodal texts/content provide opportunity for the students to
+  use linguistic, visual and audio modes in order to experience, conceptualize, analyze
+  and apply meaning.
+- E-activites, online tutorials, digital storyboards, videos, e-forums, mindmaps and
+  concept maps are some blended learning activities in the design of this module
+- Face to face lectures provide opportunity for the students to conduct some of the
+  learning activities such as concept maps & mindmaps
+- Virtual lectures are created as 10-15 mins short digital storyboards. Students engage
+  with this material prior to face to face sessions.
+- Students participate in online MCQ quizzes after reviewing each virtual storyboard.
+- Student reflection is conducted using group forum discussions.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 6,7
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: No understanding of microbial biotechnology and molecular genetics. Unable
+  to carry out critical thinking or practical skills.'
+- '40%-49%: Able to understand basic concepts. May have some difficulty with critical
+  thinking and problem solving. Adequate practical skills.'
+- '50%-59%: A good understanding of the material presented with demonstration of some
+  critical thinking and problem solving skills. Good practical skills.'
+- '60%-69%: In addition, good critical thinking skills and showing a high level of
+  competence and efficiency in theoretical and practical microbial biotechnology.'
+- '70%-100%: All of the above to an excellent level.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- '"Microbial Biotechnology and Genetics module Moodle page." http://moodle.wit.ie'
+supplementary_material:
+- 'Glazer, A. and H. Nikaido. _Microbial_ _Biotechnology:Fundamentals__of Applied
+  Microbiology_. 2. Cambridge: Cambridge University Press, 2007.'
+- 'Klug, W. _Essentials of Genetics_. 7th Edition illustrated. USA: Benjamin Cummings,
+  2010.'
+- 'Madigan, M., J. Martinko, K. Bender, D. Buckley, D. Stahl and Brock T. _Brock Biology
+  of Microorganisms_. 14th Edition. UK: Wiley, 2012.'
+- 'Waites, M., N. Morgan, J. Rocky and G. Higton. _Industrial Mi__crobiology: An introduction_.
+  UK: Wiley-Blackwell, 2002.'
+requested_resources:
+- 'Room Type: Biology Lab'
+- 'EQUIPMENT: Blackboard'
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

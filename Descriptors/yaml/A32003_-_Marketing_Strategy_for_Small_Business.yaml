@@ -1,0 +1,102 @@
+reference: A32003
+full_title: Marketing Strategy for Small Business
+short_title: Market Strat Small Business
+credits: 5
+level: Advanced
+author: KMURPHY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Business
+aim: The aim of this module is to develop the student's critical appreciation of the
+  principles and practices of marketing small land-based business ventures.
+programmes:
+- timetable: MARK-0192
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 4
+  semester: 7
+  status: M
+- timetable: MARK-0192
+  code: WD_SBSFO_B
+  name: Bachelor of Science (Honours) in Land Management (in Forestry)
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Marketing an overview: concepts, principles and the small business context'
+- The marketing environment for land-based enterprises - macro & micro environmental
+  forces
+- Market segmentation; market positioning; target market analysis
+- 'Marketing research: the market research process; market research techniques; marketing
+  information systems'
+- 'Product: product classifications; the product life cycle; new product development;
+  branding strategies'
+- 'Price: factors influencing pricing decisions; pricing strategies'
+- 'Promoting small businesses: the promotional mix; advertising & direct mail; PR'
+- Consumer and business buyer behaviour
+- 'Place: distribution process and strategies'
+- Marketing strategy for small business
+learning_outcomes:
+- Evaluate the principles of marketing small land based businesses.
+- Assess the marketing mix- product, price, place and promotion for small business.
+- Appraise examples of best practice marketing strategies.
+- Determine the theoretical concepts underpinning marketing planning.
+learning_and_teaching_methods:
+- Lectures.
+- Case studies.
+- Class discussions.
+- Videos.
+- Group workshops.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,4
+  main: false
+  name: Essay
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '3'
+  main: false
+  name: Project
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Participation
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter.'
+- '40%-49%: Will be able to show a good knowledge of the key learning outcomes including
+  a good understanding of marketing for small business.'
+- '50%-59%: As well as the above the student will be able to integrate the various
+  components of the course.'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of all
+  topics including how to evaluate the factors affecting marketing of a small business.'
+- '70%-100%: The learner will be able to demonstrate a comprehensive knowledge and
+  understanding of all learning outcomes, including the ability to fully integrate
+  the various components of the course.'
+essential_material:
+- 'Rogan, D. _Marketing for Small Business_. 4th. Dublin: Gill and Macmillan, 2011.'
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

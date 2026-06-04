@@ -1,0 +1,157 @@
+reference: A26962
+full_title: Environmental Monitoring
+short_title: Environmental Monitoring
+credits: 5
+level: Introductory
+author: MBREEN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Environmental Science
+aim: This module will give students a broad introduction to the major elements of
+  environmental science, from habitats, to the hydrological cycle, to global air pollution
+  issues. A series of laboratory-based experiments plus field trips will be used to
+  reinforce the theory elements of this module.
+programmes:
+- timetable: SCIE-0059
+  code: WD_SFDSC_D
+  name: Bachelor of Science in Food Science with Business
+  stage: 2
+  semester: 4
+  status: M
+- timetable: SCIE-0059
+  code: WD_SFSIN_B
+  name: BSc (Hons) in Food Science and Innovation
+  stage: 2
+  semester: 4
+  status: M
+- timetable: SCIE-0059
+  code: WD_SMBIO_B
+  name: BSc (Hons) in Molecular Biology with Biopharmaceutical Science
+  stage: 2
+  semester: 4
+  status: M
+- timetable: SCIE-0059
+  code: WD_SMBIO_D
+  name: BSc in Molecular Biology with Biopharmaceutical Science
+  stage: 2
+  semester: 4
+  status: M
+- timetable: SCIE-0019
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 1
+  semester: 2
+  status: E
+- timetable: SCIE-0059
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Ecology: biodiversity, ecosystems, habitats, niche; species interactions competition,
+  predation, parasitism, mutualism; succession, climax community; energy flow, food
+  chains & webs'
+- 'Pollution: origins of pollution; pollutant monitoring; effects of pollution'
+- 'Water: hydrological cycle; pollution control, including wastewater and water treatment;
+  EU Water Frameworks Directive'
+- 'Air: global air pollution issues, i.e. acid deposition, global warming, ozone depletion,
+  international protocols'
+- 'Energy: clean energy technologies, energy efficiency/policy/poverty/security, electricity,
+  natural gas, nuclear, oil, renewables/alternative energy, transport.'
+- Field trip to river ecosystems, including measurement of biotic index of water quality
+- 'Laboratory practicals: physico-chemical analysis of water, i.e. hardness, BOD,
+  nitrate and phosphate in water; microbiological analysis of water'
+learning_outcomes:
+- Discuss how energy generation impacts the environment.
+- Apply ecological concepts (such as biodiversity indices, symbiosis) to the monitoring
+  of ecosystems.
+- Describe the Greenhouse Effect and outline the scientific evidence behind anthropogenic
+  climate change.
+- Discuss how pollutants are produced and monitored in the environment.
+- Explain the main topics associated with water in our environment, such as the hydrological
+  cycle, pollution, treatment.
+- Identify significant air pollution components and explain their significance in
+  terms of acidity and ozone depletion.
+- Identify the major ecological and physico chemical parameters necessary to access
+  environmental quality.
+- Classify environments based on laboratory and field investigations.
+learning_and_teaching_methods:
+- Lectures on the indicative content will be delivered, incorporating active learning
+  activities.
+- In-class and independent study assignments will be used to continually assess students'
+  learning.
+- Laboratory investigations plus field trips will reinforce and support theoretical
+  elements of the module.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 4,7,8
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,3,6
+  main: false
+  name: In-Class Assessment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 2,5
+  main: false
+  name: Assignment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: No understanding of the basic principles of environmental science.'
+- '40%-49%: Is able to understand the principles of environmental science. May have
+  some difficulty with applying this theory.'
+- '50%-59%: All the above in addition to evaluation of practical data to assess environmental
+  quality.'
+- '60%-69%: In addition to the above plus show a high level of competence and efficiency
+  in the subject area.'
+- '70%-100%: All previous to excellent level. Be able to describe and discuss environmental
+  science.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the theory and practical components of the module. In cases where continuous assessment
+  has a practical component attendance of at least 75% in the practicals is mandatory.
+essential_material:
+- '"Irish EPA website." www.epa.ie'
+- '"Module Moodle page." http://moodle.wit.ie'
+- '"The EU Environment ." www.eea.eu.int'
+supplementary_material:
+- '"International Panel on Climate Change ." www.ipcc.ch'
+- '"US EPA website." www.epa.com'
+- 'Baird, C. and M. Cann. _Environmental Chemistry_. 5th ed. New York: W.H. Freeman,
+  2012.'
+- 'Lehane, M. and B. O''Leary. _Ireland''s Environment - An Assessment_. Wexford:
+  Environmental Protection Agency, 2012.'
+- 'Saksena, D.N. and D.M. Gaidhane. _Environmental Biology_. New Delhi, India: Studium
+  Press, 2010.'
+- 'Spiro, T. _Chemistry of the Environment_. 3rd ed. United States: University Science
+  Books, 2012.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'Room Type: Chemistry Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,105 @@
+reference: A14028
+full_title: Multimedia Databases
+short_title: Multimedia Databases
+credits: 5
+level: Advanced
+author: JWOODS-OBRIEN
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Database and Analytics
+aim: This module will introduce the student to the principles and practice of designing
+  distributed and object-oriented databases. The student will gain an understanding
+  of multimedia database concepts, the architecture and design of a multimedia database.
+  This module will also examine the procedures involved in the management and mining
+  of multimedia databases.
+programmes:
+- timetable: COMP-0633
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 4
+  semester: 8
+  status: M
+- timetable: COMP-0633
+  code: WD_KMULM_B
+  name: Bachelor of Science (Honours) in Multimedia Applications Development
+  stage: 4
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Advanced Database Concepts: Distributed, Object-Oriented'
+- Multimedia Data & Metadata
+- 'Modeling Multimedia (MM) Databases: Architectures, Information Models'
+- 'Managing MM Databases: Query Processing, Storage Management'
+- 'Mining MM Databases: Technologies & Techniques, Mining MM Data'
+- Management of Text, Image, and Video Databases
+learning_outcomes:
+- Appraise the concepts, standards, and systems relating to distributed and object-oriented
+  databases.
+- Evaluate the semantic nature of multimedia data, classify, generate and extract
+  metadata for multimedia data types.
+- Determine the requirements and structures for the design, implementation and management
+  of a multimedia database application.
+- Critique technologies and techniques appropriate to mining a multimedia database.
+- Evaluate statistical methods for text analysis, appropriate technologies for image
+  processing and moving images.
+- Design and implement a MM database for a business scenario.
+learning_and_teaching_methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures which in turn will form the continuous assessment.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1, 2, 3, 4, 5
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 2, 6
+  main: false
+  name: Project
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of distributed, object-oriented
+  and multimedia databases.'
+- '40%-49%: Be able to interpret and describe key concepts of distributed, object-oriented
+  and multimedia databases.'
+- '50%-59%: Ability to discuss key concepts of the design, management and mining of
+  multimedia databases and have the ability to discover and integrate related knowledge
+  in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the design, management and mining of
+  multimedia databases by experimenting with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material: []
+supplementary_material:
+- 'Connolly, T. and C. Begg. _Database Systems: A Practical Approach to Design, Implementation
+  and Management_. 6th ed.. NY: Addison-Wesley, 2015.'
+- 'Dunkley, L. _Multimedia Databases: An Object Relational Approach_. UK: Pearson
+  Education, 2003.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

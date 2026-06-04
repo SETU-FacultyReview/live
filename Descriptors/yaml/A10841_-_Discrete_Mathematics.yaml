@@ -1,0 +1,143 @@
+reference: A10841
+full_title: Discrete Mathematics
+short_title: Discrete Mathematics
+credits: 5
+level: Introductory
+author: KMURPHY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Mathematics and Physics
+aim: This module provides a solid foundation of selected topics in discrete mathematics
+  related to computing and information sciences. The topics are covered in an elementary
+  manner in order to reinforce understanding of concepts and improving algebraic problem-solving
+  skills so that the student can effectively proceed with their study of a degree
+  programme in computing.
+programmes:
+- timetable: MATH-0001
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MATH-0001
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: MATH-0001
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MATH-0001
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MATH-0001
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MATH-0001
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Sets, relations and functions: Venn diagrams; set operations and their laws; properties
+  of relations; function domain, range and target set; function composition; function
+  definition using lookup table, direct formula, and recursion'
+- 'Proofs and predicate logic: Propositions; logical connectives and truth tables;
+  informal arguments and formalising arguments; introduction to predicates and quantifiers'
+- 'Proof techniques: direct proof; induction; proof by contradiction and counterexamples'
+- 'Enumeration: combinatorial enumeration problems; permutations and combinations;
+  binomial expansions'
+- 'Graph Theory: Basic definitions; graph traversal techniques and applications'
+- 'Recurrence Relations: sigma and product notation; finite sequences and recurrence
+  relations; iteration techniques'
+learning_outcomes:
+- Demonstrate competency in algebraic manipulation of expressions involving sets,
+  combinatorials, predicate logic elements and finite sequences.
+- Use mathematical reasoning to comprehend and construct mathematical arguments (direct
+  proof, proof by contradiction, mathematical induction).
+- Employ elementary combinatorial techniques to resolve simple problems.
+- Use basic concepts in graph theory to represent and solve problems arising in computer
+  science.
+- Compute basic recurrence relations and construct a recurrence relation when given
+  a descriptive problem.
+- Apply concepts and methods in discrete mathematics to problems using a computer.
+learning_and_teaching_methods:
+- Delivery of the subject will be through a mixture of lecture, tutorials and computer
+  based practical sessions.
+- The lectures will be used to introduce the context for the material, develop theory
+  and lead students through worked examples.
+- The tutorials will provide a forum through which the student will rehearse/refine
+  the demonstrated skills. Students will be encouraged, through the problem sheets,
+  to construct valid and precise mathematical arguments and will be expected to produce
+  solutions using appropriate mathematical notation.
+- The practical programme is designed to re-enforce the strong interconnections between
+  discrete mathematics and Computer Science concepts through the use of CAS and guided
+  development of students own code. A typical activity consists of investigating the
+  effect on computation time of different recursive and iterative implementation of
+  a recurrence relation solver and their role in computer science.
+- Active engagement with frequent practise on examples is strongly encouraged through
+  regular course work and formative class tests.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Tutorial
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 25
+- learning_outcomes: '6'
+  main: false
+  name: Practical
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 75
+assessment_criteria:
+- '<40%: Inability to demonstrate knowledge or understanding of the main concepts
+  in discrete mathematics as outlined in the syllabus content, inability to apply
+  concepts to selected problems.'
+- '40%-49%: Able to demonstrate a basic understanding of the fundamental concepts
+  and techniques in vector calculus and matrix systems as concepts outlined in syllabus
+  content.'
+- '50%-59%: In addition to above, using appropriate mathematical notation.'
+- '60%-69%: All the above, in addition be able to determine appropriate mathematical
+  techniques to analyse applied problems and to express their work with rigour and
+  precision.'
+- '70%-100%: All the above to an excellent level. Demonstrates an ability to put a
+  solution into a context and assess whether such solutions are meaningful.'
+essential_material: []
+supplementary_material:
+- 'Johnsonbaugh, R. _Discrete Mathematics_. 7th. NY: Macmillan, 2008.'
+requested_resources:
+- 'Room Type: Computer Lab test 7'
+mlo_to_po: ''
+track_changes: true
+
+

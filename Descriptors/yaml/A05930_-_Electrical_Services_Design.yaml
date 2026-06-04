@@ -1,0 +1,126 @@
+reference: A05930
+full_title: Electrical Services Design
+short_title: Electrical Services Design
+credits: 5
+level: Intermediate
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Electrical Engineering
+aim: The aim of this module is to provide the knowledge and skills necessary to design
+  and layout the electrical services and systems for a modern building/ plant.
+programmes:
+- timetable: ELEC-0034
+  code: WD_EELCT_D
+  name: Bachelor of Engineering in Electrical Engineering
+  stage: 3
+  semester: 6
+  status: M
+- timetable: ELEC-0034
+  code: WD_ESERG_B
+  name: Bachelor of Engineering (Honours) in Sustainable Energy Engineering
+  stage: 2
+  semester: 4
+  status: M
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours) in Electrical Engineering
+  stage: 2
+  semester: 4
+  status: M
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours)
+  stage: 2
+  semester: 4
+  status: M
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Cables & cable sizing, switchboard & switchgear design
+- Electrical Containment Systems
+- Fire Alarm Systems
+- Lightning protection & UPS systems
+- Testing & Certification
+learning_outcomes:
+- Describe the electrical systems that are found in modern buildings & plant.
+- Apply standard calculation techniques necessary for the design of electrical systems
+  within a modern building.
+- Recognise and understand the comparative cost and operational benefits of different
+  types of electrical services and systems within modern buildings.
+- Explain the procedures involved in designing the electrical services for a building/
+  plant.
+- Apply electrical services design techniques.
+learning_and_teaching_methods:
+- Lectures, presentations, reading and problem solving in class.
+- Site visits and (on site) presentation of specialist equipment and topics
+- Practical design Exercises
+- Case study based on the design and layout of electrical services and systems
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning_outcomes: 3,4,5
+  main: false
+  name: Assignment
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Electro Tech Council of Ireland, I. _National Rules for Electrical Installations_.
+  4th ed.. UK: ., 2008.'
+- 'Porges, F. and B. Rigby. _Design of Electrical Services for Buildings_. 4th ed..
+  UK: ., 2005.'
+supplementary_material:
+- 'Cook, P. _Electrical Installations Designs_. 4th ed.. UK: Wiley, 2013.'
+- 'Henshaw, M. _Protection against Lightning_. UK: BSI, 2007.'
+- 'Kitcher, C. _Practical Guide to Inspection Testing 2013_. 4th ed.. UK: Routledge,
+  2015.'
+- 'Koffler, R. _The Power Protection Guide_. UK: Stillwater Publishing, 2006.'
+requested_resources:
+- 'ENGINEERING LAB: Electrical'
+mlo_to_po: ''
+track_changes: true
+
+
+

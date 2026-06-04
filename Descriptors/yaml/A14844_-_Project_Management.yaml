@@ -1,0 +1,128 @@
+reference: A14844
+full_title: Project Management
+short_title: Project Management
+credits: 5
+level: Advanced
+author: FLYNCH
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Information Systems and Modelling
+aim: This module aims to provide the student with the ability to initiate, plan, execute,
+  control and close-out the work of a team in order to achieve specific project goals
+  and meet specific success criteria as set out by the project sponsor and organisation.
+programmes:
+- timetable: PROJ-0168
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 3
+  semester: 6
+  status: M
+- timetable: PROJ-0168
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 4
+  semester: 7
+  status: M
+- timetable: PROJ-0168
+  code: WD_KCSDV_B
+  name: Bachelor of Science (Honours) in Software Systems Development
+  stage: 4
+  semester: 1
+  status: E
+- timetable: PROJ-0168
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 4
+  semester: 7
+  status: E
+- timetable: PROJ-0168
+  code: WD_KINTE_B
+  name: Bachelor of Science (Honours) in Information Technology
+  stage: 4
+  semester: 1
+  status: M
+- timetable: PROJ-0168
+  code: WD_KITMA_B
+  name: BSc (Hons) in Information Technology Management
+  stage: 1
+  semester: 7
+  status: M
+- timetable: PROJ-0168
+  code: WD_KMULM_B
+  name: Bachelor of Science (Honours) in Multimedia Applications Development
+  stage: 4
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Project Management Life Cycle Model (PMLC)
+- Managing Project Scope
+- Managing Project Resources
+- Managing Project Quality
+- Managing Project Risk
+- Managing Project Execution
+- Managing Project Implementation and Closure
+learning_outcomes:
+- Appraise principles of project management.
+- Evaluate contemporary issues that may affect the project management process.
+- Estimate project duration and costings using a variety of tools and models.
+- Produce a project plan based on a business context.
+- Plan, control and monitor project schedules using project management software.
+learning_and_teaching_methods:
+- This module will be presented using a combination of formal lectures and practical
+  classes.
+- Lectures will introduce project management concepts and an emphasis will be placed
+  on interaction, discussions and case studies.
+- In practical classes, students will engage with project management software through
+  Individual exercises and problem-based learning activities through Group Work.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 12
+- full_time: 24
+  name: Practical
+  part_time: 12
+- full_time: 87
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: 1, 2, 3, 4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: 3, 4, 5
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 1,2,3, 4, 5
+  main: false
+  name: Group Project
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of project management.'
+- '40%-49%: Be able to interpret and describe key concepts of project management.'
+- '50%-59%: Ability to discuss key concepts of project management and ability to discover
+  and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within project management by experimenting with
+  the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material: []
+supplementary_material:
+- 'Cadle, J. and D. Yeates. _Project Management for Information Systems_. 5th ed..
+  London, UK: Pearson, 2008.'
+- 'Marchewka, J.T. _Information Technology Project Management: Providing Measurable
+  Organisational Value_. 5th ed.. MA, USA: Wiley, 2015.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

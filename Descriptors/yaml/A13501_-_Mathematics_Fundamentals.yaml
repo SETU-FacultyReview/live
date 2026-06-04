@@ -1,0 +1,119 @@
+reference: A13501
+full_title: Mathematics Fundamentals
+short_title: Mathematics Fundamentals
+credits: 5
+level: Introductory
+author: ADALYWALSH
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Mathematics and Physics
+aim: This module introduces students to the basic concepts in matrices, linear and
+  non linear functions, sequences and series and logic. Practical labs will act as
+  a support as students will perform relevant calculations and construct relevant
+  graphs.
+programmes:
+- timetable: MTHS-0051
+  code: WD_KCOMC_D
+  name: Bachelor of Science in Software Systems Development
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0051
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0051
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0051
+  code: WD_KINFT_D
+  name: Bachelor of Science in Information Technology
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Matrices: Matrix operations; Solving linear equations using the inverse method'
+- 'Linear Functions: Slopes; Intercepts; Plotting lines'
+- 'Exponential & Logarithmic Functions: Properties; Rules of indices & logs; Graphs'
+- 'Sequences & Series: Arithmetic; Geometric; Limits'
+- 'Logic: Logical operators & truth tables'
+learning_outcomes:
+- Manipulate 2D matrix operations.
+- Solve equations using matrices and the inverse method.
+- Utilise the rules of indices and logs to simplify expressions and to solve equations.
+- Construct appropriate sequences, series and limits calculations.
+- Construct truth tables by using logical operators.
+- Use industry based software to perform mathematical calculations.
+- Construct linear and non linear graphs using suitable software.
+learning_and_teaching_methods:
+- The lectures will be used to present the mathematical material.
+- In tutorials students will solve problems which will be based on material covered
+  in the lectures.
+- In practicals students will perform calculations by using built in functions along
+  with creating their own formulae.
+- Students will also use graphing tools to explore the properties of functions.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 12
+- full_time: 12
+  name: Tutorial
+  part_time: 6
+- full_time: 12
+  name: Practical
+  part_time: 6
+- full_time: 87
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: 3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning_outcomes: 1,2,6,7
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning_outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 15
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 6,7
+  main: false
+  name: Practical
+  weighting: 25
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key mathematical concepts.'
+- '40%-49%: Be able to interpret and describe key mathematical concepts.'
+- '50%-59%: Ability to discuss key mathematical concepts and ability to discover and
+  integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve mathematical problems using appropriate skills and software
+  tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate mathematical skills and tools.'
+essential_material: []
+supplementary_material:
+- '"https://moodle.wit.ie." https://moodle.wit.ie'
+- 'Lipschutz, S. _Essential Computer Mathematics_. New York: Graw-Hill, 1982.'
+- 'Morgan, G. and S. O'' Neill. _Essential Computer Applications_. 4th Edition. Dublin:
+  Gill & Macmillan, 2007.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

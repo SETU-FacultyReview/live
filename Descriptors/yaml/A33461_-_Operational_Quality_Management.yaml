@@ -1,0 +1,103 @@
+reference: A33461
+full_title: Operational Quality Management
+short_title: Operational QM
+credits: 10
+level: Advanced
+author: BWHELAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Quality, Regulatory and Compliance
+aim: The aim of this module is to provide the professional adult learner with knowledge
+  relating to quality and operations management, lean manufacturing, six sigma, leadership,
+  strategy and competitive advantage which they can apply to their workplace environment.
+programmes:
+- timetable: QUAL-0034
+  code: WD_SGMPT_B
+  name: BSc (Hons) in Good Manufacturing Practice and Technology
+  stage: 4
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Lean Management Systems, Six Sigma, Operational Excellence
+- Strategy and Leadership
+- Organisational culture and management
+- Change Management, global context for change
+- Performance Management
+learning_outcomes:
+- Appraise the application of Lean Six Sigma and associated systems in the workplace.
+- Critique the impact of strategic management and effective leadership.
+- Evaluate adaptive organisational culture.
+- Assess change management initiatives using case studies.
+- Interpret the application of performance metrics to maximise competitive advantage.
+learning_and_teaching_methods:
+- Lectures
+- Case studies
+- Group discussion of articles
+- Seminars
+- Independent study
+learning_modes:
+- full_time: ''
+  name: Lecture
+  part_time: 24
+- full_time: ''
+  name: Independent Learning
+  part_time: 246
+assessment_methods:
+- learning_outcomes: 1, 2, 3, 4, 5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1, 2, 3
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Case Studies
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '5'
+  main: false
+  name: Presentation
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '< 40%: Little or no demonstration of an understanding of the fundamentals of the
+  learning outcomes. Lack of competence with associated laboratory skills & practices
+  & an inability to carry out critical thinking.'
+- '40%--49%: Will show a limited understanding of the fundamentals of the learning
+  outcomes. May have some difficulty with applying critical thinking and problem-solving.
+  Will display some ability with associated laboratory skills & practices.'
+- '50%--59%: As well as the above, the candidate will show a good understanding of
+  the fundamentals of the learning outcomes with demonstration of some critical thinking
+  & problem-solving skills. Will display good competence with associated laboratory
+  skills & practices.'
+- '60%--69%: In addition, will demonstrate more detailed knowledge of all learning
+  outcomes, very good critical thinking skills & a high level of competence & efficiency
+  in associated laboratory practicals.'
+- '70%--100%: All the above to an excellent level. In addition, will demonstrate a
+  comprehensive knowledge & understanding of all learning outcomes & be able to discuss
+  the area. Will display advanced competence & independence with associated laboratory
+  skills & practices.'
+essential_material:
+- 'Burnes, B. _Managing Change: a strategic approach to organisational dynamics_.
+  7th. XX: Pearson, 2017.'
+- 'Mann, D. _Creating a Lean Culture: Tools to sustain Lean Conversions_. 3rd. XX:
+  Productivity Press, 2015.'
+supplementary_material:
+- '"Harvard Business Review." https://hbr.org'
+- 'Jeffs, C. _Strategic Management_. 1st. XX: Sage Publications, 2012.'
+- 'Schein, E. _Organisational Culture & Leadership_. 5th. XX: Wiley & Sons, 2017.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

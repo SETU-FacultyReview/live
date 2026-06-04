@@ -1,0 +1,122 @@
+reference: A14886
+full_title: DevOps Practice
+short_title: DevOps Practice
+credits: 5
+level: Advanced
+author: FWWALSH
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Information Systems and Modelling
+aim: This module examines the agile processes and tools used to deliver software applications
+  for dynamic environments. Students, working in teams, will use an integrated toolchain
+  to automate and accelerate the various stages of the agile process, from source
+  control to delivery. This will be used to deliver a small software application and
+  to explore the typical activities of modern agile practices.
+programmes:
+- timetable: COMP-0608
+  code: WD_KCSDV_B
+  name: Bachelor of Science (Honours) in Software Systems Development
+  stage: 4
+  semester: 1
+  status: M
+- timetable: COMP-0608
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0608
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0608
+  code: WD_KSOFP_B
+  name: BSc (Hons) in Software Systems Practice
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Agile project management processes and quality assurance
+- Collaborative source control
+- Project scaffolding tools
+- Automated project build and testing
+- Code refactoring techniques
+- Continuous integration tools
+- Continuous deployment
+learning_outcomes:
+- Assess agile software development methodologies for collaborative, change-driven
+  projects.
+- Integrate collaborative workflow tools into the development lifecycle.
+- Compose an appropriate test driven strategy for a software development project.
+- Automate project build and test processes and generate appropriate quality reports)
+  (domain appropriate, leave the same).
+- Create a Continuous Integration(CI) practice in collaborative software projects.
+- Justify the Continuous Delivery(CD) approach in the modern application economy.
+learning_and_teaching_methods:
+- Combination of lectures and lab-based practicals.
+- The lectures will cover the theory and supporting technologies behind modern agile
+  approaches to software systems development.
+- The lab-based practicals, building on the theoretical knowledge from lectures, provide
+  exposure to the automation tools and practical skills required to support an agile
+  project lifecycle.
+- The practical content will use industry standard technologies, tools and techniques.
+- Student will be encouraged to enhance their lab work and assessment submissions
+  using self-directed research into state-of-the-art of agile software engineering
+  processes.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5,6
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- <40%:Inability to apply agile method to develop a software artifact.
+- 40%-49%:Ability to apply key agile concepts. Evidence of appropriate tools used
+  to create a software artifact.
+- 50%-59%:All the above and in addition, strong evidence of appropriate tools and
+  techniques used at various stages of the project lifecycle. Can explain the quality,
+  reliability, and efficiency improvements afforded using agile methods and associated
+  tools.
+- '60%-69%: All the above and in addition, evidence of continuous integration and
+  appropriate reporting. Knowledge and ability to incorporate requirement alterations
+  and changes.'
+- 70%-100%:All the above to an excellent level. Can incorporate features from self-directed
+  learning into state of the art in agile software practices. Demonstrates a comprehensive,
+  maintainable software solution from design to delivery using agile practices and
+  tools.
+essential_material: []
+supplementary_material:
+- '"Thoughtworks - Continuous Delivery." https://www.thoughtworks.com/continuous-delivery'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

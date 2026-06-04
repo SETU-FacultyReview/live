@@ -1,0 +1,139 @@
+reference: A13542
+full_title: Applied Cryptography
+short_title: Applied Cryptography
+credits: 5
+level: Introductory
+author: JMCGIBNEY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Forensics and Security
+aim: This module provides students with a detailed introduction to cryptography, including
+  both the fundamentals and leading techniques as applied to the security of systems,
+  applications and communications.
+programmes:
+- timetable: COMP-0451
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0451
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0451
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0451
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0451
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0451
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Security context: threats & attacks; security standards, services & mechanisms'
+- 'Introduction to cryptography: terminology; block and stream ciphers; cryptanalysis;
+  limitations of cryptography'
+- 'Symmetric encryption: classical schemes; modern algorithms; deployment modes'
+- 'Random numbers: entropy concept; pseudo random generation'
+- 'Public-key cryptography: number theory background; requirements; techniques --
+  RSA, Diffie-Hellmann, elliptic curve cryptography; performance issues'
+- 'Authentication functions: principles; hash functions; collisions; MACs, digital
+  signatures'
+- 'Key management: symmetric key distribution protocols; public key authentication;
+  digital certificates & PKIs; trust models'
+- 'Practical applications & deployment issues: placement of encryption function; key
+  storage; application case studies'
+learning_outcomes:
+- Recognise the role (and limitations) of cryptography in securing systems, communications,
+  and applications.
+- Describe leading cryptographic models and algorithms (symmetric ciphers, public-key
+  schemes and hash functions) and explain their mathematical basis in outline terms.
+- Recognise the significance of random numbers in the context of cryptography.
+- Compare the computational performance of leading cryptographic algorithms.
+- Discuss the storage, exchange and management of keys in both symmetric and public-key
+  systems.
+- Describe a selection of practical applications of cryptography.
+- Make effective use of a cryptographic software application or library.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 4,5,6,7
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to describe and compare major cryptographic models and algorithms.
+  Poor understanding of role of cryptography in computer security. Poor understanding
+  of mathematical foundations.'
+- '40%-49%: Can describe and compare the main cryptographic models and algorithms.
+  Can provide overview of main steps of leading encryption and authentication algorithms.
+  Can carry out analysis of key strength.'
+- '50%-59%: In addition to the above, can describe in detail the leading encryption
+  and authentication algorithms, as well as their mathematical basis. Can demonstrate
+  the significance of key length and an understanding of attack scenarios.'
+- '60%-69%: In addition, provide worked examples of encryption algorithms and solve
+  encryption problems (using small numbers). Can derive and explain basis of several
+  cryptographic schemes.'
+- '70%-100%: All of the above to an excellent level. Can analyse complexity and performance
+  of relevant algorithms.'
+essential_material:
+- '"GNU Privacy Guard." https://www.gnupg.org/'
+- '"The OpenSSL project." https://www.openssl.org/'
+supplementary_material:
+- 'Ferguson, N., B. Schneier and T. Kohno. _Cryptography Engineering_. Indianapolis:
+  Wiley, 2010.'
+- 'Gollmann, D. _Computer Security_. 3rd ed. Chichester: Wiley, 2011.'
+- 'Stallings, W. _Computer Security: Principles and Practice_. 3rd ed. Harlow: Pearson,
+  2014.'
+- 'Stallings, W. _Cryptography and Network Security_. 6th ed. Boston: Pearson, 2014.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

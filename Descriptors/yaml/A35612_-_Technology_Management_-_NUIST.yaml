@@ -1,0 +1,135 @@
+reference: A35612
+full_title: Technology Management - NUIST
+short_title: Technology Management - NUIST
+credits: 5
+level: Postgraduate
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Engineering Practise
+aim: The aim of this module is to prepare individuals with a strategic mind-set, relevant
+  to the biomedical sector of Ireland, fine tuned communication skills, and the ability
+  to drive enhanced performance through the use of technology. Complex case studies
+  involving organisational theory, conflict resolution and effective strategic management
+  are core to this module.
+programmes:
+- timetable: ENGR-0040
+  code: WD_CBIOM_MA
+  name: Certificate in Biomedical Engineering
+  stage: 1
+  semester: 2
+  status: M
+- timetable: ENGR-0040
+  code: WD_CINNT_G
+  name: Postgraduate Diploma in Science in Innovative Technology Engineering
+  stage: 1
+  semester: 2
+  status: M
+- timetable: ENGR-0040
+  code: WD_CINNT_R
+  name: Master of Science in Innovative Technology Engineering
+  stage: 1
+  semester: 2
+  status: M
+- timetable: ENGR-0040
+  code: WD_EELEN_R
+  name: Master of Engineering in Electronic Engineering
+  stage: 1
+  semester: 2
+  status: E
+- timetable: ''
+  code: WD_EELEN_RI
+  name: MEng in Electronic Information Systems
+  stage: 3
+  semester: 6
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Engineering and Technology Management: The management process: Empowerment and
+  effective leadership'
+- 'Engineering and Technology Management: The regional & Global Context: Sources of
+  competitive advantage: Insights into professional imperatives'
+- Ethics in Engineering / Technology
+- 'Intellectual Property: Creating, Application and Protection: Learning Organisations'
+- 'Manufacturing and Production Management: Strategies and Tools'
+- 'Manufacturing & Production Management: Strategic importance of maintenance and
+  reliability'
+- Career Development in a technology company. Managing your boss, peers and subordinates
+learning_outcomes:
+- Using Kotter's Eight Step Model, synthesise change management tools specific to
+  the optimisation of R&D processes in high value organisations.
+- Apply the knowledge and comprehension gained in the analysis of complex Enterprise
+  Technology Management case studies to provide best in-class frameworks for SME and
+  MNC organisations.
+- Evaluate complete and/or partial management strategies in respect of the research,
+  design and manufacture of modern technological products; both with and without the
+  aid of industry standard software support tools.
+- Synthesise complete and/or partial management strategies in respect of the research,
+  design and and manufacture of modern technological products; both with and without
+  the aid of industry standard software support tools.
+learning_and_teaching_methods:
+- Lectures
+- Case Studies
+- Assignments / Assessments
+- Problem Based Mini Project
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: ''
+  name: Practical
+  part_time: ''
+- full_time: 111
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Group Project
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Essay
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2
+  main: false
+  name: Participation
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject; achieved
+  an excellent level of the skills required for the subject matter; demonstrated the
+  ability to carry out further investigation and problem solving associated with the
+  subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '40% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Griffin, R.W. _Management_. USA: Houghton Mifflin, 2008.'
+supplementary_material:
+- 'Betz, F. _Strategic Technology Management_. New York: McGraw Hill, 1997.'
+- 'Tavani, T.H. _Ethics & Technology_. 2nd ed.. USA: Wiley, 2007.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

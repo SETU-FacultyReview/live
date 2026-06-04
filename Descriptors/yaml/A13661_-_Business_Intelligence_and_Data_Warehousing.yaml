@@ -1,0 +1,123 @@
+reference: A13661
+full_title: Business Intelligence and Data Warehousing
+short_title: BI & Data Warehousing
+credits: 10
+level: Advanced
+author: TMCDONALD
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Database and Analytics
+aim: This module will introduce Business Intelligence and Data Warehousing concepts
+  and techniques. Students will also critically analyse the theory and practice of
+  implementing a Data Warehouse. This module will provide students with the knowledge
+  to be able to successfully manage heterogeneous datasets and different options for
+  integration, processing and storage. Students will investigate basic Business Intelligence
+  tools and techniques, such as text mining,information retrieval and web content
+  mining that would enable managers make better decisions and ultimately provide their
+  organisation with a competitive advantage.
+programmes:
+- timetable: COMP-0649
+  code: WD_KINTE_B
+  name: Bachelor of Science (Honours) in Information Technology
+  stage: 4
+  semester: 1
+  status: M
+- timetable: COMP-0649
+  code: WD_KITMA_B
+  name: BSc (Hons) in Information Technology Management
+  stage: 1
+  semester: 7
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Introduction to Business Intelligence (BI) concepts, tools and technologies
+- Different types of Organisation memory
+- 'Data Warehouse Architecture: Design and Development'
+- Data Quality and Management. Process of Extraction, Transformation and Loading (ETL)
+  of a Data Warehouse
+- Data Warehouse Implementation, Maintenance and Trends
+- Business Intelligence Tools & Techniques
+- Data mining -- fundamentals of analytics -- reading datasets, applying techniques
+  required for decision making
+- Big data, Text and Web mining -- techniques and data load processes for building
+  analysis.
+learning_outcomes:
+- Assess different types of Organisations Memory for BI solutions.
+- Evaluate Data Quality Management and ETL utilities for a Data Warehouse.
+- Appraise pre-processing and preparation on the data sets.
+- Design and develop a Data Warehouse solution in terms of meeting business requirements.
+- Appraise and use Data, Text and Web mining techniques and processes.
+- Assess different Integration tools and Processing tools for unstructured, semi-structured
+  with structured data.
+- Evaluate guidance on Data Governance, Ethics and Policies.
+learning_and_teaching_methods:
+- The students will be introduced to the theory of the module in lectures, which will
+  be interactive and discursive in nature.
+- Some topics will be supported with appropriate case studies and examples.
+- The theory will be applied in a series of practicals that will be problem solving
+  focused and work towards a predefined assignment, all of which is to be completed
+  by the end of the semester.
+learning_modes:
+- full_time: 48
+  name: Lecture
+  part_time: ''
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 174
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6,7
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 2,3,4
+  main: false
+  name: Assignment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 5,6
+  main: false
+  name: Assignment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of the design and development
+  of a Data Warehouse and Business Intelligence (BI) solutions.'
+- '40%-49%: Be able to interpret and describe key concepts of the design and implementation
+  of a Data Warehouse and a BI solution.'
+- '50%-59%: Ability to discuss the key concepts of a Data Warehouse and BI solution
+  and discover and integrate related knowledge in other disciplines like database
+  and software development.'
+- '60%-69%: Be able to solve problems in regards to Data Warehouse and BI design and
+  development by experimenting with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate complex skills and tools.'
+essential_material:
+- 'Kimball, R. _The Data Warehouse Lifecycle Toolkit_. New York: Wiley Publishing,
+  2014.'
+supplementary_material:
+- 'Kimball, R. and T. Ross. _The Data Warehousing Toolkit_. New York: Wiley Publishing,
+  2013.'
+- 'Minelli, M., M. Chambers and D. Ambiga. _Big Data, Big Analytics: Emerging Business
+  Intelligence and Analytic Trends for Today''s Businesses_. New York: Wiley, 2013.'
+- 'Sharda, R. and D. Turban. _Business Intelligence, A Ma__nagerial Perspective on
+  Analytics_. New York: Pearson, 2014.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+
+

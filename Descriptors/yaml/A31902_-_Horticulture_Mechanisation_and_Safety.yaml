@@ -1,0 +1,125 @@
+reference: A31902
+full_title: Horticulture Mechanisation and Safety
+short_title: Hort. Mechanisation & Safety
+credits: 5
+level: Introductory
+author: CDALY
+history_comment: ''
+school: Engineering
+department: Science
+cluster: Engineering
+aim: In this module students will learn to operate and maintain horticultural equipment
+  in a safe and efficient way. They will also learn the fundamentals of irrigation
+  from a horticultural perspective.
+programmes:
+- timetable: MECH-0038
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 1
+  semester: 2
+  status: M
+- timetable: MECH-0038
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 4
+  status: E
+- timetable: MECH-0038
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 1
+  semester: 2
+  status: M
+- timetable: MECH-0038
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 4
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Machine shop equipment and practice: hand tools, power tools, wiring 3 pin and
+  7 pin plugs, crimp connections, junction boxes, and fault finding, Requirements
+  for farm workshop and layout'
+- 'Tractor: tractor controls, hitching attachments to three point linkage'
+- 'Turf care and grass cutting equipment: principal machines involved in turf care,
+  types of mowers, maintenance and safe use of grass cutting equipment, Aeration equipment
+  for turfgrass'
+- 'Irrigation: sources of water, pumps and pipe work, indoor irrigation, outdoor irrigation,
+  calculating irrigation application rates'
+- 'Horticulture machinery: operation of horticulture machines, strimmers, hedge cutters,
+  and pedestrian cultivators'
+- Safe working methods and practices in accordance with associated legislation
+- Basic first aid
+- Risk assessment and Health and Safety statement for a workplace situation
+learning_outcomes:
+- Use measuring and workshop hand and power tools safely and effectively.
+- Operate a range of horticultural equipment.
+- Describe the machines involved in horticulture, e.g. grass cutting and turf care.
+- Describe operation and maintenance of horticultural machines.
+- Describe principles of irrigation.
+- Describe safe working methods and practices in accordance with associated legislation.
+- Complete a risk assessment and Health and Safety statement for a workplace situation.
+learning_and_teaching_methods:
+- 'Classroom instruction with supporting: videos, models, cutaways and samples.'
+- Practical demonstrations with follow up practice.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 3,4,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 40
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 60
+- learning_outcomes: 1,2
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '7'
+  main: false
+  name: Assignment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
+  technical ability/skill and understanding to carry out practical/professional tasks.'
+- '40%-49%: Demonstrates a limited knowledge of the subject matter. Shows some technical
+  ability/skill in carrying out and reporting on practical/professional tasks.'
+- '50%-59%: Demonstrates satisfactory general knowledge of the main issues within
+  the subject. Logically and competently carries out practical/professional tasks.'
+- '60%-69%: Demonstrates sound knowledge of the subject matter. Demonstrates initiative
+  and the ability when carrying out practical/professional tasks.'
+- '70%-100%: Demonstrates imaginative approach, excellent technical ability, awareness,
+  and aptitude in carrying out practical/professional tasks.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Ryan, M. _Machinery Workshop Skills_. Piltown, Kilkenny: Teagasc, 1995.'
+supplementary_material:
+- 'Bell, B. _Farm Machinery_. UK: Farming Press, 1999.'
+- 'Bell, B. _Farm Workshop_. UK: Farming Press, 1992.'
+- 'Bell, B. and S. Cousins. _Machinery for Horticulture_. UK: Farming Press, 1997.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

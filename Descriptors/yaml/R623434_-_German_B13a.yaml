@@ -1,0 +1,47 @@
+reference: R623434
+full_title: German B1.3a
+short_title: German B1.3a
+credits: 5
+level: Intermediate
+author: ''
+history_comment: ''
+school: Humanities
+department: School of Humanities
+cluster: Humanities
+aim: ''
+programmes: []
+prerequisites: []
+corequisites: []
+indicative_content: []
+learning_outcomes: []
+learning_and_teaching_methods: []
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Tutorial
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: ''
+  main: false
+  name: Continuous Assessment
+  weighting: 100
+  due_weeks: []
+  comment: ''
+assessment_criteria: []
+essential_material: []
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

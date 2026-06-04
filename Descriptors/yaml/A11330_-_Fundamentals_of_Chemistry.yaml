@@ -1,0 +1,108 @@
+reference: A11330
+full_title: Fundamentals of Chemistry
+short_title: Fundamentals of Chemistry
+credits: 10
+level: Introductory
+author: EOWENS
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Chemistry
+aim: This is a fundamental chemistry course for non-chemistry specialists, and deals
+  with basic concepts and techniques of chemistry relevant to pharmaceutical science.
+  Topics include chemical and physical properties of matter, chemical bonding and
+  molecular structure, industrial processes and their stoichiometry, volumetric analysis,
+  pH and rates of reactions and chemical equilibrium. Laboratory exercises illustrate
+  and emphasise important concepts encountered in the theory, and are of particular
+  relevance to the pharmaceutical and health industries.
+programmes:
+- timetable: CHEM-0018
+  code: WD_SGMPT_C
+  name: Higher Certificate in Science in Good Manufacturing Practice and Technology
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Atomic structure, atomic bonding and intermolecular forces and their effect s on
+  properties (chemical and physical) of chemical reagents.
+- Types of chemical reactions including acid/ base and redox reactions and their stoichiometry.
+- Chemical equilibrium.
+- Reactions kinetics and factors that affect reaction rates.
+learning_outcomes:
+- Distinguish between ionic/covalent bonding, outline inter-molecular bonding and
+  relate it to physical and chemical properties of the system.
+- Distinguish between acid/base and redox reactions.
+- Explain the difference between acidity/alkalinity, calculate theoretical pH and
+  calibrate a pH meter.
+- Describe chemical equilibrium including equlibrium constant and Le Chatelier's principle.
+- Describe the rate law of a simple reaction and discuss the factors that influence
+  reaction rates.
+- Review typical chemical processes and their relevant stoichiometric calculations.
+- Communicate by written and verbal means the results of theory and practical-based
+  exercises.
+- Demonstrate a keen awareness of the safe handling and disposal of chemicals and
+  good laboratory practice (GLP).
+learning_and_teaching_methods:
+- Lectures.
+- Practicals.
+- Tutorials.
+- Independent learning.
+learning_modes:
+- full_time: ''
+  name: Lecture
+  part_time: 24
+- full_time: ''
+  name: Independent Learning
+  part_time: 246
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 40
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 60
+- learning_outcomes: 7,8
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '6'
+  main: false
+  name: Case Studies
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: No understanding of the basic fundamentals of chemistry. Inadequate practical
+  skills in the associated laboratories.'
+- '40%-49%: Has a superficial knowledge of the fundamentals of chemistry. Has a basic
+  level of competency and skills in the associated laboratories.'
+- '50%-59%: Shows a reasonable level of understanding of the fundamentals of chemistry.
+  Displays good practical skills in the associated laboratories.'
+- '60%-69%: Shows a good knowledge of the subject area, as well as an ability to reason
+  and analyse problems related to the area. Has a high level of skills in the associated
+  laboratories.'
+- '70%-100%: All the above to an excellent level, in addition to excellent reasoning
+  skills and focused well thought out arguments. Engages in debate in class and has
+  a high level of efficiency in the associated laboratories.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- '"Fundamentals of Chemistry Moodle page." . http://www.moodle.ie'
+supplementary_material:
+- 'Brown , T., H. Lemay, B. Burnsten and C. Murphy. _Chemistry: The Central Science_.
+  3rd Ed.. Australia: Pearson, 2013.'
+requested_resources:
+- 'Room Type: Chemistry Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

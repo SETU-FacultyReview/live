@@ -1,0 +1,132 @@
+reference: A06216
+full_title: Dendrology
+short_title: Dendrology
+credits: 5
+level: Introductory
+author: MSOTTOCORNOLA
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Forestry
+aim: This module includes the identification, classification, nomenclature, ecology
+  and geographic range of the major tree species of Ireland, and the more common understory
+  vegetation associated with forestry. Students will learn to use dichotomous keys
+  in the field identification of trees. This module will also provide a comprehensive
+  knowledge of the silviculture and uses of the main Irish forest tree species.
+programmes:
+- timetable: FORS-0002
+  code: WD_SFORS_D
+  name: Bachelor of Science in Forestry
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Introduction to dendrology
+- Rules and use of scientific classification and nomenclature
+- Building and use of dichotomous plant keys
+- Conifers and broadleaves (three field trips)
+learning_outcomes:
+- Identify the major tree species of Ireland from living specimens as well as from
+  samples of flowers, twigs, leaves, fruits, and written descriptions.
+- Use rules of scientific nomenclature to correctly present the common and binomial
+  names.
+- Employ dichotomous plant keys to identify unknown species.
+- State major and minor uses of each species.
+- Describe physical, biological, ecological and silvicultural features associated
+  with the major tree/forest types in Ireland.
+learning_and_teaching_methods:
+- Lectures.
+- Demonstrations.
+- Assigned reading.
+- Hands-on classes.
+- Field study.
+- Preparation of a 20 species herbarium.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Field Trips
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 60
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3
+  main: false
+  name: Project
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
+  technical ability/skill and understanding to carry out assessments. Failure to meet
+  the objectives of assessments. Unable to carry out or submit independent study and
+  research. Unable to present written work with attention to correct formatting, grammar
+  and spelling.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Show some technical
+  ability/skill in carrying out and reporting on assessments. Attempt made to meet
+  objectives and carry out independent study and research. Final result lacks balance
+  and arguments undeveloped. Can present written work correctly formatted with minor
+  grammar and spelling errors only.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Logically and competently carry out assessments. Satisfactory handling
+  and awareness in carrying out independent study and research. Reporting and projects
+  adequately structured and referenced.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter. Show ability to analyse
+  and logically argue in an effective and mature style. Demonstrate initiative and
+  the ability to criticise methods used and appreciation of experimental design and
+  current knowledge limitations when carrying out assessments. Projects and reporting
+  coherent and soundly structured illustrating wide and in depth reading on subject
+  coupled with the proper use of references.'
+- '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
+  and extensive understanding of the subject. Provide well focused analysis and convincing
+  argument on the subject. Demonstrate imaginative approach, excellent technical ability,
+  awareness, and aptitude in carrying out and reporting on assessments. Show initiative,
+  individual thought, and enthusiasm in self-study and independent learning.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the theory and practical components of the module. In cases where continuous assessment
+  has a practical component attendance of at least 75% in the practicals is mandatory.
+essential_material:
+- '"Forest Service Irish forest Species Information Sheets:Department of Agriculture,
+  Food and the Marine." http://www.agriculture.gov.ie/forestservice/publications'
+- 'Horgan, T., M. Keane, R. Mc Carthy, M. Lally and D. Thompson. _A guide to forest
+  Tree species__Selection and Silviculture in Ireland_. Ireland: COFORD, 2003.'
+- 'Mitchell, A. _A field guide to the trees of Britain and Northern Europe_. UK: Collins,
+  1974.'
+- 'Parnell, J.A.N., T. Curtis and E.L. Cullen. _Webb''s An Irish flora_. Ireland:
+  Cork University Press, 2012.'
+supplementary_material:
+- 'Hardin, J., D. Leopold and F.M. White. _Textbook of Dendrology_. 9th ed. USA: Mc
+  Graw Hill, 2001.'
+- 'Hogan, S. _Trees for all seasons_. UK: Timber press, 2008.'
+- 'Joyce, P.M. _Growing Broadleaves_. Ireland: COFORD, 1998.'
+- 'Savill, P.S. _The Silviculture of trees used in British forestry_. 2nd. UK: CABI,
+  2013.'
+- 'Tyler , M. and B. Farley. _British oaks - a concise guide_. UK: Crowood Press,
+  2008.'
+- 'Vaucher, H. _Tree Bark: A colour guide_. UK: Timber Press, 2003.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

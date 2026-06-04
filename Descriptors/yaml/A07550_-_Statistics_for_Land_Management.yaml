@@ -1,0 +1,102 @@
+reference: A07550
+full_title: Statistics for Land Management
+short_title: Statistics for Land Management
+credits: 5
+level: Advanced
+author: AHENNESSY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: The module is designed to introduce key concepts in statistics for research in
+  agriculture, forestry and horticulture. Students will learn how statistical tools
+  can be applied by modelling relevant data on statistical software, as well as analysing
+  and interpreting the results.
+programmes:
+- timetable: SCIE-0069
+  code: WD_SBSAG_B
+  name: Bachelor of Science (Honours) in Land Management (in Agriculture)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: SCIE-0069
+  code: WD_SBSFO_B
+  name: Bachelor of Science (Honours) in Land Management (in Forestry)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: SCIE-0069
+  code: WD_SBSHO_B
+  name: Bachelor of Science (Honours) in Land Management (in Horticulture)
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Basic statistics: data collection methods; presentation of data; measures of center
+  and spread'
+- 'Regression: least squares line; Pearson''s correlation coefficient; the coefficient
+  of determination; rank correlation'
+- 'Inferential statistics: sampling distributions; hypothesis testing; confidence
+  intervals; ANOVA; Chi-squared tests'
+learning_outcomes:
+- Choose appropriate data collection methods and apply relevant graphical and analytical
+  techniques for the investigation of data.
+- Formulate regression and correlation techniques in appropriate sets of data.
+- Set up a broad range of analytical statistical techniques and interpret the results
+  correctly.
+- Select appropriate statistical software tools to analyse and interpret data.
+learning_and_teaching_methods:
+- Lectures.
+- Practical labs.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 75
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 25
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of statistics.'
+- '40%-49%: Demonstrate a limited knowledge of statistics.'
+- '50%-59%: Demonstrate satisfactory general knowledge of statistics.'
+- '60%-69%: Demonstrate sound knowledge of statistics. Show ability to analyse and
+  logically argue in an effective and mature style.'
+- '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
+  and extensive understanding of statistics.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- '"Statistics for Land Management moodle page." https://moodle.wit.ie'
+supplementary_material:
+- 'Nageswara, R. _Statistics for Agricultural Sciences_. India: BS Publications, 2007.'
+- 'Samuels, M. _Statistics for the life sciences_. 4th ed. New Jersey: Pearson Education,
+  2012.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,109 @@
+reference: A08762
+full_title: Cattle Production
+short_title: Cattle Production
+credits: 5
+level: Introductory
+author: JDAY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Agriculture
+aim: This module will enable the student to gain an in-depth knowledge and the skills
+  required to manage cattle production systems. It will enable the student to appraise
+  the physical and financial aspects of the cattle industry. It will also allow the
+  student to produce cattle in line with animal welfare and environmental requirements.
+programmes:
+- timetable: AGRI-0010
+  code: WD_SAGUL_D
+  name: Bachelor of Science in Agriculture
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Factors affecting efficiency
+- Feeding and management
+- Suckler calf production
+- Systems of cattle production
+- Diseases
+- Cattle facilities
+- Cattle production tasks
+- Economics of cattle production
+learning_outcomes:
+- Examine the future profitability of cattle production systems.
+- State factors affecting efficiency of cattle production.
+- Compare systems of cattle production.
+- Plan feeding and management programmes for a range of cattle systems.
+- Examine cattle facilities.
+- Complete safely tasks associated with cattle production with due regard to good
+  environmental practice and the animal's health and welfare.
+- Describe good environmental practices in cattle production.
+- Describe appropriate actions to promote and maintain good animal health and welfare.
+learning_and_teaching_methods:
+- Lectures.
+- Practical instruction.
+- Field trips.
+- DVDs and online resources such as Animal Health Ireland, ICBF.com and .Agfood.ie.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,7,8
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: '6'
+  main: false
+  name: Practical
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. May have some problems
+  with critical thinking and problem-solving.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Good practical skills.'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of all
+  topics, and demonstrate an ability to evaluate detailed knowledge acquired in the
+  module to new material.'
+- '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
+  of all learning outcomes, and an ability to evaluate and relate topics that overlap
+  all of the learning outcomes.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material: []
+supplementary_material:
+- '"Animal Health Ireland." www.animalhealthireland.ie. http://animalhealthireland.ie'
+- '"Department of Agriculture Food and the Marine." www.agriculture.gov.ie. http://agriculture.gov.ie'
+- '"ICBF." www.ICBF.com. http://www.icbf.com'
+- '"Pasturebase." www.pasturebase.teagasc.ie. http://pasturebase.teagasc.ie'
+- 'O''Dwyer, J. _Beef Production Workbook_. Carlow: Teagasc, 2011.'
+- 'Teagasc / Irish Farmers Journal, I.F.J. _The Grazing Guide_. Dublin: Teagasc, 2011.'
+- 'Teagasc, T. _Teagasc Beef Manual_. Teagasc: Teagasc, 2012.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

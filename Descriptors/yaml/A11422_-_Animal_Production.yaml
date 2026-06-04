@@ -1,0 +1,116 @@
+reference: A11422
+full_title: Animal Production
+short_title: Animal Production
+credits: 5
+level: Introductory
+author: JRYAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Agriculture
+aim: This module will enable the student to acquire a basic knowledge and the skills
+  needed for operating a modern beef, dairy or sheep farm. The student will learn
+  about the feeding and management requirements of livestock. Students will gain an
+  insight into animal health and welfare, operator health and safety, and good environmental
+  practices.
+programmes:
+- timetable: AGRI-0004
+  code: WD_SAGUL_D
+  name: Bachelor of Science in Agriculture
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Milk quality and yield
+- Dairy facilities
+- Feeding & management dairy cows
+- Diseases of cows
+- Rearing replacement cows, breeding cattle
+- Economics of dairy production
+- Systems of lamb production and associated sheep tasks
+- Diseases of sheep
+- Economics of sheep production
+- Feeding and management of sheep
+- Suckler calf production
+- Systems of cattle production and associated tasks
+- Diseases of cattle
+- Economics of cattle production
+- Health & safety, First Aid
+learning_outcomes:
+- Describe the management requirements of different animal production systems such
+  as calf to beef, spring milk production and mid season sheep.
+- Complete safely operations associated with different animal production systems such
+  as cattle to beef, spring milk production and mid season sheep with due regard to
+  good environmental practice and the animal's health and welfare.
+- Describe good environmental practices in animal production.
+- Describe appropriate actions to promote and maintain good animal health and welfare.
+- Identify areas where improvement in animal production can be made on the farm.
+learning_and_teaching_methods:
+- Lectures.
+- Practical instruction.
+learning_modes:
+- full_time: 30
+  name: Lecture
+  part_time: ''
+- full_time: 18
+  name: Field Trips
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: '2'
+  main: false
+  name: Practical
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '5'
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter.'
+- '40%-49%: Will be able to show a good knowledge of the key learning outcomes.'
+- '50%-59%: As well as the above, the student will be able to demonstrate an understanding
+  of some of the complexities of the topics.'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of the
+  all topics, and demonstrate an ability to evaluate detailed knowledge acquired in
+  the module to new material.'
+- '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
+  of all learning outcomes, and evaluate and relate topics that overlap all of the
+  learning outcomes.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Hoyne , W. _Introduction to Sheep Farming_. Oakpark: Teagasc, 2008.'
+- 'Mc Carthy , J. _Production and Marketing of Beef Cattle_. Oakpark: Teagasc, 2008.'
+- 'McMonagle , J. _Introduction to Farm Farm Animals_. Oakpark: Teagasc, 2008.'
+- 'Moylan , P. _Introduction to Dairy Farming_. Oakpark: Teagasc, 2004.'
+- 'O'' Halloran, J. _Breeding & Calving Cows_. Oakpark: Teagasc, 2008.'
+- 'Pettit , T. _Food Assurance, Animal Health and Welfare_ . Oakpark: Teagasc, 2008.'
+supplementary_material:
+- 'Boatfield , G. _Farm Livestock_. Oakpark: Farming Press, 1994.'
+- 'Ewbank , R. _Management and Welfare of Farm Animals_. UK: UFAW, 1999.'
+- 'Malcolm, B. _Introduction to Practical Animal Breeding_. UK: Blackwell Science,
+  1988.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

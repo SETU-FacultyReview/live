@@ -1,0 +1,162 @@
+reference: A11144
+full_title: Computer Networks
+short_title: Computer Networks
+credits: 5
+level: Introductory
+author: EREADE
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Networks and Cloud
+aim: This module introduces Computer Networking terminology, network protocols and
+  models. Students will use simulation and protocol analysis software to configure
+  network devices and explore various network protocol operations. A detailed examination
+  of TCP/IP, IP addressing and Ethernet is presented. A brief introduction to Routing,
+  Network management and Wireless LANs is also provided. Practical skills are an essential
+  part of this module.
+programmes:
+- timetable: COMP-0637
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0606
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0637
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0637
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0637
+  code: WD_KCOMC_D
+  name: Bachelor of Science in Software Systems Development
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0637
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0637
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0637
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0637
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0637
+  code: WD_KINFT_D
+  name: Bachelor of Science in Information Technology
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0637
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Introduction to Computer Networks and Protocols
+- OSI and TCP/IP models
+- Ethernet and VLANs
+- IPv4 Addressing and subnetting
+- IPv6
+- Routing
+- Transport Layer Protocols and Functionality
+- Application Layer Protocols and Functionality e.g. HTTP, FTP, DNS, SMTP
+- Wireless LANs
+- Network Management
+learning_outcomes:
+- Use network protocol models and tools to explain communications in data networks.
+- Describe in detail the major components, operation and functionality of a computer
+  network and commonly used protocols and services.
+- Construct an IPv4/IPv6 addressing design solution.
+- Build a simple network using routers and switches.
+- Use Cisco command line interface to perform basic router and switch configuration.
+- Implement a basic wireless network.
+- Describe basic computer network management concepts.
+learning_and_teaching_methods:
+- The practical lab component will be delivered in one double lab session.
+- There is a strong emphasis on practical, lab-based exercises.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: 12
+- full_time: 24
+  name: Practical
+  part_time: 12
+- full_time: 75
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 3,4,5,6
+  main: false
+  name: Practical
+  weighting: 60
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4,5,6,7
+  main: false
+  name: In-Class Assessment
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to describe the major functions and operation of a Computer Network.
+  Unable to describe and compare the OSI and TCP/IP models. Poor understanding of
+  the role of communications protocols in computer networks.'
+- '40%-49%: Can describe and compare the OSI and TCP/IP models. Can provide overview
+  of main computer network components and protocols.'
+- '50%-59%: All of the above. Can describe in detail the data encapsulation process.
+  Demonstrate an understanding of basic LAN implementation.'
+- '60%-69%: In addition, be able to recommend a network solution given an organisation''s
+  requirements.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material:
+- '"Cisco Network Academy." https://www.netacad.com/'
+supplementary_material:
+- 'Cisco, Networking. _Network Basics, CCNA Routing & Switching Companion Guide_.
+  NY: Cisco Press, 2014.'
+- 'Tanenbaum, A. and D. Wetherall. _Computer Networks_. 5th Ed. New York: Pearson
+  Education, 2013.'
+requested_resources:
+- 'COMPUTER LAB: Networks Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

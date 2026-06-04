@@ -1,0 +1,138 @@
+reference: A11485
+full_title: Sustainable Food Production
+short_title: Sustainable Food Prod.
+credits: 10
+level: Intermediate
+author: CPWALSH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Horticulture
+aim: The module will enable the student to plan and describe the production of a range
+  of speciality food crops and perform the associated skills to best industry practices.
+programmes:
+- timetable: FOOD-0023
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 3
+  status: E
+- timetable: FOOD-0023
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 5
+  status: E
+- timetable: FOOD-0023
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 3
+  status: E
+- timetable: FOOD-0023
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 5
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Salad crops, scallions, lettuce and celery: Soil, site and rotation. Cultivars.
+  Sowing/planting and irrigation. Cultivation and nutrition. Weed, pest and disease
+  control including SUD/IPM. Harvesting and grading'
+- 'Rhubarbs, asparagus, courgettes and sweetcorn: Site selection and soils. Cultivars.
+  Cultivation and nutrition. Weed, pest and disease control including SUD/IPM. Harvesting
+  and grading'
+- 'Leeks, peas and beans: Site selection and soils. Cultivars. Cultivation and nutrition.
+  Weed, pest and disease control including SUD/IPM. Harvesting and grading'
+- 'Beetroot, radish and spinach: Site selection and soils. Cultivars. Cultivation
+  and nutrition. Weed, pest and disease control including SUD/IPM. Harvesting and
+  grading'
+- 'Herbs (culinary and medicinal): Market size and outlet. Range of herb crops. Site
+  selection and soils. Cultivation and nutrition. Weed, pest and disease control including
+  SUD/IPM. Harvesting and grading'
+- 'Blueberries, blackberries and currants: Propagation methods. Choice of varieties.
+  Nutrition Soil preparation and planting. Pest disease and weed control including
+  SUD/IPM. Picking, training and pruning'
+- Nitrates Directive, FSAI regulations, Bord Bia QA scheme, Origin Green, Pesticide
+  Control/Registration
+- 'Organic Conversion: Time periods, and preparation of application form'
+- Pest and disease management in an organic system 'v' conventional systems
+- Soil fertility and management in an organic system 'v' conventional systems
+- Regulation of organic production, grading and marketing of produce
+learning_outcomes:
+- Analyse the propagation and production of a range of food crops (including vegetables,
+  fruit and herbs) under sustainable systems.
+- Produce a conversion plan for an organic production system.
+- Complete routine tasks associated with specialty crops.
+- Relate the requirements of the quality assurance schemes, EU directives, and other
+  regulations to management strategies in food production systems.
+learning_and_teaching_methods:
+- Lecture
+- Practical demonstration
+- Project
+- Practice
+learning_modes:
+- full_time: 48
+  name: Lecture
+  part_time: ''
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 174
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: '2'
+  main: false
+  name: Project
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '3'
+  main: false
+  name: Practical
+  weighting: 25
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very little knowledge and understanding of the subject matter. Unable to
+  carry out critical thinking or practical skills.'
+- '40%-49%: Demonstrates a limited knowledge of the subject matter. May have some
+  problems with critical thinking and problem solving. Adequate practical skills.'
+- '50%-59%: Demonstrates satisfactory general knowledge of the main issues within
+  the subject. Good practical tasks.'
+- '60%-69%: Demonstrates skilled and sound knowledge of the subject matter. Shows
+  ability to analyse and logically discuss in an effective way. Good critical thinking
+  and a high level of competence and efficiency in theoretical and practical areas
+  of this subject.'
+- '70%-100%: All of the above to an excellent level. Demonstrates authoritative handling
+  of complex material and a highly developed and extensive understanding of the subject.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Pollock, M. _RHS Vegetable & Fruit Gardening_. London: Dorling Kindersley, 2012.'
+supplementary_material:
+- '"Protected Crop Growing, A guide for home and Market Gardeners." http://www.teagasc.ie/.
+  http://www.teagasc.ie/publications/2011/1000/ProtectedCropGrowing.pdf'
+- 'Dixon, G.R. and D.E. Aldous. _Horticulture:Plants for People and Places, Volume
+  1_. Amsterdam: Springer Netherlands, 2014.'
+- 'Larkcom, J. _The Organic Salad Garden_. London: Frances Lincoln, 2006.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

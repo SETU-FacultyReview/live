@@ -1,0 +1,115 @@
+reference: A26541
+full_title: Information Security
+short_title: Info Security
+credits: 10
+level: Postgraduate
+author: JMCGIBNEY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Forensics and Security
+aim: This module provides students with a solid grounding in the area of computer
+  and information security. The question of securing modern distributed applications
+  is treated holistically, where students assess security threats and vulnerabilities
+  at different layers and identify suitable services and technologies to help address
+  these threats. Cryptographic foundations that underpin many security mechanisms
+  are covered in some detail, as well as best practices in secure software development.
+  Students will also discuss incident handling and a selection of techniques and tools
+  for forensic investigations.
+programmes:
+- timetable: COMP-0973
+  code: WD_KCESS_R
+  name: MSc in Computer Science (Enterprise Software Systems)
+  stage: 1
+  semester: 0
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Security threats: attack methods; common vulnerabilities; threat modelling; security
+  services'
+- 'Cryptography: symmetric block and stream ciphers; public key cryptography; hash
+  functions; authentication schemes; key management & certificates'
+- 'Network and cloud security: TLS; VPNs; wireless security; identity and access management;
+  firewalls; intrusion prevention'
+- 'Software security: secure software development practices; OWASP Top 10; malware'
+- 'Security assessment: black and white box testing; penetration testing; standards,
+  compliance'
+- 'Incident response & recovery: steps involved in incident response; the forensic
+  process; data recovery; computer forensics'
+learning_outcomes:
+- Evaluate the various security threats and attacks to which an organisation may be
+  susceptible.
+- Compare and contrast leading cryptographic techniques and determine their applicability
+  in a variety of practical scenarios.
+- Assess key aspects of system, network and cloud security in a heterogeneous computing
+  environment.
+- Evaluate the specific security concerns pertinent when developing and deploying
+  software applications.
+- Carry out a security assessment on a modern distributed application.
+- Recommend incident response approaches and assemble digital evidence from a variety
+  of sources.
+learning_and_teaching_methods:
+- Combination of lectures and guided computer-based practical exercises.
+- Self-directed learning.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 24
+- full_time: 24
+  name: Practical
+  part_time: 24
+- full_time: 222
+  name: Independent Learning
+  part_time: 222
+assessment_methods:
+- learning_outcomes: 1,2,3,4,6
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '6'
+  main: false
+  name: Assignment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of the specific knowledge domains
+  of computer security.'
+- '40%-59%: Able to interpret, describe and discuss key concepts of the specific knowledge
+  domains of computer security. Able to discover and integrate related knowledge to
+  assess and implement security approaches.'
+- '60%-69%: Able to solve problems within the specific knowledge domains by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to propose solutions to
+  a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material:
+- '"Open Web Application Security Project (OWASP)." https://www.owasp.org/'
+- '"The SANS Institute." https://www.sans.org/'
+supplementary_material:
+- 'McGraw, G. _Software Security: Building Security In_. Boston: Addison-Wesley, 2006.'
+- 'Stallings, W. and L. Brown. _Computer Security: Principles and Practice_. 4th ed..
+  Harlow: Pearson, 2018.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

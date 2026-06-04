@@ -1,0 +1,117 @@
+reference: A14067
+full_title: Dissertation
+short_title: Dissertation
+credits: 20
+level: Postgraduate
+author: LSTAPLETON
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Professional Skills
+aim: 'The Masters program culminates in the dissertation, an extended project that
+  allows the student to engage in independent research, applying and developing the
+  content of the taught modules to a topic of their choice which aligns with the research
+  activities of the department. The Dissertation is an individual piece of work and
+  will also be supported by the Research Methods and Dissertation module. It is further
+  supported by research seminars hosted in the Department of Computing and Mathematics
+  as part of the academic life of the School and which deal with particular aspects
+  of postgraduate research in computing. The primary emphasis here bis on independent
+  study. The dissertation is begins in Semester 1, proceeds through semester 2 (during
+  these semesters the student is placed under the guidance of a supervisor) and is
+  then fully engaged in what is effectively a third semester without formal supervision.
+  This module is closely related to the ``Research Methods & Dissertation Proposal''''
+  module and its outcomes represent the second phase of work towards the dissertation.
+  The aims of this module are to: 1. Enable students to specialize in a relevant and
+  suitable topic of their choice and according of their particular interests and related
+  to the course they are taking. The research will align with the research programme
+  of the Department of Computing and Mathematics. 2.Provide the opportunity for students
+  to engage in supervised, but independently undertaken research, study and learning.
+  3.Allow students to obtain and demonstrate proficiency in the advanced research
+  skills and analytical techniques that they have acquired on the course. 4.Enable
+  students to apply their own learning self-critically in the conduct of a major research
+  project. 5.Offer the opportunity for students to actively engage with the academic
+  research community in the Department of Computing and Mathematics.'
+programmes:
+- timetable: DISS-0010
+  code: WD_KCESS_R
+  name: MSc in Computer Science (Enterprise Software Systems)
+  stage: 1
+  semester: 3
+  status: M
+- timetable: DISS-0010
+  code: WD_KISYP_R
+  name: Master of Science in Computing (Information Systems Processes)
+  stage: 1
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- The curriculum content is in essence the particular subject of the dissertation
+  - this is a three semester module and supervision arrangements are 1 hour per week/student
+  until the start of the "third semester" and this is a total of 24 hours for this
+  module and this figure is included in the relevant entry under "Learning Modes"
+  below
+- The Dissertation should contain clear objectives, motivation and concise, well-formed
+  research questions relating to this subject, and demonstrate that stated objectives
+  of the research have been achieved
+- At the end of the process the student should communicate the results of their research
+  in writing by producing an academic dissertation of their research area
+- An oral presentation, and interview if necessary, will also be required
+- Dissertation structure and related documents are available in the Department for
+  ``taught Masters'' Dissertations
+learning_outcomes:
+- Demonstrably enhance students' expertise in a chosen area related to academic research
+  in the Department of Computing and Mathematics and which relates to their postgraduate
+  studies.
+- Formulate a review of the academic expert literature for a chosen subject area in
+  so far as the review relates to well-formed research questions.
+- Appraise important conceptual, theoretical, methodological and other research-related
+  issues involved in the course they are taking.
+- Justify appropriate methods, tools and techniques, and apply these and follow methods
+  through to the delivery of an original and coherent piece of research.
+- Organise a piece of independent academic research in the Department of Computing
+  and Mathematics under the supervision of a designated academic expert.
+learning_and_teaching_methods:
+- This module involves self-directed and self-paced research effort under the guidance
+  of an assigned supervisor.
+learning_modes:
+- full_time: 24
+  name: Tutorial
+  part_time: 24
+- full_time: 516
+  name: Independent Learning
+  part_time: 516
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Dissertation
+  weighting: 100
+assessment_criteria:
+- <40%:The student has demonstrated a poor grasp of the fundamentals of the chosen
+  research area and has either failed to complete the thesis or the thesis is so rudimentary
+  as to provide little evidence of capacity to conduct independent research in their
+  chosen topic.
+- 40%-59%:The student has met the criteria for a pass, and demonstrates a grasp of
+  the fundamentals of the chosen research area.
+- 60%-69%:The student has shown a high level of independence in the conduct of the
+  research and technical competence in practical work undertaken. A strong performance
+  achieved in all components of assessment but the creativity, resourcefulness, depth
+  of knowledge, critical and analytical ability or flexibility of thought required
+  for a distinction is lacking. In some cases higher quality work may be marginally
+  publishable.
+- 70%-100%:The dissertation comprises a non-trivial piece of research which has been
+  superbly executed and whose results and originality are worthy of dissemination
+  in the academic community (publishable). If software has been produced, its design,
+  implementation and deployment are exemplary and key aspects likely to be publishable
+  as an academic paper. Student has demonstrated outstanding analytical skills and
+  deemed very suitable for a research career.
+essential_material: []
+supplementary_material: []
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

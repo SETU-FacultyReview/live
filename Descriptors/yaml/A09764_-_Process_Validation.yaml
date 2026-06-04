@@ -1,0 +1,104 @@
+reference: A09764
+full_title: Process Validation
+short_title: Process Validation
+credits: 5
+level: Intermediate
+author: BWHELAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Quality, Regulatory and Compliance
+aim: This module describes the importance and practices of validation and technology
+  transfer. Both areas are linked in terms of design and commissioning of a process,
+  piece of equipment or activity within the pharmaceutical industry. Other topics
+  covered include Computer Systems Validation, Process Analytical Technology (PAT)
+  and Quality by Design (QbD).
+programmes:
+- timetable: PROC-0005
+  code: WD_SGMPT_D
+  name: Bachelor of Science in Good Manufacturing Practice and Technology
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Process validation: general concepts and documentation required; DQ, IQ, OQ, PQ;
+  validation strategy'
+- Principles of Quality by Design (QbD), life cycle approach to process validation,
+  worst case testing
+- Clean Room qualification, manufacture of sterile medicinal products
+- Process Analytical Development (PAT) development, change management systems, risk
+  management methods and tools
+- Validation of process water, purified water systems, water for Injection
+- Commissioning, Factory Qualification, Factory Acceptance Testing (FAT), Site Acceptance
+  Testing (SAT)
+- Description of solid dosage forms, transdermal delivery systems, freeze-dried products,
+  inhalation products; medical device development
+- Computer systems validation, GAMP guide, Quality Systems and Compliance, 21 CFR
+  Part 11
+learning_outcomes:
+- Interpret validation guidance documents used within the pharmaceutical/medical device
+  sectors.
+- Develop validation protocols identifying critical parameters and acceptance criteria.
+- Complete FATs and SATs and enhance process understanding.
+- Appraise the application of risk management to a range of facilities, processes
+  and products.
+- Plan for quality system application throughout product life cycle.
+learning_and_teaching_methods:
+- Lectures.
+- Case studies.
+- Class participation.
+learning_modes:
+- full_time: ''
+  name: Lecture
+  part_time: 24
+- full_time: ''
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,4
+  main: false
+  name: In-Class Assessment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,5
+  main: false
+  name: Group Project
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
+  technical ability/skill and understanding to carry out practical/professional tasks.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Show some technical
+  ability/skill in carrying out and reporting on practical/professional tasks.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Logically and competently carry out practical/professional tasks.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter. Show ability to analyse
+  and logically argue in an effective and mature style. Demonstrate initiative and
+  the ability to criticise methods used and appreciation of experimental design when
+  carrying out practical/professional tasks.'
+- '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
+  and extensive understanding of the subject. Provide well focused analysis and convincing
+  argument on the subject. Demonstrate imaginative approach, excellent technical ability,
+  awareness, and aptitude in carrying out and reporting on practical/professional
+  tasks.'
+essential_material:
+- '"Food and Drugs Administration." http://www.fda.gov/'
+- 'Nash, R.A. and A.H. Wachter. _Pharmaceutical Process Validation_. 3rd. New York:
+  Marcel Dekker, Inc, 2003.'
+supplementary_material:
+- '"International Society for Pharmaceutical Engineering." http://www.ispe.org/'
+- '"Journal of Validation Technology." http://www.ivtnetwork.com/jvt-journal'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

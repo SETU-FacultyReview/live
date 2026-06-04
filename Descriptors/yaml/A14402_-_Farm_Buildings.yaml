@@ -1,0 +1,95 @@
+reference: A14402
+full_title: Farm Buildings
+short_title: Farm Buildings
+credits: 5
+level: Intermediate
+author: SWALSH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Engineering
+aim: This module is designed to give the student the theory and practice of basic
+  farm building projects. Students will learn about building materials, how to plan
+  a building project, and how to carry out basic construction and maintenance tasks
+  associated with a farm building project.
+programmes:
+- timetable: CONS-0016
+  code: WD_SAGUL_D
+  name: Bachelor of Science in Agriculture
+  stage: 3
+  semester: 6
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Planning
+- Building materials
+- Component structures
+- Building and maintenance tasks
+- Plans
+learning_outcomes:
+- Determine the limitations that the planning laws and regulations place on farm developments.
+- Categorise materials used in farm building construction.
+- Complete safely, building and maintenance tasks in accordance with good environmental
+  practices.
+- Interpret and read plans and specifications.
+- Distinguish good environmental practices in the construction of farm buildings.
+- Determine good practices and health in construction.
+learning_and_teaching_methods:
+- Lectures.
+- Practicals in the buildings workshop.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,4,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: '3'
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter.'
+- '40%-49%: Will be able to show a basic knowledge of the key learning outcomes including
+  a basic knowledge of planning laws and regulations, building materials and describe
+  and apply good practices and health in construction.'
+- '50%-59%: As well as the above the student will be able to demonstrate an understanding
+  of some of the complexities of the topics, describe and apply good environmental
+  practices in the buildings workshop and demonstrate good building and maintenance
+  ability.'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of the
+  all topics including a very good ability at building and maintenance.'
+- '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
+  of all learning outcomes including an excellent ability at building and maintenance.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Gavigan, A. _Building Construction_. Dublin: Teagasc, 1998.'
+- 'Gavigan, A. _Maintenance around the Farm_. Dublin: Teagasc, 1997.'
+supplementary_material:
+- 'Barnes, M. _Farm Building Construction_. Ireland: Farming Press, 1991.'
+- 'McAfee, P. _Irish Stone Walls_. Dublin: O''Brien Press, 1997.'
+requested_resources:
+- 'ENGINEERING LAB: Technology'
+mlo_to_po: ''
+track_changes: true
+
+
+

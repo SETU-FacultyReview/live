@@ -1,0 +1,123 @@
+reference: A13325
+full_title: Professional Communications
+short_title: Professional Communications
+credits: 5
+level: Introductory
+author: MCLARKE
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Professional Skills
+aim: 'The goal of this module is to enable students to develop key communication and
+  issue exploration skills that are essential to the work-place environment as well
+  as the student?s academic career. Such skills include: interpersonal skills, oral
+  presentation skills, ability to participate in meetings, and ability to participate
+  effectively in groups, along with writing skills for both academic and work-related
+  documents and reports.'
+programmes:
+- timetable: COMP-0644
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 2
+  semester: 3
+  status: E
+- timetable: COMP-0644
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 3
+  status: E
+- timetable: COMP-0644
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 3
+  status: E
+- timetable: COMP-0644
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Communication Flows within Industry, within Academia and for Professional Development
+- 'Running Professional Meetings: Managing, Recording and Participation'
+- Structuring and Writing Academic Papers
+- Understanding Audience Expectations
+- Structuring and Creating Oral Presentations
+- Creation of User Reference Documents
+- Creation and Maintenance of Professional Technical Reports
+learning_outcomes:
+- Record and document meeting action items.
+- Complete a professional presentation.
+- Give a professional presentation.
+- Produce a Technical Review Commentary.
+- Construct a well-structured Technical Report.
+learning_and_teaching_methods:
+- 'Lectures: latest research supporting the development of interpersonal and corporate
+  communication skills.'
+- 'Lectures: exploring the themes of interpersonal communications, and the management
+  of both Academic and Technical Writing.'
+- 'Tutorials: review and discussion of topic, team work, writing, oral speaking preparations.'
+- 'Practical: exercises using PCs to write, craft and review written and speaking
+  exercises.'
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Lab
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '4'
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 2,3
+  main: false
+  name: Presentation
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,5
+  main: false
+  name: Assignment
+  weighting: 55
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to provide a meaningful presentation, or a clearly written Technical
+  Report.'
+- '40%-49%: Be able to provide a meaningful presentation. Can write a comprehensible
+  Technical Report. Can write a basic Technical Review Document.'
+- '50%-59%: Be able to provide a meaningful, well-structured presentation. Can write
+  a comprehensible, well-structured Technical Report as well as create a Tech Review
+  Document of a complex (and/or newer Technology).'
+- '60%-69%: Be able to provide a meaningful, well-structured presentation. Can write
+  a comprehensible, well-structured Technical Report on a new and/or evolving application
+  or software tool. Be able to create a Tech Review of a complex (and/or newer Technology).'
+- '70%-100%: Be able to provide an excellent presentation. Can write an excellent
+  and comprehensive Technical Report on a new (and/or evolving) application or software
+  tool that may be used in the ICT Industry. Be able to create an excellent Tech Review
+  of a complex (and/or newer Technology).'
+essential_material: []
+supplementary_material: []
+requested_resources:
+- 'Room Type: Computer Lab'
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

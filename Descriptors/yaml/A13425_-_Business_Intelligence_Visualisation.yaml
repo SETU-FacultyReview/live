@@ -1,0 +1,138 @@
+reference: A13425
+full_title: Business Intelligence Visualisation
+short_title: BI Visualisation
+credits: 5
+level: Advanced
+author: RBARRY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Database and Analytics
+aim: The fundamental area of Business Intelligence (BI) is the skill to effectively
+  communicate analysis, supporting a firm?s decision makers. The aim of this module
+  is how BI visualises and analyses a firm's data. It builds on the skills learnt
+  in a previous module from the creation of insights from structured and unstructured
+  data. Visualization will facilitate the understanding of data and publish required
+  metrics and key performance indicators (KPIs) relevant to a business. The approach
+  of this module will enable visualisation for accessing, analysing, managing and
+  interacting with data.
+programmes:
+- timetable: COMP-0652
+  code: WD_18AFICT_G
+  name: Higher Diploma in Science in Agi-Food ICT Systems
+  stage: 1
+  semester: 4
+  status: M
+- timetable: COMP-0652
+  code: WD_KDAAN_G
+  name: HDip in Science in Data Analytics
+  stage: 1
+  semester: 2
+  status: M
+- timetable: COMP-0652
+  code: WD_KDTAN_MA
+  name: Certificate in Data Analytics
+  stage: 1
+  semester: 2
+  status: M
+- timetable: COMP-0652
+  code: WD_KINTE_B
+  name: Bachelor of Science (Honours) in Information Technology
+  stage: 4
+  semester: 2
+  status: E
+- timetable: COMP-0652
+  code: WD_KITMA_B
+  name: BSc (Hons) in Information Technology Management
+  stage: 1
+  semester: 8
+  status: E
+- timetable: COMP-0652
+  code: WD_SAFICT_G
+  name: HDip in Science in Agri-Food ICT Systems
+  stage: 6
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- BI techniques and solutions
+- Information integration for the purpose of information presentation
+- Understand the steps in verifying and accuracy of analysis
+- Different types of data visualisation techniques and tools for communicating the
+  discovery of data
+- Business Performance Management (BPM) processes, methodologies, metrics and systems
+- Operation metrics and Key Performance Indicators (KPIs) relevant to decision makers
+  in firms
+- Creation and use of visualisation tools for information delivery -- reports using
+  online analytical processing (OLAP) techniques and Dashboards for operations and
+  executives
+- Visual analytics and future trends in BI
+learning_outcomes:
+- Justify the importance of data quality to achieve successful BI solutions.
+- Assess principles of Data Graphics.
+- Compare the different capabilities of data visualisation techniques and tools and
+  how they support and identify an organization's specific BI program.
+- Demonstrate OLAP methodologies and techniques for the analysis of enterprise data
+  in order to produce organised reports.
+- Appraise BPM processes, metrics, technologies and tools.
+- Prepare and produce visual representations using Dashboards.
+learning_and_teaching_methods:
+- This module will be presented using a combination of formal lectures and practical
+  classes. Lectures will introduce concepts and an emphasis will be placed on interaction,
+  discussions and in-class exercises.
+- In practical classes, students will engage with visualisation software and will
+  work on case studies and exercises.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 4,6
+  main: false
+  name: Project
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of BI Visualisation.'
+- '40%-49%: Be able to interpret and describe key concepts of BI Visualisation.'
+- '50%-59%: Ability to discuss key concepts of BI Visualisation and the ability to
+  discover and integrate related knowledge in other data and information system modules.'
+- '60%-69%: Be able to solve problems within BI Visualisation by experimenting with
+  the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material: []
+supplementary_material:
+- 'Eckerson, W. _Performance Dashboards: Measuring, Monitoring, and Managing Your
+  Business_. 1st ed.. New York: Wiley, 2010.'
+- 'Few, S. _Information Dashboard Design: The Effective Visual Communication of Data_.
+  2nd ed.. New York: O''Reilly Media, 2006.'
+- 'Iliinsky, N. and J. Steele. _Designing Data Visualizations_. New York: O''Reilly
+  Media, 2011.'
+- 'Sharda, R., D. Delen and E. Turban. _Business Intelligence_. 3rd ed.. England:
+  Pearson, 2014.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+
+

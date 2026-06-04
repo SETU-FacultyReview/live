@@ -1,0 +1,107 @@
+reference: A07863
+full_title: Animal Nutrition
+short_title: Animal Nutrition
+credits: 5
+level: Introductory
+author: SWALSH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Agriculture
+aim: This module will give students a broad introduction to both ruminant and monogastric
+  nutrition for farm animals. Students will learn about the basic principles and key
+  concepts of nutrition, and its importance in diet formulation and prevention of
+  metabolic diseases and disorders.
+programmes:
+- timetable: AGRI-0105
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Structure and function of ruminant and monogastric digestive systems
+- Metabolism of proteins, carbohydrates, fatty acids and amino acids
+- 'Nutrient requirements and intake: macro- and micronutrients'
+- Systems of energy and protein evaluation of feeds
+- Feeding standards for maintenance, growth, reproduction and lactation
+- 'Nutrient sources: grass, conserved forages, root crops, cereals & processed forage'
+- Diet and ration formulation
+- Metabolic diseases and disorders
+learning_outcomes:
+- Explain digestion and metabolism in ruminants and monogastrics.
+- Identify the nutrient requirements and intake potential of ruminants in terms of
+  energy, protein, fibre and minerals.
+- Identify a range of feed and forage sources.
+- Calculate diet and ration formulations feeding regimes for monogastric & ruminant
+  production systems.
+- Explain the effect of nutrition on metabolic diseases and disorders for dairy, beef,
+  sheep, pigs & poultry.
+- Use a range of laboratory techniques to classify and calculate the nutritional value
+  of feedstuffs for ruminants.
+learning_and_teaching_methods:
+- Lectures.
+- Laboratory practicals.
+- Guest industry speakers.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 3,6
+  main: false
+  name: Lab Report
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter.'
+- '40%-49%: Will be able to show a good knowledge of the key learning outcomes including
+  anatomy and functions of ruminant and monogastric digestive systems, as well as
+  a basic knowledge of macro- and micro-nutrients.'
+- '50%-59%: As well as the above, the student will be able to demonstrate a good understanding
+  of the learning outcomes as well as being able to identify and discuss various nutrient
+  sources.'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of all
+  the topics including how to predict nutritional requirements of the animal and potential
+  nutritional disorders.'
+- '70%-100%: The student will be able to demonstrate a comprehensive knowledge and
+  understanding of all learning outcomes, including the ability to fully integrate
+  the various components of the course.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Chahal, U.S., P.S. Niranjan and S. Kumar. _Handbook of general animal nutrition_.
+  UK: IBDC, 2008.'
+supplementary_material:
+- 'D''Mello, J.P.F. _Farm Animal Metabolism and Nutrition_. UK: CABI Publishing, 2000.'
+- 'Forbes, J.M. _Voluntary Food Intake and Diet Selection in Farm Animals_ . UK: CABI
+  Publishing, 2007.'
+- 'McDonald, P., R.A. Edwards, J.F. Greenhalgh and C.A. Morgan. _Animal Nutrition_.
+  UK: Pearson, 2002.'
+- 'McDowell, L.R. _Vitamins in Animal and Human Nutrition_. UK: Wiley-Blackwell, 2008.'
+requested_resources:
+- 'Room Type: Biology Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

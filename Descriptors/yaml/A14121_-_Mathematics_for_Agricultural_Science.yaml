@@ -1,0 +1,88 @@
+reference: A14121
+full_title: Mathematics for Agricultural Science
+short_title: Maths for Agricultural Science
+credits: 5
+level: Introductory
+author: FLEONARD
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: This module introduces mathematical models and techniques used in agricultural
+  and food processing applications, including problems in heat transfer applications,
+  colony forming unit population destruction, separation using a centrifuge, viscosity,
+  as well as elementary problems in blending and food processing using material balancing
+  principles. The module also provides an introduction to the principles and practices
+  of experimental design.
+programmes:
+- timetable: MTHS-0050
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Material balancing: milk composition; cream and skimmed milk production; post processing
+  potato crop yield; yeast growth; fertiliser blending'
+- 'Heat transfer: conduction through single and multiple layers of material; conduction
+  through materials in parallel; convection in heat exchangers'
+- 'Thermal death times: logarithmic scales; D values; F values; Z values; single and
+  multiple heat treatments'
+- 'Viscosity and separation: viscosity in a fluid; Reynolds number; streamline, transitional
+  and turbulent flow; centrifuges; terminal velocity of separation particles'
+- 'Arrhenius equation: shelf-life determination of food products; calculations with
+  experimental data'
+- 'Experimental design: principles of experimental design; randomisation, replication,
+  blocking; experiment run order; ANOVA'
+learning_outcomes:
+- Apply the principles of material balancing to solve food processing problems.
+- Apply suitable heat transfer models of conduction and convection.
+- Apply models of centrifugal separation.
+- Determine the effect of a heat treatment on a colony forming unit population in
+  a food product.
+- Calculate the shelf-life of a food product using the Arrhenius equation.
+- Apply experimental design principles to an agricultural problem,.
+- Apply models of the viscosity of fluids flowing in a cylindrical pipe.
+learning_and_teaching_methods:
+- Lectures will be used to demonstrate numerical calculations.
+- Students will do similar in-class exercises.
+- Students will learn the basics of experimental design using suitable statistical
+  software.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Lab
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6,7
+  main: true
+  name: Final Written Examination
+  weighting: 100
+assessment_criteria:
+- '<40%: Inability to identify or apply more than one appropriate mathematical model
+  for agricultural science applications.'
+- '40%-49%: Able to identify and apply mathematical models for at least one agricultural
+  science application.'
+- '50%-59%: Able to identify and apply mathematical models for a variety of agricultural
+  science applications.'
+- '60%-69%: As above, and able to algebraically manipulate some models in agricultural
+  science to explore the sensitivity of solutions.'
+- '70%-100%: As above, and able to algebraically manipulate a variety of models in
+  agricultural science to explore the sensitivity of solutions.'
+essential_material:
+- '" NZIFST (Inc.) Unit operations in food processing." http://www.nzifst.org.nz/unitoperations/index.htm'
+supplementary_material: []
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

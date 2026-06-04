@@ -1,0 +1,117 @@
+reference: A14032
+full_title: Device Forensics
+short_title: Device Forensics
+credits: 5
+level: Advanced
+author: JSHEPPARD
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Forensics and Security
+aim: This module aims to provide students with the skills to uncover information that
+  is found in mobile digital devices. Such devices may include phones, tablets, IoT
+  devices, medical devices, automotive systems. These devices can hold vast amounts
+  of data that can be used in a multitude of environments to recreate a persons movements
+  in online and real world environments.
+programmes:
+- timetable: COMP-0675
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0675
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0675
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 4
+  semester: 8
+  status: M
+- timetable: COMP-0675
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Mobile Device Forensics
+- Acqusition Issues
+- Android Forensics
+- iOS Forensics
+- 'Connected Devices: Wearable Devices; Internet of Things; Medical Devices; Automotive
+  Industry'
+learning_outcomes:
+- Collect digital evidence from a mobile device.
+- Analyse digital evidence from a mobile device.
+- Reconstruct device usage patterns.
+- Appraise potential issues relating to forensic analysis.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and practicals. The lectures
+  will be used to introduce new topics and their related concepts. The practical element
+  allows the student to put into practice the theoretical concepts covered in the
+  lectures.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Lab
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to perform investigations of mobile digital devices.'
+- '40%-49%: Able to perform basic tasks of digital investigations relating to mobile
+  devices.'
+- '50%-59%: All of the above and in addition can reason as to the benefits/limitations
+  of surrounding technologies. Can use tools to analyse different data sources associated
+  with mobile devices.'
+- '60%-69%: In addition, be capable of discussing the relative merits of associated
+  technologies.'
+- '70%-100%: All above to an excellent level. Be able to critically review new and
+  emerging technologies and tools. Be able to discuss their effect on forensic examinations.'
+essential_material:
+- 'Hoog, A. _Android Forensics_. 21 July: Syngress, 2011.'
+supplementary_material:
+- '"Digital Investigation Journal." http://www.sciencedirect.com/science/journal/17422876'
+- '"I am the Calvary." https://www.iamthecavalry.org/'
+- '"forensicfocus." www.forensicfocus.com'
+- 'Drake, J, Z Lanier, C Mulliner, P Fora, S Ridley and Wicherski G. _Android Hacker''s
+  Handbook_. United States: Wiley, 2014.'
+- 'Hoog, A and K Strzempka. _iPhone and iOS Forensics: Investigation, Analysis and
+  Mobile Security for Apple iPhone, iPad and iOS Devices_. United States: Syngress,
+  2011.'
+- 'Miller, C, D Blazakis, D DaiZovi, S Esser, V Iozzo and Weinmann R. _iOS Hacker''s
+  Handbook_. United States: Wiley, 2012.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

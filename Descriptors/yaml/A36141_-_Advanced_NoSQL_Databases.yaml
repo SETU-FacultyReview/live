@@ -1,0 +1,111 @@
+reference: A36141
+full_title: Advanced NoSQL Databases
+short_title: Adv. NoSQL
+credits: 5
+level: Advanced
+author: TMCDONALD
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Database and Analytics
+aim: This module will facilitate the student to understand the application of NoSQL
+  databases in organisations and gain knowledge and practical experience that enables
+  them to analyse, design and construct complex NoSQL database solutions to handle
+  large volumes of either structured, semi structured or unstructured data. The student
+  will gain competence about NoSQL databases and be able to exercise judgments in
+  using different types in a centralised or distributed manner to solve problems.
+  Specifically, the student will be introduced to the concepts of CAP, Sharding and
+  Replication and be able to independently appraise their relevance and application
+  in regard to NoSQL database development.
+programmes:
+- timetable: ''
+  code: WD_KDAAN_G
+  name: HDip in Science in Data Analytics
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ''
+  code: WD_KDTAN_MA
+  name: Certificate in Data Analytics
+  stage: 1
+  semester: 1
+  status: M
+- timetable: ''
+  code: WD_KDTSC_MA
+  name: Certificate in Data Science
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Emergence & Drivers of NoSQL databases
+- NoSQL Database Concepts & Document Oriented Modelling Techniques
+- 'Types of NoSQL Databases: Key-value databases, Document databases, Column family
+  databases and Graph databases'
+- CAP Theorem
+- Data Persistence, Database Consistency and Replication
+- Distribution of data and functionality
+- NoSQL Database Sharding techniques & Strategies
+learning_outcomes:
+- Appreciate & explain the relevance and application of NoSQL databases in Organisations.
+- Design, Construct and Maintain a schemaless NoSQL database solution.
+- Investigate the appropriateness and application of Sharding on NoSQL database Clusters.
+- Assess and make judgements on the relevance of data consistency, availability and
+  network partition tolerance in relation to NoSQL databases.
+- Appraise the application of replication techniques to improve end user productivity
+  and efficiency.
+learning_and_teaching_methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures.
+- The continuous assessment will require the student to apply the theory and practical
+  knowledge gained in the lectures and practicals to design, develop fully operational
+  NoSQL database solution to a new business scenario or problem.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 12
+- full_time: 24
+  name: Practical
+  part_time: 12
+- full_time: 87
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: Assignment
+  weighting: 100
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret, describe and apply key concepts of NoSQL database solutions.'
+- '40%-49%: Be able to interpret, describe and apply key concepts of NoSQL database
+  solutions.'
+- '50%-59%: Ability to discuss key concepts of design and implementation of NoSQL
+  database solutions and ability to integrate related knowledge in a realistic NOSQL
+  implementation.'
+- '60%-69%: Be able to solve complex problems within the design and implementation
+  of NoSQL database solutions by experimenting and applying the appropriate skills
+  and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills, tools and techniques'
+essential_material: []
+supplementary_material:
+- 'Fowler, M. _NoSQL Distilled A brief guide to the emerging world of polygot persistence.
+  New Jersey: Pearson, 2013._ . 1. New York: Pearson, 2013.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

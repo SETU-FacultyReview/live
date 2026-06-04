@@ -1,0 +1,153 @@
+reference: A12022
+full_title: Industrial Automation
+short_title: Industrial Automation
+credits: 5
+level: Intermediate
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Automotive, Automation and IoT
+aim: The aim of this module is to introduce the student to network topologies, bus
+  types and communication protocols. Scada topologies, PLC, electrical distribution,
+  robotic and factory automation examples are developed by the student in addition
+  to developing examples of Distributed Control Systems topologies, robotic and factory
+  automation.
+programmes:
+- timetable: ''
+  code: WD_EAUTO_B
+  name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
+  stage: 2
+  semester: 4
+  status: M
+- timetable: ENGR-0093
+  code: WD_EELCT_D
+  name: Bachelor of Engineering in Electrical Engineering
+  stage: 3
+  semester: 6
+  status: M
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours) in Electrical Engineering
+  stage: 2
+  semester: 4
+  status: M
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours)
+  stage: 2
+  semester: 4
+  status: M
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Review of the control of actuators and sensors using PLCs and Labview.
+- Scada Theory Overview
+- Introduction seminar on Scada topologies, PLC, electrical distribution, robotic
+  and factory automation examples.
+- Develop Scada topologies, PLC, electrical distribution, robotic and factory automation
+  examples.
+- Distributed Control systems Theory Overview
+- Introduction seminar on Distributed Control Systems topologies, electrical distribution,
+  robotic, vision and factory automation examples.
+- Develop Distributed Control Systems topologies, electrical distribution, robotic
+  and factory automation examples.
+learning_outcomes:
+- Apply, interface and develop computer network topologies, bus types and communication
+  protocols.
+- Integrate with Scada topologies, PLC, electrical distribution, robotic and factory
+  automation examples.
+- Integrate with Distributed Control Systems topologies, electrical distribution,
+  robotic and factory automation examples.
+- Demonstrate the ability to produce a practical automation system.
+- Demonstrate the professional, ethical and effective communication skills of a professional
+  engineer.
+learning_and_teaching_methods:
+- The course will consist of lectures/seminars in the laboratories together with extensive
+  laboratories, mini project and formative assessments.
+- The emphasis on course delivery will to engage the student in the learning of the
+  material, through the integration of the course materials, with the real case studies
+  in laboratories and mini project.
+- The formative assignments will be used to provide an opportunity for the student
+  to engage with the material, before it is applied, to maximise the learning opportunities
+  for the student.
+- Self-directed learning, moodle, and recommended software.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 2,4
+  main: false
+  name: Assignment
+  weighting: 15
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,4,5
+  main: false
+  name: Project
+  weighting: 15
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Medida, S. _Industrial Automation Pocket Guide_. .: IDC, 2003.'
+- 'Zhang, P. _Industrial Control Technology_. .: William Andrew, 2008.'
+supplementary_material:
+- 'Buchli, J. _Mobile Robots, Moving Intelligence_. .: Advanced Robotic Systems International,
+  2006.'
+- 'Fuller, J.L. _Robotics: Introduction, Programming, and Projects_. 2nd ed.. New
+  Jersey: Prentice Hall, 1999.'
+- 'Kurfess, T. _Robots and automation Handbook_. .: CRC Press, 2005.'
+- 'Niku, S.B. _Introduction to Robotics: Analysis, Systems, Applications_. .: Pearson
+  Education, 2001.'
+requested_resources:
+- 'ENGINEERING LAB: Electrical'
+mlo_to_po: ''
+track_changes: true
+
+
+

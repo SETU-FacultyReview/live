@@ -1,0 +1,111 @@
+reference: A13882
+full_title: Audio Visual 2
+short_title: Audio Visual 2
+credits: 5
+level: Intermediate
+author: ROCONNOR
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Media Production
+aim: This module focuses on visual media. Students develop design skills further in
+  composition, graphic design, advertising, typeface, layout and audio synchronisation.
+  Photography skills are developed and then applied to video capture. All elements
+  are combined in the creation, editing and publishing of a short video.
+programmes:
+- timetable: COMP-0646
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 4
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Visual image principles
+- Design Principles
+- Camera Settings
+- Video recording, editing and rendering
+- Audio synchronisation
+- Titles, transitions and simple motion graphics
+learning_outcomes:
+- Compare and contrast artwork using design principles.
+- Demonstrate practical use of image composition.
+- Produce digital video based on a prescribed script/storyboard.
+- Combine audio and visual media to create a multi-layered asset.
+learning_and_teaching_methods:
+- This module will be characterised by student participation in both formal theoretical
+  and practical/studio classroom activities in which students learn theoretical concepts
+  and apply them immediately using dedicated hardware and software.
+- Studio Classes will be delivered in two 2-hour blocks.
+- Apple Mac Computer Lab with relevant hardware & software (kept up to date at least
+  annually e.g. AdobeCC, iMovie).
+- Accessible, professional sound proofed recording studios with professional microphones
+  and audio workstations (Vibe FM studios).
+- Access to cameras.
+- Video/Photography Studio
+- 'Sample Assignment: Create or recreate a static poster/ad/visual artefact to a specific
+  design.'
+- 'Sample Project: Record, edit and finalise a video based on a script/storyboard.'
+learning_modes:
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '1'
+  main: false
+  name: In-Class Assessment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '2'
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4
+  main: false
+  name: Project
+  weighting: 60
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of the audio/visual communications
+  and associated tools.'
+- '40%-49%: Be able to interpret and describe key concepts of the audio/visual communications
+  and associated tools.'
+- '50%-59%: Ability to discuss key concepts of the specific audio/visual communications
+  and ability to discover and integrate related knowledge from design and computing
+  disciplines.'
+- '60%-69%: Be able to solve problems within the specific audio/visual domain by experimenting
+  with the skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  creative use and modification of appropriate audio/visual skills and tools.'
+essential_material: []
+supplementary_material:
+- '"Adobe TV." http://tv.adobe.com/'
+- '"BBC Media Studies Training." http://www.bbc.co.uk/learning/subjects/media_studies.shtml'
+- '"lynda.com." www.lynda.com'
+- 'Mantoani, T. _Through The Eyes of a Pro: Canon, Vol.1_. DVD. 2007.'
+- 'Mantoani, T. _Through The Eyes of a Pro: Canon, Vol.2_. DVD. 2007.'
+- 'Plummer, M. _Apple Pro Training Series: Garageband_. New York: Pearson Education,
+  2014.'
+- 'Scoppettuolo, D. _Apple Pro Training Series: iMovie_. New York: Peachpit Press,
+  2014.'
+requested_resources:
+- 'COMPUTER LAB: Multimedia Lab'
+- 'EQUIPMENT: MAC PCs'
+mlo_to_po: ''
+track_changes: true
+
+
+

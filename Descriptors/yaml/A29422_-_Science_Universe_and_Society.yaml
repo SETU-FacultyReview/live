@@ -1,0 +1,95 @@
+reference: A29422
+full_title: Science, Universe and Society
+short_title: Science, Universe and Society
+credits: 5
+level: Introductory
+author: CORAIFEARTAIGH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: This module allows the student to broaden their awareness of the history of science,
+  of the role of science in society and of the responsibilities of the scientist.
+  In the second part of the module, particular emphasis will be placed on an introduction
+  to the physics of elementary particles. The third part of the module focuses on
+  the science of climate change and the public perception of the problem. The module
+  also continues the development of the professional and independent learning skills
+  of the student.
+programmes:
+- timetable: SCIE-0079
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Professional development: reflective practice, presentation skills, working in
+  groups.'
+- 'Science and society: social responsibility of scientists, ethical issues in science,
+  public understanding of science, media issues in science.'
+- 'Introduction to elementary particle physics: the discovery of atoms, the nuclear
+  atom, the particle zoo and the Standard Model.'
+- 'Introduction to climate science: global warming, paleoclimatology and the enhanced
+  greenhouse effect.'
+- Climate change and the public.
+learning_outcomes:
+- Describe the role of science in society, in particular in relation to ethical and
+  media issues.
+- Describe some introductory components of elementary particle physics.
+- Describe some introductory components of climate science.
+learning_and_teaching_methods:
+- Lectures.
+- Tutorials.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: Assignment
+  weighting: 70
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '3'
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to demonstrate a basic understanding of the content of the module.
+  Poor writing and presentation skills.'
+- '40%-49%: Ability to demonstrate basic professional development skills and an understanding
+  of the role of science in society. Basic knowledge of introductory concepts of frontiers
+  in physics.'
+- '50%-59%: Ability to exhibit broadened understanding of the roles of science in
+  society. Good knowledge of introductory concepts of frontiers in physics. Good writing
+  and presentation skills.'
+- '60%-69%: Ability to demonstrate very good knowledge of the module content, and
+  present arguments and debate issues relating to this content. Very good writing
+  and presentation skills.'
+- '70%-100%: All the previous to an excellent level.'
+essential_material:
+- 'Close, F. _Particle Physics: A Very Short Introduction_. Oxford: Oxford University
+  Press, 2004.'
+- 'Dessler, A.E. _Introduction to Modern Climate Change_. New York: Cambridge University
+  Press, 2012.'
+supplementary_material:
+- 'Carey, J. _The Faber Book of Science_. New York: Faber and Faber, 1995.'
+- 'Resnik, D.B. _The Ethics of Science_. New York: Routledge, 1998.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

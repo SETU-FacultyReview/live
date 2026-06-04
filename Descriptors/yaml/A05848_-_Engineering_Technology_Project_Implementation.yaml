@@ -1,0 +1,135 @@
+reference: A05848
+full_title: Engineering Technology Project Implementation
+short_title: ET Project Implementation
+credits: 5
+level: Advanced
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Business
+aim: This module is concerned with the implementation phase of the project. The learners
+  are provided with the opportunity to build, test, revise and critically evaluate
+  their design work and also to present and demonstrate their project.
+programmes:
+- timetable: ''
+  code: WD_EAUTO_B
+  name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
+  stage: 4
+  semester: 8
+  status: M
+- timetable: ''
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 4
+  semester: 8
+  status: M
+- timetable: ''
+  code: WD_EELEC_B
+  name: Bachelor of Science (Honours) in Applied Electronics
+  stage: 2
+  semester: 4
+  status: M
+- timetable: ''
+  code: WD_EMSEN_B
+  name: Bachelor of Engineering (Honours) in Mechanical and Manufacturing Engineering
+  stage: 4
+  semester: 8
+  status: M
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours)
+  stage: 4
+  semester: 8
+  status: M
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours) in Electrical Engineering
+  stage: 4
+  semester: 8
+  status: M
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 4
+  semester: 8
+  status: M
+- timetable: ''
+  code: WD_TCAMF_B
+  name: Bachelor of Science (Honours) in Manufacturing Engineering
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Formulate a solution to the project specification
+- Planning actions, scheduling, organising and managing time, meeting deadlines
+- Applying new and existing knowledge to unfamiliar problems
+- Validating and verifying designs and solutions
+- Developing communication skills (writing, presentation and demonstration skills)
+learning_outcomes:
+- Confirm an ability to set and meet achievable milestones.
+- Transform the background and contextual knowledge of the previous semester into
+  real progress in terms of knowledge and ability in the project area.
+- Defend a chosen course of action, based on rational reasoning, resources and abilities.
+- Present a project context , status quo and projected outcomes to peers and staff
+  in an open forum / seminar.
+- Accurately represent their work in a project report, acknowledging the presence
+  and level of input of others.
+learning_and_teaching_methods:
+- 'Research based learning: library and web'
+- Guided learning through interaction with project supervisors and lecturing staff
+- Independent Learning
+- Peer Learning
+learning_modes:
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '4'
+  main: false
+  name: Presentation
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,5
+  main: false
+  name: Project
+  weighting: 90
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material: []
+supplementary_material: []
+requested_resources:
+- 'ENGINEERING LAB: Technology'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,100 @@
+reference: A13165
+full_title: Agricultural ICT
+short_title: Agricultural ICT
+credits: 5
+level: Advanced
+author: ADUNPHY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: IT
+aim: The aim of this module is to provide students with the knowledge and understanding
+  of a number of information and communication technologies that are quickly becoming
+  crucial to the development of the agricultural sector. These are technologies that
+  enable the gathering, storage and presentation of key farm data, such as sensor
+  technologies, databases, web development and information systems.
+programmes:
+- timetable: COMP-0536
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 4
+  semester: 7
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Data: obtaining, analysing and displaying data; Data Protection Act; agricultural
+  information systems, data governance'
+- 'Databases: agri-data management; database theory & principles; database design;
+  database creation and manipulation'
+- 'Web development: develop an interactive website for the agricultural area & critique
+  other agri-oriented websites'
+- 'Precision agriculture: sensors, potential applications of precision agriculture,
+  its benefits & drawbacks'
+- 'Technology: basic components of a computer system and their function'
+learning_outcomes:
+- Appraise the importance of agricultural data and its governance by obtaining, analysing
+  and displaying same.
+- Develop a database application for an agri-environment.
+- Develop a website for an agri-environment.
+- Determine the key concepts of precision agriculture and evaluate associated products.
+  `.
+- Appraise different technical components.
+learning_and_teaching_methods:
+- Practical demonstrations.
+- Exercises.
+- Practice.
+- Lectures.
+- Projects.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '2'
+  main: false
+  name: Final Project
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '3'
+  main: false
+  name: Assignment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 35
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Lacks technical ability/skill and understanding to carry out practical tasks.'
+- '40%-49%: Shows some technical ability/skill in carrying out and practical tasks.'
+- '50%-59%: Logically and competently carries out practical tasks.'
+- '60%-69%: Demonstrates sound knowledge of the subject matter.'
+- '70%-100%: Demonstrates imaginative approach, excellent technical ability, awareness
+  and aptitude in carrying out and reporting on practical tasks.'
+essential_material:
+- '"Moodle page for Ag ICT." moodle.wit.ie. https://moodle.wit.ie'
+supplementary_material:
+- 'Heege, H.J. _Precision in Crop Farming; Site Specific Concepts and Sensing Methods;
+  Applications and Results_. Dordrecht: Springer Science+Business, 2013.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

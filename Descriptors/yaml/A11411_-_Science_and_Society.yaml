@@ -1,0 +1,140 @@
+reference: A11411
+full_title: Science and Society
+short_title: Science and Society
+credits: 5
+level: Introductory
+author: EOWENS
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Environmental Science
+aim: Science is important to all areas of human life. Understanding science, therefore,
+  is essential to our ability to make informed decisions. This module aims to help
+  students to develop and improve their scientific thinking and skills. Topics such
+  as the development of science in the course of history, the structure of scientific
+  theories and and the interrelationship between science and social, cultural, political
+  and economic structures will be discussed.
+programmes:
+- timetable: SCIE-0043
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 1
+  semester: 2
+  status: E
+- timetable: SCIE-0043
+  code: WD_SFSIN_B
+  name: BSc (Hons) in Food Science and Innovation
+  stage: 1
+  semester: 2
+  status: E
+- timetable: SCIE-0043
+  code: WD_SMBIO_B
+  name: BSc (Hons) in Molecular Biology with Biopharmaceutical Science
+  stage: 1
+  semester: 2
+  status: E
+- timetable: SCIE-0043
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 1
+  semester: 2
+  status: E
+- timetable: SCIE-0043
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 1
+  semester: 2
+  status: E
+- timetable: SCIE-0043
+  code: WD_SSCCM_B
+  name: BSc (Hons) in Science (Common Entry)
+  stage: 1
+  semester: 2
+  status: E
+- timetable: SCIE-0043
+  code: WD_SSCIE_D
+  name: Bachelor of Science (Common Entry)
+  stage: 1
+  semester: 2
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Introduction to the philosophy of science: what is science?'
+- 'Emergence and professionalism of modern science: rise of science and reasons for
+  the rise of science'
+- 'Boundaries of science: what is science and what is not?'
+- 'Construction of scientific knowledge: essentialist and constructivist approaches'
+- Introduction to ethics in science
+- Review of issues in science and society, e.g. genetically modified (GM) foods, stem
+  cell research, environment versus industry, climate change and the energy crisis
+  etc.
+learning_outcomes:
+- Describe important episodes in the history of science.
+- Describe how scientific knowledge is acquired and validated.
+- Discuss different modern philosophical approaches to science (Popper, Khun).
+- Discuss different ethical philosophies (Utilitarianism, Deontology, Consequentialism).
+- Apply different ethical approaches to scientific and social debates, for example
+  GM foods, stem cell research, environmental versus industry, climate change, energy
+  crisis.
+- Identify scientific arguments as they appear in scientific and popular texts.
+learning_and_teaching_methods:
+- Lectures.
+- Tutorials.
+- Self-directed study.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Tutorial
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: Essay
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4,6
+  main: false
+  name: Participation
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '5'
+  main: false
+  name: Group Project
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to demonstrate a basic understanding of the fundamental principles
+  of the module content.'
+- '40%-49%: Ability to demonstrate a basic understanding of the fundamental concepts
+  of the relationship between science and society.'
+- '50%-59%: Ability to clearly describe and describe concepts encountered in the module.'
+- '60%-69%: Demonstrates a very good understanding of the majority of the module content
+  and providing good reasoning and analysis skills.'
+- '70%-100%: All the above to an excellent level and demonstrate excellent reasoning
+  skills and focused well thought out arguments.'
+essential_material:
+- '"Module Moodle page." Science and Society. http://www.moodle.ie'
+supplementary_material:
+- 'Ede, A. and L.B. Cormack. _A History of Science in Society: From Philosophy to
+  Utility_. 2nd ed.. Canada: University of Toronto Press, 2012.'
+- 'Talbot, M. _Bioethics: An Introduction_. 1st ed. USA: Cambridge University Press
+  NY, 2012.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

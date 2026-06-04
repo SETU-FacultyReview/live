@@ -1,0 +1,137 @@
+reference: A13203
+full_title: Introduction to Computer Security
+short_title: Intro to Computer Security
+credits: 5
+level: Introductory
+author: CLPOWER
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Forensics and Security
+aim: This module will provide an introduction to computer security. The emphasis is
+  on the fundamentals of security, including the nature of security threats and attack
+  methods. It will also include the services that can be put in place to address these
+  threats. Cryptographic techniques, that underpin many security mechanisms, are also
+  covered. This module will introduce the student to the foundations of modern cryptography,
+  with a focus on practical applications. The importance of security policy and procedures
+  will also be explained.
+programmes:
+- timetable: COMP-0607
+  code: WD_KCOMC_D
+  name: Bachelor of Science in Software Systems Development
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0607
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0607
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0607
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0607
+  code: WD_KINFT_D
+  name: Bachelor of Science in Information Technology
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Vulnerabilities, types of attack, security services
+- Overview of encryption and authentication
+- Randomness & entropy
+- Symmetric block & stream ciphers, public key cryptography
+- Authentication and hash functions
+- Key management & digital certificates
+- Security policy & procedures
+- Applications
+learning_outcomes:
+- Describe and categorise potential computer security threats and attacks and the
+  security services that can be implemented to address them.
+- Explain the role played by both technology and security policy in supporting security
+  services.
+- Describe various cryptographic approaches and techniques for the provision of secrecy,
+  authentication, integrity and non-repudiation.
+- Use commercial encryption software for secrecy of data and authentication purposes.
+- Communicate technical information effectively.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts. The
+  student will be encouraged to participate in class discussions and ask questions
+  to support their learning process.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 12
+- full_time: 24
+  name: Practical
+  part_time: 12
+- full_time: 87
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 4,5
+  main: false
+  name: Lab Report
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5
+  main: false
+  name: Practical
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of computer security. Unable
+  to interpret and describe computer security threats, vulnerabilities and security
+  services. Unable to interpret and describe key concepts of cryptography.'
+- '40%-49%: Be able to interpret and describe key concepts of computer security. Be
+  able to interpret and describe computer security threats, vulnerabilities and security
+  services. Be able to interpret and describe key concepts of cryptography.'
+- '50%-59%: All of the above and the ability to distinguish between the various security
+  services necessary to mitigate against a range of security threats and attacks.
+  Ability to explain various cryptographic approaches and techniques required to implement
+  each security service.'
+- '60%-69%: All of the above and be able to evaluate different cryptographic approaches
+  and techniques.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of existing security problems.'
+essential_material:
+- '"OpenSSL, Cryptography and SSL/TLS Toolkit." https://www.openssl.org/'
+supplementary_material:
+- '"Computer Emergency Response Team, CERT." http://www.cert.org/'
+- '"Security Focus." http://www.securityfocus.com/'
+- '"The SANS Institute." http://www.sans.org'
+- 'Stallings, W. _Network Security Essentials_. 5th ed. England: Pearson, 2014.'
+- 'Stalllings, W. _Cryptography and Network Security, Principles and Practice_. 6th
+  ed. England: Pearson, 2013.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

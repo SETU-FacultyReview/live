@@ -1,0 +1,99 @@
+reference: A35725
+full_title: Internet of Things Security
+short_title: IoT Security
+credits: 5
+level: Introductory
+author: ADAVY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Forensics and Security
+aim: This course outlines prevailing state-of-the-art practices for IoT security and
+  explains how the IoT security landscape is evolving, to aid IoT stakeholders in
+  making strategic decisions for IoT products, and to help IT professionals strengthen
+  their knowledge about the Internet of Things (IoT) and the security platforms related
+  to it.
+programmes:
+- timetable: ''
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 3
+  semester: 6
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Basic concepts of information security
+- IoT System Risks and Challenges
+- Challenges for IoT Security
+- Basics of Cryptography
+- IoT Security Foundation
+- Network layer security, IPsec, TLS, 802.11i, Cloud Security, Security in 4G and
+  5G
+- Object sensing layer Security, RFID Security, WSN Security
+- IoT Security and Standards
+learning_outcomes:
+- Understand the security threat landscape and how to take preventative measures.
+- Understand security issues revolving around IoT.
+- Gain knowledge on the security considerations regarding verticals of connected devices.
+- Learn from real-life examples and case studies in IoT Security.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Lab
+  part_time: ''
+- full_time: 82
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: 1,2,3
+  main: false
+  name: Project
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 70
+assessment_criteria:
+- '<40%: Unable to describe key IoT security technologies. Unable to distinguish between
+  different types of IoT device and application vulnerabilities or present instances
+  of them in a clear manner. Unable to effectively use relevant tools.'
+- '40%-49%: Can describe in detail key IoT security threats and technologies. Can
+  carry out basic configuration of technologies to implement security policies. Able
+  to present instances of vulnerabilities and carry out threat modelling on a basic
+  IoT system.'
+- '50%-59%: In addition to the above, can reason about the various approaches to IoT
+  security and their benefits and limitations. Able to explain in context and present
+  instances of IoT application vulnerabilities. Able to model threats in an IoT system
+  with multiple usage scenarios and actors.'
+- 60%-69%:In addition, can explain basis of a variety of cryptographic schemes. Can
+  competently make use of security tools and technologies and carry out effective
+  penetration tests. Able to present and explain how to address IoT application vulnerabilities.
+- '70%-100%: All of the above to an excellent level. Can demonstrate an understanding
+  of some the trade-offs involved in providing security. Able to demonstrate in detail
+  how to address IoT application vulnerabilities.'
+essential_material:
+- 'Li, S. and L. Xu. _Securing the Internet of Things_. China: Syngress, 2017.'
+- 'Stallings, W. _Computer Security: Principles and Practice_. 4th ed.. UK: Pearson,
+  2018.'
+supplementary_material: []
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

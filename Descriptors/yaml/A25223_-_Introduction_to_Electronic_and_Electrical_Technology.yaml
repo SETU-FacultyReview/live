@@ -1,0 +1,154 @@
+reference: A25223
+full_title: Introduction to Electronic & Electrical Technology
+short_title: Intr to E & E Tech
+credits: 5
+level: Introductory
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Engineering
+aim: The aim of this module is to introduce students to the fundamentals of Digital
+  Electronics and also to introduce the students to basic Electrical Installation
+  practice and Electrical Safety. The principles of combinational and sequential logic,
+  circuit elements and their applications are covered. Essential electrical safety,
+  protection circuit elements, and good wiring circuitry implementation are included
+  via a comprehensive workshop based element. Students will also use CAD to produce
+  electrical drawings.
+programmes:
+- timetable: ''
+  code: WD_EAUTO_B
+  name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
+  stage: 1
+  semester: 2
+  status: E
+- timetable: ''
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: ''
+  code: WD_EONIC_B
+  name: Bachelor of Engineering (Honours) in Electronic Engineering
+  stage: 1
+  semester: 2
+  status: E
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours) in Electrical Engineering
+  stage: 1
+  semester: 2
+  status: E
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours)
+  stage: 1
+  semester: 2
+  status: E
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Applications of Boolean Algebra
+- Combinational and sequential logic circuits and applications
+- Arithmetic circuits, oneshots, multiplexers, decoders and encoders
+- Electrical and personal safety, Earthing systems, fuses, MCB's and RCB's
+- Cable installation and termination techniques, Electrical Wiring sytems
+- Electrical Drawing and schematic generation.
+learning_outcomes:
+- Explain the fundamental concepts of combinational and sequenctial logic design.
+- Evaluate, simplify and covert Boolean expressions.
+- Define, analyse, design and build combinational and sequential logic circuits using
+  SSI/MSI components.
+- Be aware of electrical safety procedures and the function of earthing systems, fuses,
+  MCB's and RCB's within Electrical circuits.
+- Demonstrate an ability to construct simple electrical wiring systems and basic electrical
+  control circuits.
+- Generate an electrical schematic using appropriate CAD tools,.
+learning_and_teaching_methods:
+- Lectures, presentations, reading and problem solving in class.
+- Practical electrical installations will be performed in the Workshop
+- The student will read supplementary material in their own time.
+- Project work, as assigned by the lecturer.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 4,5
+  main: false
+  name: Practical
+  weighting: 35
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '6'
+  main: false
+  name: Portfolio
+  weighting: 15
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '3'
+  main: false
+  name: Lab Report
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Floyd, T.L. _Digital Fundamentals_. 11th Ed. U.S.: Pearson Education, 2014.'
+- 'Scaddan, B. _The Dictionary of Electrical Installation Work_. UK: Newnes, 2011.'
+- 'Scaddan, B. _Wiring Systems and Fault Finding_. UK: Newnes, 2008.'
+supplementary_material:
+- 'Linsley, T. _Introduction to Electrical Installation Work_. USA: Elsevier Science
+  & Technology, 2011.'
+- 'NSAI, Standard. _Good Practice Guide on the Management of Electricity at Work_.
+  Ireland: NSAI, 2009.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'ENGINEERING LAB: Electronics'
+- 'Room Type: Computer Lab'
+- 'ENGINEERING WORKSHOP: Electrical Workshop'
+mlo_to_po: ''
+track_changes: true
+
+
+

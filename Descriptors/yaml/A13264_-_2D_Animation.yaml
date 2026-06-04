@@ -1,0 +1,93 @@
+reference: A13264
+full_title: 2D Animation
+short_title: 2D Animation
+credits: 5
+level: Introductory
+author: SORIORDAN
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Graphic Design and Animation
+aim: The student?s drawing skills will be developed, with an awareness of traditional
+  animation techniques, to create 2D objects and characters in a digital environment.
+  The Principles of Animation are introduced. The student will produce the main movements
+  of objects and characters, and the background scenes for these animations.
+programmes:
+- timetable: COMP-0591
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0591
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Principles of Animation
+- Drawing in a 2D environment
+- Symbols and instances
+- 'Tweening: shape, motion, classic, motion guides, onion skinning'
+- 'Animation effects: filters, transparencies'
+- Masking
+- Audio in animation
+learning_outcomes:
+- Construct a background scene in a 2D environment.
+- Construct animated facial expressions of a character to display different emotions.
+- Apply the relevant Principles of Animation in the creation of a bouncing ball.
+- Complete a generic walk cycle.
+- Complete a short animation.
+learning_and_teaching_methods:
+- This is a lab based module.
+- Classes should be delivered in two two-hour blocks.
+learning_modes:
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Portfolio
+  weighting: 70
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,4,5
+  main: false
+  name: Project
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to digitally create and animate simple 2D objects and characters.'
+- '40%-49%: Be able to digitally create and animate simple 2D objects and characters.'
+- '50%-59%: Ability to create and animate 2D objects and characters within a scene
+  to tell a story.'
+- '60%-69%: Ability to create and animate complex 2D objects and characters within
+  a scene to tell a story.'
+- '70%-100%: All the above to an excellent level.'
+essential_material: []
+supplementary_material:
+- '"Adobe Animate CC." 30/11/2015. http://blogs.adobe.com/animate/welcome-adobe-animate-cc-a-new-era-for-flash-professional/'
+- '"Adobe Animate Learn and Support." https://helpx.adobe.com/animate/how-to/create-2d-animation.html'
+- 'Chun, A. _Adobe Flash Profession__al CC Classroom in a Book_. NY: Adobe Press,
+  2015.'
+- 'Selby, A. _Animation_. London: Laurence King, 2012.'
+- 'Williams, R. _The Animator''s Survival Kit_. London: Faber and Faber, 2012.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

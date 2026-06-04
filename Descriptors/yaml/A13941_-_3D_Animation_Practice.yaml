@@ -1,0 +1,91 @@
+reference: A13941
+full_title: 3D Animation Practice
+short_title: 3D Animation Practice
+credits: 5
+level: Advanced
+author: MMCMAHON
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Graphic Design and Animation
+aim: The purpose of this module is to give a student the practical knowledge to prepare
+  3D Model and audio digital assets for use in rendered 3D animated scenes and to
+  be able to appreciate the theory and practice of 3D animation techniques.
+programmes:
+- timetable: COMP-0965
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0965
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 3
+  semester: 6
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Rigging and Skinning 3D assets
+- Real-time polygon mesh textured rendering
+- Inverse Kinematics and motion analysis
+- Principles of Animation
+- 'Audio: adding soundtracks to scenes'
+learning_outcomes:
+- Design, manage and produce short key-framed 3D Animations.
+- Apply the key principles of animation to 3D assets and scene.
+- Prepare a computer generated character for animation.
+- Integrate audio assets within a 3D animated scene.
+- Demonstrate the rendering process needed to create a sequence of images.
+learning_and_teaching_methods:
+- Lectures.
+- Practicals.
+- Independent learning.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3
+  main: true
+  name: Continuous Assessment
+  weighting: 70
+- learning_outcomes: 1,2,3
+  main: false
+  name: Portfolio
+  weighting: 70
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Project
+  weighting: 30
+assessment_criteria:
+- '<40%: Unable to interpret and apply the key concepts of Character Rigging and Lassiter''s
+  3D Animation Principles.'
+- '40%-49%: Be able to interpret and apply the key concepts of Character Rigging and
+  Lassiter''s 3D Animation Principles.'
+- '50%-59%: Ability to discuss key concepts of the rigging and animation principles
+  and ability to integrate related knowledge into the animation pipeline.'
+- '60%-69%: Be able to solve problems within the targeted animation pipeline field
+  by experimenting with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material:
+- 'Naas, P. _Autodesk Maya 2014 Essentials_. UK: Wiley, 2014.'
+supplementary_material: []
+requested_resources:
+- 'COMPUTER LAB: Multimedia Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

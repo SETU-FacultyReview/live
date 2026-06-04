@@ -1,0 +1,74 @@
+reference: A18801
+full_title: Sustainable Heat & Power Generation
+short_title: Sustainable Heat & Power Generation
+credits: 5
+level: Intermediate
+author: RGREENE
+history_comment: ''
+school: Science and Computing
+department: Built Environment
+cluster: Engineering
+aim: The aim of this module is to provide a specialised knowledge of sustainable heat
+  and power generation.
+programmes:
+- timetable: ''
+  code: WD_ESERG_B
+  name: Bachelor of Engineering (Honours) in Sustainable Energy Engineering
+  stage: ''
+  semester: ''
+  status: ''
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 1. Wind, hydro and solar power
+- 2. CHP and trigeneration
+- 3. Nuclear power
+- 4. Energy storage technology and fuel cells
+- 5. Waste heat recovery and utilisation
+learning_outcomes:
+- On successful completion of this module, students will be capable of explaining
+  the principles of heat and power generation.
+- Analyse the characteristics and performance of alternative energy systems.
+- Apply standard calculation techniques to solve problems involving energy supply
+  and demand.
+- Demonstrate an understanding of energy storage technology.
+- Recognise and understand the comparative cost benefits of different low and zero
+  carbon technologies.
+learning_and_teaching_methods:
+- 1. Lectures
+- 2. Presentations
+- 3. Interactive Practicals
+- 4. Reading
+- 5. Exercises
+- 6. Discussion
+learning_modes: []
+assessment_methods:
+- learning_outcomes: 1, 2, 3, 4, 5
+  main: true
+  name: Final Written Examination
+  weighting: 100
+assessment_criteria: []
+essential_material:
+- 1. Godfrey Boyle, 2004, Renewable energy power for a sustainable future, 2nd Edition,
+  Oxford University Press
+- 1. Lecture
+- 2. Aldo V. Da Rosa, 2005, Fundamentals of Renewable Energy Processes, Elsevier
+- 2. Independent learning
+- 3. Godfrey Boyle, Energy Systems & Sustainability, Oxford University Press
+- 4. CIBSE guides and technical notes
+- 5. BSRIA guides and technical notes
+- Learning modes
+- Reading materials
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+
