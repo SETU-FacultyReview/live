@@ -1,0 +1,9 @@
+---
+icon:
+  type: mdi:certificate-outline
+  color: 00897B
+---
+
+Advanced Quality Methodologies
+
+This module covers aspects of quality management, including advanced quality systems such as Lean Manufacturing, Six Sigma and Risk Management, instrument validation and calibration management systems.
