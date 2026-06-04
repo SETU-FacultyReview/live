@@ -2,7 +2,7 @@
 """
 SETU Science Module Catalogue Generator - By Department
 This script generates the tutors-modules-by-dept course from Descriptors/yaml data.
-It creates two units: Unit 1 for Computing & Mathematics, Unit 2 for Science.
+It creates three units: Unit 1 for Computing & Mathematics, Unit 2 for Science, Unit 3 for Land Sciences.
 Each unit contains Programmes, Clusters, and All Modules filtered by department.
 
 Data sources:
@@ -14,6 +14,7 @@ Data sources:
 import os
 import yaml
 import shutil
+import csv
 from pathlib import Path
 from typing import Dict, List, Any
 import re
@@ -36,6 +37,7 @@ class ByDeptCatalogueGenerator:
         self.descriptors = {}
         self.clusters = {}
         self.programmes = {}
+        self.programme_registry = {}  # From programmes.csv
 
         # Load icon mappings
         self.module_icons = {}
@@ -85,9 +87,33 @@ class ByDeptCatalogueGenerator:
             self.programme_icons = {}
             print("Warning: programme-icons.yaml not found, programmes will use default icons")
 
+    def load_programme_registry(self):
+        """Load programme registry from programmes.csv"""
+        programmes_csv = self.source_dir / "data" / "programmes.csv"
+        if not programmes_csv.exists():
+            print("Warning: programmes.csv not found")
+            return
+
+        with open(programmes_csv, 'r', encoding='utf-8-sig') as f:  # utf-8-sig handles BOM
+            reader = csv.DictReader(f)
+            for row in reader:
+                if 'code' in row and row['code']:  # Skip empty rows
+                    code = row['code']
+                    self.programme_registry[code] = {
+                        'title': row.get('title', ''),
+                        'department': row.get('department', ''),
+                        'faculty': row.get('faculty', ''),
+                        'category': row.get('category', '')
+                    }
+
+        print(f"Loaded {len(self.programme_registry)} programmes from registry")
+
     def load_data(self):
         """Load all YAML descriptors from source directory"""
         print("Loading catalogue data...")
+
+        # Load programme registry first
+        self.load_programme_registry()
 
         # Load descriptors from Descriptors/yaml
         descriptors_dir = self.source_dir / "Descriptors" / "yaml"
@@ -121,32 +147,30 @@ class ByDeptCatalogueGenerator:
             self.clusters[cluster_name].append(module_code)
 
     def extract_programmes(self):
-        """Extract programme information from module descriptors (Science & Computing only)"""
-        # First pass: determine primary school and department for each programme
-        prog_school_counts = defaultdict(Counter)
-        prog_dept_counts = defaultdict(Counter)
+        """Extract programme information from module descriptors using programmes.csv registry"""
+        # Target departments we want to include
+        TARGET_DEPARTMENTS = {'Computing and Mathematics', 'Science', 'Land Sciences'}
+
+        # Count modules per programme
         prog_module_counts = defaultdict(int)
 
         for module_code, descriptor in self.descriptors.items():
-            school = descriptor.get('school', 'Unknown')
-            department = descriptor.get('department', 'Unknown')
             if 'programmes' in descriptor and descriptor['programmes']:
                 for prog in descriptor['programmes']:
                     if prog and 'code' in prog and prog.get('semester'):
-                        prog_school_counts[prog['code']][school] += 1
-                        prog_dept_counts[prog['code']][department] += 1
                         prog_module_counts[prog['code']] += 1
 
-        # Identify Science & Computing programmes (where it's the primary school AND has >= 3 modules)
-        science_computing_programmes = {}  # prog_code -> primary_department
-        for prog_code, school_counts in prog_school_counts.items():
-            primary_school = school_counts.most_common(1)[0][0]
-            module_count = prog_module_counts[prog_code]
-            if primary_school == 'Science and Computing' and module_count >= 3:
-                primary_dept = prog_dept_counts[prog_code].most_common(1)[0][0]
-                science_computing_programmes[prog_code] = primary_dept
+        # Identify valid programmes using registry department + minimum module count
+        valid_programmes = {}  # prog_code -> department from registry
+        for prog_code in prog_module_counts:
+            if prog_code in self.programme_registry:
+                registry_dept = self.programme_registry[prog_code]['department']
+                module_count = prog_module_counts[prog_code]
+                # Include if from target department and has >= 3 modules
+                if registry_dept in TARGET_DEPARTMENTS and module_count >= 3:
+                    valid_programmes[prog_code] = registry_dept
 
-        # Second pass: extract only Science & Computing programmes
+        # Extract programmes and their modules
         programmes_data = {}
 
         for module_code, descriptor in self.descriptors.items():
@@ -155,8 +179,8 @@ class ByDeptCatalogueGenerator:
                     if prog and 'code' in prog:
                         prog_code = prog['code']
 
-                        # Skip programmes not in Science & Computing
-                        if prog_code not in science_computing_programmes:
+                        # Skip programmes not in our target departments
+                        if prog_code not in valid_programmes:
                             continue
 
                         prog_name = prog['name']
@@ -167,7 +191,7 @@ class ByDeptCatalogueGenerator:
                         if prog_code not in programmes_data:
                             programmes_data[prog_code] = {
                                 'name': prog_name,
-                                'department': science_computing_programmes[prog_code],
+                                'department': valid_programmes[prog_code],
                                 'semesters': defaultdict(list)
                             }
 
@@ -216,7 +240,8 @@ class ByDeptCatalogueGenerator:
                 f.write("# SETU Science Modules by Department\n\n")
                 f.write("This site contains a complete catalogue of approved modules organized by department.\n\n")
                 f.write("**Unit 1:** Computing and Mathematics Department\n\n")
-                f.write("**Unit 2:** Science Department\n")
+                f.write("**Unit 2:** Science Department\n\n")
+                f.write("**Unit 3:** Land Sciences Department\n")
             print("  Created course.md")
         else:
             print("  course.md already exists")
@@ -542,15 +567,13 @@ class ByDeptCatalogueGenerator:
         # Filter descriptors by department
         dept_descriptors = {
             code: desc for code, desc in self.descriptors.items()
-            if (desc.get('department') == dept_filter if dept_filter == 'Computing and Mathematics'
-                else desc.get('department') != 'Computing and Mathematics')
+            if desc.get('department') == dept_filter
         }
 
         # Filter programmes by department
         dept_programmes = {
             code: prog for code, prog in self.programmes.items()
-            if (prog['department'] == dept_filter if dept_filter == 'Computing and Mathematics'
-                else prog['department'] != 'Computing and Mathematics')
+            if prog['department'] == dept_filter
         }
 
         # Filter clusters (only clusters with modules from this department)
@@ -939,12 +962,22 @@ class ByDeptCatalogueGenerator:
             icon_color="00897B"
         )
 
+        # Generate Unit 3: Land Sciences Department
+        self.generate_department_unit(
+            unit_num=3,
+            dept_name="Land Sciences Department",
+            dept_filter="Land Sciences",
+            icon_type="mdi:pine-tree",
+            icon_color="2E7D32"
+        )
+
         print("\n" + "=" * 60)
         print("Generation complete!")
         print("=" * 60)
         print(f"\nOutput directory: {self.output_dir}")
         print(f"- Unit 1: Computing and Mathematics Department")
         print(f"- Unit 2: Science Department")
+        print(f"- Unit 3: Land Sciences Department")
 
 
 def main():
