@@ -1,0 +1,131 @@
+# Programme Icons
+# Icons from Material Design Icons (mdi)
+# Format: "PROGRAMME_CODE": {type: mdi:icon-name, color: 'HEXCODE'}
+
+# Computing & Software
+WD_KACCM_B: {type: mdi:laptop, color: '1976D2'}
+WD_KACMI_B: {type: mdi:laptop-account, color: '1976D2'}
+WD_KCMSC_B: {type: mdi:code-braces, color: '0277BD'}
+WD_KCRCO_B: {type: mdi:palette, color: 'E91E63'}
+WD_KITMA_B: {type: mdi:server-network, color: '00796B'}
+WD_KDEVP_BI: {type: mdi:code-tags, color: '5E35B1'}
+WD_KDEVP_B: {type: mdi:file-code, color: '512DA8'}
+WD_KSOFP_B: {type: mdi:application-braces, color: '4527A0'}
+WD_KCOMP_D: {type: mdi:desktop-classic, color: '1976D2'}
+WD_KCOMP_B: {type: mdi:monitor, code: '1565C0'}
+WD_KCOFO_B: {type: mdi:shield-lock, color: 'C62828'}
+WD_KINTE_B: {type: mdi:network, color: '0097A7'}
+WD_KMULM_B: {type: mdi:image-multiple, color: 'D32F2F'}
+WD_KCSDV_B: {type: mdi:xml, color: '7B1FA2'}
+WD_KSOFT_B: {type: mdi:console, color: '6A1B9A'}
+WD_KINFT_D: {type: mdi:lan, color: '00838F'}
+WD_KMULA_D: {type: mdi:multimedia, color: 'E64A19'}
+WD_KCOMC_D: {type: mdi:language-javascript, color: '8E24AA'}
+
+# IoT & Electronics
+WD_KINTT_B: {type: mdi:access-point, color: 'FF6F00'}
+WD_KINTT_BI: {type: mdi:access-point-network, color: 'F57C00'}
+WD_EELEC_B: {type: mdi:chip, color: '00695C'}
+WD_EONIC_B: {type: mdi:cpu-64-bit, color: '004D40'}
+
+# Data Science & Analytics
+WD_KDAAN_G: {type: mdi:chart-line, color: '1565C0'}
+WD_KDTAN_MA: {type: mdi:chart-bar, color: '0D47A1'}
+WD_KDTSC_MA: {type: mdi:database-search, color: '01579B'}
+WD_KBUSY_G: {type: mdi:database-cog, color: '006064'}
+WD_KCOSC_G: {type: mdi:brain, color: '283593'}
+
+# Security & Forensics
+WD_BCSEC_SP: {type: mdi:security, color: 'B71C1C'}
+
+# Engineering - Electrical & Automation
+WD_ETRIC_BI: {type: mdi:flash, color: 'F57F17'}
+WD_EEELC_BI: {type: mdi:alpha-i-circle, color: 'F9A825'}
+WD_ETRIC_B: {type: mdi:engine, color: 'FF6F00'}
+WD_EAUTO_B: {type: mdi:robot-industrial, color: 'E65100'}
+WD_EELCT_D: {type: mdi:electric-switch, color: 'EF6C00'}
+WD_EELCT_C: {type: mdi:lightning-bolt, color: 'FF8F00'}
+WD_EELEN_RI: {type: mdi:chip, color: '00897B'}
+WD_EELEN_R: {type: mdi:microchip, color: '00796B'}
+WD_EELEN_G: {type: mdi:chip, color: '00695C'}
+
+# Engineering - Civil & Construction
+WD_ECIVE_D: {type: mdi:bridge, color: '5D4037'}
+WD_ECIEN_D: {type: mdi:office-building, color: '6D4C41'}
+WD_CCONM_B: {type: mdi:hard-hat, color: '795548'}
+WD_CQTSU_B: {type: mdi:ruler-square, color: '8D6E63'}
+
+# Engineering - Sustainable Energy
+WD_ESERG_B: {type: mdi:solar-power, color: '689F38'}
+
+# Engineering - Manufacturing
+WD_TCAMF_B: {type: mdi:factory, color: '455A64'}
+WD_CINNT_R: {type: mdi:cog-transfer, color: '37474F'}
+WD_CINNT_G: {type: mdi:cog-sync, color: '546E7A'}
+
+# Physics & Technology
+WD_KPHTE_B: {type: mdi:atom, color: '3949AB'}
+
+# Food Science
+WD_SFSIN_B: {type: mdi:food-apple, color: 'C62828'}
+WD_SFDSC_B: {type: mdi:food-variant, color: 'D32F2F'}
+WD_SFDSC_D: {type: mdi:briefcase, color: 'E53935'}
+WD_SGMPT_B: {type: mdi:beaker, color: 'EF5350'}
+WD_SGMPT_D: {type: mdi:flask, color: 'F44336'}
+WD_SGMPT_C: {type: mdi:flask-outline, color: 'E57373'}
+
+# Pharmaceutical Science
+WD_SPHSC_B: {type: mdi:pill, color: '00897B'}
+WD_SPHSC_D: {type: mdi:pharmacy, color: '26A69A'}
+
+# Biology & Molecular Science
+WD_SQMBI_B: {type: mdi:bacteria, color: '43A047'}
+WD_SMBIO_B: {type: mdi:dna, color: '66BB6A'}
+WD_SMBIO_D: {type: mdi:molecule, color: '81C784'}
+WD_SOBIA_R: {type: mdi:leaf, color: '558B2F'}
+
+# Chemistry
+WD_SQMCH_B: {type: mdi:test-tube, color: '9C27B0'}
+
+# Agriculture & Land Sciences
+WD_SAGRI_B: {type: mdi:tractor, color: '827717'}
+WD_SAGRI_D: {type: mdi:barley, color: '9E9D24'}
+WD_SAGUL_D: {type: mdi:silo, color: 'AFB42B'}
+WD_SBSAG_B: {type: mdi:terrain, color: 'C0CA33'}
+WD_SAFICT_G: {type: mdi:tractor-variant, color: '7CB342'}
+WD_18AFICT_G: {type: mdi:greenhouse, color: '8BC34A'}
+
+# Forestry
+WD_SBSFO_B: {type: mdi:tree, color: '2E7D32'}
+WD_SFORS_D: {type: mdi:pine-tree, color: '388E3C'}
+
+# Horticulture
+WD_SBSHO_B: {type: mdi:flower, color: 'F06292'}
+WD_SHORT_D: {type: mdi:sprout, color: 'EC407A'}
+WD_SHORT_DX: {type: mdi:seed, color: 'E91E63'}
+
+# Science Common Entry
+WD_SSCCM_B: {type: mdi:atom-variant, color: '5E35B1'}
+WD_SSCIE_D: {type: mdi:flask-empty, color: '673AB7'}
+
+# Sport & Exercise Science
+WD_T0012_X: {type: mdi:run, color: 'FF5722'}
+
+# Business & Management
+WD_BBUSI_B: {type: mdi:briefcase, color: '0277BD'}
+WD_BINTB_B: {type: mdi:earth, color: '0288D1'}
+WD_BINTM_B: {type: mdi:currency-usd, color: '0097A7'}
+
+# Hospitality & Tourism
+WD_HCULA_B: {type: mdi:silverware-fork-knife, color: 'FF6F00'}
+WD_OHOSM_B: {type: mdi:bed, color: 'FB8C00'}
+WD_OHOSP_C: {type: mdi:room-service, color: 'FFA726'}
+WD_HTOMA_B: {type: mdi:airplane, color: '0277BD'}
+WD_FTOUR_C: {type: mdi:map, color: '039BE5'}
+
+# Arts & Humanities
+WD_HARTS_B: {type: mdi:book-open-variant, color: '5E35B1'}
+WD_HARTI_B: {type: mdi:book-account, color: '7E57C2'}
+WD_HPSYC_B: {type: mdi:head-lightbulb, color: 'EF5350'}
+WD_HPSYI_B: {type: mdi:brain, color: 'E57373'}
+WD_HSOSC_B: {type: mdi:account-group, color: '00897B'}
