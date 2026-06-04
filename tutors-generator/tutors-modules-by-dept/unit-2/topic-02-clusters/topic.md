@@ -6,4 +6,4 @@ icon:
 
 # Clusters
 
-28 subject clusters
+15 subject clusters
