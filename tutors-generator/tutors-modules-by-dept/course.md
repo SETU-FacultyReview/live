@@ -5,5 +5,3 @@ This site contains a complete catalogue of approved modules organized by departm
 **Unit 1:** Computing and Mathematics Department
 
 **Unit 2:** Science Department
-
-**Unit 3:** Land Sciences Department

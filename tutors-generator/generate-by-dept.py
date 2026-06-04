@@ -2,7 +2,7 @@
 """
 SETU Science Module Catalogue Generator - By Department
 This script generates the tutors-modules-by-dept course from Descriptors/yaml data.
-It creates three units: Unit 1 for Computing & Mathematics, Unit 2 for Science, Unit 3 for Land Sciences.
+It creates two units: Unit 1 for Computing & Mathematics, Unit 2 for Science.
 Each unit contains Programmes, Clusters, and All Modules filtered by department.
 
 Data sources:
@@ -235,16 +235,12 @@ class ByDeptCatalogueGenerator:
 
         # Create course.md
         course_md = self.output_dir / "course.md"
-        if not course_md.exists():
-            with open(course_md, 'w') as f:
-                f.write("# SETU Science Modules by Department\n\n")
-                f.write("This site contains a complete catalogue of approved modules organized by department.\n\n")
-                f.write("**Unit 1:** Computing and Mathematics Department\n\n")
-                f.write("**Unit 2:** Science Department\n\n")
-                f.write("**Unit 3:** Land Sciences Department\n")
-            print("  Created course.md")
-        else:
-            print("  course.md already exists")
+        with open(course_md, 'w') as f:
+            f.write("# SETU Science Modules by Department\n\n")
+            f.write("This site contains a complete catalogue of approved modules organized by department.\n\n")
+            f.write("**Unit 1:** Computing and Mathematics Department\n\n")
+            f.write("**Unit 2:** Science Department\n")
+        print("  Created course.md")
 
         # Create root topic.md
         root_topic = self.output_dir / "topic.md"
@@ -571,10 +567,17 @@ class ByDeptCatalogueGenerator:
         }
 
         # Filter programmes by department
-        dept_programmes = {
-            code: prog for code, prog in self.programmes.items()
-            if prog['department'] == dept_filter
-        }
+        # Special case: Science unit includes both Science and Land Sciences departments
+        if dept_filter == "Science":
+            dept_programmes = {
+                code: prog for code, prog in self.programmes.items()
+                if prog['department'] in ['Science', 'Land Sciences']
+            }
+        else:
+            dept_programmes = {
+                code: prog for code, prog in self.programmes.items()
+                if prog['department'] == dept_filter
+            }
 
         # Filter clusters (only clusters with modules from this department)
         dept_clusters = {}
@@ -962,22 +965,12 @@ class ByDeptCatalogueGenerator:
             icon_color="00897B"
         )
 
-        # Generate Unit 3: Land Sciences Department
-        self.generate_department_unit(
-            unit_num=3,
-            dept_name="Land Sciences Department",
-            dept_filter="Land Sciences",
-            icon_type="mdi:pine-tree",
-            icon_color="2E7D32"
-        )
-
         print("\n" + "=" * 60)
         print("Generation complete!")
         print("=" * 60)
         print(f"\nOutput directory: {self.output_dir}")
         print(f"- Unit 1: Computing and Mathematics Department")
         print(f"- Unit 2: Science Department")
-        print(f"- Unit 3: Land Sciences Department")
 
 
 def main():
