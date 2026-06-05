@@ -1,0 +1,190 @@
+# Cluster Topic Icons
+# Icons for the 37 subject clusters in the science catalogue
+# Format: cluster_name: {type: icon-type, color: hex-color}
+# All icons from Iconify: https://icon-sets.iconify.design/
+# NOTE: Keys must match cluster names EXACTLY as they appear in descriptors
+
+AgriFoodICT:
+  type: mdi:barley
+  color: '7CB342'
+  description: Agriculture + Food + ICT integration
+
+Agriculture:
+  type: mdi:tractor
+  color: '689F38'
+  description: Farming and agricultural sciences
+
+"Analytical Science":
+  type: mdi:flask-outline
+  color: '0288D1'
+  description: Laboratory analysis and testing
+
+"Automotive, Automation and IoT":
+  type: mdi:car-connected
+  color: '455A64'
+  description: Connected vehicles and automation
+
+Biology:
+  type: mdi:dna
+  color: '00897B'
+  description: Biological sciences
+
+Business:
+  type: mdi:briefcase-outline
+  color: '5E35B1'
+  description: Business and management
+
+Chemistry:
+  type: mdi:test-tube
+  color: 'E64A19'
+  description: Chemical sciences
+
+"Creativity and Innovation":
+  type: mdi:lightbulb-on-outline
+  color: 'FDD835'
+  description: Creative thinking and innovation
+
+"Data Communications":
+  type: mdi:swap-horizontal
+  color: '1976D2'
+  description: Data transmission and networking
+
+"Database and Analytics":
+  type: mdi:database-search
+  color: '303F9F'
+  description: Data storage and analysis
+
+"Discipline Specific Technologies":
+  type: mdi:tools
+  color: '616161'
+  description: Specialized technical tools
+
+"Electrical Engineering":
+  type: mdi:flash
+  color: 'FFA000'
+  description: Electrical systems and power
+
+Electronics:
+  type: mdi:chip
+  color: 'F57C00'
+  description: Electronic circuits and devices
+
+Engineering:
+  type: mdi:cog
+  color: '546E7A'
+  description: General engineering principles
+
+"Engineering Practise":
+  type: mdi:hammer-wrench
+  color: '78909C'
+  description: Applied engineering practice
+
+"English Language":
+  type: mdi:alphabetical-variant
+  color: '8D6E63'
+  description: English language studies
+
+"Environmental Science":
+  type: mdi:leaf
+  color: '66BB6A'
+  description: Environmental studies and ecology
+
+"Food Science":
+  type: mdi:food-apple-outline
+  color: 'EF5350'
+  description: Food technology and nutrition
+
+"Forensics and Security":
+  type: mdi:shield-lock-outline
+  color: 'C62828'
+  description: Security and forensic analysis
+
+Forestry:
+  type: mdi:pine-tree
+  color: '2E7D32'
+  description: Forest management and science
+
+"Game Development":
+  type: mdi:gamepad-variant-outline
+  color: '7B1FA2'
+  description: Video game design and development
+
+"Graphic Design and Animation":
+  type: mdi:palette-outline
+  color: 'E91E63'
+  description: Visual design and animation
+
+Horticulture:
+  type: mdi:flower-tulip-outline
+  color: '43A047'
+  description: Plant cultivation and gardening
+
+Humanities:
+  type: mdi:book-open-variant
+  color: '6D4C41'
+  description: Human culture and society
+
+"Information Systems and Modelling":
+  type: mdi:sitemap
+  color: '1565C0'
+  description: Systems architecture and modeling
+
+IT:
+  type: mdi:monitor
+  color: '0277BD'
+  description: Information technology
+
+"Mathematics and Physics":
+  type: mdi:math-compass
+  color: '00838F'
+  description: Mathematical and physical sciences
+
+"Media Production":
+  type: mdi:video-vintage
+  color: 'D81B60'
+  description: Audio and video production
+
+"Networks and Cloud":
+  type: mdi:cloud-outline
+  color: '039BE5'
+  description: Networking and cloud computing
+
+"Pharmaceutical Science":
+  type: mdi:pill
+  color: '00ACC1'
+  description: Pharmaceutical development
+
+"Placement and Projects":
+  type: mdi:clipboard-text-outline
+  color: '757575'
+  description: Work placement and projects
+
+"Professional Skills":
+  type: mdi:account-tie
+  color: '455A64'
+  description: Professional development
+
+"Quality, Regulatory and Compliance":
+  type: mdi:certificate-outline
+  color: '00897B'
+  description: Quality assurance and compliance
+
+"Science and Mathematics":
+  type: mdi:flask-round-bottom
+  color: '5E35B1'
+  description: Integrated science and math
+
+"Software and Information Systems":
+  type: mdi:application-brackets-outline
+  color: '283593'
+  description: Software systems development
+
+"Software and Web Development":
+  type: mdi:code-tags
+  color: '1976D2'
+  description: Web and software development
+
+"Sports Technology":
+  type: mdi:run-fast
+  color: 'F4511E'
+  description: Sports science and technology
