@@ -1,4 +1,7 @@
 [build]
+  # Set base to repository root
+  base = "/"
+
   # Build command runs the Python generator, then Tutors Deno CLI
   command = """
     cd tutors-generator && \
@@ -6,7 +9,7 @@
     deno run -A jsr:@tutors/tutors
   """
 
-  # Publish the generated JSON output
+  # Publish the generated JSON output (relative to base)
   publish = "tutors-generator/tutors-modules-by-dept/json"
 
 [build.environment]
