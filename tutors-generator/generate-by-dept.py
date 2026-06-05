@@ -26,7 +26,7 @@ load_dotenv()
 
 
 class ByDeptCatalogueGenerator:
-    def __init__(self, source_dir: str = "..", output_dir: str = "./tutors-modules-by-dept"):
+    def __init__(self, source_dir: str = "..", output_dir: str = "../tutors-modules-by-dept"):
         self.source_dir = Path(source_dir)
         self.output_dir = Path(output_dir)
 
@@ -67,25 +67,25 @@ class ByDeptCatalogueGenerator:
     def load_cluster_icons(self):
         """Load cluster icon mappings"""
         script_dir = Path(__file__).parent
-        cluster_icon_file = script_dir / "cluster-icons.yaml"
+        cluster_icon_file = script_dir / "icons" / "cluster-icons.yaml"
         if cluster_icon_file.exists():
             with open(cluster_icon_file) as f:
                 self.cluster_icons = yaml.safe_load(f) or {}
             print(f"Loaded {len(self.cluster_icons)} cluster icon mappings")
         else:
-            print("Warning: cluster-icons.yaml not found, clusters will use default icons")
+            print("Warning: icons/cluster-icons.yaml not found, clusters will use default icons")
 
     def load_programme_icons(self):
         """Load programme icon mappings"""
         script_dir = Path(__file__).parent
-        programme_icon_file = script_dir / "programme-icons.yaml"
+        programme_icon_file = script_dir / "icons" / "programme-icons.yaml"
         if programme_icon_file.exists():
             with open(programme_icon_file) as f:
                 self.programme_icons = yaml.safe_load(f) or {}
             print(f"Loaded {len(self.programme_icons)} programme icon mappings")
         else:
             self.programme_icons = {}
-            print("Warning: programme-icons.yaml not found, programmes will use default icons")
+            print("Warning: icons/programme-icons.yaml not found, programmes will use default icons")
 
     def load_programme_registry(self):
         """Load programme registry from programmes.csv"""
@@ -233,14 +233,23 @@ class ByDeptCatalogueGenerator:
         # Get script directory for source files
         script_dir = Path(__file__).parent
 
-        # Create course.md
-        course_md = self.output_dir / "course.md"
-        with open(course_md, 'w') as f:
-            f.write("# SETU Science Modules by Department\n\n")
-            f.write("This site contains a complete catalogue of approved modules organized by department.\n\n")
-            f.write("**Unit 1:** Computing and Mathematics Department\n\n")
-            f.write("**Unit 2:** Science Department\n")
-        print("  Created course.md")
+        # Tutors files directory
+        tutors_files_dir = script_dir / "tutors-files"
+
+        # Copy course.md from tutors-files directory
+        source_course_md = tutors_files_dir / "course.md"
+        dest_course_md = self.output_dir / "course.md"
+        if source_course_md.exists():
+            shutil.copy(source_course_md, dest_course_md)
+            print("  Copied course.md")
+        else:
+            # Fallback: create basic course.md
+            with open(dest_course_md, 'w') as f:
+                f.write("# SETU Science Modules by Department\n\n")
+                f.write("This site contains a complete catalogue of approved modules organized by department.\n\n")
+                f.write("**Unit 1:** Computing and Mathematics Department\n\n")
+                f.write("**Unit 2:** Science Department\n")
+            print("  Created course.md (source not found)")
 
         # Create root topic.md
         root_topic = self.output_dir / "topic.md"
@@ -249,8 +258,8 @@ class ByDeptCatalogueGenerator:
             f.write("Browse modules organized by department.\n")
         print("  Created topic.md")
 
-        # Copy properties.yaml from script directory
-        source_props = script_dir / "properties.yaml"
+        # Copy properties.yaml from tutors-files directory
+        source_props = tutors_files_dir / "properties.yaml"
         dest_props = self.output_dir / "properties.yaml"
         if source_props.exists():
             shutil.copy(source_props, dest_props)
@@ -262,14 +271,14 @@ class ByDeptCatalogueGenerator:
                 f.write("parent: #\n")
             print("  Created properties.yaml (source not found)")
 
-        # Copy course.png from script directory
-        source_png = script_dir / "course.png"
+        # Copy course.png from tutors-files directory
+        source_png = tutors_files_dir / "course.png"
         dest_png = self.output_dir / "course.png"
         if source_png.exists():
             shutil.copy(source_png, dest_png)
             print("  Copied course.png")
         else:
-            print("  Warning: course.png not found in script directory")
+            print("  Warning: course.png not found in tutors-files directory")
 
     def sanitize_filename(self, text: str) -> str:
         """Convert text to safe filename"""
