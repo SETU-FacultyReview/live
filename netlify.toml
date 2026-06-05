@@ -6,12 +6,12 @@
   command = """
     cd tutors-generator && \
     python3 generate-by-dept.py && \
-    cd tutors-modules-by-dept && \
+    cd ../tutors-modules-by-dept && \
     deno run -A jsr:@tutors/tutors
   """
 
   # Publish the generated JSON output (relative to base)
-  publish = "tutors-generator/tutors-modules-by-dept/json"
+  publish = "tutors-modules-by-dept/json"
 
 [build.environment]
   # Ensure Python 3 is available
