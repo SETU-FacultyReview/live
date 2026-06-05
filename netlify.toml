@@ -2,10 +2,11 @@
   # Set base to repository root
   base = "/"
 
-  # Build command runs the Python generator, then Tutors Deno CLI
+  # Build command runs the Python generator, then Tutors Deno CLI from the course directory
   command = """
     cd tutors-generator && \
     python3 generate-by-dept.py && \
+    cd tutors-modules-by-dept && \
     deno run -A jsr:@tutors/tutors
   """
 
