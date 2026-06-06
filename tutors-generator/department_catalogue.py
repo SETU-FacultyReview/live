@@ -19,7 +19,9 @@ from utils import (
 )
 from icons import (
     get_icon_for_item,
-    create_icon_frontmatter
+    create_icon_frontmatter,
+    load_icon_mappings,
+    load_icon_mappings_from_paths
 )
 from markdown import generate_module_markdown
 
@@ -32,6 +34,28 @@ class DepartmentCatalogue:
     making it easier to generate department-specific views.
     """
 
+    def _load_icons(self):
+        """
+        Load all icon mappings needed for catalogue generation.
+
+        This is called automatically during initialization.
+        """
+        # Load module icons from computing catalogue (for overlapping modules)
+        possible_computing_paths = [
+            Path("../computing/module-catalogue/module-icons.yaml"),
+            self.source_dir / "computing" / "module-catalogue" / "module-icons.yaml"
+        ]
+        self.module_icons = load_icon_mappings_from_paths(
+            possible_computing_paths,
+            description="icon mappings from computing catalogue"
+        )
+
+        # Load cluster and programme icons from this script's directory
+        script_dir = Path(__file__).parent
+        icons_dir = script_dir / "icons"
+        self.cluster_icons = load_icon_mappings(icons_dir, 'cluster')
+        self.programme_icons = load_icon_mappings(icons_dir, 'programme')
+
     def __init__(
         self,
         name: str,
@@ -39,9 +63,6 @@ class DepartmentCatalogue:
         all_descriptors: dict,
         all_programmes: dict,
         all_clusters: dict,
-        module_icons: dict,
-        cluster_icons: dict,
-        programme_icons: dict,
         source_dir: Path,
         tutors_course_id: str
     ):
@@ -55,28 +76,23 @@ class DepartmentCatalogue:
             all_descriptors: Dictionary of all module descriptors (module_code -> descriptor)
             all_programmes: Dictionary of all programmes (prog_code -> prog_data)
             all_clusters: Dictionary of all clusters (cluster_name -> [module_codes])
-            module_icons: Dictionary of module icon mappings
-            cluster_icons: Dictionary of cluster icon mappings
-            programme_icons: Dictionary of programme icon mappings
-            source_dir: Path to source directory (for finding PDFs)
+            source_dir: Path to source directory (for finding PDFs and computing icons)
             tutors_course_id: Tutors course ID for URL generation
         """
         self.name = name
         self.filter_criteria = filter_criteria if isinstance(filter_criteria, list) else [filter_criteria]
 
+        # Configuration
+        self.source_dir = source_dir
+        self.tutors_course_id = tutors_course_id
+
+        # Load icon mappings (self-contained)
+        self._load_icons()
+
         # Filter data for this department
         self.descriptors = self._filter_descriptors(all_descriptors)
         self.programmes = self._filter_programmes(all_programmes)
         self.clusters = self._filter_clusters(all_clusters)
-
-        # Icon mappings
-        self.module_icons = module_icons
-        self.cluster_icons = cluster_icons
-        self.programme_icons = programme_icons
-
-        # Configuration
-        self.source_dir = source_dir
-        self.tutors_course_id = tutors_course_id
 
     def _filter_descriptors(self, all_descriptors: dict) -> dict:
         """

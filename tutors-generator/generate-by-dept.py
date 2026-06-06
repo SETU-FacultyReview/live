@@ -21,12 +21,6 @@ from dotenv import load_dotenv
 # Import utility functions
 from utils import load_yaml_file
 
-# Import icon utilities
-from icons import (
-    load_icon_mappings,
-    load_icon_mappings_from_paths
-)
-
 # Import department catalogue
 from department_catalogue import DepartmentCatalogue
 
@@ -50,37 +44,6 @@ class ByDeptCatalogueGenerator:
 
         # Department catalogues (populated after load_data())
         self.departments = {}
-
-        # Load icon mappings
-        self.module_icons = {}
-        self.cluster_icons = {}
-        self.programme_icons = {}
-        self.load_computing_icons()
-        self.load_cluster_icons()
-        self.load_programme_icons()
-
-    def load_computing_icons(self):
-        """Load icon mappings from computing catalogue for overlapping modules"""
-        possible_paths = [
-            Path("../computing/module-catalogue/module-icons.yaml"),
-            self.source_dir / "computing" / "module-catalogue" / "module-icons.yaml"
-        ]
-        self.module_icons = load_icon_mappings_from_paths(
-            possible_paths,
-            description="icon mappings from computing catalogue"
-        )
-
-    def load_cluster_icons(self):
-        """Load cluster icon mappings"""
-        script_dir = Path(__file__).parent
-        icons_dir = script_dir / "icons"
-        self.cluster_icons = load_icon_mappings(icons_dir, 'cluster')
-
-    def load_programme_icons(self):
-        """Load programme icon mappings"""
-        script_dir = Path(__file__).parent
-        icons_dir = script_dir / "icons"
-        self.programme_icons = load_icon_mappings(icons_dir, 'programme')
 
     def load_programme_registry(self):
         """Load programme registry from programmes.csv"""
@@ -215,9 +178,6 @@ class ByDeptCatalogueGenerator:
             all_descriptors=self.descriptors,
             all_programmes=self.programmes,
             all_clusters=self.clusters,
-            module_icons=self.module_icons,
-            cluster_icons=self.cluster_icons,
-            programme_icons=self.programme_icons,
             source_dir=self.source_dir,
             tutors_course_id=self.tutors_course_id
         )
@@ -229,9 +189,6 @@ class ByDeptCatalogueGenerator:
             all_descriptors=self.descriptors,
             all_programmes=self.programmes,
             all_clusters=self.clusters,
-            module_icons=self.module_icons,
-            cluster_icons=self.cluster_icons,
-            programme_icons=self.programme_icons,
             source_dir=self.source_dir,
             tutors_course_id=self.tutors_course_id
         )
