@@ -3,7 +3,6 @@ icon:
   type: mdi:code-tags
   color: 1976D2
 ---
-
 # Web Development 1
 
 Introduces the student to the fundamental building blocks of the visual aspect of the Web, with an emphasis on the basics of HTML, CSS and Java Script.
@@ -133,9 +132,9 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KCOFO_B | Bachelor of Science (Honours) in Computer Forensics and Security | 1 | 1 | Elective |
-| WD_KCOMC_D | Bachelor of Science in Software Systems Development | 1 | 1 | Elective |
-| WD_KCOMP_B | Bachelor of Science (Honours) in Applied Computing | 1 | 1 | Elective |
+| WD_KCOFO_B | Bachelor of Science (Honours) in Computer Forensics and Security | 1 | 1 |  |
+| WD_KCOMC_D | Bachelor of Science in Software Systems Development | 1 | 1 |  |
+| WD_KCOMP_B | Bachelor of Science (Honours) in Applied Computing | 1 | 1 |  |
 | WD_KCOSC_G | HDip in Science in Computer Science | 1 | 1 | Mandatory |
 
 ---
