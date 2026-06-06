@@ -11,6 +11,7 @@ The utility modules (`utils.py`, `icons.py`, and `markdown.py`) provide general-
 - **`utils.py`**: General text processing, file loading, and path utilities
 - **`icons.py`**: Icon loading, selection, and formatting utilities
 - **`markdown.py`**: Module markdown content generation
+- **`department_catalogue.py`**: Department data encapsulation and filtering
 
 ## Modules
 
@@ -196,6 +197,8 @@ from icons import (
 )
 
 from markdown import generate_module_markdown
+
+from department_catalogue import DepartmentCatalogue
 ```
 
 ### Use in generator class:
@@ -285,6 +288,68 @@ with open("module.md", 'w') as f:
 - **Flexibility**: Mix and match utilities as needed
 - **Separation of Concerns**: Markdown generation isolated from generator logic
 
+## Department Catalogue (department_catalogue.py)
+
+### DepartmentCatalogue Class
+
+Encapsulates modules, clusters, and programmes for a single department.
+
+**Purpose:**
+- Filters catalogue data for one department
+- Handles multi-department inclusion (e.g., Science + Land Sciences)
+- Provides clean interface for department-specific data
+
+**Constructor:**
+```python
+DepartmentCatalogue(
+    name: str,                      # Display name
+    filter_criteria: List[str],     # Department names to include
+    all_descriptors: dict,          # All module descriptors
+    all_programmes: dict,           # All programmes
+    all_clusters: dict              # All clusters
+)
+```
+
+**Properties:**
+- `name`: Department display name
+- `descriptors`: Filtered module descriptors
+- `programmes`: Filtered programmes
+- `clusters`: Filtered clusters
+
+**Methods:**
+- `get_module_count()`: Number of modules
+- `get_programme_count()`: Number of programmes
+- `get_cluster_count()`: Number of clusters
+- `get_summary()`: Summary string
+
+**Example:**
+```python
+from department_catalogue import DepartmentCatalogue
+
+# Create a department catalogue
+computing = DepartmentCatalogue(
+    name="Computing and Mathematics Department",
+    filter_criteria=["Computing and Mathematics"],
+    all_descriptors=all_modules,
+    all_programmes=all_progs,
+    all_clusters=all_clust
+)
+
+# Access filtered data
+print(computing.get_summary())
+for module_code in computing.descriptors:
+    print(f"  {module_code}")
+
+# Multi-department example (Science includes Land Sciences)
+science = DepartmentCatalogue(
+    name="Science Department",
+    filter_criteria=["Science", "Land Sciences"],
+    all_descriptors=all_modules,
+    all_programmes=all_progs,
+    all_clusters=all_clust
+)
+```
+
 ## Future Extensions
 
 Potential additions:
@@ -294,3 +359,4 @@ Potential additions:
 - Additional text formatting functions
 - Validation utilities
 - Alternative markdown templates for different views
+- Department-level statistics and reporting
