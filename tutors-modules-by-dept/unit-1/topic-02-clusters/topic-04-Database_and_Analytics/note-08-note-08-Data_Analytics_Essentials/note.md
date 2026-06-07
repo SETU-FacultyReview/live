@@ -128,9 +128,9 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_KCSDV_B | Bachelor of Science (Honours) in Software Systems Development | 4 | 1 | Mandatory |
-| WD_KDEVP_B | BSc (Hons) in Software Systems Development | 4 | 7 | Mandatory |
+| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 7 | Mandatory |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 4 | 7 | Mandatory |
-| WD_KSOFP_B | BSc (Hons) in Software Systems Practice | 1 | 1 | Mandatory |
+| [WD_KSOFP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | [BSc (Hons) in Software Systems Practice](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | 1 | 1 | Mandatory |
 
 ---
 

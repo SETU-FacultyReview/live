@@ -137,9 +137,22 @@ class TutorsCatalogue:
             tutors_course_id=self.tutors_course_id
         )
 
-        # Generate content (clusters first to build path mapping)
+        # Generate programmes first to build programme path mapping
+        # (we need module_to_cluster_path for programme generation, so generate a temp one)
+        # Actually, we need to generate clusters first for module_to_cluster_path
+        # Then programmes to get programme_to_topic_path
+        # Then regenerate clusters with programme links
+
+        # First pass: generate clusters to get module paths
         module_to_cluster_path = dept_gen.generate_clusters(unit_dir)
-        dept_gen.generate_programmes(unit_dir, module_to_cluster_path)
+
+        # Generate programmes to get programme topic paths
+        programme_to_topic_path = dept_gen.generate_programmes(unit_dir, module_to_cluster_path)
+
+        # Second pass: regenerate clusters with programme links
+        module_to_cluster_path = dept_gen.generate_clusters(unit_dir, programme_to_topic_path)
+
+        # Generate all modules
         dept_gen.generate_all_modules(unit_dir, module_to_cluster_path)
 
     def _create_course_files(self):

@@ -133,7 +133,7 @@ This module is available on the following programmes:
 | WD_KDAAN_G | HDip in Science in Data Analytics | 1 | 2 | Mandatory |
 | WD_KDTAN_MA | Certificate in Data Analytics | 1 | 2 | Mandatory |
 | WD_KINTE_B | Bachelor of Science (Honours) in Information Technology | 4 | 2 | Elective |
-| WD_KITMA_B | BSc (Hons) in Information Technology Management | 1 | 8 | Elective |
+| [WD_KITMA_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | [BSc (Hons) in Information Technology Management](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | 1 | 8 | Elective |
 | WD_SAFICT_G | HDip in Science in Agri-Food ICT Systems | 6 | 4 | Mandatory |
 
 ---

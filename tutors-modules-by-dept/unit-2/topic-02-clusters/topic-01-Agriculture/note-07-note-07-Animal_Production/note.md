@@ -143,7 +143,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_SAGUL_D | Bachelor of Science in Agriculture | 1 | 2 | Mandatory |
+| [WD_SAGUL_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 1 | 2 | Mandatory |
 
 ---
 

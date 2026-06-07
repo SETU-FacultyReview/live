@@ -137,7 +137,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_SBSAG_B | Bachelor of Science (Honours) in Land Management (in Agriculture) | 1 | 2 | Elective |
+| [WD_SBSAG_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 2 | Elective |
 
 ---
 

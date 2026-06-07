@@ -134,7 +134,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_KINTE_B | Bachelor of Science (Honours) in Information Technology | 4 | 1 | Mandatory |
-| WD_KITMA_B | BSc (Hons) in Information Technology Management | 1 | 7 | Mandatory |
+| [WD_KITMA_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | [BSc (Hons) in Information Technology Management](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | 1 | 7 | Mandatory |
 
 ---
 

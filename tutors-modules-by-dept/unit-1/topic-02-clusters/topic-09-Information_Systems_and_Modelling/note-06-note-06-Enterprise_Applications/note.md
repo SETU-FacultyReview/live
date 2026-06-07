@@ -131,11 +131,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KBUSY_G | Higher Diploma in Science in Business Systems Analysis | 4 | 2 | Mandatory |
-| WD_KCOMC_D | Bachelor of Science in Software Systems Development | 2 | 3 | Mandatory |
-| WD_KDEVP_B | BSc (Hons) in Software Systems Development | 2 | 3 | Mandatory |
+| [WD_KBUSY_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 4 | 2 | Mandatory |
+| [WD_KCOMC_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 2 | 3 | Mandatory |
+| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 2 | 3 | Mandatory |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 2 | 3 | Mandatory |
-| WD_KINFT_D | Bachelor of Science in Information Technology | 2 | 3 | Mandatory |
+| [WD_KINFT_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 2 | 3 | Mandatory |
 
 ---
 

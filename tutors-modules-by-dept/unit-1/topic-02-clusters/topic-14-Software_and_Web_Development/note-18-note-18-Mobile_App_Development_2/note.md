@@ -131,13 +131,13 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KACCM_B | BSc (Hons) in Applied Computing | 4 | 8 | Elective |
+| [WD_KACCM_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 4 | 8 | Elective |
 | WD_KACMI_B | BSc (Hons) in Applied Computing (International) | 4 | 8 | Elective |
-| WD_KCMSC_B | BSc (Hons) in Computer Science | 4 | 8 | Elective |
-| WD_KCOFO_B | Bachelor of Science (Honours) in Computer Forensics and Security | 4 | 8 | Elective |
-| WD_KCOMC_D | Bachelor of Science in Software Systems Development | 3 | 6 | Mandatory |
-| WD_KCOMP_B | Bachelor of Science (Honours) in Applied Computing | 4 | 8 | Elective |
-| WD_KDEVP_B | BSc (Hons) in Software Systems Development | 4 | 8 | Elective |
+| [WD_KCMSC_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 4 | 8 | Elective |
+| [WD_KCOFO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 4 | 8 | Elective |
+| [WD_KCOMC_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 3 | 6 | Mandatory |
+| [WD_KCOMP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 4 | 8 | Elective |
+| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 8 | Elective |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 4 | 8 | Mandatory |
 | WD_KINTT_BI | BSc (Hons) in the Internet of Things (International) | 4 | 7 | Mandatory |
 | WD_KMULM_B | Bachelor of Science (Honours) in Multimedia Applications Development | 4 | 2 | Mandatory |

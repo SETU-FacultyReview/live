@@ -130,7 +130,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KCOMP_B | Bachelor of Science (Honours) in Applied Computing | 4 | 8 | Elective |
+| [WD_KCOMP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 4 | 8 | Elective |
 
 ---
 

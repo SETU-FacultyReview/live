@@ -137,7 +137,7 @@ This module is available on the following programmes:
 | WD_KCOMP_B | Bachelor of Science (Honours) in Applied Computing | 3 | 5 | Elective |
 | WD_KINTT_B | BSc (Hons) in the Internet of Things | 3 | 5 | Mandatory |
 | WD_KINTT_BI | BSc (Hons) in the Internet of Things (International) | 3 | 5 | Mandatory |
-| WD_KPHTE_B | Bachelor of Science (Honours) in Physics for Modern Technology | 3 | 5 | Mandatory |
+| [WD_KPHTE_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 3 | 5 | Mandatory |
 
 ---
 

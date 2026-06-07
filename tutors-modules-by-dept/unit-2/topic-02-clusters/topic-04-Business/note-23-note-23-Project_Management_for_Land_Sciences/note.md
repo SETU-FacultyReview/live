@@ -139,9 +139,9 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_18AFICT_G | Higher Diploma in Science in Agi-Food ICT Systems | 1 | 3 | Mandatory |
-| WD_SBSAG_B | Bachelor of Science (Honours) in Land Management (in Agriculture) | 1 | 1 | Elective |
-| WD_SBSFO_B | Bachelor of Science (Honours) in Land Management (in Forestry) | 1 | 1 | Mandatory |
-| WD_SBSHO_B | Bachelor of Science (Honours) in Land Management (in Horticulture) | 1 | 1 | Mandatory |
+| [WD_SBSAG_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 1 | Elective |
+| [WD_SBSFO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | [Bachelor of Science (Honours) in Land Management (in Forestry)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | 1 | 1 | Mandatory |
+| [WD_SBSHO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 1 | Mandatory |
 
 ---
 

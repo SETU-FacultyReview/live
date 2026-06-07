@@ -135,12 +135,12 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_DVISC_B | Bachelor of Arts (Honours) in Design (Visual Communications) | 3 | 6 | Elective |
-| WD_KCOMC_D | Bachelor of Science in Software Systems Development | 2 | 3 | Mandatory |
-| WD_KCOMP_B | Bachelor of Science (Honours) in Applied Computing | 2 | 4 | Elective |
-| WD_KCRCO_B | BSc (Hons) in Creative Computing | 1 | 1 | Mandatory |
-| WD_KDEVP_B | BSc (Hons) in Software Systems Development | 2 | 3 | Mandatory |
+| [WD_KCOMC_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 2 | 3 | Mandatory |
+| [WD_KCOMP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 2 | 4 | Elective |
+| [WD_KCRCO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 1 | 1 | Mandatory |
+| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 2 | 3 | Mandatory |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 2 | 3 | Mandatory |
-| WD_KMULA_D | Bachelor of Science in Multimedia Applications Development | 1 | 1 | Mandatory |
+| [WD_KMULA_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 1 | 1 | Mandatory |
 
 ---
 

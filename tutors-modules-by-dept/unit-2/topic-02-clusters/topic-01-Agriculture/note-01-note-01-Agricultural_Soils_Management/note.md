@@ -140,8 +140,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_SAGRI_B | Bachelor of Science (Honours) in Agricultural Science | 2 | 3 | Mandatory |
-| WD_SAGUL_D | Bachelor of Science in Agriculture | 2 | 3 | Mandatory |
+| [WD_SAGRI_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 2 | 3 | Mandatory |
+| [WD_SAGUL_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 2 | 3 | Mandatory |
 
 ---
 

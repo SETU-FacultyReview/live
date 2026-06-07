@@ -144,7 +144,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KCRCO_B | BSc (Hons) in Creative Computing | 4 | 7 | Elective |
+| [WD_KCRCO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 7 | Elective |
 | WD_KMULM_B | Bachelor of Science (Honours) in Multimedia Applications Development | 4 | 1 | Elective |
 
 ---

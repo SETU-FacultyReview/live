@@ -131,13 +131,13 @@ This module is available on the following programmes:
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_BCSEC_SP | Diploma in Computing with Security and Forensics | 3 | 2 | Mandatory |
 | WD_EAUTO_B | Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence | 3 | 5 | Mandatory |
-| WD_KCOMC_D | Bachelor of Science in Software Systems Development | 2 | 3 | Mandatory |
-| WD_KCOMP_D | BSc in Applied Computing | 2 | 3 | Mandatory |
-| WD_KCRCO_B | BSc (Hons) in Creative Computing | 2 | 3 | Mandatory |
-| WD_KDEVP_B | BSc (Hons) in Software Systems Development | 2 | 3 | Mandatory |
+| [WD_KCOMC_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 2 | 3 | Mandatory |
+| [WD_KCOMP_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 2 | 3 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 2 | 3 | Mandatory |
+| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 2 | 3 | Mandatory |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 2 | 3 | Mandatory |
-| WD_KINFT_D | Bachelor of Science in Information Technology | 2 | 3 | Mandatory |
-| WD_KMULA_D | Bachelor of Science in Multimedia Applications Development | 2 | 3 | Mandatory |
+| [WD_KINFT_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 2 | 3 | Mandatory |
+| [WD_KMULA_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 2 | 3 | Mandatory |
 
 ---
 

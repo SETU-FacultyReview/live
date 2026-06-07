@@ -128,11 +128,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KPHTE_B | Bachelor of Science (Honours) in Physics for Modern Technology | 1 | 2 | Elective |
-| WD_SFSIN_B | BSc (Hons) in Food Science and Innovation | 1 | 2 | Elective |
-| WD_SMBIO_B | BSc (Hons) in Molecular Biology with Biopharmaceutical Science | 1 | 2 | Elective |
-| WD_SSCCM_B | BSc (Hons) in Science (Common Entry) | 1 | 2 | Elective |
-| WD_SSCIE_D | Bachelor of Science (Common Entry) | 1 | 2 | Elective |
+| [WD_KPHTE_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 1 | 2 | Elective |
+| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 1 | 2 | Elective |
+| [WD_SMBIO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [BSc (Hons) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 1 | 2 | Elective |
+| [WD_SSCCM_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-02-WD_SSCCM_B) | [BSc (Hons) in Science (Common Entry)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-02-WD_SSCCM_B) | 1 | 2 | Elective |
+| [WD_SSCIE_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-01-WD_SSCIE_D) | [Bachelor of Science (Common Entry)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-01-WD_SSCIE_D) | 1 | 2 | Elective |
 
 ---
 

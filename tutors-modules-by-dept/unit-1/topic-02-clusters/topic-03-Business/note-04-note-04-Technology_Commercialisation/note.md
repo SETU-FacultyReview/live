@@ -136,7 +136,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_KCSDV_B | Bachelor of Science (Honours) in Software Systems Development | 4 | 2 | Elective |
-| WD_KDEVP_B | BSc (Hons) in Software Systems Development | 4 | 8 | Elective |
+| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 8 | Elective |
 
 ---
 

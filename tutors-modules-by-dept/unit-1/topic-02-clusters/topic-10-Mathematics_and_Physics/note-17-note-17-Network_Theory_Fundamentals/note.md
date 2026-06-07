@@ -125,8 +125,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KCOMP_D | BSc in Applied Computing | 2 | 3 | Mandatory |
-| WD_KINFT_D | Bachelor of Science in Information Technology | 2 | 3 | Mandatory |
+| [WD_KCOMP_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 2 | 3 | Mandatory |
+| [WD_KINFT_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 2 | 3 | Mandatory |
 
 ---
 

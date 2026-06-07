@@ -123,7 +123,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KBUSY_G | Higher Diploma in Science in Business Systems Analysis | 2 | 3 | Mandatory |
+| [WD_KBUSY_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 2 | 3 | Mandatory |
 | WD_T0018_X | Higher Diploma in Science in Production Management for Digital Automation | 1 | 3 | Mandatory |
 
 ---

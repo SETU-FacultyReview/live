@@ -150,7 +150,7 @@ This module is available on the following programmes:
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_HCULA_B | Bachelor of Arts (Honours) in Culinary Arts | 4 | 7 | Elective |
 | WD_SFDSC_B | Bachelor of Science (Honours) in Food Science and Innovation | 4 | 1 | Mandatory |
-| WD_SFSIN_B | BSc (Hons) in Food Science and Innovation | 4 | 7 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 4 | 7 | Mandatory |
 
 ---
 

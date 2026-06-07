@@ -133,7 +133,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_SMBIO_D | Bachelor of Science in Molecular Biology with Biopharmaceutical Science | 3 | 5 | Mandatory |
+| [WD_SMBIO_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 3 | 5 | Mandatory |
 
 ---
 

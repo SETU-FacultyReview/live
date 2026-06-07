@@ -126,8 +126,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KCRCO_B | BSc (Hons) in Creative Computing | 2 | 3 | Mandatory |
-| WD_KMULA_D | Bachelor of Science in Multimedia Applications Development | 2 | 3 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 2 | 3 | Mandatory |
+| [WD_KMULA_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 2 | 3 | Mandatory |
 
 ---
 

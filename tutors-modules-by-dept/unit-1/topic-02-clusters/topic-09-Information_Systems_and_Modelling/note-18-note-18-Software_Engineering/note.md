@@ -130,9 +130,9 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KBUSY_G | Higher Diploma in Science in Business Systems Analysis | 4 | 1 | Mandatory |
-| WD_KCRCO_B | BSc (Hons) in Creative Computing | 3 | 6 | Mandatory |
-| WD_KMULA_D | Bachelor of Science in Multimedia Applications Development | 3 | 6 | Mandatory |
+| [WD_KBUSY_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 4 | 1 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 3 | 6 | Mandatory |
+| [WD_KMULA_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 3 | 6 | Mandatory |
 
 ---
 
