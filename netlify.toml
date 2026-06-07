@@ -21,7 +21,7 @@
   DENO_VERSION = "1.40"
 
   # Tutors course ID (used in weburl paths)
-  TUTORS_COURSE_ID = "setu-sci-modules"
+  TUTORS_COURSE_ID = "setu-sci-modules-dev"
 
 # Optional: Add redirects if needed for the deployed site
 # [[redirects]]
