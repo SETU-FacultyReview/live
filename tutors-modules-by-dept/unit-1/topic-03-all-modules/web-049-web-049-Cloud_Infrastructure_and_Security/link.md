@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:cloud-outline
-  color: 039BE5
+  type: carbon:sys-provision
+  color: 014771
 ---
 
 Cloud Infrastruct and Security

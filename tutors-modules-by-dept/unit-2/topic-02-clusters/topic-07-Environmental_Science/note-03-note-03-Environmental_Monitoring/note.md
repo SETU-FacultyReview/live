@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:leaf
-  color: 66BB6A
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Environmental Monitoring
 

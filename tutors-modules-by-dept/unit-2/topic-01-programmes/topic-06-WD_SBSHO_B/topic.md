@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:flower
-  color: F06292
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # Bachelor of Science (Honours) in Land Management (in Horticulture)

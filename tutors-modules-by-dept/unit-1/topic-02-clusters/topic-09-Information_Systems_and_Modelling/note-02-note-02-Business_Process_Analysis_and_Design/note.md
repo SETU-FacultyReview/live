@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:sitemap
-  color: 1565C0
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Bus. Proc. Analysis & Design
 

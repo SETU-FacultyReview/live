@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:brain
-  color: 283593
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # Higher Diploma in Science in Computer Science

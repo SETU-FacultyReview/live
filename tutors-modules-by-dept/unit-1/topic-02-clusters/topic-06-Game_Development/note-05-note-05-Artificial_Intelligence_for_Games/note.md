@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:gamepad-variant-outline
-  color: 7B1FA2
+  type: carbon:sys-provision
+  color: 014771
 ---
 # AI for Games
 

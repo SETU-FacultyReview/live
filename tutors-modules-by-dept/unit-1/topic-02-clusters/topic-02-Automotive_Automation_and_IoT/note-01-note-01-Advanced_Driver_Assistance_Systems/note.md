@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:car-connected
-  color: 455A64
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Adv. Driver Assistance Systems
 

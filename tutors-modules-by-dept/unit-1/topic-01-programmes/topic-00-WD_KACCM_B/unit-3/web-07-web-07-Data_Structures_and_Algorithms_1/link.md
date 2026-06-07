@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:code-tags
-  color: 1976D2
+  type: carbon:sys-provision
+  color: 014771
 ---
 
 Data Structures & Algorithms 1

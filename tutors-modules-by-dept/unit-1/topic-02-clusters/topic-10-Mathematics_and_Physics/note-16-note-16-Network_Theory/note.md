@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:math-compass
-  color: 00838F
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Network Theory
 

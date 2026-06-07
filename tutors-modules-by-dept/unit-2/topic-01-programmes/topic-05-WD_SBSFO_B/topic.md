@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:tree
-  color: 2E7D32
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # Bachelor of Science (Honours) in Land Management (in Forestry)

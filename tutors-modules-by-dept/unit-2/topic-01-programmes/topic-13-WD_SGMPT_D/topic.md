@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:flask
-  color: F44336
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # Bachelor of Science in Good Manufacturing Practice and Technology

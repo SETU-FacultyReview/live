@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:leaf
-  color: 558B2F
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # MSc in Organic and Biological Agriculture

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:flask-outline
-  color: E57373
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # Higher Certificate in Science in Good Manufacturing Practice and Technology

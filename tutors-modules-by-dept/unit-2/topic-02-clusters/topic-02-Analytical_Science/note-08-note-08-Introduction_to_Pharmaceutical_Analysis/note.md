@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:flask-outline
-  color: 0288D1
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Intro to Pharma Analysis
 

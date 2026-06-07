@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:flask-empty
-  color: 673AB7
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # Bachelor of Science (Common Entry)

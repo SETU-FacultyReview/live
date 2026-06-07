@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:lan
-  color: 00838F
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # BSc in Information Technology

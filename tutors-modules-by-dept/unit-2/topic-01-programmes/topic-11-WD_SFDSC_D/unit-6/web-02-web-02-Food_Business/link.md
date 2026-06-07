@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:briefcase-outline
-  color: 5E35B1
+  type: carbon:sys-provision
+  color: 014771
 ---
 
 Food Business

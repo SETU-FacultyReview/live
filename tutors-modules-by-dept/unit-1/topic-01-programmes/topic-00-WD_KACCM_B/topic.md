@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:laptop
-  color: 1976D2
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # BSc (Hons) in Applied Computing

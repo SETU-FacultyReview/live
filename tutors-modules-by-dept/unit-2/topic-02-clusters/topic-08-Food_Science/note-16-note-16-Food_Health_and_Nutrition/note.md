@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:food-apple-outline
-  color: EF5350
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Food, Health and Nutrition
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:shield-lock-outline
-  color: C62828
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Network and System Security
 

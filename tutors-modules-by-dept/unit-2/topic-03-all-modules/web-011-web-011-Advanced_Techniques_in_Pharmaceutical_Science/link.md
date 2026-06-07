@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:pill
-  color: 00ACC1
+  type: carbon:sys-provision
+  color: 014771
 ---
 
 Adv Techniques in Pharma Sci

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:atom-variant
-  color: 5E35B1
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # BSc (Hons) in Science (Common Entry)

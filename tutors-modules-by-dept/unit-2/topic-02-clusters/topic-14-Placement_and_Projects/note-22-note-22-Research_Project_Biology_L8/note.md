@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:clipboard-text-outline
-  color: 757575
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Research Project (Biology L8)
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:briefcase
-  color: E53935
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # Bachelor of Science in Food Science with Business

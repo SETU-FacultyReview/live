@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:dna
-  color: 00897B
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Cell Factories & Cell Culture
 

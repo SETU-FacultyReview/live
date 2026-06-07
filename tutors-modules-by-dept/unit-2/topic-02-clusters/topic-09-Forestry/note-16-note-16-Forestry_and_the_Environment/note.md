@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:pine-tree
-  color: 2E7D32
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Forestry and the Environment
 

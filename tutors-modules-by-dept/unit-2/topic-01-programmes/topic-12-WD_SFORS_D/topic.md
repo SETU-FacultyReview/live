@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:pine-tree
-  color: 388E3C
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # Bachelor of Science in Forestry

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:palette-outline
-  color: E91E63
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Graphic Design 1
 

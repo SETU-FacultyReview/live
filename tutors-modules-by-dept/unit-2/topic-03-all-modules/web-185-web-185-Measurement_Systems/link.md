@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:cog
-  color: 546E7A
+  type: carbon:sys-provision
+  color: 014771
 ---
 
 Measurement Systems

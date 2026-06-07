@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:flower-tulip-outline
-  color: 43A047
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Plants and Society
 

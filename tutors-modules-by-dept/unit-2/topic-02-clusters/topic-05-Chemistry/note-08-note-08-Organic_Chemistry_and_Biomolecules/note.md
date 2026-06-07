@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:test-tube
-  color: E64A19
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Organic Chem & Biomolecules
 

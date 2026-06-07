@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:account-tie
-  color: 455A64
+  type: carbon:sys-provision
+  color: 014771
 ---
 
 Work Placement (10 credits)

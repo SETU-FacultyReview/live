@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:monitor
-  color: 0277BD
+  type: carbon:sys-provision
+  color: 014771
 ---
 # Comm Skills & Comp Application
 

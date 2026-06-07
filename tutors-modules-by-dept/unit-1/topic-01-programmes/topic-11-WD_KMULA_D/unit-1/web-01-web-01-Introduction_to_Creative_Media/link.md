@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:video-vintage
-  color: D81B60
+  type: carbon:sys-provision
+  color: 014771
 ---
 
 Introduction to Creative Media

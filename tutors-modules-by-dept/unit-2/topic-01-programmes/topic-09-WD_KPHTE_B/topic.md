@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:atom
-  color: 3949AB
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # Bachelor of Science (Honours) in Physics for Modern Technology

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:database-search
-  color: 303F9F
+  type: carbon:sys-provision
+  color: 014771
 ---
 
 Adv. NoSQL

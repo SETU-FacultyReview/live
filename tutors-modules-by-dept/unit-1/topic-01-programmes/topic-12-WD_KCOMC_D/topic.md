@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:language-javascript
-  color: 8E24AA
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # Bachelor of Science in Software Systems Development

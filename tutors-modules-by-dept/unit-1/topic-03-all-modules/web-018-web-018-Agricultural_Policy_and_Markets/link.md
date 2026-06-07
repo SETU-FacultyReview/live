@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:barley
-  color: 7CB342
+  type: carbon:sys-provision
+  color: 014771
 ---
 
 Ag Policy and Markets

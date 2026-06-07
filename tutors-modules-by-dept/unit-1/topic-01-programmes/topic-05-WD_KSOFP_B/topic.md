@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:application-braces
-  color: 4527A0
+  type: mdi:book-education
+  color: 455A64
 ---
 
 # BSc (Hons) in Software Systems Practice
