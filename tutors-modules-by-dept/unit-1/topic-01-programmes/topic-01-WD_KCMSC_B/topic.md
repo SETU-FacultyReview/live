@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:code-braces
+  color: 0277BD
 ---
 
 # BSc (Hons) in Computer Science

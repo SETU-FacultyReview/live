@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:video-vintage
+  color: D81B60
 ---
 
 Instructional Design

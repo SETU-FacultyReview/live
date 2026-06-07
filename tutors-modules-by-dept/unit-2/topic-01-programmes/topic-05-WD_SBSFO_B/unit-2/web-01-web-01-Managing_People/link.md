@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:briefcase-outline
+  color: 5E35B1
 ---
 
 Managing People

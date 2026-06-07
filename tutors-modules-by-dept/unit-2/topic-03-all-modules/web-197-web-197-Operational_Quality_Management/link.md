@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:certificate-outline
+  color: 00897B
 ---
 
 Operational QM

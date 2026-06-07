@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:sprout
+  color: EC407A
 ---
 
 # Bachelor of Science in Horticulture

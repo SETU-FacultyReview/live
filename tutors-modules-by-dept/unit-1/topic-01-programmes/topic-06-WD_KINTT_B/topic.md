@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:access-point
+  color: FF6F00
 ---
 
 # BSc (Hons) in the Internet of Things

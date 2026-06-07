@@ -1,6 +1,6 @@
 ---
 icon:
-  type: mdi:book-education
+  type: mdi:monitor
   color: 455A64
 ---
 

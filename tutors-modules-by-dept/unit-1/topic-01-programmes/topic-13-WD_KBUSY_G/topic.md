@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:database-cog
+  color: 006064
 ---
 
 # Higher Diploma in Science in Business Systems Analysis

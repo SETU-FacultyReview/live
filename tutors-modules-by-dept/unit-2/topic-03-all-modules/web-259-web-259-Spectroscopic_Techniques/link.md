@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:flask-outline
+  color: 0288D1
 ---
 
 Spectroscopic Techniques

@@ -153,6 +153,7 @@ class GenerateTutorsCourse:
             module_icons=self.catalogue.module_icons,
             cluster_icons=self.catalogue.cluster_icons,
             programme_icons=self.catalogue.programme_icons,
+            catalogue_icons=self.catalogue.catalogue_icons,
             tutors_course_id=self.tutors_course_id
         )
 

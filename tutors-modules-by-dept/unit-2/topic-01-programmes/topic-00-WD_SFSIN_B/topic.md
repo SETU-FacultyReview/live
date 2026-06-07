@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:food-apple
+  color: C62828
 ---
 
 # BSc (Hons) in Food Science and Innovation

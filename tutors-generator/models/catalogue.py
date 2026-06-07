@@ -55,6 +55,7 @@ class Catalogue:
         self.module_icons = {}
         self.cluster_icons = {}
         self.programme_icons = {}
+        self.catalogue_icons = {}
 
         # Load all data
         self._load_programme_registry()
@@ -126,9 +127,10 @@ class Catalogue:
             description="module icon mappings"
         )
 
-        # Load cluster and programme icons
+        # Load cluster, programme, and catalogue icons
         self.cluster_icons = load_icon_mappings(icons_dir, 'cluster')
         self.programme_icons = load_icon_mappings(icons_dir, 'programme')
+        self.catalogue_icons = load_icon_mappings(icons_dir, 'catalogue')
 
     def get_summary(self) -> str:
         """

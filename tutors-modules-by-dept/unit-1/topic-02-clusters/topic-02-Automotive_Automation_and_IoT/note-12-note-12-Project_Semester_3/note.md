@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:car-connected
+  color: 455A64
 ---
 # Project Semester 3
 

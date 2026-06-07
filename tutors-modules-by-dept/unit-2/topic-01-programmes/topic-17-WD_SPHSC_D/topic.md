@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:pharmacy
+  color: 26A69A
 ---
 
 # Bachelor of Science in Pharmaceutical Science

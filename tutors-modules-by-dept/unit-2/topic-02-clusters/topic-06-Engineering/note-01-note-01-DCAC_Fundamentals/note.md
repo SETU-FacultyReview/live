@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:cog
+  color: 546E7A
 ---
 # DC/AC Fundamentals
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:clipboard-text-outline
+  color: 757575
 ---
 # Applied Proj
 

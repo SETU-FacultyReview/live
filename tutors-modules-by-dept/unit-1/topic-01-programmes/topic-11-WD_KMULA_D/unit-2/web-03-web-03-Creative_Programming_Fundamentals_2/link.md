@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:code-tags
+  color: 1976D2
 ---
 
 Creative Programming 2

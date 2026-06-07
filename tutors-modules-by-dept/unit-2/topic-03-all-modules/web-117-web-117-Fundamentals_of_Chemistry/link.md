@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:test-tube
+  color: E64A19
 ---
 
 Fundamentals of Chemistry

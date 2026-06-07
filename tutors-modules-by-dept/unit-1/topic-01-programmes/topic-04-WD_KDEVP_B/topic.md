@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:file-code
+  color: 512DA8
 ---
 
 # BSc (Hons) in Software Systems Development

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:food-apple-outline
+  color: EF5350
 ---
 
 Food Traceability Bioanalysis

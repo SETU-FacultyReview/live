@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:tractor
+  color: 827717
 ---
 
 # Bachelor of Science (Honours) in Agricultural Science

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:flower-tulip-outline
+  color: 43A047
 ---
 # Arboriculture
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:multimedia
+  color: E64A19
 ---
 
 # Bachelor of Science in Multimedia Applications Development

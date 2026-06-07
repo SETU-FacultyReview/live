@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:cloud-outline
+  color: 039BE5
 ---
 # Cloud Architecture
 

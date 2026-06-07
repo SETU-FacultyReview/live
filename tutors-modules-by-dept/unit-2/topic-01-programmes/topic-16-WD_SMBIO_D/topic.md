@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:molecule
+  color: 81C784
 ---
 
 # Bachelor of Science in Molecular Biology with Biopharmaceutical Science

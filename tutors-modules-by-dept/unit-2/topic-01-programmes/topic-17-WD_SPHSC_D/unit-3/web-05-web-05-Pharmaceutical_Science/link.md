@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:pill
+  color: 00ACC1
 ---
 
 Pharmaceutical Science

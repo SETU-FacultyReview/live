@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:account-tie
+  color: 455A64
 ---
 # Voluntary Organisation Proj 1
 

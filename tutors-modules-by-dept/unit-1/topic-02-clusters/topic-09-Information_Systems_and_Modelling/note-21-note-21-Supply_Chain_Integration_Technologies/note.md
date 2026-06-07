@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:sitemap
+  color: 1565C0
 ---
 # Supply Chain Integration Tech
 

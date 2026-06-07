@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:pill
+  color: 00897B
 ---
 
 # Bachelor of Science (Honours) in Pharmaceutical Science

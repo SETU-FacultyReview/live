@@ -40,6 +40,7 @@ class DepartmentGenerator:
         module_icons: dict,
         cluster_icons: dict,
         programme_icons: dict,
+        catalogue_icons: dict,
         tutors_course_id: str
     ):
         """
@@ -51,6 +52,7 @@ class DepartmentGenerator:
             module_icons: Dictionary of module icon mappings
             cluster_icons: Dictionary of cluster icon mappings
             programme_icons: Dictionary of programme icon mappings
+            catalogue_icons: Dictionary of catalogue topic icon mappings
             tutors_course_id: Tutors course ID for weburl generation
         """
         self.department = department
@@ -58,6 +60,7 @@ class DepartmentGenerator:
         self.module_icons = module_icons
         self.cluster_icons = cluster_icons
         self.programme_icons = programme_icons
+        self.catalogue_icons = catalogue_icons
         self.tutors_course_id = tutors_course_id
 
         # Create markdown generator
@@ -82,8 +85,12 @@ class DepartmentGenerator:
         clusters_dir.mkdir(exist_ok=True)
 
         # Create clusters topic.md
+        clusters_icon = self.catalogue_icons.get('clusters', {})
+        icon_type = clusters_icon.get('type', 'mdi:view-grid')
+        icon_color = clusters_icon.get('color', '5E35B1')
+
         with open(clusters_dir / "topic.md", 'w') as f:
-            f.write(create_icon_frontmatter("mdi:view-grid", "5E35B1"))
+            f.write(create_icon_frontmatter(icon_type, icon_color))
             f.write("# Clusters\n\n")
             f.write(f"{len(self.department.clusters)} subject clusters\n")
 
@@ -172,8 +179,12 @@ class DepartmentGenerator:
         all_modules_dir.mkdir(exist_ok=True)
 
         # Create all-modules topic.md
+        all_modules_icon = self.catalogue_icons.get('all-modules', {})
+        icon_type = all_modules_icon.get('type', 'mdi:sort-alphabetical-ascending')
+        icon_color = all_modules_icon.get('color', '1976D2')
+
         with open(all_modules_dir / "topic.md", 'w') as f:
-            f.write(create_icon_frontmatter("mdi:sort-alphabetical-ascending", "1976D2"))
+            f.write(create_icon_frontmatter(icon_type, icon_color))
             f.write("# All Modules\n\n")
             f.write(f"{len(self.department.modules)} modules listed alphabetically\n")
 
@@ -239,8 +250,12 @@ class DepartmentGenerator:
         programmes_dir.mkdir(exist_ok=True)
 
         # Create programmes topic.md
+        programmes_icon = self.catalogue_icons.get('programmes', {})
+        icon_type = programmes_icon.get('type', 'mdi:school')
+        icon_color = programmes_icon.get('color', '2E7D32')
+
         with open(programmes_dir / "topic.md", 'w') as f:
-            f.write(create_icon_frontmatter("mdi:school", "2E7D32"))
+            f.write(create_icon_frontmatter(icon_type, icon_color))
             f.write("# Programmes\n\n")
             f.write(f"{len(self.department.programmes)} programmes\n")
 

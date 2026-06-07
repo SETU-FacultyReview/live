@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:pine-tree
+  color: 2E7D32
 ---
 
 Forest Economics

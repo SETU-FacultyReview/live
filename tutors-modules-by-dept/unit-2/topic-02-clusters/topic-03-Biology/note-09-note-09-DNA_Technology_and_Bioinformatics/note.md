@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:dna
+  color: 00897B
 ---
 # DNA Technol. & Bioinformatics
 

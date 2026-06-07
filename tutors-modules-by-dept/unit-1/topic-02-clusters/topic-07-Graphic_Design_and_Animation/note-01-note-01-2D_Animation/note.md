@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:palette-outline
+  color: E91E63
 ---
 # 2D Animation
 

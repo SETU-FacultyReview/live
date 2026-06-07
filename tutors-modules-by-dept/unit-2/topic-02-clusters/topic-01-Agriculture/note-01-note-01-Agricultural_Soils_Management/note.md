@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:tractor
+  color: 689F38
 ---
 # Agricultural Soils Management
 

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:leaf
+  color: 66BB6A
 ---
 
 Green Sus Pharm Prodn

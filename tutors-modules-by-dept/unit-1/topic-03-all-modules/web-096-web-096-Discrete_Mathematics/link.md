@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:math-compass
+  color: 00838F
 ---
 
 Discrete Mathematics

@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:server-network
+  color: 00796B
 ---
 
 # BSc (Hons) in Information Technology Management

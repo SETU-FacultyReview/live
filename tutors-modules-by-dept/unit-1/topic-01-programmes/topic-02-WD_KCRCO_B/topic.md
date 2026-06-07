@@ -1,7 +1,7 @@
 ---
 icon:
-  type: mdi:book-education
-  color: 455A64
+  type: mdi:palette
+  color: E91E63
 ---
 
 # BSc (Hons) in Creative Computing

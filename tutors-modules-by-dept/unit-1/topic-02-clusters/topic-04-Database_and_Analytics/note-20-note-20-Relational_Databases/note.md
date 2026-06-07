@@ -1,7 +1,7 @@
 ---
 icon:
-  type: carbon:sys-provision
-  color: 014771
+  type: mdi:database-search
+  color: 303F9F
 ---
 # Relational Databases
 
