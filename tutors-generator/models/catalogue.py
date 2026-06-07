@@ -111,19 +111,22 @@ class Catalogue:
 
     def _load_all_icons(self):
         """Load all icon mappings (module, cluster, programme)"""
-        # Load module icons from computing catalogue (for overlapping modules)
-        possible_computing_paths = [
+        # Get icons directory (one level up from models/ directory)
+        script_dir = Path(__file__).parent.parent  # tutors-generator/
+        icons_dir = script_dir / "icons"
+
+        # Load module icons - try local icons dir first, then computing catalogue
+        possible_module_icon_paths = [
+            icons_dir / "module-icons.yaml",
             Path("../computing/module-catalogue/module-icons.yaml"),
             self.source_dir / "computing" / "module-catalogue" / "module-icons.yaml"
         ]
         self.module_icons = load_icon_mappings_from_paths(
-            possible_computing_paths,
-            description="icon mappings from computing catalogue"
+            possible_module_icon_paths,
+            description="module icon mappings"
         )
 
-        # Load cluster and programme icons from this script's directory
-        script_dir = Path(__file__).parent
-        icons_dir = script_dir / "icons"
+        # Load cluster and programme icons
         self.cluster_icons = load_icon_mappings(icons_dir, 'cluster')
         self.programme_icons = load_icon_mappings(icons_dir, 'programme')
 
