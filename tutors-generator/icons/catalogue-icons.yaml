@@ -1,0 +1,24 @@
+# Catalogue Topic Icons
+# Icons for the three main topics in each department unit
+# Format: topic_key: {type: icon-type, color: hex-color}
+# All icons from Iconify: https://icon-sets.iconify.design/
+#
+# These icons are used by DepartmentGenerator for:
+# - topic-01-programmes (Academic Programmes)
+# - topic-02-clusters (Module Clusters)
+# - topic-03-all-modules (All Modules)
+
+programmes:
+  type: mdi:school
+  color: '2E7D32'
+  description: Academic programmes and degree pathways
+
+clusters:
+  type: mdi:view-grid
+  color: '5E35B1'
+  description: Subject clusters grouping related modules
+
+all-modules:
+  type: mdi:sort-alphabetical-ascending
+  color: '1976D2'
+  description: Complete alphabetical module listing
