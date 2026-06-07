@@ -64,23 +64,23 @@ class Catalogue:
         self._load_all_icons()
 
     def _load_programme_registry(self):
-        """Load programme registry from programmes.csv"""
-        programmes_csv = self.source_dir / "data" / "programmes.csv"
+        """Load programme registry from all_programmes_by_department.csv"""
+        programmes_csv = self.source_dir / "data" / "all_programmes_by_department.csv"
 
         if not programmes_csv.exists():
-            print(f"Warning: programmes.csv not found at {programmes_csv}")
+            print(f"Warning: all_programmes_by_department.csv not found at {programmes_csv}")
             return
 
         with open(programmes_csv, 'r', encoding='utf-8-sig') as f:  # utf-8-sig handles BOM
             reader = csv.DictReader(f)
             for row in reader:
-                if 'code' in row and row['code']:  # Skip empty rows
-                    code = row['code']
+                if 'Programme_Code' in row and row['Programme_Code']:  # Skip empty rows
+                    code = row['Programme_Code']
                     self.programme_registry[code] = {
-                        'title': row.get('title', ''),
-                        'department': row.get('department', ''),
-                        'faculty': row.get('faculty', ''),
-                        'category': row.get('category', '')
+                        'title': row.get('Programme_Title', ''),
+                        'department': row.get('Department', ''),
+                        'faculty': row.get('School', ''),  # School maps to faculty
+                        'category': row.get('Programme_Category', '')
                     }
 
         print(f"Loaded {len(self.programme_registry)} programmes from registry")

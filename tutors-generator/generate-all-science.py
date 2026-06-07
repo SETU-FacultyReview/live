@@ -42,7 +42,7 @@ def main():
     print("Creating departments...")
     computing_dept = Department(
         name="Computing and Mathematics Department",
-        filter_criteria=["Computing and Mathematics"],
+        filter_criteria=["Computing and Mathematics", "Computing & Mathematics"],
         catalogue=catalogue
     )
     print(f"  Computing: {computing_dept.get_summary()}")
