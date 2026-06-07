@@ -35,9 +35,9 @@ The appropriate filters should be passed to the constructor along with the Catal
 
 Also passed to the constructor should be the tutors-module-id to be used in the generationp of the weburl link to the module descriptors
 
-(6) A TutorsCatalogue class (in models/tutors_catalogue.py), which will use the above objects to produce a tutors course. It should have the following methods:
+(6) A TutorsCatalogue class (in models/tutors_catalogue.py), which accepts the Catalogue and an array of Department objects and uses them to produce a tutors course. It should have the following methods:
 
-- A constructor. This should create a Catalogue object, and then the Department objects "Science" and "Computing & Maths".
-- generateTutorsCourse method: this should generate a tutors course that matches the current tutors-module-by-dept course
+- A constructor. This should accept a Catalogue object and an array of department configurations (each with a Department object, icon_type, and icon_color).
+- generateTutorsCourse method: this should generate a tutors course that matches the current tutors-module-by-dept course, creating a unit for each department in the array
 
-(7) A top level "generate-all-science" script, that creates and invokes a TutorsCatalogue to generate the tutors-course
+(7) A top level "generate-all-science" script, that creates the Catalogue object, creates the Department objects ("Science" and "Computing & Maths"), assembles them into an array with their icon configurations, and passes these to TutorsCatalogue to generate the tutors-course

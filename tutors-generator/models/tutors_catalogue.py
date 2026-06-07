@@ -32,63 +32,45 @@ class TutorsCatalogue:
     a Tutors course from the SETU Science Faculty Module Catalogue.
     """
 
-    def __init__(self, source_dir: Path = None, output_dir: Path = None):
+    def __init__(
+        self,
+        catalogue: Catalogue,
+        departments: list,
+        data_dir: Path,
+        tutors_generator_dir: Path,
+        output_dir: Path = None
+    ):
         """
         Initialize the course generator.
 
-        This creates the Catalogue and Department objects needed for generation.
-
         Args:
-            source_dir: Path to source directory (defaults to parent of script)
-            output_dir: Path to output directory (defaults to ../tutors-modules-by-dept)
+            catalogue: The loaded Catalogue object
+            departments: List of department dictionaries, each containing:
+                - 'department': Department object
+                - 'icon_type': Icon type for the unit (e.g., 'mdi:laptop')
+                - 'icon_color': Icon color for the unit (e.g., '1976D2')
+            data_dir: Path to data directory (repo root with Descriptors/, data/, etc.)
+            tutors_generator_dir: Path to tutors-generator directory (for tutors-files/)
+            output_dir: Path to output directory (defaults to data_dir/tutors-modules-by-dept)
         """
-        # Set paths
-        if source_dir is None:
-            # Since this file is in models/, go up two levels to get to repo root
-            source_dir = Path(__file__).parent.parent.parent
-        if output_dir is None:
-            output_dir = source_dir / "tutors-modules-by-dept"
+        self.catalogue = catalogue
+        self.departments = departments
+        self.data_dir = Path(data_dir)
+        self.tutors_generator_dir = Path(tutors_generator_dir)
 
-        self.source_dir = Path(source_dir)
+        # Set output directory
+        if output_dir is None:
+            output_dir = self.data_dir / "tutors-modules-by-dept"
         self.output_dir = Path(output_dir)
 
         # Load Tutors course ID from environment
         self.tutors_course_id = os.getenv('TUTORS_COURSE_ID', 'setu-science-modules')
 
-        print("=" * 60)
-        print("SETU Science Module Catalogue Generator - By Department")
-        print("=" * 60)
-        print()
-
-        # Create catalogue (loads all data once)
-        print("Loading catalogue data...")
-        self.catalogue = Catalogue(source_dir=self.source_dir)
-        print(f"  {self.catalogue.get_summary()}")
-        print()
-
-        # Create departments
-        print("Creating departments...")
-        self.computing = Department(
-            name="Computing and Mathematics Department",
-            filter_criteria=["Computing and Mathematics"],
-            catalogue=self.catalogue
-        )
-        print(f"  Computing: {self.computing.get_summary()}")
-
-        self.science = Department(
-            name="Science Department",
-            filter_criteria=["Science", "Land Sciences"],
-            catalogue=self.catalogue
-        )
-        print(f"  Science: {self.science.get_summary()}")
-        print()
-
     def generate_tutors_course(self):
         """
         Generate the complete Tutors course.
 
-        This creates a course structure matching the current tutors-modules-by-dept
-        implementation, with two units (Computing and Science).
+        This creates a course structure with units for each department in the departments list.
         """
         # Create course files
         self._create_course_files()
@@ -96,21 +78,14 @@ class TutorsCatalogue:
         # Clean output directory (except course files we just created)
         self._clean_output()
 
-        # Generate Unit 1: Computing and Mathematics
-        self._generate_department_unit(
-            unit_num=1,
-            department=self.computing,
-            icon_type="mdi:laptop",
-            icon_color="1976D2"
-        )
-
-        # Generate Unit 2: Science Department
-        self._generate_department_unit(
-            unit_num=2,
-            department=self.science,
-            icon_type="mdi:flask",
-            icon_color="00897B"
-        )
+        # Generate units for each department
+        for unit_num, dept_config in enumerate(self.departments, 1):
+            self._generate_department_unit(
+                unit_num=unit_num,
+                department=dept_config['department'],
+                icon_type=dept_config['icon_type'],
+                icon_color=dept_config['icon_color']
+            )
 
         # Print completion message
         print()
@@ -118,8 +93,8 @@ class TutorsCatalogue:
         print("Generation complete!")
         print("=" * 60)
         print(f"\nOutput directory: {self.output_dir}")
-        print(f"- Unit 1: Computing and Mathematics Department")
-        print(f"- Unit 2: Science Department")
+        for unit_num, dept_config in enumerate(self.departments, 1):
+            print(f"- Unit {unit_num}: {dept_config['department'].name}")
 
     def _generate_department_unit(
         self,
@@ -154,7 +129,7 @@ class TutorsCatalogue:
         # Create department generator
         dept_gen = DepartmentGenerator(
             department=department,
-            source_dir=self.source_dir,
+            source_dir=self.data_dir,
             module_icons=self.catalogue.module_icons,
             cluster_icons=self.catalogue.cluster_icons,
             programme_icons=self.catalogue.programme_icons,
@@ -174,9 +149,8 @@ class TutorsCatalogue:
         # Create output directory if it doesn't exist
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
-        # Get tutors-generator directory for source files
-        script_dir = Path(__file__).parent.parent  # Up from models/ to tutors-generator/
-        tutors_files_dir = script_dir / "tutors-files"
+        # Get tutors-files directory
+        tutors_files_dir = self.tutors_generator_dir / "tutors-files"
 
         # Copy course.md
         source_course_md = tutors_files_dir / "course.md"
