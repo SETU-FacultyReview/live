@@ -103,6 +103,9 @@ class ProgrammeSchedule:
         """
         Generate markdown table from modules organized by semester.
 
+        New format: Each semester gets 3 columns (Module | Credits | Status)
+        directly adjacent to each other with no separator columns.
+
         Args:
             modules_by_semester: Dictionary mapping semester to module list
 
@@ -121,34 +124,43 @@ class ProgrammeSchedule:
         # Build table
         lines = []
 
-        # Header row
-        semester_labels = []
+        # Header row - each semester gets 3 columns
+        header_parts = []
         for sem in semesters:
             if sem == 0:
-                semester_labels.append("Any Semester")
+                semester_label = "Any Semester"
             else:
-                semester_labels.append(f"Semester {sem}")
+                semester_label = f"Semester {sem}"
 
-        header = "| " + " | ".join(semester_labels) + " |"
+            header_parts.append(semester_label)
+            header_parts.append("")  # Credits column (no header)
+            header_parts.append("")  # Status column (no header)
+
+        header = "| " + " | ".join(header_parts) + " |"
         lines.append(header)
 
         # Separator row
-        separator = "|" + "|".join(["----------" for _ in semesters]) + "|"
+        separator_parts = []
+        for sem in semesters:
+            separator_parts.extend(["-" * 17, "-" * 3, "-" * 3])
+
+        separator = "| " + " | ".join(separator_parts) + " |"
         lines.append(separator)
 
         # Data rows
         for row_idx in range(max_modules):
-            row_cells = []
+            row_parts = []
             for sem in semesters:
                 modules = modules_by_semester[sem]
                 if row_idx < len(modules):
                     mod = modules[row_idx]
-                    cell = f"{mod['title']} ({mod['credits']}) {mod['status']}"
-                    row_cells.append(cell)
+                    row_parts.append(mod['title'])
+                    row_parts.append(str(mod['credits']))
+                    row_parts.append(mod['status'])
                 else:
-                    row_cells.append("")  # Empty cell
+                    row_parts.extend(["", "", ""])  # Empty cells
 
-            row = "| " + " | ".join(row_cells) + " |"
+            row = "| " + " | ".join(row_parts) + " |"
             lines.append(row)
 
         return "\n".join(lines) + "\n"
