@@ -238,9 +238,9 @@ class DepartmentGenerator:
 
     def generate_programmes(self, output_dir: Path, module_to_cluster_path: dict):
         """
-        Generate programmes topic.
+        Generate programmes organized by level (6, 7, 8, 9, 10).
 
-        This matches the current implementation's programme generation behavior.
+        Creates a unit for each level containing programmes at that level.
 
         Args:
             output_dir: Directory where programmes topic should be created
@@ -257,17 +257,93 @@ class DepartmentGenerator:
         with open(programmes_dir / "topic.md", 'w') as f:
             f.write(create_icon_frontmatter(icon_type, icon_color))
             f.write("# Programmes\n\n")
-            f.write(f"{len(self.department.programmes)} programmes\n")
+            f.write(f"{len(self.department.programmes)} programmes organized by level\n")
 
-        # Sort programmes alphabetically
-        sorted_programmes = sorted(self.department.programmes.items(), key=lambda x: x[1]['name'])
+        # Group programmes by level
+        programmes_by_level = self._group_programmes_by_level()
 
-        for idx, (prog_code, prog_data) in enumerate(sorted_programmes):
+        # Generate units for each level (6 to 10)
+        level_order = ['level_6', 'level_7', 'level_8', 'level_9', 'level_10']
+        level_names = {
+            'level_6': 'Level 6',
+            'level_7': 'Level 7',
+            'level_8': 'Level 8',
+            'level_9': 'Level 9',
+            'level_10': 'Level 10'
+        }
+
+        for unit_num, level_key in enumerate(level_order, 1):
+            if level_key not in programmes_by_level or not programmes_by_level[level_key]:
+                continue  # Skip levels with no programmes
+
+            self._generate_level_unit(
+                programmes_dir,
+                unit_num,
+                level_key,
+                level_names[level_key],
+                programmes_by_level[level_key],
+                module_to_cluster_path
+            )
+
+        print(f"    Generated {len(self.department.programmes)} programmes across {len(programmes_by_level)} levels")
+
+    def _group_programmes_by_level(self) -> dict:
+        """
+        Group programmes by their level.
+
+        Returns:
+            Dictionary mapping level keys to lists of (prog_code, prog_data) tuples
+        """
+        from collections import defaultdict
+        programmes_by_level = defaultdict(list)
+
+        for prog_code, prog_data in self.department.programmes.items():
+            # Get level from catalogue registry
+            if prog_code in self.department.catalogue.programme_registry:
+                level = self.department.catalogue.programme_registry[prog_code].get('level', 'other')
+                programmes_by_level[level].append((prog_code, prog_data))
+
+        return programmes_by_level
+
+    def _generate_level_unit(
+        self,
+        programmes_dir: Path,
+        unit_num: int,
+        level_key: str,
+        level_name: str,
+        programmes: list,
+        module_to_cluster_path: dict
+    ):
+        """
+        Generate a unit for a specific level containing its programmes.
+
+        Args:
+            programmes_dir: Parent programmes directory
+            unit_num: Unit number
+            level_key: Level key (e.g., 'level_6')
+            level_name: Display name (e.g., 'Level 6')
+            programmes: List of (prog_code, prog_data) tuples for this level
+            module_to_cluster_path: Mapping of module codes to weburl paths
+        """
+        # Create level unit directory
+        level_unit_dir = programmes_dir / f"unit-{unit_num:02d}-{level_key}"
+        level_unit_dir.mkdir(exist_ok=True)
+
+        # Create level unit topic.md
+        with open(level_unit_dir / "topic.md", 'w') as f:
+            f.write(f"# {level_name}\n\n")
+            f.write(f"{len(programmes)} programmes at {level_name}\n")
+
+        # Sort programmes alphabetically by name
+        sorted_programmes = sorted(programmes, key=lambda x: x[1]['name'])
+
+        # Generate topics for each programme in this level
+        for idx, (prog_code, prog_data) in enumerate(sorted_programmes, 1):
             prog_name = prog_data['name']
             semesters = prog_data['semesters']
 
-            # Create programme directory
-            prog_dir = programmes_dir / f"topic-{idx:02d}-{prog_code}"
+            # Create programme directory within this level unit
+            prog_dir = level_unit_dir / f"topic-{idx:02d}-{prog_code}"
             prog_dir.mkdir(exist_ok=True)
 
             # Get icon for programme
@@ -293,8 +369,11 @@ class DepartmentGenerator:
                 semester_unit_dir.mkdir(exist_ok=True)
 
                 # Create semester topic.md
+                # Semester 0 = "Any Semester"
+                semester_label = "Any Semester" if semester_num == 0 else f"Semester {semester_num}"
+
                 with open(semester_unit_dir / "topic.md", 'w') as f:
-                    f.write(f"# Semester {semester_num}\n\n")
+                    f.write(f"# {semester_label}\n\n")
                     f.write(f"{len(semester_modules)} modules\n")
 
                 # Create web objects for each module
@@ -344,8 +423,6 @@ class DepartmentGenerator:
                     cluster_path = module_to_cluster_path.get(module_code, "#")
                     with open(web_dir / "weburl", 'w') as f:
                         f.write(cluster_path)
-
-        print(f"    Generated {len(self.department.programmes)} programmes")
 
     def _copy_module_pdf(self, module_code: str, descriptor: dict, archives_dir: Path):
         """

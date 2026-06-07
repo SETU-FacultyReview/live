@@ -74,11 +74,12 @@ class Department:
         }
 
         # Count modules per programme to filter out programmes with too few modules
+        # Note: semester 0 means "any semester" and should be counted
         prog_module_counts = defaultdict(int)
         for module_code, descriptor in self.catalogue.descriptors.items():
             if 'programmes' in descriptor and descriptor['programmes']:
                 for prog in descriptor['programmes']:
-                    if prog and 'code' in prog and prog.get('semester'):
+                    if prog and 'code' in prog and 'semester' in prog:
                         prog_module_counts[prog['code']] += 1
 
         # Build programmes data with semester structure
@@ -110,8 +111,9 @@ class Department:
                                 'semesters': defaultdict(list)
                             }
 
-                        # Add module to semester (only if semester is specified)
-                        if semester:
+                        # Add module to semester (semester 0 = "any semester")
+                        # Only skip if semester key doesn't exist in the data
+                        if 'semester' in prog:
                             programmes_data[prog_code]['semesters'][semester].append({
                                 'code': module_code,
                                 'status': status,
