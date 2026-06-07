@@ -73,6 +73,9 @@ class ProgrammeSchedule:
         """
         Organize modules by semester.
 
+        Modules are sorted within each semester with mandatory modules first,
+        followed by elective modules.
+
         Returns:
             Dictionary mapping semester number to list of module info dicts
         """
@@ -96,6 +99,12 @@ class ProgrammeSchedule:
                     'credits': credits,
                     'status': status_label
                 })
+
+        # Sort modules within each semester: Mandatory first, then Elective
+        for semester_num in modules_by_semester:
+            modules_by_semester[semester_num].sort(
+                key=lambda m: (0 if m['status'] == 'M' else 1, m['title'])
+            )
 
         return modules_by_semester
 
