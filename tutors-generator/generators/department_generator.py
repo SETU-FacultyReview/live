@@ -23,6 +23,7 @@ from icons import (
     create_icon_frontmatter
 )
 from generators.markdown_generator import MarkdownGenerator
+from generators.programme_schedule import ProgrammeSchedule
 
 
 class DepartmentGenerator:
@@ -359,6 +360,10 @@ class DepartmentGenerator:
                 f.write(create_icon_frontmatter(icon_type, icon_color))
                 f.write(f"# {prog_name}\n\n")
                 f.write("TODO: Programme leader information\n")
+
+            # Generate programme schedule panelnote
+            schedule_generator = ProgrammeSchedule(self.department, prog_code, module_to_cluster_path)
+            schedule_generator.generate_schedule(prog_dir)
 
             # Create semester units
             for semester_num in sorted(semesters.keys()):
