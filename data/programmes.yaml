@@ -1,0 +1,278 @@
+departments:
+  Computing and Mathematics:
+    level_6:
+    - code: WD_KAGIL_MA
+      title: Certificate in Agile Software Development
+      category: '15'
+      faculty: Science and Computing
+    - code: WD_KDATA_MA
+      title: Certificate in Data Mining
+      category: '23'
+      faculty: Science and Computing
+    - code: WD_SDATA_MA
+      title: Certificate in Statistics & Data design
+      category: '23'
+      faculty: Science and Computing
+    level_7:
+    - code: WD_KINFT_D
+      title: BSc in Information Technology
+      category: '10'
+      faculty: Science and Computing
+    - code: WD_KMULA_D
+      title: BSc in Multimedia Applications
+      category: '10'
+      faculty: Science and Computing
+    - code: WD_KCOMC_D
+      title: BSc in Software Systems Development
+      category: '10'
+      faculty: Science and Computing
+    - code: WD_KCOMP_D
+      title: Bachelor of Science in Computing
+      category: '10'
+      faculty: Science and Computing
+    level_8:
+    - code: WD_KSOFP_B
+      title: BSc (H) Software Systems Practice
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_KCOMP_B
+      title: BSc (H) in Applied Computing
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_KACCM_B
+      title: BSc (H) in Applied Computing
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_KCOFO_B
+      title: BSc (H) in Computer Forensics and Security
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_KCMSC_B
+      title: BSc (H) in Computer Science
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_KCRCO_B
+      title: BSc (H) in Creative Computing
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_KENTS_B
+      title: BSc (H) in Entertainments Systems
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_KITMA_B
+      title: BSc (H) in Information Technology
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_KDEVP_B
+      title: BSc (H) in Software Sys Development
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_KINTT_B
+      title: BSc (H) in the Internet of Things
+      category: '11'
+      faculty: Science and Computing
+    level_9:
+    - code: WD_KBUSY_G
+      title: Higher Diploma in Science in Business Systems Analysis
+      category: '29'
+      faculty: Science and Computing
+    - code: WD_KCOSC_G
+      title: Higher Diploma in Science in Computer Science
+      category: '29'
+      faculty: Science and Computing
+    - code: WD_KISYP_R
+      title: MSc Comp (Info Systems Proc)
+      category: '25'
+      faculty: Science and Computing
+    - code: WD_KCESS_R
+      title: MSc in Computer Science (Enterprise Software Systems)
+      category: '25'
+      faculty: Science and Computing
+    - code: WD_KCOEN_R
+      title: MSc in Computing (Enterprise Software Systems)
+      category: '25'
+      faculty: Science and Computing
+    level_10:
+    - code: WD_KPQSC_P
+      title: PhD in Science
+      category: '27'
+      faculty: Science and Computing
+    - code: WD_KPQSC_PJ
+      title: PhD in Science
+      category: '27'
+      faculty: Science and Computing
+    - code: WD_KPQSC_PS
+      title: PhD in Science
+      category: '27'
+      faculty: Science and Computing
+  Land Sciences:
+    level_6:
+    - code: WD_SCROP_MA
+      title: Certificate in Crop Management in Organic & Biological Agriculture
+      category: '23'
+      faculty: Science and Computing
+    - code: WD_SFOHE_MA
+      title: Certificate in Food, Health & Nutrition
+      category: '23'
+      faculty: Science and Computing
+    - code: WD_SGARD_MA
+      title: Certificate in Garden Management
+      category: '15'
+      faculty: Science and Computing
+    - code: WD_SDESG_MA
+      title: Certificate in Landscape Design
+      category: '15'
+      faculty: Science and Computing
+    - code: WD_SLIVE_MA
+      title: Certificate in Livestock Management in Organic & Biological Agriculture
+      category: '23'
+      faculty: Science and Computing
+    - code: WD_SNUST_MA
+      title: Certificate in Nursery Stock Production
+      category: '15'
+      faculty: Science and Computing
+    - code: WD_SSOIL_MA
+      title: Certificate in Soil Health and Water Management
+      category: '23'
+      faculty: Science and Computing
+    level_7:
+    - code: WD_SAGUL_D
+      title: BSc in Agriculture
+      category: '10'
+      faculty: Science and Computing
+    - code: WD_SFDSC_D
+      title: BSc in Food Science with Business
+      category: '10'
+      faculty: Science and Computing
+    - code: WD_SFORS_D
+      title: BSc in Forestry
+      category: '10'
+      faculty: Science and Computing
+    - code: WD_SHORT_D
+      title: BSc in Horticulture
+      category: '10'
+      faculty: Science and Computing
+    - code: WD_SHORT_DX
+      title: BSc in Horticulture (Botanics)
+      category: '10'
+      faculty: Science and Computing
+    level_8:
+    - code: WD_SAGRI_B
+      title: BSc (H) in Agricultural Science
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_SFSIN_B
+      title: BSc (H) in Food Science & Innovation
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_SBSFO_B
+      title: BSc (H) in Land Management  (in Forestry)
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_SBSAG_B
+      title: BSc (H) in Land Management (in Agriculture)
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_SBSHO_B
+      title: BSc (H) in Land Management (in Horticulture)
+      category: '11'
+      faculty: Science and Computing
+    level_9:
+    - code: WD_SOBIA_R
+      title: Master of Science in Organic and Biological Agriculture
+      category: '25'
+      faculty: Science and Computing
+    - code: WD_SOBIA_G
+      title: Postgrad Dip in Science in Organic & Biological Agriculture
+      category: '30'
+      faculty: Science and Computing
+  Science:
+    level_6:
+    - code: WD_SDRUG_MA
+      title: Certificate in Advanced Drug Formulation Science
+      category: '23'
+      faculty: Science and Computing
+    - code: WD_SINTR_MA
+      title: Certificate in International Regulatory Affairs
+      category: '23'
+      faculty: Science and Computing
+    - code: WD_SQUAL_MA
+      title: Certificate in Strategic Quality Management
+      category: '23'
+      faculty: Science and Computing
+    - code: WD_APSLT_C
+      title: Higher Certificate in Science - Laboratory Technician
+      category: '16'
+      faculty: Science and Computing
+    - code: WD_SGMPT_C
+      title: Higher Certificate in Science in Good Manufacturing Practice and Technology
+      category: '16'
+      faculty: Science and Computing
+    level_7:
+    - code: WD_SMBIO_D
+      title: BSc in Molecular Biology with Biopharmaceutical Science
+      category: '10'
+      faculty: Science and Computing
+    - code: WD_SPHSC_D
+      title: BSc in Pharmaceutical Science
+      category: '10'
+      faculty: Science and Computing
+    - code: WD_SSCIE_D
+      title: Bachelor of Science (Common Entry)
+      category: '10'
+      faculty: Science and Computing
+    - code: WD_APSLA_D
+      title: Bachelor of Science - Laboratory Analyst
+      category: '10'
+      faculty: Science and Computing
+    - code: WD_SGMPT_D
+      title: Bachelor of Science in Good Manufacturing Practice and Technology
+      category: '10'
+      faculty: Science and Computing
+    level_8:
+    - code: WD_SMBIO_B
+      title: BSc (H) Molecular Biology
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_KPHTE_B
+      title: BSc (H) Physics for Modern Technology
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_SPHSC_B
+      title: BSc (H) in Pharmaceutical Science
+      category: '11'
+      faculty: Science and Computing
+    - code: WD_SSCCM_B
+      title: Bachelor of Science (Honours) (Common Entry)
+      category: '11'
+      faculty: Science and Computing
+    level_9:
+    - code: WD_SANSC_R
+      title: Master of Science in Analytical Science with Quality Management
+      category: '25'
+      faculty: Science and Computing
+    - code: WD_SCLSC_MJ
+      title: Masters of Science
+      category: '26'
+      faculty: Science and Computing
+    - code: WD_SCLSC_MS
+      title: Masters of Science
+      category: '26'
+      faculty: Science and Computing
+    - code: WD_SANSC_G
+      title: Postgraduate Diploma in Analytical Science with Quality Management
+      category: '30'
+      faculty: Science and Computing
+    level_10:
+    - code: WD_SCLSC_P
+      title: PhD in Science
+      category: '27'
+      faculty: Science and Computing
+    - code: WD_SCLSC_PJ
+      title: PhD in Science
+      category: '27'
+      faculty: Science and Computing
+    - code: WD_SCLSC_PS
+      title: PhD in Science
+      category: '27'
+      faculty: Science and Computing

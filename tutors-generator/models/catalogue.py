@@ -64,24 +64,31 @@ class Catalogue:
         self._load_all_icons()
 
     def _load_programme_registry(self):
-        """Load programme registry from all_programmes_by_department.csv"""
-        programmes_csv = self.source_dir / "data" / "all_programmes_by_department.csv"
+        """Load programme registry from programmes.yaml"""
+        programmes_yaml = self.source_dir / "data" / "programmes.yaml"
 
-        if not programmes_csv.exists():
-            print(f"Warning: all_programmes_by_department.csv not found at {programmes_csv}")
+        if not programmes_yaml.exists():
+            print(f"Warning: programmes.yaml not found at {programmes_yaml}")
             return
 
-        with open(programmes_csv, 'r', encoding='utf-8-sig') as f:  # utf-8-sig handles BOM
-            reader = csv.DictReader(f)
-            for row in reader:
-                if 'Programme_Code' in row and row['Programme_Code']:  # Skip empty rows
-                    code = row['Programme_Code']
-                    self.programme_registry[code] = {
-                        'title': row.get('Programme_Title', ''),
-                        'department': row.get('Department', ''),
-                        'faculty': row.get('School', ''),  # School maps to faculty
-                        'category': row.get('Programme_Category', '')
-                    }
+        # Load YAML file
+        programmes_data = load_yaml_file(programmes_yaml, default={})
+
+        # Extract programmes from hierarchical structure
+        # Structure: departments -> department_name -> level_X -> [programmes]
+        if 'departments' in programmes_data:
+            for dept_name, levels in programmes_data['departments'].items():
+                for level_name, programmes in levels.items():
+                    for prog in programmes:
+                        code = prog.get('code')
+                        if code:
+                            self.programme_registry[code] = {
+                                'title': prog.get('title', ''),
+                                'department': dept_name,
+                                'faculty': prog.get('faculty', ''),
+                                'category': prog.get('category', ''),
+                                'level': level_name  # Add level information
+                            }
 
         print(f"Loaded {len(self.programme_registry)} programmes from registry")
 
