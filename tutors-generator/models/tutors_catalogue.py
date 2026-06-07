@@ -1,5 +1,5 @@
 """
-GenerateTutorsCourse - Orchestrates generation of the complete Tutors course.
+TutorsCatalogue - Orchestrates generation of the complete Tutors course.
 
 This class creates a Catalogue, creates Department objects, and uses
 DepartmentGenerator to produce a complete Tutors course matching the
@@ -7,9 +7,13 @@ current tutors-modules-by-dept structure.
 """
 
 import os
+import sys
 import shutil
 from pathlib import Path
 from dotenv import load_dotenv
+
+# Add parent directory to path for imports
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 from models import Catalogue, Department
 from generators import DepartmentGenerator
@@ -20,7 +24,7 @@ from icons import create_icon_frontmatter
 load_dotenv()
 
 
-class GenerateTutorsCourse:
+class TutorsCatalogue:
     """
     Orchestrates the generation of a complete Tutors course.
 
@@ -40,7 +44,8 @@ class GenerateTutorsCourse:
         """
         # Set paths
         if source_dir is None:
-            source_dir = Path(__file__).parent.parent
+            # Since this file is in models/, go up two levels to get to repo root
+            source_dir = Path(__file__).parent.parent.parent
         if output_dir is None:
             output_dir = source_dir / "tutors-modules-by-dept"
 
@@ -169,8 +174,8 @@ class GenerateTutorsCourse:
         # Create output directory if it doesn't exist
         self.output_dir.mkdir(parents=True, exist_ok=True)
 
-        # Get script directory for source files
-        script_dir = Path(__file__).parent
+        # Get tutors-generator directory for source files
+        script_dir = Path(__file__).parent.parent  # Up from models/ to tutors-generator/
         tutors_files_dir = script_dir / "tutors-files"
 
         # Copy course.md
