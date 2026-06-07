@@ -20,16 +20,18 @@ class ProgrammeSchedule:
     mandatory/elective status.
     """
 
-    def __init__(self, department, programme_code: str):
+    def __init__(self, department, programme_code: str, module_to_cluster_path: dict):
         """
         Initialize the programme schedule generator.
 
         Args:
             department: Department object containing programme data
             programme_code: The programme code (e.g., 'WD_KACCM_B')
+            module_to_cluster_path: Dictionary mapping module codes to weburl paths
         """
         self.department = department
         self.programme_code = programme_code
+        self.module_to_cluster_path = module_to_cluster_path
 
         # Get programme data
         if programme_code not in department.programmes:
@@ -97,7 +99,8 @@ class ProgrammeSchedule:
                 modules_by_semester[semester_num].append({
                     'title': short_title,
                     'credits': credits,
-                    'status': status_label
+                    'status': status_label,
+                    'code': module_code
                 })
 
         # Sort modules within each semester: Mandatory first, then Elective
@@ -163,7 +166,15 @@ class ProgrammeSchedule:
                 modules = modules_by_semester[sem]
                 if row_idx < len(modules):
                     mod = modules[row_idx]
-                    row_parts.append(mod['title'])
+                    # Create markdown link if weburl path exists
+                    module_code = mod['code']
+                    if module_code in self.module_to_cluster_path:
+                        weburl = self.module_to_cluster_path[module_code]
+                        module_title = f"[{mod['title']}]({weburl})"
+                    else:
+                        module_title = mod['title']
+
+                    row_parts.append(module_title)
                     row_parts.append(str(mod['credits']))
                     row_parts.append(mod['status'])
                 else:

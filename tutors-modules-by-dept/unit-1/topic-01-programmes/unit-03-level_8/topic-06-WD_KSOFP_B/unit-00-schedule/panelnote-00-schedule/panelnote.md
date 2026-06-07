@@ -1,8 +1,8 @@
 | Semester 1 |  |  | Semester 2 |  |  |
 | ----------------- | --- | --- | ----------------- | --- | --- |
-| Data Analytics Essentials | 5 | M | Application Security | 5 | M |
-| DevOps Practice | 5 | M | Cloud App Development | 5 | M |
-| EFL Advanced 1 | 5 | M | Data Science in Practice | 5 | M |
-| Enterprise Systems Arch. | 5 | M | EFL Advanced 2 | 5 | M |
-| Project 1 (Development) | 5 | M | Project 2 (Development) | 10 | M |
-| Web App Development 2 | 5 | M |  |  |  |
+| [Data Analytics Essentials](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics/note-08-note-08-Data_Analytics_Essentials) | 5 | M | [Application Security](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security/note-01-note-01-Application_Security) | 5 | M |
+| [DevOps Practice](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling/note-04-note-04-DevOps_Practice) | 5 | M | [Cloud App Development](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-03-note-03-Cloud_App_Development) | 5 | M |
+| EFL Advanced 1 | 5 | M | [Data Science in Practice](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics/note-12-note-12-Data_Science_in_Practice) | 5 | M |
+| [Enterprise Systems Arch.](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling/note-10-note-10-Enterprise_Systems_Architecture) | 5 | M | EFL Advanced 2 | 5 | M |
+| [Project 1 (Development)](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills/note-19-note-19-Project_1_Development) | 5 | M | [Project 2 (Development)](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills/note-21-note-21-Project_2_Development) | 10 | M |
+| [Web App Development 2](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-29-note-29-Web_App_Development_2) | 5 | M |  |  |  |

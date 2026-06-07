@@ -362,7 +362,7 @@ class DepartmentGenerator:
                 f.write("TODO: Programme leader information\n")
 
             # Generate programme schedule panelnote
-            schedule_generator = ProgrammeSchedule(self.department, prog_code)
+            schedule_generator = ProgrammeSchedule(self.department, prog_code, module_to_cluster_path)
             schedule_generator.generate_schedule(prog_dir)
 
             # Create semester units
