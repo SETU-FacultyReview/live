@@ -126,9 +126,9 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_SAGRI_B | Bachelor of Science (Honours) in Agricultural Science | 4 | 7 | Elective |
-| WD_SBSAG_B | Bachelor of Science (Honours) in Land Management (in Agriculture) | 1 | 1 | Mandatory |
-| WD_SBSHO_B | Bachelor of Science (Honours) in Land Management (in Horticulture) | 1 | 1 | Elective |
+| [WD_SAGRI_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 7 | Elective |
+| [WD_SBSAG_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 1 | Mandatory |
+| [WD_SBSHO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 1 | Elective |
 
 ---
 

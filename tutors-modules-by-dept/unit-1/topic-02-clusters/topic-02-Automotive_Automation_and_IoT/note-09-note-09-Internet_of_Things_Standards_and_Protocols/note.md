@@ -127,12 +127,12 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KACCM_B | BSc (Hons) in Applied Computing | 2 | 4 | Elective |
-| WD_KCMSC_B | BSc (Hons) in Computer Science | 2 | 4 | Elective |
-| WD_KCOMC_D | BSc in Software Systems Development | 3 | 6 | Elective |
-| WD_KCOMP_B | Bachelor of Science (Honours) in Applied Computing | 2 | 4 | Elective |
-| WD_KCOMP_B | BSc (Hons) in Applied Computing | 3 | 5 | Elective |
-| WD_KDEVP_B | BSc (Hons) in Software Systems Development | 3 | 6 | Elective |
+| [WD_KACCM_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 2 | 4 | Elective |
+| [WD_KCMSC_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 2 | 4 | Elective |
+| [WD_KCOMC_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [BSc in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 3 | 6 | Elective |
+| [WD_KCOMP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 2 | 4 | Elective |
+| [WD_KCOMP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 3 | 5 | Elective |
+| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 3 | 6 | Elective |
 | WD_KINTT_BI | BSc (Hons) in the Internet of Things (International) | 2 | 4 | Mandatory |
 
 ---

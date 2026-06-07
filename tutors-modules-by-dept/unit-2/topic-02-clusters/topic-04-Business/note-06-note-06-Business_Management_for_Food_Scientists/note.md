@@ -125,7 +125,7 @@ This module is available on the following programmes:
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_18AFICT_G | Higher Diploma in Science in Agi-Food ICT Systems | 1 | 2 | Mandatory |
 | WD_SFDSC_B | Bachelor of Science (Honours) in Food Science and Innovation | 4 | 1 | Mandatory |
-| WD_SFSIN_B | BSc (Hons) in Food Science and Innovation | 4 | 7 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 4 | 7 | Mandatory |
 
 ---
 

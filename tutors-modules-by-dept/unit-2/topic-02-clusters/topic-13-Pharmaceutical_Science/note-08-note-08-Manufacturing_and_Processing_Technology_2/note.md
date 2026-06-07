@@ -142,7 +142,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_SGMPT_D | Bachelor of Science in Good Manufacturing Practice and Technology | 1 | 1 | Mandatory |
+| [WD_SGMPT_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | [Bachelor of Science in Good Manufacturing Practice and Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | 1 | 1 | Mandatory |
 
 ---
 

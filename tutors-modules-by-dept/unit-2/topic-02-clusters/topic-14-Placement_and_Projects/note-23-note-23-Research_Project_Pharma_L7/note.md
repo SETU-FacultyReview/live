@@ -119,7 +119,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_SPHSC_D | Bachelor of Science in Pharmaceutical Science | 3 | 6 | Mandatory |
+| [WD_SPHSC_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [Bachelor of Science in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 3 | 6 | Mandatory |
 
 ---
 

@@ -133,8 +133,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_SPHSC_B | Bachelor of Science (Honours) in Pharmaceutical Science | 2 | 4 | Mandatory |
-| WD_SPHSC_D | Bachelor of Science in Pharmaceutical Science | 2 | 4 | Mandatory |
+| [WD_SPHSC_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 2 | 4 | Mandatory |
+| [WD_SPHSC_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [Bachelor of Science in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 2 | 4 | Mandatory |
 
 ---
 

@@ -70,7 +70,7 @@ class DepartmentGenerator:
             cluster_icons=cluster_icons
         )
 
-    def generate_clusters(self, output_dir: Path) -> dict:
+    def generate_clusters(self, output_dir: Path, programme_to_topic_path: dict = None) -> dict:
         """
         Generate clusters topic containing all clusters + module descriptors + PDFs.
 
@@ -78,6 +78,7 @@ class DepartmentGenerator:
 
         Args:
             output_dir: Directory where clusters topic should be created
+            programme_to_topic_path: Optional dict mapping programme codes to topic weburl paths
 
         Returns:
             Dictionary mapping module_code -> weburl path
@@ -156,7 +157,8 @@ class DepartmentGenerator:
                 markdown_content = self.markdown_generator.generate_module_descriptor(
                     module_code=module_code,
                     descriptor=descriptor,
-                    cluster_name=cluster_name
+                    cluster_name=cluster_name,
+                    programme_to_topic_path=programme_to_topic_path
                 )
 
                 # Write note.md
@@ -237,7 +239,7 @@ class DepartmentGenerator:
 
         print(f"    Generated {len(self.department.modules)} module web links")
 
-    def generate_programmes(self, output_dir: Path, module_to_cluster_path: dict):
+    def generate_programmes(self, output_dir: Path, module_to_cluster_path: dict) -> dict:
         """
         Generate programmes organized by level (6, 7, 8, 9, 10).
 
@@ -246,6 +248,9 @@ class DepartmentGenerator:
         Args:
             output_dir: Directory where programmes topic should be created
             module_to_cluster_path: Mapping of module codes to weburl paths
+
+        Returns:
+            Dictionary mapping programme_code -> weburl topic path
         """
         programmes_dir = output_dir / "topic-01-programmes"
         programmes_dir.mkdir(exist_ok=True)
@@ -259,6 +264,9 @@ class DepartmentGenerator:
             f.write(create_icon_frontmatter(icon_type, icon_color))
             f.write("# Programmes\n\n")
             f.write(f"{len(self.department.programmes)} programmes organized by level\n")
+
+        # Dictionary to store programme code -> topic weburl path
+        programme_to_topic_path = {}
 
         # Group programmes by level
         programmes_by_level = self._group_programmes_by_level()
@@ -277,7 +285,7 @@ class DepartmentGenerator:
             if level_key not in programmes_by_level or not programmes_by_level[level_key]:
                 continue  # Skip levels with no programmes
 
-            self._generate_level_unit(
+            level_programme_paths = self._generate_level_unit(
                 programmes_dir,
                 unit_num,
                 level_key,
@@ -285,8 +293,11 @@ class DepartmentGenerator:
                 programmes_by_level[level_key],
                 module_to_cluster_path
             )
+            # Merge the paths from this level
+            programme_to_topic_path.update(level_programme_paths)
 
         print(f"    Generated {len(self.department.programmes)} programmes across {len(programmes_by_level)} levels")
+        return programme_to_topic_path
 
     def _group_programmes_by_level(self) -> dict:
         """
@@ -314,7 +325,7 @@ class DepartmentGenerator:
         level_name: str,
         programmes: list,
         module_to_cluster_path: dict
-    ):
+    ) -> dict:
         """
         Generate a unit for a specific level containing its programmes.
 
@@ -325,6 +336,9 @@ class DepartmentGenerator:
             level_name: Display name (e.g., 'Level 6')
             programmes: List of (prog_code, prog_data) tuples for this level
             module_to_cluster_path: Mapping of module codes to weburl paths
+
+        Returns:
+            Dictionary mapping programme_code -> weburl topic path for this level
         """
         # Create level unit directory
         level_unit_dir = programmes_dir / f"unit-{unit_num:02d}-{level_key}"
@@ -334,6 +348,9 @@ class DepartmentGenerator:
         with open(level_unit_dir / "topic.md", 'w') as f:
             f.write(f"# {level_name}\n\n")
             f.write(f"{len(programmes)} programmes at {level_name}\n")
+
+        # Dictionary to store programme paths for this level
+        programme_paths = {}
 
         # Sort programmes alphabetically by name
         sorted_programmes = sorted(programmes, key=lambda x: x[1]['name'])
@@ -364,6 +381,19 @@ class DepartmentGenerator:
             # Generate programme schedule panelnote
             schedule_generator = ProgrammeSchedule(self.department, prog_code, module_to_cluster_path)
             schedule_generator.generate_schedule(prog_dir)
+
+            # Build weburl path for this programme
+            from utils import get_tutors_weburl_path
+            # programmes_dir parent is the output_dir (department unit)
+            department_unit_name = programmes_dir.parent.name
+            prog_topic_path = get_tutors_weburl_path(
+                self.tutors_course_id,
+                department_unit_name,
+                "topic-01-programmes",
+                f"unit-{unit_num:02d}-{level_key}",
+                f"topic-{idx:02d}-{prog_code}"
+            )
+            programme_paths[prog_code] = prog_topic_path
 
             # Create semester units
             for semester_num in sorted(semesters.keys()):
@@ -428,6 +458,8 @@ class DepartmentGenerator:
                     cluster_path = module_to_cluster_path.get(module_code, "#")
                     with open(web_dir / "weburl", 'w') as f:
                         f.write(cluster_path)
+
+        return programme_paths
 
     def _copy_module_pdf(self, module_code: str, descriptor: dict, archives_dir: Path):
         """

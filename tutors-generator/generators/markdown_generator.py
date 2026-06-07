@@ -37,7 +37,8 @@ class MarkdownGenerator:
         self,
         module_code: str,
         descriptor: dict,
-        cluster_name: Optional[str] = None
+        cluster_name: Optional[str] = None,
+        programme_to_topic_path: Optional[dict] = None
     ) -> str:
         """
         Generate markdown content for a module from its descriptor.
@@ -46,6 +47,7 @@ class MarkdownGenerator:
             module_code: The module code (e.g., "A12345")
             descriptor: Module descriptor dictionary
             cluster_name: Optional cluster name for icon fallback
+            programme_to_topic_path: Optional dict mapping programme codes to topic weburl paths
 
         Returns:
             Complete markdown content for the module
@@ -257,7 +259,17 @@ class MarkdownGenerator:
                     stage = prog_info.get('stage', '')
                     semester = prog_info.get('semester', '')
                     status = format_module_status(prog_info.get('status', ''))
-                    md.append(f"| {prog_code} | {prog_title} | {stage} | {semester} | {status} |")
+
+                    # Create links for programme code and title if path available
+                    if programme_to_topic_path and prog_code in programme_to_topic_path:
+                        prog_url = programme_to_topic_path[prog_code]
+                        prog_code_link = f"[{prog_code}]({prog_url})"
+                        prog_title_link = f"[{prog_title}]({prog_url})"
+                    else:
+                        prog_code_link = prog_code
+                        prog_title_link = prog_title
+
+                    md.append(f"| {prog_code_link} | {prog_title_link} | {stage} | {semester} | {status} |")
 
             md.append("")
             md.append("---")

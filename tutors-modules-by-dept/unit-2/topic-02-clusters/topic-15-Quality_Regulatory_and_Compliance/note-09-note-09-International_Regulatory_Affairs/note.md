@@ -135,8 +135,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_SANSC_G | Postgraduate Diploma in Analytical Science with Quality Management | 1 | 0 | Elective |
-| WD_SANSC_R | Master of Science in Analytical Science with Quality Management | 1 | 0 | Elective |
+| [WD_SANSC_G](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | 1 | 0 | Elective |
+| [WD_SANSC_R](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
 | WD_SGRAD_XX | Postgraduate Programmes in Science | 5 | 0 | Elective |
 | WD_SINTR_MA | Certificate in International Regulatory Affairs | 5 | 0 | Mandatory |
 

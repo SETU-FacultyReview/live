@@ -123,7 +123,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KCOSC_G | Higher Diploma in Science in Computer Science | 1 | 2 | Mandatory |
+| [WD_KCOSC_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 1 | 2 | Mandatory |
 
 ---
 

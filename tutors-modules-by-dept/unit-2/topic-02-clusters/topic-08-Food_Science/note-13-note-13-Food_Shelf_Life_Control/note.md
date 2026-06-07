@@ -137,7 +137,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_SFDSC_B | Bachelor of Science (Honours) in Food Science and Innovation | 4 | 2 | Mandatory |
-| WD_SFSIN_B | BSc (Hons) in Food Science and Innovation | 4 | 8 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 4 | 8 | Mandatory |
 
 ---
 

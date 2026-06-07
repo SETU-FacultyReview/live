@@ -133,7 +133,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_SMBIO_B | Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science | 4 | 8 | Mandatory |
+| [WD_SMBIO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 4 | 8 | Mandatory |
 | WD_SQMBI_B | Bachelor of Science (Honours) in Applied Biology with Quality Management | 4 | 2 | Mandatory |
 
 ---

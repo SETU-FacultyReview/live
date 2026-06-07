@@ -127,8 +127,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KBUSY_G | Higher Diploma in Science in Business Systems Analysis | 4 | 1 | Mandatory |
-| WD_KCOSC_G | Higher Diploma in Science in Computer Science | 1 | 1 | Mandatory |
+| [WD_KBUSY_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 4 | 1 | Mandatory |
+| [WD_KCOSC_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 1 | 1 | Mandatory |
 | WD_KDAAN_G | HDip in Science in Data Analytics | 1 | 1 | Mandatory |
 | WD_KDTAN_MA | Certificate in Data Analytics | 1 | 1 | Mandatory |
 | WD_SAFICT_G | HDip in Science in Agri-Food ICT Systems | 5 | 1 | Mandatory |

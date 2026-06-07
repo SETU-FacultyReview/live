@@ -131,7 +131,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_18AFICT_G | Higher Diploma in Science in Agi-Food ICT Systems | 1 | 3 | Mandatory |
-| WD_KBUSY_G | Higher Diploma in Science in Business Systems Analysis | 1 | 2 | Mandatory |
+| [WD_KBUSY_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 1 | 2 | Mandatory |
 | WD_SAFICT_G | HDip in Science in Agri-Food ICT Systems | 6 | 3 | Mandatory |
 
 ---

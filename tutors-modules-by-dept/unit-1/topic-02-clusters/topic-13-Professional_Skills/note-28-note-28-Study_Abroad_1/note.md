@@ -110,16 +110,16 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KACCM_B | BSc (Hons) in Applied Computing | 3 | 6 | Elective |
-| WD_KCMSC_B | BSc (Hons) in Computer Science | 3 | 6 | Elective |
-| WD_KCOFO_B | Bachelor of Science (Honours) in Computer Forensics and Security | 3 | 6 | Elective |
-| WD_KCOMC_D | Bachelor of Science in Software Systems Development | 3 | 5 | Elective |
-| WD_KCOMP_B | Bachelor of Science (Honours) in Applied Computing | 3 | 6 | Elective |
-| WD_KCOMP_D | BSc in Applied Computing | 3 | 5 | Elective |
-| WD_KCRCO_B | BSc (Hons) in Creative Computing | 3 | 5 | Elective |
-| WD_KDEVP_B | BSc (Hons) in Software Systems Development | 3 | 5 | Elective |
-| WD_KINFT_D | Bachelor of Science in Information Technology | 3 | 5 | Elective |
-| WD_KMULA_D | Bachelor of Science in Multimedia Applications Development | 3 | 5 | Elective |
+| [WD_KACCM_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 3 | 6 | Elective |
+| [WD_KCMSC_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 3 | 6 | Elective |
+| [WD_KCOFO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 3 | 6 | Elective |
+| [WD_KCOMC_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 3 | 5 | Elective |
+| [WD_KCOMP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 3 | 6 | Elective |
+| [WD_KCOMP_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 3 | 5 | Elective |
+| [WD_KCRCO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 3 | 5 | Elective |
+| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 3 | 5 | Elective |
+| [WD_KINFT_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 3 | 5 | Elective |
+| [WD_KMULA_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 3 | 5 | Elective |
 
 ---
 

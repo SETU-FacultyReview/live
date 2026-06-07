@@ -134,7 +134,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_SOBIA_R | MSc in Organic and Biological Agriculture | 2 | 4 | Mandatory |
+| [WD_SOBIA_R](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | [MSc in Organic and Biological Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | 2 | 4 | Mandatory |
 
 ---
 

@@ -127,12 +127,12 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| WD_KCOMP_D | BSc in Applied Computing | 3 | 6 | Mandatory |
-| WD_KCRCO_B | BSc (Hons) in Creative Computing | 4 | 7 | Mandatory |
+| [WD_KCOMP_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 3 | 6 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 7 | Mandatory |
 | WD_KCSDV_B | Bachelor of Science (Honours) in Software Systems Development | 4 | 1 | Elective |
-| WD_KDEVP_B | BSc (Hons) in Software Systems Development | 4 | 7 | Elective |
+| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 7 | Elective |
 | WD_KINTE_B | Bachelor of Science (Honours) in Information Technology | 4 | 1 | Mandatory |
-| WD_KITMA_B | BSc (Hons) in Information Technology Management | 1 | 7 | Mandatory |
+| [WD_KITMA_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | [BSc (Hons) in Information Technology Management](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | 1 | 7 | Mandatory |
 | WD_KMULM_B | Bachelor of Science (Honours) in Multimedia Applications Development | 4 | 1 | Mandatory |
 
 ---

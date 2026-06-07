@@ -1,0 +1,2 @@
+Each module descriptor has a link to the programmes the module appears in. Make this a link to the module topic for the programme. Use the TUTORS_COURSE_ID in the weburl, following the pattern used in the weburl for the module descriptor objects. Here is an example of one of the links.
+- topic/setu-sci-modules/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KA
