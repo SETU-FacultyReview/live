@@ -4,7 +4,13 @@ Write a Class "ProgrammeSchedule" which takes a Department as a constructor para
 
 - generateSchedule
 
-This should generate a tutors "panelnote" (see [tutors panelnote](https://tutors.dev/note/tutors-reference-manual/unit-2-panels-and-videos/note-a-resources#panelnote) documentation). This panelnote should have a table which shows the "Programme Schedule" for the programme.
+This should generate a unit containing a tutors "panelnote" (see [tutors panelnote](https://tutors.dev/note/tutors-reference-manual/unit-2-panels-and-videos/note-a-resources#panelnote) documentation).
+
+**Structure:**
+- Create a unit directory: `unit-00-schedule/`
+- The unit's `topic.md` should contain: `# Programme Schedule`
+- Inside the unit, create a panelnote directory: `panelnote-00-schedule/`
+- The panelnote's `panelnote.md` should contain ONLY the table (no headers)
 
 **Table Format:**
 - Each column represents a semester (Semester 1, Semester 2, etc.)
@@ -23,4 +29,17 @@ This should generate a tutors "panelnote" (see [tutors panelnote](https://tutors
 | Mathematics (5) M | Algorithms (5) M | Networks (5) M | Security (5) E |
 | Computer Systems (5) M | Operating Systems (5) E | | Cloud Computing (5) E |
 
-Use generateSchedule to place this panelnote in the topic for the programme
+Use generateSchedule to place this schedule unit in each programme topic.
+
+**Final Directory Structure:**
+```
+<programme-topic>/
+  ├── topic.md
+  ├── unit-00-schedule/
+  │   ├── topic.md                    (contains "# Programme Schedule")
+  │   └── panelnote-00-schedule/
+  │       └── panelnote.md            (contains only the table)
+  ├── unit-0/  (Any Semester modules - if present)
+  ├── unit-1/  (Semester 1 modules)
+  └── unit-2/  (Semester 2 modules)
+```

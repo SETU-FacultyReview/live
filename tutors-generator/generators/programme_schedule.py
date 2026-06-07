@@ -41,13 +41,22 @@ class ProgrammeSchedule:
         """
         Generate the programme schedule panelnote.
 
-        Creates a panelnote with a markdown table showing modules by semester.
+        Creates a unit with a topic.md "Programme Schedule" containing
+        a panelnote with a markdown table showing modules by semester.
 
         Args:
-            output_dir: Directory where the panelnote should be created
+            output_dir: Directory where the schedule unit should be created
         """
-        # Create panelnote directory
-        panelnote_dir = output_dir / "panelnote-00-schedule"
+        # Create schedule unit directory
+        schedule_unit_dir = output_dir / "unit-00-schedule"
+        schedule_unit_dir.mkdir(exist_ok=True)
+
+        # Create unit topic.md
+        with open(schedule_unit_dir / "topic.md", 'w') as f:
+            f.write("# Programme Schedule\n")
+
+        # Create panelnote directory inside the unit
+        panelnote_dir = schedule_unit_dir / "panelnote-00-schedule"
         panelnote_dir.mkdir(exist_ok=True)
 
         # Organize modules by semester
@@ -56,10 +65,8 @@ class ProgrammeSchedule:
         # Generate the markdown table
         markdown_content = self._generate_markdown_table(modules_by_semester)
 
-        # Write panelnote.md
+        # Write panelnote.md (just the table, no headers)
         with open(panelnote_dir / "panelnote.md", 'w') as f:
-            f.write(f"# Programme Schedule\n\n")
-            f.write(f"**{self.programme_data['name']}**\n\n")
             f.write(markdown_content)
 
     def _organize_modules_by_semester(self) -> dict:
