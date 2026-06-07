@@ -15,12 +15,16 @@ This should generate a unit containing a tutors "panelnote" (see [tutors panelno
 
 **Table Format:**
 
-- Each column represents a semester (Semester 1, Semester 2, etc.)
-- Within each column, list all modules for that semester (stacked vertically)
+- Each semester is represented by 3 columns: Module Name | Credits | Status
+- Columns are directly adjacent (no separator columns between semesters)
+- Within each semester, modules are sorted:
+  - Mandatory modules (M) appear first
+  - Elective modules (E) appear second
+  - Alphabetically sorted within each group
 - Each module entry includes:
-  - Module name
-  - Credits (in parentheses)
-  - Status: M (Mandatory) or E (Elective)
+  - Module name (column 1)
+  - Credits as a number (column 2)
+  - Status: M (Mandatory) or E (Elective) (column 3)
 
 **Example:**
 
