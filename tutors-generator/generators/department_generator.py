@@ -369,8 +369,11 @@ class DepartmentGenerator:
                 semester_unit_dir.mkdir(exist_ok=True)
 
                 # Create semester topic.md
+                # Semester 0 = "Any Semester"
+                semester_label = "Any Semester" if semester_num == 0 else f"Semester {semester_num}"
+
                 with open(semester_unit_dir / "topic.md", 'w') as f:
-                    f.write(f"# Semester {semester_num}\n\n")
+                    f.write(f"# {semester_label}\n\n")
                     f.write(f"{len(semester_modules)} modules\n")
 
                 # Create web objects for each module
