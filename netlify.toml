@@ -5,7 +5,7 @@
   # Build command runs the Python generator, then Tutors Deno CLI from the course directory
   command = """
     cd tutors-generator && \
-    python3 generate-by-dept.py && \
+    python3 generate-all-science.py && \
     cd ../tutors-modules-by-dept && \
     deno run -A jsr:@tutors/tutors
   """
@@ -21,7 +21,7 @@
   DENO_VERSION = "1.40"
 
   # Tutors course ID (used in weburl paths)
-  TUTORS_COURSE_ID = "setu-sci-modules"
+  TUTORS_COURSE_ID = "setu-sci-modules-dev"
 
 # Optional: Add redirects if needed for the deployed site
 # [[redirects]]

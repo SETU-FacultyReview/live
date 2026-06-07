@@ -5,9 +5,10 @@ This module contains functions for loading, selecting, and formatting icons
 for Tutors content (modules, programmes, clusters, etc.).
 """
 
+import sys
 from pathlib import Path
 from typing import Optional
-
+sys.path.insert(0, str(Path(__file__).parent.parent))
 
 # Import load_yaml_file from utils (needed for load_icon_mappings)
 from utils import load_yaml_file

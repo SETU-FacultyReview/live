@@ -1,0 +1,11 @@
+# Module Icons
+# Icons for specific modules (overrides cluster defaults)
+# Format: MODULE_CODE: {type: icon-type, color: hex-color}
+# All icons from Iconify: https://icon-sets.iconify.design/
+#
+# NOTE: By default, modules inherit their cluster's icon.
+# Only add entries here for modules that need a unique icon
+# different from their cluster's icon.
+#
+# Example:
+# A12345: {type: mdi:special-icon, color: 'FF5722', description: 'Special module'}
