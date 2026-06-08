@@ -2,16 +2,20 @@
   # Set base to repository root
   base = "/"
 
-  # Build command runs the Python generator, then Tutors Deno CLI from the course directory
+  # Build command runs the Python generator for all 3 courses, then Tutors Deno CLI for each
   command = """
     cd tutors-generator && \
     python3 generate-all-science.py && \
-    cd ../tutors-modules-by-dept && \
+    cd ../tutors-science-faculty && \
+    deno run -A jsr:@tutors/tutors && \
+    cd ../tutors-science-dept && \
+    deno run -A jsr:@tutors/tutors && \
+    cd ../tutors-computing-maths-dept && \
     deno run -A jsr:@tutors/tutors
   """
 
-  # Publish the generated JSON output (relative to base)
-  publish = "tutors-modules-by-dept/json"
+  # Publish the Science Faculty course (combined) JSON output (relative to base)
+  publish = "tutors-science-faculty/json"
 
 [build.environment]
   # Ensure Python 3 is available
@@ -20,8 +24,13 @@
   # Deno version (Netlify has Deno pre-installed)
   DENO_VERSION = "1.40"
 
-  # Tutors course ID (used in weburl paths)
-  TUTORS_COURSE_ID = "setu-sci-modules-dev"
+# Note: All three courses are built:
+# 1. tutors-science-faculty (published to Netlify)
+# 2. tutors-science-dept (JSON generated but not published)
+# 3. tutors-computing-maths-dept (JSON generated but not published)
+#
+# The individual department courses can be deployed separately if needed
+# by creating additional Netlify sites with different publish directories.
 
 # Optional: Add redirects if needed for the deployed site
 # [[redirects]]
