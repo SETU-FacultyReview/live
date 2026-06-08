@@ -21,7 +21,7 @@ The student will explore in detail modern operating systems in the areas of file
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LBWHITE |
-| **Cluster** | Networks and Cloud |
+| **Cluster** | [Networks and Cloud](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
 
 ---
 

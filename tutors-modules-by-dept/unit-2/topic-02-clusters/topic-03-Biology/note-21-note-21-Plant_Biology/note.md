@@ -21,7 +21,7 @@ This module is designed to equip students with a basic knowledge of plant growth
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CDALY |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

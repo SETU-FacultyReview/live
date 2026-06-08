@@ -21,7 +21,7 @@ The focus of this module will be on five components: computer architecture, memo
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DPOWER |
-| **Cluster** | Networks and Cloud |
+| **Cluster** | [Networks and Cloud](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
 
 ---
 

@@ -21,7 +21,7 @@ This module introduces the study of nutrition and the foundations of healthy eat
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EKENT |
-| **Cluster** | Food Science |
+| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 

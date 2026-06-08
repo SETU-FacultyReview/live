@@ -21,7 +21,7 @@ This module will give students a broad introduction to the major elements of mic
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | NKENNEDY |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

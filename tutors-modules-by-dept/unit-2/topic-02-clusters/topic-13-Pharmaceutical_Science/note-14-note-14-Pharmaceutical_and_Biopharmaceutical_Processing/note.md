@@ -21,7 +21,7 @@ This module describes the overall operation, unit processes, and key parameters 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | AHAYDEN |
-| **Cluster** | Pharmaceutical Science |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 

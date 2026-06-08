@@ -21,7 +21,7 @@ This module introduces the fundamental concepts of operating systems and compute
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DOHALLORAN |
-| **Cluster** | Networks and Cloud |
+| **Cluster** | [Networks and Cloud](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
 
 ---
 

@@ -21,7 +21,7 @@ This module will provide an introduction to recombinant DNA technology and its r
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | AHEARNE |
-| **Cluster** | Pharmaceutical Science |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 

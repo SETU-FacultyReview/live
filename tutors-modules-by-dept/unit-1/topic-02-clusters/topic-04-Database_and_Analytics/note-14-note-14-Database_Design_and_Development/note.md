@@ -21,7 +21,7 @@ This module will introduce the student to the principles and practice of designi
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RSHANAHAN |
-| **Cluster** | Database and Analytics |
+| **Cluster** | [Database and Analytics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 

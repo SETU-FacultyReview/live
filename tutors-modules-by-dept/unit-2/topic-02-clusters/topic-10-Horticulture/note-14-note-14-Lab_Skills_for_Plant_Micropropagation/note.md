@@ -21,7 +21,7 @@ The module has been designed to enhance the education of science students who wi
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CDALY |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

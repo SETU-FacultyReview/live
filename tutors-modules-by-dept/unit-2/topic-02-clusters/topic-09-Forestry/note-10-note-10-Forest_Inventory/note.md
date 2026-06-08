@@ -21,7 +21,7 @@ In this (10 credit) module students will carry out a wide range of forest invent
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MPEDINI |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

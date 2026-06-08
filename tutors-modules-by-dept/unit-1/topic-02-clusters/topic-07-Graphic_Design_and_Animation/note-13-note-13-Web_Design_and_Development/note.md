@@ -21,7 +21,7 @@ This module focuses on the Web Design and Development Process, from User Experie
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CFITZPATRICK |
-| **Cluster** | Graphic Design and Animation |
+| **Cluster** | [Graphic Design and Animation](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
 
 ---
 

@@ -21,7 +21,7 @@ This module gives an insight into the application of analytical science to pharm
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JPOWER |
-| **Cluster** | Pharmaceutical Science |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 

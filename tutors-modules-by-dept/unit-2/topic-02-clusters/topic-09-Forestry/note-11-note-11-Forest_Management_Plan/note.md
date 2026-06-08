@@ -21,7 +21,7 @@ This is a 10 credit module whose final outcome is a comprehensive five-year Fore
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MPEDINI |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

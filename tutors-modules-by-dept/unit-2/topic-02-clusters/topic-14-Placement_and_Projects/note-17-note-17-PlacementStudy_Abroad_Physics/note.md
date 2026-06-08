@@ -21,7 +21,7 @@ This module will immerse students into the cultural and academic experience of l
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CKEARY |
-| **Cluster** | Placement and Projects |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 

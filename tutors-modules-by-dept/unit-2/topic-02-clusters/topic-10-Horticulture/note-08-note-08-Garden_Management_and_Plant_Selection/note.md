@@ -21,7 +21,7 @@ This module will provide the student with the skills and knowledge required to d
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | UMCDERMOTT |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

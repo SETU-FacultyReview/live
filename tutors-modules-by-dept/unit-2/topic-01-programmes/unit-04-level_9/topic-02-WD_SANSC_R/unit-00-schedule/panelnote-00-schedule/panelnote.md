@@ -1,6 +1,7 @@
 | Any Semester |  |  | Semester 3 |  |  |
 | ----------------- | --- | --- | ----------------- | --- | --- |
-| [Adv. Chromatogr. Techniques](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-02-Analytical_Science/note-01-note-01-Advanced_Chromatographic_Techniques) | 10 | E | [Research Dissertation (MSc)](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects/note-19-note-19-Research_Dissertation_MSc) | 30 | M |
+|  |  |  | [Research Dissertation (MSc)](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects/note-19-note-19-Research_Dissertation_MSc) | 30 | M |
+| [Adv. Chromatogr. Techniques](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-02-Analytical_Science/note-01-note-01-Advanced_Chromatographic_Techniques) | 10 | E |  |  |  |
 | [Adv. Dru. Form. Sci.](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance/note-01-note-01-Advanced_Drug_Formulation_Science) | 10 | E |  |  |  |
 | [Adv. Material Characterisation](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-02-Analytical_Science/note-02-note-02-Advanced_Materials_Characterisation) | 10 | E |  |  |  |
 | [Adv. Spectroscopic Techniques](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-02-Analytical_Science/note-04-note-04-Advanced_Spectroscopic_Techniques) | 10 | E |  |  |  |

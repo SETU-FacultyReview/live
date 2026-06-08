@@ -21,7 +21,7 @@ This module aims to provide an introduction to the general principles of analyti
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MBREEN |
-| **Cluster** | Chemistry |
+| **Cluster** | [Chemistry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-05-Chemistry) |
 
 ---
 

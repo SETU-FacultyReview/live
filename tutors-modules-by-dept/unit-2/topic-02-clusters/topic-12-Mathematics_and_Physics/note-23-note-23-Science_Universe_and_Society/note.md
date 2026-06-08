@@ -21,7 +21,7 @@ This module allows the student to broaden their awareness of the history of scie
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CORAIFEARTAIGH |
-| **Cluster** | Mathematics and Physics |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
 
 ---
 

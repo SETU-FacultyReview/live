@@ -21,7 +21,7 @@ Students will spend a period of not less than four months in a work experience p
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EDELEASTAR |
-| **Cluster** | Professional Skills |
+| **Cluster** | [Professional Skills](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 

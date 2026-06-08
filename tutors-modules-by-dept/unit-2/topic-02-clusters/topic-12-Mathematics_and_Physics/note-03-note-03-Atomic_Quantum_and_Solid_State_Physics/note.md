@@ -21,7 +21,7 @@ In this module the student meets formal quantum mechanics for the first time.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | GGALLAGHER |
-| **Cluster** | Mathematics and Physics |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
 
 ---
 

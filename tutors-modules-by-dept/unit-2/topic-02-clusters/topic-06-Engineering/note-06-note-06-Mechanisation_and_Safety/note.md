@@ -21,7 +21,7 @@ The module will enable the student to acquire knowledge and awareness to work sa
 | **School** | Engineering |
 | **Department** | Science |
 | **Module Author** | TWOODCOCK |
-| **Cluster** | Engineering |
+| **Cluster** | [Engineering](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-06-Engineering) |
 
 ---
 

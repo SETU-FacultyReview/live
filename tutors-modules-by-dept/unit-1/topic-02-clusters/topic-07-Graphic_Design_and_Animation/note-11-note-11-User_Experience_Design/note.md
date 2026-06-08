@@ -21,7 +21,7 @@ User Experience (UX) is a concept that has many dimensions, and it includes a va
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | AGANNON |
-| **Cluster** | Graphic Design and Animation |
+| **Cluster** | [Graphic Design and Animation](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
 
 ---
 

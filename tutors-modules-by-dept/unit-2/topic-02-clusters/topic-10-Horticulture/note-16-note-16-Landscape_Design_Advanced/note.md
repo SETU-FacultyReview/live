@@ -21,7 +21,7 @@ This is a studio based module where students build on knowledge and skills acqui
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | LMMURPHY |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

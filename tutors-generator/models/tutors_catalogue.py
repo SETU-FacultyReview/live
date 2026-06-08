@@ -144,13 +144,13 @@ class TutorsCatalogue:
         # Then regenerate clusters with programme links
 
         # First pass: generate clusters to get module paths
-        module_to_cluster_path = dept_gen.generate_clusters(unit_dir)
+        module_to_cluster_path, _ = dept_gen.generate_clusters(unit_dir)
 
         # Generate programmes to get programme topic paths
         programme_to_topic_path = dept_gen.generate_programmes(unit_dir, module_to_cluster_path)
 
-        # Second pass: regenerate clusters with programme links
-        module_to_cluster_path = dept_gen.generate_clusters(unit_dir, programme_to_topic_path)
+        # Second pass: regenerate clusters with programme and cluster links
+        module_to_cluster_path, cluster_to_topic_path = dept_gen.generate_clusters(unit_dir, programme_to_topic_path)
 
         # Generate all modules
         dept_gen.generate_all_modules(unit_dir, module_to_cluster_path)

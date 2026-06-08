@@ -21,7 +21,7 @@ This module explores organisational structures and the generic business function
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RLYNG |
-| **Cluster** | Business |
+| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-03-Business) |
 
 ---
 

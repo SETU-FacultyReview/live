@@ -21,7 +21,7 @@ This module will enable students to produce simple landscape design plans using 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | UMCDERMOTT |
-| **Cluster** | IT |
+| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 

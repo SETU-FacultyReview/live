@@ -21,7 +21,7 @@ This module is an in-depth course in advanced analytical and laboratory techniqu
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EMLANDERS |
-| **Cluster** | Pharmaceutical Science |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 

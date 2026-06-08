@@ -21,7 +21,7 @@ This module is designed for students who already have an intermediate knowledge 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JGERAGHTY |
-| **Cluster** | Agriculture |
+| **Cluster** | [Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-01-Agriculture) |
 
 ---
 

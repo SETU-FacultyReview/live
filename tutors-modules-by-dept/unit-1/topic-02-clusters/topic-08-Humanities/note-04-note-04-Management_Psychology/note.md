@@ -21,7 +21,7 @@ This module will introduce the student to the workplace from the point of view o
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MCAHILL |
-| **Cluster** | Humanities |
+| **Cluster** | [Humanities](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-08-Humanities) |
 
 ---
 

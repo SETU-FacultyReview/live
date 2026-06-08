@@ -21,7 +21,7 @@ The student will learn the fundamentals of linear electrical circuits and their 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CWALSH |
-| **Cluster** | Engineering |
+| **Cluster** | [Engineering](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-06-Engineering) |
 
 ---
 

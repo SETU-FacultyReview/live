@@ -21,7 +21,7 @@ The aims of this module are to provide students with detailed information on the
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EMCNEELA |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

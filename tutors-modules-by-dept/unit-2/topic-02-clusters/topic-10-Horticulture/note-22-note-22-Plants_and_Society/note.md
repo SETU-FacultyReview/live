@@ -21,7 +21,7 @@ This module examines the importance of plants in modern society and tackles some
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CDALY |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

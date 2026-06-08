@@ -21,7 +21,7 @@ The module is designed to give students knowledge and understanding of the vario
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JFRISBY |
-| **Cluster** | Food Science |
+| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 

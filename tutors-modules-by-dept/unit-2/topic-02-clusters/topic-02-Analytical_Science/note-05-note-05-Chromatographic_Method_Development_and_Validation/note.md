@@ -21,7 +21,7 @@ This module provides an outline of method planning and development in the analyt
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | DCONNOLLY |
-| **Cluster** | Analytical Science |
+| **Cluster** | [Analytical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
 
 ---
 

@@ -21,7 +21,7 @@ In this module students will learn how to develop embedded real-time software ap
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BJACKMAN |
-| **Cluster** | Automotive, Automation and IoT |
+| **Cluster** | [Automotive, Automation and IoT](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
 
 ---
 

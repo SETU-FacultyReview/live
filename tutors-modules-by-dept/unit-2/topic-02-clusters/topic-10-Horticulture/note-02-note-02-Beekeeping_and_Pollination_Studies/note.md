@@ -21,7 +21,7 @@ This module aims to equip students with the knowledge and skills associated with
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | DFLANAGAN |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

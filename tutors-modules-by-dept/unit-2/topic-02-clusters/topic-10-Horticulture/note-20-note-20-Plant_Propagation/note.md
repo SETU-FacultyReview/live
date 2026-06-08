@@ -21,7 +21,7 @@ A module to enable the student to acquire the principles, knowledge and skills t
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | PFITTERS |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

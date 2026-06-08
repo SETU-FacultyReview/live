@@ -21,7 +21,7 @@ This course is designed for students who already have a basic knowledge of anima
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JRYAN |
-| **Cluster** | Agriculture |
+| **Cluster** | [Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-01-Agriculture) |
 
 ---
 

@@ -21,7 +21,7 @@ The certificate in Advanced Drug Formulation Science will provide the learner wi
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | RJRYAN |
-| **Cluster** | Quality, Regulatory and Compliance |
+| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
 
 ---
 

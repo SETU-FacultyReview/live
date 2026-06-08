@@ -21,7 +21,7 @@ This module will provide students with an opportunity to review current practice
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | LCASSIN |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

@@ -21,7 +21,7 @@ This module will give students a broad introduction to the major elements of env
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MBREEN |
-| **Cluster** | Environmental Science |
+| **Cluster** | [Environmental Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
 
 ---
 
