@@ -53,9 +53,10 @@ class ProgrammeSchedule:
         schedule_unit_dir = output_dir / "unit-00-schedule"
         schedule_unit_dir.mkdir(exist_ok=True)
 
-        # Create unit topic.md
+        # Create unit topic.md with programme title and code
+        prog_name = self.programme_data['name']
         with open(schedule_unit_dir / "topic.md", 'w') as f:
-            f.write("# Programme Schedule\n")
+            f.write(f"# {prog_name} ({self.programme_code})\n")
 
         # Create panelnote directory inside the unit
         panelnote_dir = schedule_unit_dir / "panelnote-00-schedule"
