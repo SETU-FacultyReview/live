@@ -82,7 +82,8 @@ def main():
         output_dir=data_dir / "tutors-science-faculty",
         tutors_course_id="setu-science-faculty",
         course_title="SETU Science Faculty",
-        course_description="Complete catalogue of approved modules for the Science Faculty, organized by department."
+        course_description="Complete catalogue of approved modules for the Science Faculty, organized by department.",
+        llm_notebook_url="https://notebooklm.google.com/notebook/cb07f2c3-dda5-4f44-8de2-8cc884d7590f"
     )
     faculty_generator.generate_tutors_course()
 
@@ -107,7 +108,8 @@ def main():
         output_dir=data_dir / "tutors-science-dept",
         tutors_course_id="setu-science-dept",
         course_title="SETU Science Department",
-        course_description="Complete catalogue of approved modules for the Science Department."
+        course_description="Complete catalogue of approved modules for the Science Department.",
+        llm_notebook_url="https://notebooklm.google.com/notebook/10307cf3-46dd-4cc2-a447-470906eec44a"
     )
     science_generator.generate_tutors_course()
 
@@ -132,7 +134,8 @@ def main():
         output_dir=data_dir / "tutors-computing-maths-dept",
         tutors_course_id="setu-computing-maths-dept",
         course_title="SETU Computing & Maths Department",
-        course_description="Complete catalogue of approved modules for the Computing & Mathematics Department."
+        course_description="Complete catalogue of approved modules for the Computing & Mathematics Department.",
+        llm_notebook_url="https://notebooklm.google.com/notebook/fc382e1b-fbc0-4f98-a0c3-20656d5a869a"
     )
     computing_generator.generate_tutors_course()
 

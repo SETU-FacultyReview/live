@@ -41,7 +41,8 @@ class TutorsCatalogue:
         output_dir: Path = None,
         tutors_course_id: str = None,
         course_title: str = None,
-        course_description: str = None
+        course_description: str = None,
+        llm_notebook_url: str = None
     ):
         """
         Initialize the course generator.
@@ -58,6 +59,7 @@ class TutorsCatalogue:
             tutors_course_id: Tutors course ID (defaults to environment variable or 'setu-science-modules')
             course_title: Course title (defaults to 'SETU Science Modules by Department')
             course_description: Course description (defaults to generic description)
+            llm_notebook_url: URL to NotebookLM for this course (optional)
         """
         self.catalogue = catalogue
         self.departments = departments
@@ -83,6 +85,9 @@ class TutorsCatalogue:
             course_description = "This site contains a complete catalogue of approved modules organized by department."
         self.course_description = course_description
 
+        # Set NotebookLM URL
+        self.llm_notebook_url = llm_notebook_url
+
     def generate_tutors_course(self):
         """
         Generate the complete Tutors course.
@@ -94,6 +99,10 @@ class TutorsCatalogue:
 
         # Clean output directory (except course files we just created)
         self._clean_output()
+
+        # Create LLM web object if URL provided (after cleaning to avoid deletion)
+        if self.llm_notebook_url:
+            self._create_llm_web_object()
 
         # Generate units for each department
         for unit_num, dept_config in enumerate(self.departments, 1):
@@ -225,6 +234,32 @@ class TutorsCatalogue:
             print("  Warning: course.png not found in tutors-files directory")
 
         print()
+
+    def _create_llm_web_object(self):
+        """Create LLM web object linking to NotebookLM in unit-1"""
+        # Create web-llm directory in unit-1
+        unit1_dir = self.output_dir / "unit-1"
+        llm_dir = unit1_dir / "web-llm"
+        llm_dir.mkdir(parents=True, exist_ok=True)
+
+        # Create link.md with icon frontmatter
+        link_md = llm_dir / "link.md"
+        with open(link_md, 'w') as f:
+            # Add icon frontmatter
+            f.write("---\n")
+            f.write("icon:\n")
+            f.write("  type: mdi:robot\n")
+            f.write("  color: EA4335\n")
+            f.write("---\n")
+            f.write("# LLM\n\n")
+            f.write("Ask questions about this course using NotebookLM - an AI-powered research assistant.\n")
+
+        # Create weburl file with the NotebookLM URL
+        weburl_file = llm_dir / "weburl"
+        with open(weburl_file, 'w') as f:
+            f.write(self.llm_notebook_url)
+
+        print("  Created LLM web object")
 
     def _clean_output(self):
         """Clean the output directory (preserving course files that were just created)"""
