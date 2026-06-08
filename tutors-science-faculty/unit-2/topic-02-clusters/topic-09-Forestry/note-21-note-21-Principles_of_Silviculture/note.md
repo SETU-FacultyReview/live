@@ -21,7 +21,7 @@ This module will provide an understanding of the silvicultural theory and practi
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | NMCCARTHY |
-| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
+| **Cluster** | [Forestry](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 
@@ -138,7 +138,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SFORS_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 3 | 5 | Mandatory |
+| [WD_SFORS_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 3 | 5 | Mandatory |
 
 ---
 
@@ -148,4 +148,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10283 | Timetable Code: FORS-0009*
+*Module Code: A10283 | Timetable Code: FORS-0009 | Change Tracking: Enabled*

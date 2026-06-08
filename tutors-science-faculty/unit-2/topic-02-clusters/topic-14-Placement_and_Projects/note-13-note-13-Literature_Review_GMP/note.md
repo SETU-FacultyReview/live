@@ -21,7 +21,7 @@ The aim of this module is for a student to source, review, summarise and discuss
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | BWHELAN |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -123,7 +123,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SGMPT_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | [Bachelor of Science in Good Manufacturing Practice and Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | 1 | 3 | Mandatory |
+| [WD_SGMPT_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | [Bachelor of Science in Good Manufacturing Practice and Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | 1 | 3 | Mandatory |
 
 ---
 
@@ -133,4 +133,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09765 | Timetable Code: PROJ-0121*
+*Module Code: A09765 | Timetable Code: PROJ-0121 | Change Tracking: Enabled*

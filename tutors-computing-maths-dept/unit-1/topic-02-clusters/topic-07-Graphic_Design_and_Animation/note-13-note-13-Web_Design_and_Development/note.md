@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13548 | Timetable Code: COMP-0598*
+*Module Code: A13548 | Timetable Code: COMP-0598 | Change Tracking: Enabled*

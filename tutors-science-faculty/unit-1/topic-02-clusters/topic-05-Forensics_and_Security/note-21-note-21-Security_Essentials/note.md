@@ -21,7 +21,7 @@ This module provides an introduction to IT security.
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
-| **Cluster** | [Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
+| **Cluster** | [Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
 
 ---
 
@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13742 | Timetable Code: COMP-0533*
+*Module Code: A13742 | Timetable Code: COMP-0533 | Change Tracking: Enabled*

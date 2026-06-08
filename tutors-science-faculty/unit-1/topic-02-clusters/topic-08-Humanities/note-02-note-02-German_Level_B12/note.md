@@ -21,7 +21,7 @@ The module aims to: enable the student to understand the main points of clear st
 | **School** | Humanities |
 | **Department** | Computing and Mathematics |
 | **Module Author** |  |
-| **Cluster** | [Humanities](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-08-Humanities) |
+| **Cluster** | [Humanities](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-08-Humanities) |
 
 ---
 
@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: M01117 | Timetable Code: GERM-0025*
+*Module Code: M01117 | Timetable Code: GERM-0025 | Change Tracking: Enabled*

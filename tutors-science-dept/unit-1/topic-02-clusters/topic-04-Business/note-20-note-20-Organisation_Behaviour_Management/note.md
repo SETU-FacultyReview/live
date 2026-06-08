@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07845 | Timetable Code: MGTH-0025*
+*Module Code: A07845 | Timetable Code: MGTH-0025 | Change Tracking: Enabled*

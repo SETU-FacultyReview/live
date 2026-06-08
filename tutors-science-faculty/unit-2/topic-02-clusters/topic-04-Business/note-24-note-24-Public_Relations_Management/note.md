@@ -21,7 +21,7 @@ The aim of this module is to develop the student's ability in the theoretical an
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | RODOWD |
-| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business) |
+| **Cluster** | [Business](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 
@@ -134,7 +134,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SBSHO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 1 | Mandatory |
+| [WD_SBSHO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 1 | Mandatory |
 
 ---
 
@@ -143,4 +143,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11409 | Timetable Code: MGTH-0026*
+*Module Code: A11409 | Timetable Code: MGTH-0026 | Change Tracking: Enabled*

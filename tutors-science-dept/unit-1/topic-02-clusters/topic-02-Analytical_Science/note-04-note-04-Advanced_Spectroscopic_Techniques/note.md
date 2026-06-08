@@ -130,7 +130,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SANSC_G](/topic/setu-science-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-science-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | 1 | 0 | Elective |
+| [WD_SANSC_G](/topic/setu-science-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-science-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | 1 | 0 | Elective |
 | [WD_SANSC_R](/topic/setu-science-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-science-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
 | WD_SSPEC_MA | Certificate in Advanced Spectroscopic Techniques | 5 | 0 | Mandatory |
 
@@ -143,4 +143,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11564 | Timetable Code: SCIE-0051*
+*Module Code: A11564 | Timetable Code: SCIE-0051 | Change Tracking: Enabled*

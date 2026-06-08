@@ -147,4 +147,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13390 | Timetable Code: COMM-0064*
+*Module Code: A13390 | Timetable Code: COMM-0064 | Change Tracking: Enabled*

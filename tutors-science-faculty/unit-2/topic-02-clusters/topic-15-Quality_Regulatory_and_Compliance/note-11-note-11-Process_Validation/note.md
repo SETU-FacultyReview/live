@@ -21,7 +21,7 @@ This module describes the importance and practices of validation and technology 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | BWHELAN |
-| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
+| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
 
 ---
 
@@ -129,7 +129,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SGMPT_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | [Bachelor of Science in Good Manufacturing Practice and Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | 1 | 1 | Mandatory |
+| [WD_SGMPT_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | [Bachelor of Science in Good Manufacturing Practice and Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | 1 | 1 | Mandatory |
 
 ---
 
@@ -138,4 +138,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09764 | Timetable Code: PROC-0005*
+*Module Code: A09764 | Timetable Code: PROC-0005 | Change Tracking: Enabled*

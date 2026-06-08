@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06235 | Timetable Code: FORS-0019*
+*Module Code: A06235 | Timetable Code: FORS-0019 | Change Tracking: Enabled*

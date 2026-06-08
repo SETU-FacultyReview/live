@@ -21,7 +21,7 @@ The module is designed for students who already have a basic knowledge of soils,
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | TWOODCOCK |
-| **Cluster** | [Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-01-Agriculture) |
+| **Cluster** | [Agriculture](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-01-Agriculture) |
 
 ---
 
@@ -130,8 +130,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 8 | Mandatory |
-| [WD_SBSAG_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 2 | Mandatory |
+| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 8 | Mandatory |
+| [WD_SBSAG_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 2 | Mandatory |
 
 ---
 
@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07261 | Timetable Code: SOIL-0007*
+*Module Code: A07261 | Timetable Code: SOIL-0007 | Change Tracking: Enabled*

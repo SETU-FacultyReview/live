@@ -144,4 +144,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06318 | Timetable Code: ENVI-0007*
+*Module Code: A06318 | Timetable Code: ENVI-0007 | Change Tracking: Enabled*

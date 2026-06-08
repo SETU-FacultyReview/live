@@ -128,4 +128,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A27784 | Timetable Code: PLAC-0034*
+*Module Code: A27784 | Timetable Code: PLAC-0034 | Change Tracking: Enabled*

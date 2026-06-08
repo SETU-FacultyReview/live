@@ -135,4 +135,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10024 | Timetable Code: MGTS-2003*
+*Module Code: A10024 | Timetable Code: MGTS-2003 | Change Tracking: Enabled*

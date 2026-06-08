@@ -132,4 +132,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11104 | Timetable Code: PROJ-0157*
+*Module Code: A11104 | Timetable Code: PROJ-0157 | Change Tracking: Enabled*

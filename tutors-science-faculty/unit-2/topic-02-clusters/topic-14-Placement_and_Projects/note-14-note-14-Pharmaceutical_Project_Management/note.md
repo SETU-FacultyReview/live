@@ -21,7 +21,7 @@ This module aims to provide the learner with the ability to develop an understan
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | UMCCARTHY |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A33521 | Timetable Code: PHAR-0021*
+*Module Code: A33521 | Timetable Code: PHAR-0021 | Change Tracking: Enabled*

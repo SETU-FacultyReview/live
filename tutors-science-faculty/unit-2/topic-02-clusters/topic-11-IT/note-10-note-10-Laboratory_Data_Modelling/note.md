@@ -21,7 +21,7 @@ In this module the student will develop skills to fit linear and non-linear theo
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KGRENNAN |
-| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
+| **Cluster** | [IT](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 
@@ -128,8 +128,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SMBIO_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 3 | 6 | Mandatory |
-| [WD_SPHSC_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [Bachelor of Science in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 3 | 6 | Mandatory |
+| [WD_SMBIO_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 3 | 6 | Mandatory |
+| [WD_SPHSC_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [Bachelor of Science in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 3 | 6 | Mandatory |
 
 ---
 
@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06220 | Timetable Code: SCIE-0038*
+*Module Code: A06220 | Timetable Code: SCIE-0038 | Change Tracking: Enabled*

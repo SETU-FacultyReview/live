@@ -136,7 +136,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCOSC_G](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 1 | 2 | Elective |
+| [WD_KCOSC_G](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | 1 | 2 | Elective |
 
 ---
 
@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14666 | Timetable Code: COMP-0961*
+*Module Code: A14666 | Timetable Code: COMP-0961 | Change Tracking: Enabled*

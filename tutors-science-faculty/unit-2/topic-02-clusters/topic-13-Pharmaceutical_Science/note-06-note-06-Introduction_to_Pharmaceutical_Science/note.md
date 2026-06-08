@@ -21,7 +21,7 @@ This module covers several aspects of pharmaceutical science, including classifi
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ADONEGAN |
-| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 
@@ -128,7 +128,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SGMPT_C](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | [Higher Certificate in Science in Good Manufacturing Practice and Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | 2 | 3 | Mandatory |
+| [WD_SGMPT_C](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | [Higher Certificate in Science in Good Manufacturing Practice and Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | 2 | 3 | Mandatory |
 
 ---
 
@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09660 | Timetable Code: PHAR-0002*
+*Module Code: A09660 | Timetable Code: PHAR-0002 | Change Tracking: Enabled*

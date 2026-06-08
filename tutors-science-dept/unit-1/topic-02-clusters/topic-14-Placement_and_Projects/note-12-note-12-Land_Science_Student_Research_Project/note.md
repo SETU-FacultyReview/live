@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A32004 | Timetable Code: SCIE-0071*
+*Module Code: A32004 | Timetable Code: SCIE-0071 | Change Tracking: Enabled*

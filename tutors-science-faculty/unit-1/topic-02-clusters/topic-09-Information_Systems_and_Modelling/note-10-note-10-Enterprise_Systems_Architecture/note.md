@@ -21,7 +21,7 @@ This module aims to provide the student with an understanding of an architectura
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LDOYLE |
-| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
+| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
 
 ---
 
@@ -137,8 +137,8 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_KCSDV_B | Bachelor of Science (Honours) in Software Systems Development | 4 | 1 | Mandatory |
-| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 7 | Mandatory |
-| [WD_KSOFP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | [BSc (Hons) in Software Systems Practice](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | 1 | 1 | Mandatory |
+| [WD_KDEVP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 7 | Mandatory |
+| [WD_KSOFP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | [BSc (Hons) in Software Systems Practice](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | 1 | 1 | Mandatory |
 
 ---
 
@@ -149,4 +149,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14134 | Timetable Code: COMP-0610*
+*Module Code: A14134 | Timetable Code: COMP-0610 | Change Tracking: Enabled*

@@ -21,7 +21,7 @@ This module will help students to obtain knowledge of the concepts and technique
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | NMCCARTHY |
-| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
+| **Cluster** | [Forestry](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 
@@ -145,7 +145,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SFORS_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 2 | 3 | Mandatory |
+| [WD_SFORS_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 2 | 3 | Mandatory |
 
 ---
 
@@ -155,4 +155,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10462 | Timetable Code: FORS-0008*
+*Module Code: A10462 | Timetable Code: FORS-0008 | Change Tracking: Enabled*

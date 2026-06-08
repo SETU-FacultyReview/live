@@ -21,7 +21,7 @@ This module will equip the student with the knowledge required to comprehend the
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DOCONNOR |
-| **Cluster** | [Software and Web Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
+| **Cluster** | [Software and Web Development](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 
@@ -130,15 +130,15 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KACCM_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 4 | 7 | Mandatory |
+| [WD_KACCM_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 4 | 7 | Mandatory |
 | WD_KACMI_B | BSc (Hons) in Applied Computing (International) | 4 | 7 | Elective |
-| [WD_KCMSC_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 4 | 7 | Mandatory |
-| [WD_KCOFO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 4 | 7 | Mandatory |
-| [WD_KCOMP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 4 | 7 | Mandatory |
+| [WD_KCMSC_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 4 | 7 | Mandatory |
+| [WD_KCOFO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 4 | 7 | Mandatory |
+| [WD_KCOMP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 4 | 7 | Mandatory |
 | WD_KCSDV_B | Bachelor of Science (Honours) in Software Systems Development | 4 | 2 | Mandatory |
-| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 8 | Elective |
+| [WD_KDEVP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 8 | Elective |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 4 | 8 | Mandatory |
-| [WD_KSOFP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | [BSc (Hons) in Software Systems Practice](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | 1 | 2 | Mandatory |
+| [WD_KSOFP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | [BSc (Hons) in Software Systems Practice](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | 1 | 2 | Mandatory |
 
 ---
 
@@ -148,4 +148,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13725 | Timetable Code: COMP-0562*
+*Module Code: A13725 | Timetable Code: COMP-0562 | Change Tracking: Enabled*

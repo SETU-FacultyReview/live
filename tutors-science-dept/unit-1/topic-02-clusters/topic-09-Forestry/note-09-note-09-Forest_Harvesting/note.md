@@ -154,4 +154,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A08962 | Timetable Code: FORS-0012*
+*Module Code: A08962 | Timetable Code: FORS-0012 | Change Tracking: Enabled*

@@ -152,4 +152,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11522 | Timetable Code: MTHS-0002*
+*Module Code: A11522 | Timetable Code: MTHS-0002 | Change Tracking: Enabled*

@@ -21,7 +21,7 @@ This module will provide students with the skills to be a Database Administrator
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | TMCDONALD |
-| **Cluster** | [Database and Analytics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
+| **Cluster** | [Database and Analytics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 
@@ -131,7 +131,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_KINTE_B | Bachelor of Science (Honours) in Information Technology | 4 | 2 | Elective |
-| [WD_KITMA_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | [BSc (Hons) in Information Technology Management](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | 1 | 8 | Elective |
+| [WD_KITMA_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | [BSc (Hons) in Information Technology Management](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | 1 | 8 | Elective |
 
 ---
 
@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13584 | Timetable Code: COMP-0327*
+*Module Code: A13584 | Timetable Code: COMP-0327 | Change Tracking: Enabled*

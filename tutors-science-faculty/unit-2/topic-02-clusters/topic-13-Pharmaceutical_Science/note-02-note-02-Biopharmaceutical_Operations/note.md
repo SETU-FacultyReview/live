@@ -21,7 +21,7 @@ This module will provide the learner with an in depth understanding of the key o
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | AHAYDEN |
-| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 
@@ -134,4 +134,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A33642 | Timetable Code: PHAR-0024*
+*Module Code: A33642 | Timetable Code: PHAR-0024 | Change Tracking: Enabled*

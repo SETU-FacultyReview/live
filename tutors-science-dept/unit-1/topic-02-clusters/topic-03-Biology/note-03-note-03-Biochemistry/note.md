@@ -149,4 +149,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06222 | Timetable Code: BIOL-0011*
+*Module Code: A06222 | Timetable Code: BIOL-0011 | Change Tracking: Enabled*

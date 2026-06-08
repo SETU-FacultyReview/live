@@ -144,4 +144,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A32741 | Timetable Code: COMP-0650*
+*Module Code: A32741 | Timetable Code: COMP-0650 | Change Tracking: Enabled*

@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14321 | Timetable Code: TECH-0047*
+*Module Code: A14321 | Timetable Code: TECH-0047 | Change Tracking: Enabled*

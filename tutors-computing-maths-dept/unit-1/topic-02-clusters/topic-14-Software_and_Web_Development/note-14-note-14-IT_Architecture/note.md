@@ -134,4 +134,4 @@ Self-directed learning will be encouraged throughout the duration of the module.
 
 ---
 
-*Module Code: A13387 | Timetable Code: N/A*
+*Module Code: A13387 | Timetable Code: N/A | Change Tracking: Enabled*

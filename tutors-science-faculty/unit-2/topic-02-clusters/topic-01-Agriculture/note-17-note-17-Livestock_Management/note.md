@@ -21,7 +21,7 @@ This course is designed for students who already have a basic knowledge of anima
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JRYAN |
-| **Cluster** | [Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-01-Agriculture) |
+| **Cluster** | [Agriculture](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-01-Agriculture) |
 
 ---
 
@@ -129,7 +129,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SBSAG_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 1 | Mandatory |
+| [WD_SBSAG_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 1 | Mandatory |
 
 ---
 
@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11425 | Timetable Code: MGTH-0018*
+*Module Code: A11425 | Timetable Code: MGTH-0018 | Change Tracking: Enabled*

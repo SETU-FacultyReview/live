@@ -21,7 +21,7 @@ The study of this module enables students to systematically master the basic con
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADAVY |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
 
 ---
 
@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A35244 | Timetable Code: MATH-0030*
+*Module Code: A35244 | Timetable Code: MATH-0030 | Change Tracking: Enabled*

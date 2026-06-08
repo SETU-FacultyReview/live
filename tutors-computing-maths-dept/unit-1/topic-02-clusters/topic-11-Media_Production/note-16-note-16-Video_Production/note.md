@@ -138,4 +138,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13227 | Timetable Code: COMP-0596*
+*Module Code: A13227 | Timetable Code: COMP-0596 | Change Tracking: Enabled*

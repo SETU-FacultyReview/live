@@ -21,7 +21,7 @@ This module aims to provide students with an understanding of state of the art t
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | UMCCARTHY |
-| **Cluster** | [AgriFoodICT](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-01-AgriFoodICT) |
+| **Cluster** | [AgriFoodICT](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-01-AgriFoodICT) |
 
 ---
 
@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A21681 | Timetable Code: COMP-0979*
+*Module Code: A21681 | Timetable Code: COMP-0979 | Change Tracking: Enabled*

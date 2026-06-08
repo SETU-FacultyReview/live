@@ -155,4 +155,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14139 | Timetable Code: BIOL-0009*
+*Module Code: A14139 | Timetable Code: BIOL-0009 | Change Tracking: Enabled*

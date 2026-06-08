@@ -128,4 +128,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11347 | Timetable Code: STUD-0030*
+*Module Code: A11347 | Timetable Code: STUD-0030 | Change Tracking: Enabled*

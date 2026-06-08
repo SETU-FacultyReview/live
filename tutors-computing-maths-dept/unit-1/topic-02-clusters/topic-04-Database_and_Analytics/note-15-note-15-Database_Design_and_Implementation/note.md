@@ -127,8 +127,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KBUSY_G](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 4 | 1 | Mandatory |
-| [WD_KCOSC_G](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 1 | 1 | Mandatory |
+| [WD_KBUSY_G](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | 4 | 1 | Mandatory |
+| [WD_KCOSC_G](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | 1 | 1 | Mandatory |
 | WD_KDAAN_G | HDip in Science in Data Analytics | 1 | 1 | Mandatory |
 | WD_KDTAN_MA | Certificate in Data Analytics | 1 | 1 | Mandatory |
 | WD_SAFICT_G | HDip in Science in Agri-Food ICT Systems | 5 | 1 | Mandatory |
@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A36101 | Timetable Code: COMP-0621*
+*Module Code: A36101 | Timetable Code: COMP-0621 | Change Tracking: Enabled*

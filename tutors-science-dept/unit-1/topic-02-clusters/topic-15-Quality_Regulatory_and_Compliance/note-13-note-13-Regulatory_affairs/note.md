@@ -138,4 +138,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A33502 | Timetable Code: PHAR-0022*
+*Module Code: A33502 | Timetable Code: PHAR-0022 | Change Tracking: Enabled*

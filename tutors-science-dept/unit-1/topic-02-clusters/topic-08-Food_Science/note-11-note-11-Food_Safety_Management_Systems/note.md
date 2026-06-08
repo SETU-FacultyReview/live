@@ -150,4 +150,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07221 | Timetable Code: QUAL-0026*
+*Module Code: A07221 | Timetable Code: QUAL-0026 | Change Tracking: Enabled*

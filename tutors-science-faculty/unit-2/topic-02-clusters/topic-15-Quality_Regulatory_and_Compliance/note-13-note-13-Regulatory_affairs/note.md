@@ -21,7 +21,7 @@ This module will develop the students competency in identifying, interpreting an
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ADONEGAN |
-| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
+| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
 
 ---
 
@@ -138,4 +138,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A33502 | Timetable Code: PHAR-0022*
+*Module Code: A33502 | Timetable Code: PHAR-0022 | Change Tracking: Enabled*

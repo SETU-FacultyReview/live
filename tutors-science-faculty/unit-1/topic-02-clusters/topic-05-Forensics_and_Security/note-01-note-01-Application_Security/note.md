@@ -21,7 +21,7 @@ This module equips the student with knowledge of security vulnerabilities of app
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CLPOWER |
-| **Cluster** | [Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
+| **Cluster** | [Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
 
 ---
 
@@ -132,12 +132,12 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCOMP_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 3 | 6 | Mandatory |
+| [WD_KCOMP_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 3 | 6 | Mandatory |
 | WD_KCSDV_B | Bachelor of Science (Honours) in Software Systems Development | 4 | 2 | Mandatory |
-| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 8 | Elective |
+| [WD_KDEVP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 8 | Elective |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 4 | 7 | Mandatory |
-| [WD_KINFT_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 3 | 6 | Mandatory |
-| [WD_KSOFP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | [BSc (Hons) in Software Systems Practice](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | 1 | 2 | Mandatory |
+| [WD_KINFT_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 3 | 6 | Mandatory |
+| [WD_KSOFP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | [BSc (Hons) in Software Systems Practice](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | 1 | 2 | Mandatory |
 
 ---
 
@@ -147,4 +147,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13401 | Timetable Code: COMP-0612*
+*Module Code: A13401 | Timetable Code: COMP-0612 | Change Tracking: Enabled*

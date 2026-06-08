@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13082 | Timetable Code: BUSS-0047*
+*Module Code: A13082 | Timetable Code: BUSS-0047 | Change Tracking: Enabled*

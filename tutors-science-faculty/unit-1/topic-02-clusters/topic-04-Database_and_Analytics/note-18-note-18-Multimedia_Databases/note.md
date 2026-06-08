@@ -21,7 +21,7 @@ This module will introduce the student to the principles and practice of designi
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JWOODS-OBRIEN |
-| **Cluster** | [Database and Analytics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
+| **Cluster** | [Database and Analytics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 
@@ -125,7 +125,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCRCO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 8 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 8 | Mandatory |
 | WD_KMULM_B | Bachelor of Science (Honours) in Multimedia Applications Development | 4 | 2 | Mandatory |
 
 ---
@@ -136,4 +136,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14028 | Timetable Code: COMP-0633*
+*Module Code: A14028 | Timetable Code: COMP-0633 | Change Tracking: Enabled*

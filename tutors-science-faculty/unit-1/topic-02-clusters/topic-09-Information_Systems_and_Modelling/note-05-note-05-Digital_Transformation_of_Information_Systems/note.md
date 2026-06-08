@@ -21,7 +21,7 @@ This module will address the transformation of legacy approaches of enterprise a
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBARRY |
-| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
+| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
 
 ---
 
@@ -126,10 +126,10 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCOMC_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 3 | 6 | Mandatory |
-| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 3 | 6 | Mandatory |
+| [WD_KCOMC_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 3 | 6 | Mandatory |
+| [WD_KDEVP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 3 | 6 | Mandatory |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 3 | 6 | Mandatory |
-| [WD_KINFT_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 3 | 6 | Mandatory |
+| [WD_KINFT_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 3 | 6 | Mandatory |
 
 ---
 
@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13223 | Timetable Code: COMP-0968*
+*Module Code: A13223 | Timetable Code: COMP-0968 | Change Tracking: Enabled*

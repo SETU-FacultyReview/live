@@ -130,4 +130,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07892 | Timetable Code: AGRI-0096*
+*Module Code: A07892 | Timetable Code: AGRI-0096 | Change Tracking: Enabled*

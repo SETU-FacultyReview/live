@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A08002 | Timetable Code: ECOS-0001*
+*Module Code: A08002 | Timetable Code: ECOS-0001 | Change Tracking: Enabled*

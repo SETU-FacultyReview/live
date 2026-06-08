@@ -135,4 +135,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07698 | Timetable Code: EDUC-0023*
+*Module Code: A07698 | Timetable Code: EDUC-0023 | Change Tracking: Enabled*

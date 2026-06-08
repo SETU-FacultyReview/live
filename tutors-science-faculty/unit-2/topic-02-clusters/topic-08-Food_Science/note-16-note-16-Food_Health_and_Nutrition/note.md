@@ -21,7 +21,7 @@ This course is designed for postgraduate students who have knowledge and experie
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JGERAGHTY |
-| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
+| **Cluster** | [Food Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 
@@ -130,7 +130,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_SGRAD_XX | Postgraduate Programmes in Science | 5 | 0 | Elective |
-| [WD_SOBIA_R](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | [MSc in Organic and Biological Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | 1 | 2 | Mandatory |
+| [WD_SOBIA_R](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | [MSc in Organic and Biological Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | 1 | 2 | Mandatory |
 
 ---
 
@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A32364 | Timetable Code: SCIE-0083*
+*Module Code: A32364 | Timetable Code: SCIE-0083 | Change Tracking: Enabled*

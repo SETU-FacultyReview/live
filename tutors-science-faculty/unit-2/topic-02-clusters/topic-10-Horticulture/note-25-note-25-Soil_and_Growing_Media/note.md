@@ -21,7 +21,7 @@ This module is designed to equip students with a basic knowledge of soils includ
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | GMCMAHON |
-| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
+| **Cluster** | [Horticulture](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 
@@ -130,8 +130,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SHORT_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 1 | 1 | Mandatory |
-| [WD_SHORT_DX](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 1 | 1 | Mandatory |
+| [WD_SHORT_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 1 | 1 | Mandatory |
+| [WD_SHORT_DX](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 1 | 1 | Mandatory |
 
 ---
 
@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A08581 | Timetable Code: HORT-0037*
+*Module Code: A08581 | Timetable Code: HORT-0037 | Change Tracking: Enabled*

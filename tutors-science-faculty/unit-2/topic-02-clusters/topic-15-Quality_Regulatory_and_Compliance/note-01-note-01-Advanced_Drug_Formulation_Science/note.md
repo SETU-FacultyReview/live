@@ -21,7 +21,7 @@ The certificate in Advanced Drug Formulation Science will provide the learner wi
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | RJRYAN |
-| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
+| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
 
 ---
 
@@ -131,8 +131,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SANSC_G](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | 1 | 0 | Elective |
-| [WD_SANSC_R](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
+| [WD_SANSC_G](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | 1 | 0 | Elective |
+| [WD_SANSC_R](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
 | WD_SDRUG_MA | Certificate in Advanced Drug Formulation Science | 5 | 0 | Mandatory |
 
 ---
@@ -143,4 +143,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A25721 | Timetable Code: SCIE-0077*
+*Module Code: A25721 | Timetable Code: SCIE-0077 | Change Tracking: Enabled*

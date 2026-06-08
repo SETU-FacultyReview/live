@@ -147,4 +147,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13163 | Timetable Code: FDSC-0006*
+*Module Code: A13163 | Timetable Code: FDSC-0006 | Change Tracking: Enabled*

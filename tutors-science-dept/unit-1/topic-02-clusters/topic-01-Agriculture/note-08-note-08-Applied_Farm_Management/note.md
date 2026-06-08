@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A08681 | Timetable Code: AGRI-0108*
+*Module Code: A08681 | Timetable Code: AGRI-0108 | Change Tracking: Enabled*

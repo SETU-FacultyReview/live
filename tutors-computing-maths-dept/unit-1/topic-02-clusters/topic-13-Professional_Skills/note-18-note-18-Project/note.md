@@ -128,4 +128,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13950 | Timetable Code: PROJ-0149*
+*Module Code: A13950 | Timetable Code: PROJ-0149 | Change Tracking: Enabled*

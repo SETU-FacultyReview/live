@@ -21,7 +21,7 @@ This module introduces the fundamental concepts of operating systems and compute
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DOHALLORAN |
-| **Cluster** | [Networks and Cloud](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
+| **Cluster** | [Networks and Cloud](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
 
 ---
 
@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14065 | Timetable Code: COMP-0532*
+*Module Code: A14065 | Timetable Code: COMP-0532 | Change Tracking: Enabled*

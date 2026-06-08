@@ -21,7 +21,7 @@ The module will equip participants with methodologies to undertake project plann
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JGERAGHTY |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -130,7 +130,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_SGRAD_XX | Postgraduate Programmes in Science | 5 | 0 | Elective |
-| [WD_SOBIA_R](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | [MSc in Organic and Biological Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | 2 | 3 | Mandatory |
+| [WD_SOBIA_R](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | [MSc in Organic and Biological Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | 2 | 3 | Mandatory |
 
 ---
 
@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A32366 | Timetable Code: PROJ-0204*
+*Module Code: A32366 | Timetable Code: PROJ-0204 | Change Tracking: Enabled*

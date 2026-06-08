@@ -21,7 +21,7 @@ Introduce the notations, programming languages, tools and techniques for the des
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DOCONNOR |
-| **Cluster** | [Software and Web Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
+| **Cluster** | [Software and Web Development](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 
@@ -127,7 +127,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCESS_R](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | 1 | 0 | Elective |
+| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | 1 | 0 | Elective |
 
 ---
 
@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14943 | Timetable Code: COMP-0492*
+*Module Code: A14943 | Timetable Code: COMP-0492 | Change Tracking: Enabled*

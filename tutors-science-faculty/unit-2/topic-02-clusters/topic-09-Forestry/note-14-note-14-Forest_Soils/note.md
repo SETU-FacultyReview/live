@@ -21,7 +21,7 @@ This module is designed to equip students with a basic knowledge of soils, inclu
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MSOTTOCORNOLA |
-| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
+| **Cluster** | [Forestry](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 
@@ -136,7 +136,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SFORS_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 2 | 3 | Mandatory |
+| [WD_SFORS_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 2 | 3 | Mandatory |
 
 ---
 
@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06235 | Timetable Code: FORS-0019*
+*Module Code: A06235 | Timetable Code: FORS-0019 | Change Tracking: Enabled*

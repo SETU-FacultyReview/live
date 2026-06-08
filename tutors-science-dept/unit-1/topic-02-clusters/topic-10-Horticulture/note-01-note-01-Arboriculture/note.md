@@ -143,4 +143,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A08421 | Timetable Code: HORT-0043*
+*Module Code: A08421 | Timetable Code: HORT-0043 | Change Tracking: Enabled*

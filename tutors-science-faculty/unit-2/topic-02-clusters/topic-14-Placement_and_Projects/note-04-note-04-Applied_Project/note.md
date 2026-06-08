@@ -21,7 +21,7 @@ The aim of this module is to provide the quality professional with an opportunit
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | BWHELAN |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -134,4 +134,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A32661 | Timetable Code: PROJ-0205*
+*Module Code: A32661 | Timetable Code: PROJ-0205 | Change Tracking: Enabled*

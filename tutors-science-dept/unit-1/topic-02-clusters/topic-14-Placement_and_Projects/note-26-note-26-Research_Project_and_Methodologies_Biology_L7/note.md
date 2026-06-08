@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A36022 | Timetable Code: RESA-0219*
+*Module Code: A36022 | Timetable Code: RESA-0219 | Change Tracking: Enabled*

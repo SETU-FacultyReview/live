@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06812 | Timetable Code: ELEC-0039*
+*Module Code: A06812 | Timetable Code: ELEC-0039 | Change Tracking: Enabled*

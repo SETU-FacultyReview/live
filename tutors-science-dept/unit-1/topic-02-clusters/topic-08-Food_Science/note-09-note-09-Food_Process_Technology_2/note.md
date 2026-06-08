@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07826 | Timetable Code: TECH-0039*
+*Module Code: A07826 | Timetable Code: TECH-0039 | Change Tracking: Enabled*

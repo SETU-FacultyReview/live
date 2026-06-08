@@ -21,7 +21,7 @@ This module introduces the student to the practice of data science, where techni
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
 
 ---
 
@@ -148,4 +148,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A33701 | Timetable Code: N/A*
+*Module Code: A33701 | Timetable Code: N/A | Change Tracking: Enabled*

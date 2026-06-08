@@ -21,7 +21,7 @@ This module is designed to enable the student to read and interpret academic wri
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EWOODBYRNE |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -125,8 +125,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SHORT_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 3 | 5 | Mandatory |
-| [WD_SHORT_DX](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 3 | 5 | Mandatory |
+| [WD_SHORT_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 3 | 5 | Mandatory |
+| [WD_SHORT_DX](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 3 | 5 | Mandatory |
 
 ---
 
@@ -136,4 +136,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A08041 | Timetable Code: SCIE-0061*
+*Module Code: A08041 | Timetable Code: SCIE-0061 | Change Tracking: Enabled*

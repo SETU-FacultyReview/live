@@ -126,4 +126,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14865 | Timetable Code: PLAC-0151*
+*Module Code: A14865 | Timetable Code: PLAC-0151 | Change Tracking: Enabled*

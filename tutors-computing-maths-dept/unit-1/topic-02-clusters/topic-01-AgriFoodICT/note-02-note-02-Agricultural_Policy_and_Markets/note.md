@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A24741 | Timetable Code: AGRI-0110*
+*Module Code: A24741 | Timetable Code: AGRI-0110 | Change Tracking: Enabled*

@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: M01117 | Timetable Code: GERM-0025*
+*Module Code: M01117 | Timetable Code: GERM-0025 | Change Tracking: Enabled*

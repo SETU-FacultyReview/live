@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14667 | Timetable Code: N/A*
+*Module Code: A14667 | Timetable Code: N/A | Change Tracking: Enabled*

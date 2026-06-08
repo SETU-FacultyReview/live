@@ -21,7 +21,7 @@ The aim of this module is for students to synthesise, deepen and develop their k
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
-| **Cluster** | [Professional Skills](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 
@@ -128,4 +128,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13950 | Timetable Code: PROJ-0149*
+*Module Code: A13950 | Timetable Code: PROJ-0149 | Change Tracking: Enabled*

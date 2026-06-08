@@ -21,7 +21,7 @@ This module provides the essentials of data security.
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BERNARD.BUTLER |
-| **Cluster** | [Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
+| **Cluster** | [Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
 
 ---
 
@@ -144,4 +144,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A36201 | Timetable Code: N/A*
+*Module Code: A36201 | Timetable Code: N/A | Change Tracking: Enabled*

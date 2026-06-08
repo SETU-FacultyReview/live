@@ -21,7 +21,7 @@ Sophisticated techniques are used to capture, model, discover and utilize knowle
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LSTAPLETON |
-| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
+| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
 
 ---
 
@@ -129,7 +129,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_KINTE_B | Bachelor of Science (Honours) in Information Technology | 4 | 2 | Elective |
-| [WD_KITMA_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | [BSc (Hons) in Information Technology Management](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | 1 | 8 | Elective |
+| [WD_KITMA_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | [BSc (Hons) in Information Technology Management](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | 1 | 8 | Elective |
 
 ---
 
@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14025 | Timetable Code: COMP-0656*
+*Module Code: A14025 | Timetable Code: COMP-0656 | Change Tracking: Enabled*

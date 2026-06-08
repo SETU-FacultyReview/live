@@ -21,7 +21,7 @@ To provide students with knowledge and practical skills to use financial informa
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | LWALSH |
-| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business) |
+| **Cluster** | [Business](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 
@@ -123,7 +123,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGUL_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 3 | 6 | Mandatory |
+| [WD_SAGUL_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 3 | 6 | Mandatory |
 
 ---
 
@@ -135,4 +135,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10025 | Timetable Code: MGTS-0006*
+*Module Code: A10025 | Timetable Code: MGTS-0006 | Change Tracking: Enabled*

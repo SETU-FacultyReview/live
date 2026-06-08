@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11494 | Timetable Code: HORT-0028*
+*Module Code: A11494 | Timetable Code: HORT-0028 | Change Tracking: Enabled*

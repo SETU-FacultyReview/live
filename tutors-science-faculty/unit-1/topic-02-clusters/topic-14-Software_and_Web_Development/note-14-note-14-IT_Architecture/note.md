@@ -21,7 +21,7 @@ This module will provide a well-balanced understanding of how the different IT A
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SDROHAN |
-| **Cluster** | [Software and Web Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
+| **Cluster** | [Software and Web Development](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 
@@ -134,4 +134,4 @@ Self-directed learning will be encouraged throughout the duration of the module.
 
 ---
 
-*Module Code: A13387 | Timetable Code: N/A*
+*Module Code: A13387 | Timetable Code: N/A | Change Tracking: Enabled*

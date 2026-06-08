@@ -157,4 +157,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06218 | Timetable Code: CHEM-0001*
+*Module Code: A06218 | Timetable Code: CHEM-0001 | Change Tracking: Enabled*

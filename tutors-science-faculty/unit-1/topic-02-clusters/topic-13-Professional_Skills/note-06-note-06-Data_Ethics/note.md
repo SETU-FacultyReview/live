@@ -21,7 +21,7 @@ This module provides students with a solid grounding in applied data ethics by c
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PCAREW |
-| **Cluster** | [Professional Skills](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 
@@ -155,4 +155,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A30241 | Timetable Code: N/A*
+*Module Code: A30241 | Timetable Code: N/A | Change Tracking: Enabled*

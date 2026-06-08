@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11410 | Timetable Code: PHAR-0008*
+*Module Code: A11410 | Timetable Code: PHAR-0008 | Change Tracking: Enabled*

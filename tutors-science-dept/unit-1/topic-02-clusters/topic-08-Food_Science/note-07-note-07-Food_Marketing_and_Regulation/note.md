@@ -147,4 +147,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07822 | Timetable Code: MARK-0191*
+*Module Code: A07822 | Timetable Code: MARK-0191 | Change Tracking: Enabled*

@@ -21,7 +21,7 @@ This course is designed to give students an overview of forestry establishment p
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ABOOTH |
-| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
+| **Cluster** | [Forestry](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 
@@ -135,7 +135,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SFORS_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 1 | 1 | Mandatory |
+| [WD_SFORS_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 1 | 1 | Mandatory |
 
 ---
 
@@ -144,4 +144,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13104 | Timetable Code: FORS-0001*
+*Module Code: A13104 | Timetable Code: FORS-0001 | Change Tracking: Enabled*

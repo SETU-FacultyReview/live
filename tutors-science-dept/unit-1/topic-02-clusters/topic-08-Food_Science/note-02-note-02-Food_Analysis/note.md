@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A01766 | Timetable Code: FDSC-0001*
+*Module Code: A01766 | Timetable Code: FDSC-0001 | Change Tracking: Enabled*

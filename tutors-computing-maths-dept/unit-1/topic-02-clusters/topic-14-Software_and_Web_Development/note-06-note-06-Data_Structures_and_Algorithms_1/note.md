@@ -148,4 +148,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13489 | Timetable Code: COMP-0602*
+*Module Code: A13489 | Timetable Code: COMP-0602 | Change Tracking: Enabled*

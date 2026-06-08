@@ -21,7 +21,7 @@ The purpose of the work placement is to require the student to apply the knowled
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
-| **Cluster** | [Professional Skills](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 
@@ -129,4 +129,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13948 | Timetable Code: PLAC-0138*
+*Module Code: A13948 | Timetable Code: PLAC-0138 | Change Tracking: Enabled*

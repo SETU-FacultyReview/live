@@ -183,8 +183,29 @@ class MarkdownGenerator:
         if 'assessment_methods' in descriptor:
             md.append("## Assessment Methods")
             md.append("")
-            md.append("| **Assessment Type** | **Learning Outcomes** | **Weighting** |")
-            md.append("|---------------------|----------------------|---------------|")
+
+            # Check if any assessments have due_weeks or comments to determine table columns
+            has_due_weeks = any(a.get('due_weeks') for a in descriptor['assessment_methods'])
+            has_comments = any(a.get('comment') for a in descriptor['assessment_methods'])
+
+            # Build table header based on available data
+            if has_due_weeks or has_comments:
+                header_parts = ["**Assessment Type**", "**Learning Outcomes**", "**Weighting**"]
+                separator_parts = ["---------------------", "----------------------", "---------------"]
+
+                if has_due_weeks:
+                    header_parts.append("**Due Week**")
+                    separator_parts.append("-----------")
+                if has_comments:
+                    header_parts.append("**Notes**")
+                    separator_parts.append("-------")
+
+                md.append("| " + " | ".join(header_parts) + " |")
+                md.append("| " + " | ".join(separator_parts) + " |")
+            else:
+                # Original simple table
+                md.append("| **Assessment Type** | **Learning Outcomes** | **Weighting** |")
+                md.append("|---------------------|----------------------|---------------|")
 
             main_assessments = [a for a in descriptor['assessment_methods'] if a.get('main', False)]
             sub_assessments = [a for a in descriptor['assessment_methods'] if not a.get('main', False)]
@@ -192,12 +213,42 @@ class MarkdownGenerator:
             for assessment in main_assessments:
                 los = assessment.get('learning_outcomes', 'All')
                 weight = assessment.get('weighting', 0)
-                md.append(f"| **{assessment['name']}** | {los} | **{weight}%** |")
+
+                row_parts = [f"**{assessment['name']}**", str(los), f"**{weight}%**"]
+
+                if has_due_weeks:
+                    due_weeks = assessment.get('due_weeks', [])
+                    if due_weeks:
+                        weeks_str = ', '.join(str(w) for w in due_weeks)
+                        row_parts.append(f"Week {weeks_str}")
+                    else:
+                        row_parts.append("")
+
+                if has_comments:
+                    comment = assessment.get('comment', '')
+                    row_parts.append(comment if comment else "")
+
+                md.append("| " + " | ".join(row_parts) + " |")
 
             for assessment in sub_assessments:
                 los = assessment.get('learning_outcomes', '')
                 weight = assessment.get('weighting', 0)
-                md.append(f"| - {assessment['name']} | {los} | {weight}% |")
+
+                row_parts = [f"- {assessment['name']}", str(los), f"{weight}%"]
+
+                if has_due_weeks:
+                    due_weeks = assessment.get('due_weeks', [])
+                    if due_weeks:
+                        weeks_str = ', '.join(str(w) for w in due_weeks)
+                        row_parts.append(f"Week {weeks_str}")
+                    else:
+                        row_parts.append("")
+
+                if has_comments:
+                    comment = assessment.get('comment', '')
+                    row_parts.append(comment if comment else "")
+
+                md.append("| " + " | ".join(row_parts) + " |")
 
             md.append("")
             md.append("---")
@@ -294,6 +345,15 @@ class MarkdownGenerator:
             md.append("---")
             md.append("")
 
+        # Module Learning Outcomes to Programme Outcomes mapping
+        if 'mlo_to_po' in descriptor and descriptor['mlo_to_po']:
+            md.append("## Module Learning Outcomes to Programme Outcomes")
+            md.append("")
+            md.append(convert_latex_to_markdown(descriptor['mlo_to_po']))
+            md.append("")
+            md.append("---")
+            md.append("")
+
         # Footer
         timetable_code = 'N/A'
         if 'programmes' in descriptor and descriptor['programmes']:
@@ -302,6 +362,13 @@ class MarkdownGenerator:
                     timetable_code = prog['timetable']
                     break
 
-        md.append(f"*Module Code: {module_code} | Timetable Code: {timetable_code}*")
+        # Footer with metadata
+        footer_parts = [f"Module Code: {module_code}", f"Timetable Code: {timetable_code}"]
+
+        # Add track_changes status if present
+        if 'track_changes' in descriptor and descriptor['track_changes']:
+            footer_parts.append("Change Tracking: Enabled")
+
+        md.append(f"*{' | '.join(footer_parts)}*")
 
         return '\n'.join(md)

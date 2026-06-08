@@ -126,4 +126,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A08428 | Timetable Code: AGRI-0097*
+*Module Code: A08428 | Timetable Code: AGRI-0097 | Change Tracking: Enabled*

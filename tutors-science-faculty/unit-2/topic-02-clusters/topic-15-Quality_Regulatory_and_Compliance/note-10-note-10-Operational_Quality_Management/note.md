@@ -21,7 +21,7 @@ The aim of this module is to provide the professional adult learner with knowled
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | BWHELAN |
-| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
+| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
 
 ---
 
@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A33461 | Timetable Code: QUAL-0034*
+*Module Code: A33461 | Timetable Code: QUAL-0034 | Change Tracking: Enabled*

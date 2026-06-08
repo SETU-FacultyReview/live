@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A32061 | Timetable Code: CHEM-0038*
+*Module Code: A32061 | Timetable Code: CHEM-0038 | Change Tracking: Enabled*

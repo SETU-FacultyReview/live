@@ -21,7 +21,7 @@ This module is designed to introduce students to the history, development and in
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MMCMAHON |
-| **Cluster** | [Media Production](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-11-Media_Production) |
+| **Cluster** | [Media Production](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
 
 ---
 
@@ -123,8 +123,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCRCO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 1 | 1 | Mandatory |
-| [WD_KMULA_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 1 | 1 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 1 | 1 | Mandatory |
+| [WD_KMULA_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 1 | 1 | Mandatory |
 
 ---
 
@@ -134,4 +134,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13942 | Timetable Code: COMP-0585*
+*Module Code: A13942 | Timetable Code: COMP-0585 | Change Tracking: Enabled*

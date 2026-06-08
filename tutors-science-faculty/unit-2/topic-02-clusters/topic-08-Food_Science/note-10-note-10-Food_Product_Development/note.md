@@ -21,7 +21,7 @@ This module is developed to equip students with technical knowledge, practicalit
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EDUGGAN |
-| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
+| **Cluster** | [Food Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 
@@ -146,7 +146,7 @@ This module is available on the following programmes:
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_HCULA_B | Bachelor of Arts (Honours) in Culinary Arts | 4 | 8 | Elective |
 | WD_SFDSC_B | Bachelor of Science (Honours) in Food Science and Innovation | 4 | 2 | Mandatory |
-| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 4 | 8 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 4 | 8 | Mandatory |
 
 ---
 
@@ -157,4 +157,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07812 | Timetable Code: SCIE-0065*
+*Module Code: A07812 | Timetable Code: SCIE-0065 | Change Tracking: Enabled*

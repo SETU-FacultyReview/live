@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07841 | Timetable Code: SCIE-0064*
+*Module Code: A07841 | Timetable Code: SCIE-0064 | Change Tracking: Enabled*

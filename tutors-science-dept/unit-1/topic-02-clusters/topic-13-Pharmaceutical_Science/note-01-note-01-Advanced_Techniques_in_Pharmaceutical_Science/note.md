@@ -150,4 +150,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07955 | Timetable Code: PHAR-0016*
+*Module Code: A07955 | Timetable Code: PHAR-0016 | Change Tracking: Enabled*

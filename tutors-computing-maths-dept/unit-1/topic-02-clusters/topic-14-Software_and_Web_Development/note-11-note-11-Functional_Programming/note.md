@@ -144,4 +144,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13433 | Timetable Code: PROG-0094*
+*Module Code: A13433 | Timetable Code: PROG-0094 | Change Tracking: Enabled*

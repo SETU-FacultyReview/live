@@ -21,7 +21,7 @@ This module will teach the student how to communicate effectively both in a writ
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MCAHILL |
-| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
+| **Cluster** | [IT](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 
@@ -127,7 +127,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGUL_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 1 | 1 | Mandatory |
+| [WD_SAGUL_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 1 | 1 | Mandatory |
 
 ---
 
@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07382 | Timetable Code: COMM-0075*
+*Module Code: A07382 | Timetable Code: COMM-0075 | Change Tracking: Enabled*

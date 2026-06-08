@@ -21,7 +21,7 @@ This module will introduce the student to statistical techniques in data analysi
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PKIRWAN |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
 
 ---
 
@@ -132,4 +132,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A35482 | Timetable Code: N/A*
+*Module Code: A35482 | Timetable Code: N/A | Change Tracking: Enabled*

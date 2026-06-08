@@ -21,7 +21,7 @@ This module allows the student to broaden their awareness of the history of scie
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CORAIFEARTAIGH |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
 
 ---
 
@@ -122,7 +122,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KPHTE_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 2 | 3 | Mandatory |
+| [WD_KPHTE_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 2 | 3 | Mandatory |
 
 ---
 
@@ -131,4 +131,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A29422 | Timetable Code: SCIE-0079*
+*Module Code: A29422 | Timetable Code: SCIE-0079 | Change Tracking: Enabled*

@@ -156,4 +156,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A26962 | Timetable Code: SCIE-0059*
+*Module Code: A26962 | Timetable Code: SCIE-0059 | Change Tracking: Enabled*

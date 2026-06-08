@@ -155,4 +155,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11244 | Timetable Code: CHEM-0030*
+*Module Code: A11244 | Timetable Code: CHEM-0030 | Change Tracking: Enabled*

@@ -21,7 +21,7 @@ This module will expose the student to further control chart constructs.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | FLEONARD |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
 
 ---
 
@@ -126,7 +126,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SGMPT_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | [Bachelor of Science in Good Manufacturing Practice and Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | 1 | 3 | Mandatory |
+| [WD_SGMPT_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | [Bachelor of Science in Good Manufacturing Practice and Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | 1 | 3 | Mandatory |
 
 ---
 
@@ -136,4 +136,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11523 | Timetable Code: EVAL-0003*
+*Module Code: A11523 | Timetable Code: EVAL-0003 | Change Tracking: Enabled*

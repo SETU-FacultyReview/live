@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10224 | Timetable Code: PROF-0032*
+*Module Code: A10224 | Timetable Code: PROF-0032 | Change Tracking: Enabled*

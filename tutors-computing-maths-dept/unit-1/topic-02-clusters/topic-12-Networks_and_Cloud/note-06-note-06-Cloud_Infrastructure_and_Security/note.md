@@ -134,4 +134,4 @@ Self-directed learning.
 
 ---
 
-*Module Code: A13802 | Timetable Code: N/A*
+*Module Code: A13802 | Timetable Code: N/A | Change Tracking: Enabled*

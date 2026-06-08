@@ -149,4 +149,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14863 | Timetable Code: FOOD-0005*
+*Module Code: A14863 | Timetable Code: FOOD-0005 | Change Tracking: Enabled*

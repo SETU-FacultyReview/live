@@ -21,7 +21,7 @@ This module will teach the student how to communicate effectively using written 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MCAHILL |
-| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
+| **Cluster** | [IT](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 
@@ -128,9 +128,9 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SFORS_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 1 | 1 | Mandatory |
-| [WD_SHORT_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 1 | 1 | Mandatory |
-| [WD_SHORT_DX](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 1 | 1 | Mandatory |
+| [WD_SFORS_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 1 | 1 | Mandatory |
+| [WD_SHORT_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 1 | 1 | Mandatory |
+| [WD_SHORT_DX](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 1 | 1 | Mandatory |
 
 ---
 
@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06902 | Timetable Code: COMP-0578*
+*Module Code: A06902 | Timetable Code: COMP-0578 | Change Tracking: Enabled*

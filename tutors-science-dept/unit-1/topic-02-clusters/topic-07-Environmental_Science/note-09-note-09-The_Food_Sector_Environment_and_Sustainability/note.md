@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A33361 | Timetable Code: FOOD-0031*
+*Module Code: A33361 | Timetable Code: FOOD-0031 | Change Tracking: Enabled*

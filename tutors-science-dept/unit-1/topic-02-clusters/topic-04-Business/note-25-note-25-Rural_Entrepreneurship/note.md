@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11412 | Timetable Code: ENTE-0007*
+*Module Code: A11412 | Timetable Code: ENTE-0007 | Change Tracking: Enabled*

@@ -21,7 +21,7 @@ The purpose of this module is to facilitate students in developing their employa
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
-| **Cluster** | [Professional Skills](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 
@@ -133,4 +133,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13949 | Timetable Code: COMP-0535*
+*Module Code: A13949 | Timetable Code: COMP-0535 | Change Tracking: Enabled*

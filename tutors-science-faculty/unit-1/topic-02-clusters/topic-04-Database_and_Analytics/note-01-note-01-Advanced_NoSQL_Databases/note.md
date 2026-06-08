@@ -21,7 +21,7 @@ This module will facilitate the student to understand the application of NoSQL d
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | TMCDONALD |
-| **Cluster** | [Database and Analytics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
+| **Cluster** | [Database and Analytics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 
@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A36141 | Timetable Code: N/A*
+*Module Code: A36141 | Timetable Code: N/A | Change Tracking: Enabled*

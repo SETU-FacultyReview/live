@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06805 | Timetable Code: MTHS-0003*
+*Module Code: A06805 | Timetable Code: MTHS-0003 | Change Tracking: Enabled*
