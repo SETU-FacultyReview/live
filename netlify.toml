@@ -4,14 +4,14 @@
 
   # Build command runs the Python generator for all 3 courses, then Tutors Deno CLI for each
   command = """
-    cd tutors-generator && \
-    python3 generate-all-science.py && \
-    cd ../tutors-science-faculty && \
-    deno run -A jsr:@tutors/tutors && \
-    cd ../tutors-science-dept && \
-    deno run -A jsr:@tutors/tutors && \
-    cd ../tutors-computing-maths-dept && \
-    deno run -A jsr:@tutors/tutors
+  #  cd tutors-generator && \
+  #  python3 generate-all-science.py && \
+  #  cd ../tutors-science-faculty && \
+  #  deno run -A jsr:@tutors/tutors && \
+  #  cd ../tutors-science-dept && \
+  #  deno run -A jsr:@tutors/tutors && \
+  #  cd ../tutors-computing-maths-dept && \
+  #  deno run -A jsr:@tutors/tutors
   """
 
   # Publish the Science Faculty course (combined) JSON output (relative to base)
