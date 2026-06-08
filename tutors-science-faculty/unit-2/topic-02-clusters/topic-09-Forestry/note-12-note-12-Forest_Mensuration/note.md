@@ -21,7 +21,7 @@ Timber production in Ireland is forecast to expand from the current three millio
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | TKENT |
-| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
+| **Cluster** | [Forestry](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 
@@ -137,7 +137,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SFORS_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 2 | 3 | Mandatory |
+| [WD_SFORS_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | [Bachelor of Science in Forestry](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-04-WD_SFORS_D) | 2 | 3 | Mandatory |
 
 ---
 

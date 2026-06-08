@@ -21,7 +21,7 @@ Students will be placed for work experience in a pharmaceutical or related compa
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | HHUGHES |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -121,7 +121,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SPHSC_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 3 | 6 | Elective |
+| [WD_SPHSC_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 3 | 6 | Elective |
 
 ---
 

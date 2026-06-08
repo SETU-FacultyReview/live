@@ -21,7 +21,7 @@ The aim of the work-based project (WBP) is for the student to complete a project
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | BWHELAN |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -114,7 +114,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SGMPT_C](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | [Higher Certificate in Science in Good Manufacturing Practice and Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | 2 | 4 | Mandatory |
+| [WD_SGMPT_C](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | [Higher Certificate in Science in Good Manufacturing Practice and Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | 2 | 4 | Mandatory |
 
 ---
 

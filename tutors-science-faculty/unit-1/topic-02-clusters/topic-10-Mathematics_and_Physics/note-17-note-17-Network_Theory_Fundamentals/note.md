@@ -21,7 +21,7 @@ This module will introduce students to the principles of graph/network models an
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADALYWALSH |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
 
 ---
 
@@ -125,8 +125,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCOMP_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 2 | 3 | Mandatory |
-| [WD_KINFT_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 2 | 3 | Mandatory |
+| [WD_KCOMP_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 2 | 3 | Mandatory |
+| [WD_KINFT_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 2 | 3 | Mandatory |
 
 ---
 

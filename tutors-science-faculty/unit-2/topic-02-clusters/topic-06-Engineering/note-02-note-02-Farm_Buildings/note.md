@@ -21,7 +21,7 @@ This module is designed to give the student the theory and practice of basic far
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | SWALSH |
-| **Cluster** | [Engineering](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-06-Engineering) |
+| **Cluster** | [Engineering](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-06-Engineering) |
 
 ---
 
@@ -128,7 +128,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGUL_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 3 | 6 | Mandatory |
+| [WD_SAGUL_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 3 | 6 | Mandatory |
 
 ---
 

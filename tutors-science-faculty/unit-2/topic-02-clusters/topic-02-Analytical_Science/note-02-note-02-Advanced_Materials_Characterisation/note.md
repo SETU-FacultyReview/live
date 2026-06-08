@@ -21,7 +21,7 @@ This module provides an overview of the current technologies used for the charac
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KGRENNAN |
-| **Cluster** | [Analytical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
+| **Cluster** | [Analytical Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
 
 ---
 
@@ -128,8 +128,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SANSC_G](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | 1 | 0 | Elective |
-| [WD_SANSC_R](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
+| [WD_SANSC_G](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | 1 | 0 | Elective |
+| [WD_SANSC_R](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
 | WD_SMATR_MA | Certificate in Advanced Materials Characterisation | 5 | 0 | Mandatory |
 
 ---

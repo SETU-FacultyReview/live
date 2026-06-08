@@ -21,7 +21,7 @@ This module will build on the student s prior knowledge of computer algorithms a
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | POLEARY |
-| **Cluster** | [Automotive, Automation and IoT](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
+| **Cluster** | [Automotive, Automation and IoT](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
 
 ---
 

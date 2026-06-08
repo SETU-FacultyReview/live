@@ -21,7 +21,7 @@ This module develops the student's understanding of electromagnetism.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MALHOURANI |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
 
 ---
 
@@ -132,7 +132,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KPHTE_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 2 | 4 | Mandatory |
+| [WD_KPHTE_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 2 | 4 | Mandatory |
 
 ---
 

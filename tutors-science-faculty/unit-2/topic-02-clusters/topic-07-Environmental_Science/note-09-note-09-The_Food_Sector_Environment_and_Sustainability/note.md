@@ -21,7 +21,7 @@ This module examines the impact the food industry has on our environment.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EDUGGAN |
-| **Cluster** | [Environmental Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
+| **Cluster** | [Environmental Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
 
 ---
 
@@ -132,7 +132,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [Bachelor of Science (Honours) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 4 | 8 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [Bachelor of Science (Honours) in Food Science and Innovation](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 4 | 8 | Mandatory |
 
 ---
 

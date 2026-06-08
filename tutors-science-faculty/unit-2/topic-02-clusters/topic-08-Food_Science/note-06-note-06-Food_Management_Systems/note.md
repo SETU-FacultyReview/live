@@ -21,7 +21,7 @@ The module is designed to give students knowledge and understanding of the vario
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JFRISBY |
-| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
+| **Cluster** | [Food Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 
@@ -140,7 +140,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 3 | 5 | Mandatory |
+| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 3 | 5 | Mandatory |
 
 ---
 

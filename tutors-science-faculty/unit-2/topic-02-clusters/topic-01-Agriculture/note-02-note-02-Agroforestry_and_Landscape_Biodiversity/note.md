@@ -21,7 +21,7 @@ The module will provide participants with an in depth appreciation for the role 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JGERAGHTY |
-| **Cluster** | [Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-01-Agriculture) |
+| **Cluster** | [Agriculture](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-01-Agriculture) |
 
 ---
 
@@ -132,7 +132,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_SGRAD_XX | Postgraduate Programmes in Science | 5 | 0 | Elective |
-| [WD_SOBIA_R](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | [MSc in Organic and Biological Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | 2 | 3 | Mandatory |
+| [WD_SOBIA_R](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | [MSc in Organic and Biological Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-01-WD_SOBIA_R) | 2 | 3 | Mandatory |
 
 ---
 

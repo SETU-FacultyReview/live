@@ -21,7 +21,7 @@ This module will provide a comprehensive understanding of the theory and practic
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | DCONNOLLY |
-| **Cluster** | [Analytical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
+| **Cluster** | [Analytical Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
 
 ---
 
@@ -133,11 +133,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 2 | 4 | Mandatory |
-| [WD_SMBIO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 2 | 4 | Mandatory |
-| [WD_SMBIO_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 2 | 4 | Mandatory |
-| [WD_SPHSC_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 2 | 4 | Mandatory |
-| [WD_SPHSC_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [Bachelor of Science in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 2 | 4 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 2 | 4 | Mandatory |
+| [WD_SMBIO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 2 | 4 | Mandatory |
+| [WD_SMBIO_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 2 | 4 | Mandatory |
+| [WD_SPHSC_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 2 | 4 | Mandatory |
+| [WD_SPHSC_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [Bachelor of Science in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 2 | 4 | Mandatory |
 
 ---
 

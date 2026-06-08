@@ -21,7 +21,7 @@ This Module is an introductory Module, which focuses on inspiring students' inte
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADAVY |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
 
 ---
 

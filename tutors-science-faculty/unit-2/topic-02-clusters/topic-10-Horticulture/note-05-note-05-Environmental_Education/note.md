@@ -21,7 +21,7 @@ This module will provide students with the necessary skills to teach people abou
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | UMCDERMOTT |
-| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
+| **Cluster** | [Horticulture](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 
@@ -125,7 +125,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SBSHO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 2 | Mandatory |
+| [WD_SBSHO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 2 | Mandatory |
 
 ---
 

@@ -21,7 +21,7 @@ This module introduces the student to the creation and development of web based 
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SORIORDAN |
-| **Cluster** | [Software and Web Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
+| **Cluster** | [Software and Web Development](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 
@@ -124,19 +124,19 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_BCSEC_SP | Diploma in Computing with Security and Forensics | 3 | 1 | Mandatory |
-| [WD_KACCM_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 1 | 1 | Mandatory |
+| [WD_KACCM_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 1 | 1 | Mandatory |
 | WD_KACMI_B | BSc (Hons) in Applied Computing (International) | 2 | 4 | Mandatory |
-| [WD_KCMSC_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 1 | 1 | Mandatory |
-| [WD_KCOFO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 1 | 1 | Mandatory |
-| [WD_KCOMC_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 1 | 1 | Mandatory |
-| [WD_KCOMP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 1 | 1 | Mandatory |
-| [WD_KCOMP_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 1 | 1 | Mandatory |
-| [WD_KCOSC_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 4 | 1 | Mandatory |
-| [WD_KCRCO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 1 | 2 | Mandatory |
-| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 1 | 1 | Mandatory |
+| [WD_KCMSC_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 1 | 1 | Mandatory |
+| [WD_KCOFO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 1 | 1 | Mandatory |
+| [WD_KCOMC_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 1 | 1 | Mandatory |
+| [WD_KCOMP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 1 | 1 | Mandatory |
+| [WD_KCOMP_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 1 | 1 | Mandatory |
+| [WD_KCOSC_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 4 | 1 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 1 | 2 | Mandatory |
+| [WD_KDEVP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 1 | 1 | Mandatory |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 1 | 1 | Mandatory |
-| [WD_KINFT_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 1 | 1 | Mandatory |
-| [WD_KMULA_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 1 | 2 | Mandatory |
+| [WD_KINFT_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 1 | 1 | Mandatory |
+| [WD_KMULA_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 1 | 2 | Mandatory |
 
 ---
 

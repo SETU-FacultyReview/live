@@ -21,7 +21,7 @@ The student will learn the fundamentals of linear electrical circuits and their 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CWALSH |
-| **Cluster** | [Engineering](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-06-Engineering) |
+| **Cluster** | [Engineering](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-06-Engineering) |
 
 ---
 
@@ -132,7 +132,7 @@ This module is available on the following programmes:
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_KCOMP_B | Bachelor of Science (Honours) in Applied Computing | 2 | 4 | Elective |
 | WD_KINTT_B | BSc (Hons) in the Internet of Things | 2 | 4 | Mandatory |
-| [WD_KPHTE_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 2 | 4 | Mandatory |
+| [WD_KPHTE_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 2 | 4 | Mandatory |
 
 ---
 

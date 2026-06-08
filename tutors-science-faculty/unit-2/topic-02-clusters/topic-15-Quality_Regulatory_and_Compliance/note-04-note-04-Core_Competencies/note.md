@@ -21,7 +21,7 @@ This module will enable the student to develop learning and information handling
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | BWHELAN |
-| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
+| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
 
 ---
 
@@ -133,7 +133,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SGMPT_C](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | [Higher Certificate in Science in Good Manufacturing Practice and Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | 1 | 1 | Mandatory |
+| [WD_SGMPT_C](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | [Higher Certificate in Science in Good Manufacturing Practice and Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | 1 | 1 | Mandatory |
 
 ---
 

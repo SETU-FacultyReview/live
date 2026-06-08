@@ -21,7 +21,7 @@ This module provides the essentials of computer security.
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CLPOWER |
-| **Cluster** | [Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
+| **Cluster** | [Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
 
 ---
 
@@ -132,7 +132,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCRCO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 7 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 7 | Mandatory |
 | WD_KMULM_B | Bachelor of Science (Honours) in Multimedia Applications Development | 4 | 1 | Mandatory |
 
 ---

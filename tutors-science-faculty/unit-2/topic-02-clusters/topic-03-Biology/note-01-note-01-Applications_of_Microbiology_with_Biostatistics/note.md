@@ -21,7 +21,7 @@ This module exposes the student to microbiological and molecular methods and the
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | LCOFFEY |
-| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
+| **Cluster** | [Biology](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 
@@ -140,7 +140,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SMBIO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 4 | 7 | Mandatory |
+| [WD_SMBIO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 4 | 7 | Mandatory |
 
 ---
 

@@ -21,7 +21,7 @@ It is assumed the student is familiar with the fundamental concepts and techniqu
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
-| **Cluster** | [Database and Analytics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
+| **Cluster** | [Database and Analytics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 
@@ -130,11 +130,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KACCM_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 4 | 8 | Mandatory |
+| [WD_KACCM_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 4 | 8 | Mandatory |
 | WD_KACMI_B | BSc (Hons) in Applied Computing (International) | 4 | 8 | Mandatory |
-| [WD_KCMSC_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 4 | 8 | Mandatory |
-| [WD_KCOFO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 4 | 8 | Mandatory |
-| [WD_KCOMP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 4 | 8 | Mandatory |
+| [WD_KCMSC_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 4 | 8 | Mandatory |
+| [WD_KCOFO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 4 | 8 | Mandatory |
+| [WD_KCOMP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 4 | 8 | Mandatory |
 | WD_KINTT_BI | BSc (Hons) in the Internet of Things (International) | 4 | 8 | Mandatory |
 | WD_KPHTE_B | Bachelor of Science (Honours) in Physics for Modern Technology | 4 | 8 | Elective |
 

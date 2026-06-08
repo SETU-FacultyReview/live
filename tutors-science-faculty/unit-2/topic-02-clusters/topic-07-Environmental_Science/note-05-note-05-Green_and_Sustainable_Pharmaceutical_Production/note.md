@@ -21,7 +21,7 @@ This module will provide students with a detailed understanding of the legislati
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CLENNON |
-| **Cluster** | [Environmental Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
+| **Cluster** | [Environmental Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
 
 ---
 
@@ -135,8 +135,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SANSC_G](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | 1 | 0 | Elective |
-| [WD_SANSC_R](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
+| [WD_SANSC_G](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | 1 | 0 | Elective |
+| [WD_SANSC_R](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
 | WD_SGSPP_MA | Certificate in Green and Sustainable Pharmaceutical Production | 5 | 0 | Mandatory |
 
 ---

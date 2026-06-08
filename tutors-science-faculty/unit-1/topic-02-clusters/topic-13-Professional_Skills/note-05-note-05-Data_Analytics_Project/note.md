@@ -21,7 +21,7 @@ The purpose of the Industry-led Project is to enable the student to apply the kn
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PKIRWAN |
-| **Cluster** | [Professional Skills](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 

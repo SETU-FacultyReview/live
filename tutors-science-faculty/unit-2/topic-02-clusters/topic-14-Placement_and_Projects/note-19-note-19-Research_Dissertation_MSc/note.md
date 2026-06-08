@@ -21,7 +21,7 @@ This module will develop the learner s ability to access relevant scientific inf
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KGRENNAN |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -134,7 +134,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SANSC_R](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 3 | Mandatory |
+| [WD_SANSC_R](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 3 | Mandatory |
 
 ---
 

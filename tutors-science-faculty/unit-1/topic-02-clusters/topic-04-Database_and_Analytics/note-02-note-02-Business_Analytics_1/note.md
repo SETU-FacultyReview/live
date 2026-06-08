@@ -21,7 +21,7 @@ The student is introduced to the use of analytics to support the decision making
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BMULLALLY |
-| **Cluster** | [Database and Analytics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
+| **Cluster** | [Database and Analytics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 

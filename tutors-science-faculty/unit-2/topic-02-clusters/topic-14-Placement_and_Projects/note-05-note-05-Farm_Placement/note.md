@@ -21,7 +21,7 @@ This module is designed to give the student experience of practical farming on a
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | VNYHAN |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -124,7 +124,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGUL_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 2 | 4 | Elective |
+| [WD_SAGUL_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 2 | 4 | Elective |
 
 ---
 

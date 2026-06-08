@@ -21,7 +21,7 @@ Students will spend a period of not less than four months in a work experience p
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EDELEASTAR |
-| **Cluster** | [Professional Skills](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 
@@ -118,7 +118,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCOSC_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 1 | 3 | Mandatory |
+| [WD_KCOSC_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 1 | 3 | Mandatory |
 
 ---
 

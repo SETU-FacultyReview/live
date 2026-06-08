@@ -21,7 +21,7 @@ This module will develop the student s competency in identifying, interpreting a
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | BWHELAN |
-| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
+| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
 
 ---
 
@@ -131,8 +131,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SMBIO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 4 | 7 | Mandatory |
-| [WD_SPHSC_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 4 | 7 | Mandatory |
+| [WD_SMBIO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 4 | 7 | Mandatory |
+| [WD_SPHSC_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 4 | 7 | Mandatory |
 | WD_SQMBI_B | Bachelor of Science (Honours) in Applied Biology with Quality Management | 4 | 1 | Mandatory |
 | WD_SQMCH_B | Bachelor of Science (Honours) in Applied Chemistry with Quality Management | 4 | 1 | Mandatory |
 

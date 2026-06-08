@@ -21,7 +21,7 @@ This module introduces data communications terminology and concepts, network pro
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LBWHITE |
-| **Cluster** | [Networks and Cloud](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
+| **Cluster** | [Networks and Cloud](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
 
 ---
 
@@ -135,7 +135,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCOSC_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 4 | 1 | Mandatory |
+| [WD_KCOSC_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 4 | 1 | Mandatory |
 
 ---
 

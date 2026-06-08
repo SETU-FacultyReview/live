@@ -21,7 +21,7 @@ The aims of this module is to give students a knowledge of the laws which freque
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | DGKEATING |
-| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business) |
+| **Cluster** | [Business](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 
@@ -133,8 +133,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SHORT_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 3 | 6 | Mandatory |
-| [WD_SHORT_DX](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 3 | 6 | Mandatory |
+| [WD_SHORT_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 3 | 6 | Mandatory |
+| [WD_SHORT_DX](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 3 | 6 | Mandatory |
 
 ---
 

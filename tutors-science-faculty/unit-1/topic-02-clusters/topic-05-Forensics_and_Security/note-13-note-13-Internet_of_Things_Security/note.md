@@ -21,7 +21,7 @@ This course outlines prevailing state-of-the-art practices for IoT security and 
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADAVY |
-| **Cluster** | [Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
+| **Cluster** | [Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
 
 ---
 

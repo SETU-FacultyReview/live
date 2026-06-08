@@ -21,7 +21,7 @@ During the placement period students are given the opportunity to complete work 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CKEARY |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -117,7 +117,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KPHTE_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 3 | 6 | Elective |
+| [WD_KPHTE_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 3 | 6 | Elective |
 
 ---
 

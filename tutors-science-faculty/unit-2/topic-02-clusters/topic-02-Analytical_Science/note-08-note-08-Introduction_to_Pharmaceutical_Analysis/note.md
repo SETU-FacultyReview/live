@@ -21,7 +21,7 @@ The aim of the module is to introduce the student to the basic principles of che
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EOWENS |
-| **Cluster** | [Analytical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
+| **Cluster** | [Analytical Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
 
 ---
 
@@ -131,7 +131,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SGMPT_C](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | [Higher Certificate in Science in Good Manufacturing Practice and Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | 1 | 2 | Mandatory |
+| [WD_SGMPT_C](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | [Higher Certificate in Science in Good Manufacturing Practice and Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | 1 | 2 | Mandatory |
 
 ---
 

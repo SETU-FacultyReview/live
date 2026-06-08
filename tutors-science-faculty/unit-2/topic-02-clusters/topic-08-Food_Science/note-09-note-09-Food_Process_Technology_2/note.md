@@ -21,7 +21,7 @@ This module extends and deepens the students' knowledge of food processing techn
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EDUGGAN |
-| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
+| **Cluster** | [Food Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 
@@ -131,7 +131,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_SFDSC_B | Bachelor of Science (Honours) in Food Science and Innovation | 4 | 1 | Mandatory |
-| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 4 | 7 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 4 | 7 | Mandatory |
 
 ---
 

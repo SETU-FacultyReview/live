@@ -21,7 +21,7 @@ This module will introduce the learner to a range of plant materials, describe a
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | LCASSIN |
-| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
+| **Cluster** | [Horticulture](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 
@@ -131,10 +131,10 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SHORT_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 1 | 2 | Mandatory |
-| [WD_SHORT_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 2 | 4 | Elective |
-| [WD_SHORT_DX](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 1 | 2 | Mandatory |
-| [WD_SHORT_DX](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 2 | 4 | Elective |
+| [WD_SHORT_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 1 | 2 | Mandatory |
+| [WD_SHORT_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-06-WD_SHORT_D) | 2 | 4 | Elective |
+| [WD_SHORT_DX](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 1 | 2 | Mandatory |
+| [WD_SHORT_DX](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | [Bachelor of Science in Horticulture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-07-WD_SHORT_DX) | 2 | 4 | Elective |
 
 ---
 

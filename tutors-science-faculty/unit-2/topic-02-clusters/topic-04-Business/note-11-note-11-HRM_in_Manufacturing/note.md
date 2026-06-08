@@ -21,7 +21,7 @@ On completion of this module, the student will be capable of applying the princi
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | BWHELAN |
-| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business) |
+| **Cluster** | [Business](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 
@@ -134,7 +134,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SGMPT_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | [Bachelor of Science in Good Manufacturing Practice and Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | 1 | 1 | Mandatory |
+| [WD_SGMPT_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | [Bachelor of Science in Good Manufacturing Practice and Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | 1 | 1 | Mandatory |
 
 ---
 

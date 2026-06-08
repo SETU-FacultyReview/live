@@ -21,7 +21,7 @@ This module gives an insight into the structure and synthesis of some natural pr
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CLENNON |
-| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 
@@ -132,8 +132,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SPHSC_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 3 | 5 | Mandatory |
-| [WD_SPHSC_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [Bachelor of Science in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 3 | 5 | Mandatory |
+| [WD_SPHSC_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 3 | 5 | Mandatory |
+| [WD_SPHSC_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [Bachelor of Science in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 3 | 5 | Mandatory |
 
 ---
 

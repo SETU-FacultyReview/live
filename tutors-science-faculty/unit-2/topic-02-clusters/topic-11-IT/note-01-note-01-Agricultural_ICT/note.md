@@ -21,7 +21,7 @@ The aim of this module is to provide students with the knowledge and understandi
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ADUNPHY |
-| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
+| **Cluster** | [IT](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 
@@ -130,7 +130,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 7 | Mandatory |
+| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 7 | Mandatory |
 
 ---
 

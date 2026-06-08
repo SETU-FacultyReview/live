@@ -21,7 +21,7 @@ This module introduces the student to the principles of good design for web inte
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
-| **Cluster** | [Software and Web Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
+| **Cluster** | [Software and Web Development](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 
@@ -133,7 +133,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KBUSY_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 1 | 1 | Mandatory |
+| [WD_KBUSY_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 1 | 1 | Mandatory |
 
 ---
 

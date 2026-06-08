@@ -21,7 +21,7 @@ The Masters program culminates in the dissertation, an extended project that all
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LSTAPLETON |
-| **Cluster** | [Professional Skills](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 
@@ -114,8 +114,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCESS_R](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | 1 | 3 | Mandatory |
-| [WD_KISYP_R](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | 1 | 3 | Mandatory |
+| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | 1 | 3 | Mandatory |
+| [WD_KISYP_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | 1 | 3 | Mandatory |
 
 ---
 

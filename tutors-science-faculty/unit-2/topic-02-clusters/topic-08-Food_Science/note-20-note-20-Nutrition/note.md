@@ -21,7 +21,7 @@ This module introduces the study of nutrition and the foundations of healthy eat
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EKENT |
-| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
+| **Cluster** | [Food Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 
@@ -132,7 +132,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SFDSC_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | [Bachelor of Science in Food Science with Business](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | 2 | 3 | Mandatory |
+| [WD_SFDSC_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | [Bachelor of Science in Food Science with Business](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | 2 | 3 | Mandatory |
 
 ---
 

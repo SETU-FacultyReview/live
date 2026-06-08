@@ -21,7 +21,7 @@ This module covers aspects of quality management, including advanced quality sys
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | HHUGHES |
-| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
+| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
 
 ---
 
@@ -142,9 +142,9 @@ This module is available on the following programmes:
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_18AFICT_G | Higher Diploma in Science in Agi-Food ICT Systems | 1 | 3 | Mandatory |
 | WD_SFDSC_B | Bachelor of Science (Honours) in Food Science and Innovation | 4 | 2 | Mandatory |
-| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 4 | 8 | Mandatory |
-| [WD_SMBIO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 4 | 8 | Mandatory |
-| [WD_SPHSC_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 4 | 8 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 4 | 8 | Mandatory |
+| [WD_SMBIO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 4 | 8 | Mandatory |
+| [WD_SPHSC_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 4 | 8 | Mandatory |
 | WD_SQMBI_B | Bachelor of Science (Honours) in Applied Biology with Quality Management | 4 | 2 | Mandatory |
 | WD_SQMCH_B | Bachelor of Science (Honours) in Applied Chemistry with Quality Management | 4 | 2 | Mandatory |
 

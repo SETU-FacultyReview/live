@@ -21,7 +21,7 @@ This module will describe basic microbiology, covering the biology of micro-orga
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | AHEARNE |
-| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
+| **Cluster** | [Biology](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 
@@ -132,11 +132,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 2 | 3 | Mandatory |
-| [WD_SFDSC_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | [Bachelor of Science in Food Science with Business](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | 2 | 3 | Mandatory |
-| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 2 | 3 | Mandatory |
-| [WD_SMBIO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 2 | 3 | Mandatory |
-| [WD_SMBIO_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 2 | 3 | Mandatory |
+| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 2 | 3 | Mandatory |
+| [WD_SFDSC_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | [Bachelor of Science in Food Science with Business](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | 2 | 3 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 2 | 3 | Mandatory |
+| [WD_SMBIO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 2 | 3 | Mandatory |
+| [WD_SMBIO_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 2 | 3 | Mandatory |
 
 ---
 

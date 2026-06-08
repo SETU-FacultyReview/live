@@ -21,7 +21,7 @@ Students will gain a good knowledge of current and emerging food-borne pathogens
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ROMAHONY |
-| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
+| **Cluster** | [Food Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 
@@ -132,8 +132,8 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_HHPRM_B | Bachelor of Arts (Honours) in Health Promotion | 4 | 7 | Mandatory |
-| [WD_SFDSC_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | [Bachelor of Science in Food Science with Business](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | 3 | 6 | Mandatory |
-| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 3 | 6 | Mandatory |
+| [WD_SFDSC_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | [Bachelor of Science in Food Science with Business](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | 3 | 6 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 3 | 6 | Mandatory |
 
 ---
 

@@ -21,7 +21,7 @@ This course aims to introduce the student to the strategy of food business in Ir
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EDUGGAN |
-| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business) |
+| **Cluster** | [Business](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 
@@ -127,8 +127,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SFDSC_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | [Bachelor of Science in Food Science with Business](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | 3 | 6 | Mandatory |
-| [WD_SFSIN_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 3 | 6 | Mandatory |
+| [WD_SFDSC_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | [Bachelor of Science in Food Science with Business](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | 3 | 6 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 3 | 6 | Mandatory |
 
 ---
 

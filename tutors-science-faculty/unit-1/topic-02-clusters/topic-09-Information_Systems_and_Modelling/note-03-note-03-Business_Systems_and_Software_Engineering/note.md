@@ -21,7 +21,7 @@ The objective of this module is to provide students with the understanding of te
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RSHANAHAN |
-| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
+| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
 
 ---
 
@@ -130,7 +130,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KBUSY_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 2 | 3 | Mandatory |
+| [WD_KBUSY_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 2 | 3 | Mandatory |
 
 ---
 

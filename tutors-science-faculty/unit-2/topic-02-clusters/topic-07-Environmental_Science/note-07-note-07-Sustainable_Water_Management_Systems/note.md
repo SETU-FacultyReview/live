@@ -21,7 +21,7 @@ The demands of population increases, associated food requirements and the influe
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JGERAGHTY |
-| **Cluster** | [Environmental Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
+| **Cluster** | [Environmental Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
 
 ---
 
@@ -137,10 +137,10 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 8 | Elective |
-| [WD_SBSAG_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 2 | Elective |
-| [WD_SBSFO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | [Bachelor of Science (Honours) in Land Management (in Forestry)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | 1 | 2 | Elective |
-| [WD_SBSHO_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 2 | Elective |
+| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 8 | Elective |
+| [WD_SBSAG_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 2 | Elective |
+| [WD_SBSFO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | [Bachelor of Science (Honours) in Land Management (in Forestry)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | 1 | 2 | Elective |
+| [WD_SBSHO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 2 | Elective |
 
 ---
 

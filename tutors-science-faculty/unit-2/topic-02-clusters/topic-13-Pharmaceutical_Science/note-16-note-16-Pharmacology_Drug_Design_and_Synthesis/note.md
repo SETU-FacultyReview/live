@@ -21,7 +21,7 @@ This module covers an overview of pharmacology, with an emphasis on the relation
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | AHAYDEN |
-| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 
@@ -133,7 +133,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SPHSC_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 4 | 8 | Mandatory |
+| [WD_SPHSC_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 4 | 8 | Mandatory |
 | WD_SQMCH_B | Bachelor of Science (Honours) in Applied Chemistry with Quality Management | 4 | 2 | Mandatory |
 
 ---

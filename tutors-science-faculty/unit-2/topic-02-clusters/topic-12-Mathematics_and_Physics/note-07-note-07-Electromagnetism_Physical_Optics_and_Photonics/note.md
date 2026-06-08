@@ -21,7 +21,7 @@ This module develops concepts in optics from electromagnetic theory.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JHOULIHAN |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
 
 ---
 
@@ -137,7 +137,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KPHTE_B](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 3 | 5 | Mandatory |
+| [WD_KPHTE_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 3 | 5 | Mandatory |
 
 ---
 

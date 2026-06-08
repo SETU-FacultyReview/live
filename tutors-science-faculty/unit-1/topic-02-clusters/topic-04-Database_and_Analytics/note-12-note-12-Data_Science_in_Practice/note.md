@@ -21,7 +21,7 @@ The purpose is to advance the students skills in conducting business analytics o
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** |  |
-| **Cluster** | [Database and Analytics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
+| **Cluster** | [Database and Analytics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 
@@ -127,9 +127,9 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_KCSDV_B | Bachelor of Science (Honours) in Software Systems Development | 4 | 2 | Elective |
-| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 8 | Elective |
+| [WD_KDEVP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 8 | Elective |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 4 | 8 | Mandatory |
-| [WD_KSOFP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | [BSc (Hons) in Software Systems Practice](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | 1 | 2 | Mandatory |
+| [WD_KSOFP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | [BSc (Hons) in Software Systems Practice](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-06-WD_KSOFP_B) | 1 | 2 | Mandatory |
 
 ---
 

@@ -21,7 +21,7 @@ In this module the student will learn how to write various types of professional
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ECLAFFEY |
-| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
+| **Cluster** | [IT](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 
@@ -136,7 +136,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGUL_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 3 | 5 | Mandatory |
+| [WD_SAGUL_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 3 | 5 | Mandatory |
 
 ---
 

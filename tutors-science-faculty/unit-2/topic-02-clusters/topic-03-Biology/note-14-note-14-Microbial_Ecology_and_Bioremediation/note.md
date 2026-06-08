@@ -21,7 +21,7 @@ This module will give students a broad introduction to the major elements of mic
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | NKENNEDY |
-| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
+| **Cluster** | [Biology](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 
@@ -133,7 +133,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SMBIO_D](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 3 | 6 | Mandatory |
+| [WD_SMBIO_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 3 | 6 | Mandatory |
 
 ---
 

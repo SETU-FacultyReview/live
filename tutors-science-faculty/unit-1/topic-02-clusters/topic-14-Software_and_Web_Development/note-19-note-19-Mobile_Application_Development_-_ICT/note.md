@@ -21,7 +21,7 @@ Design, build and deploy a multi-screen mobile application incorporating an intu
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EDELEASTAR |
-| **Cluster** | [Software and Web Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
+| **Cluster** | [Software and Web Development](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 
@@ -147,7 +147,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCOSC_G](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 1 | 2 | Elective |
+| [WD_KCOSC_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 1 | 2 | Elective |
 
 ---
 

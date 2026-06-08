@@ -21,7 +21,7 @@ This module aims to help the learner understand the role of creativity, innovati
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BLYNG |
-| **Cluster** | [Professional Skills](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 
@@ -126,11 +126,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCOFO_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 1 | 2 | Mandatory |
-| [WD_KCOMC_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 2 | 3 | Elective |
-| [WD_KCOMP_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 2 | 3 | Mandatory |
-| [WD_KDEVP_B](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 2 | 3 | Elective |
-| [WD_KINFT_D](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-modules-dev/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 2 | 3 | Mandatory |
+| [WD_KCOFO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 1 | 2 | Mandatory |
+| [WD_KCOMC_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 2 | 3 | Elective |
+| [WD_KCOMP_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 2 | 3 | Mandatory |
+| [WD_KDEVP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 2 | 3 | Elective |
+| [WD_KINFT_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 2 | 3 | Mandatory |
 
 ---
 
