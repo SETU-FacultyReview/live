@@ -6,8 +6,8 @@
 | [Professional Development](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business/note-22-note-22-Professional_Development) | 5 | M |  |  |  |
 | [Project Management (Land Sc)](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business/note-23-note-23-Project_Management_for_Land_Sciences) | 5 | M |  |  |  |
 | [Statistics for Land Management](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics/note-25-note-25-Statistics_for_Land_Management) | 5 | M |  |  |  |
-|  |  |  | [Biodiversity Management](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture/note-03-note-03-Biodiversity_Management) | 5 | E |
 |  |  |  | [Integrated Pest Management](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-01-Agriculture/note-15-note-15-Integrated_Pest_Management) | 5 | E |
 |  |  |  | [Rural Entrepreneurship](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business/note-25-note-25-Rural_Entrepreneurship) | 5 | E |
 |  |  |  | [Sustainable & Renewable Energy](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-07-Environmental_Science/note-08-note-08-Sustainable_and_Renewable_Energy) | 5 | E |
 |  |  |  | [Sustainable Water Mgmt Systems](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-07-Environmental_Science/note-07-note-07-Sustainable_Water_Management_Systems) | 5 | E |
+|  |  |  | [Biodiversity Management](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture/note-03-note-03-Biodiversity_Management) | 5 | E |
