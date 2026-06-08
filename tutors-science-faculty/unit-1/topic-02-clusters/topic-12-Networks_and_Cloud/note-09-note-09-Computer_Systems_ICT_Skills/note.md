@@ -21,7 +21,7 @@ The focus of this module will be on five components: computer architecture, memo
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DPOWER |
-| **Cluster** | [Networks and Cloud](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
+| **Cluster** | [Networks and Cloud](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
 
 ---
 
@@ -138,11 +138,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-<<<<<<< HEAD
-| [WD_KCOSC_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | 4 | 1 | Mandatory |
-=======
-| [WD_KCOSC_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 4 | 1 | Mandatory |
->>>>>>> main
+| [WD_KCOSC_G](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | 4 | 1 | Mandatory |
 
 ---
 

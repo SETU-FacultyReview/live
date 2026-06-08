@@ -21,7 +21,7 @@ The module aims to develop the learner's competence in the application of modern
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KGRENNAN |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
 
 ---
 
@@ -129,12 +129,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-<<<<<<< HEAD
-| [WD_SANSC_G](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | 1 | 0 | Elective |
-=======
-| [WD_SANSC_G](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | 1 | 0 | Elective |
->>>>>>> main
-| [WD_SANSC_R](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
+| [WD_SANSC_G](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | 1 | 0 | Elective |
+| [WD_SANSC_R](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
 | WD_STATD_MA | Certificate in Statistics and Data Analysis | 5 | 0 | Mandatory |
 
 ---

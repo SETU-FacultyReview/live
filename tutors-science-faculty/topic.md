@@ -1,3 +1,3 @@
-# SETU Science Modules by Department
+# SETU Science Faculty
 
 Browse modules organized by department.

@@ -21,7 +21,7 @@ This module provides the essentials of computer security and forensics.
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
-| **Cluster** | [Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
+| **Cluster** | [Forensics and Security](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
 
 ---
 
@@ -149,11 +149,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-<<<<<<< HEAD
-| [WD_KCOSC_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | 1 | 2 | Elective |
-=======
-| [WD_KCOSC_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 1 | 2 | Elective |
->>>>>>> main
+| [WD_KCOSC_G](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | 1 | 2 | Elective |
 
 ---
 

@@ -21,7 +21,7 @@ This module examines the environmental effects resulting from the food industry.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | TWOODCOCK |
-| **Cluster** | [Environmental Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
+| **Cluster** | [Environmental Science](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
 
 ---
 

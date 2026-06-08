@@ -21,7 +21,7 @@ This module formulates an appreciation of graphic design through the study of hi
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SORIORDAN |
-| **Cluster** | [Graphic Design and Animation](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
+| **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
 
 ---
 
@@ -121,7 +121,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 8 | Elective |
+| [WD_KCRCO_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 8 | Elective |
 | WD_KMULM_B | Bachelor of Science (Honours) in Multimedia Applications Development | 4 | 2 | Elective |
 
 ---

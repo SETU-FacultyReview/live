@@ -21,7 +21,7 @@ This module will introduce the student to the world of the forensic scientist.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KGRENNAN |
-| **Cluster** | [Analytical Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
+| **Cluster** | [Analytical Science](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
 
 ---
 
@@ -136,10 +136,10 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SMBIO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 1 | 2 | Elective |
-| [WD_SMBIO_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 1 | 2 | Elective |
-| [WD_SPHSC_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 1 | 2 | Elective |
-| [WD_SPHSC_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [Bachelor of Science in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 1 | 2 | Elective |
+| [WD_SMBIO_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 1 | 2 | Elective |
+| [WD_SMBIO_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 1 | 2 | Elective |
+| [WD_SPHSC_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 1 | 2 | Elective |
+| [WD_SPHSC_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [Bachelor of Science in Pharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 1 | 2 | Elective |
 
 ---
 

@@ -21,7 +21,7 @@ This module will introduce the student to fundamental distributed version contro
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
-| **Cluster** | [Automotive, Automation and IoT](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
+| **Cluster** | [Automotive, Automation and IoT](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
 
 ---
 
@@ -119,9 +119,9 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KACCM_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 1 | 2 | Elective |
-| [WD_KCMSC_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 1 | 2 | Elective |
-| [WD_KCOMP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 1 | 2 | Elective |
+| [WD_KACCM_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 1 | 2 | Elective |
+| [WD_KCMSC_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 1 | 2 | Elective |
+| [WD_KCOMP_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 1 | 2 | Elective |
 | WD_KINTT_BI | BSc (Hons) in the Internet of Things (International) | 1 | 2 | Mandatory |
 
 ---

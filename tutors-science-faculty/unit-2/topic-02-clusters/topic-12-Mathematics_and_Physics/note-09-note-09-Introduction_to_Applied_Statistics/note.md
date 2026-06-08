@@ -21,7 +21,7 @@ This module introduces the student to some fundamental statistical concepts, to 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | PKIRWAN |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
 
 ---
 

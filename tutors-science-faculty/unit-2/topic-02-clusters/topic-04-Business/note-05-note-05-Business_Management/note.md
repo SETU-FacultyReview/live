@@ -21,7 +21,7 @@ To provide students with knowledge of fundamental managerial skills and ethical 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | LWALSH |
-| **Cluster** | [Business](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-04-Business) |
+| **Cluster** | [Business](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 
@@ -123,7 +123,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_KINFS_C | Higher Certificate in Science in Information Technology Support | 2 | 0 |  |
-| [WD_SAGUL_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 3 | 5 | Mandatory |
+| [WD_SAGUL_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 3 | 5 | Mandatory |
 
 ---
 

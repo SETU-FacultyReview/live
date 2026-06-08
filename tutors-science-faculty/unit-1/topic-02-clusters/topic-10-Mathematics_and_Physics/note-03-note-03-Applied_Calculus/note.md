@@ -21,7 +21,7 @@ This module is intended to provide the student with a review of univariate calcu
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
 
 ---
 
@@ -132,10 +132,10 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KACCM_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 1 | 2 | Mandatory |
-| [WD_KCMSC_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 1 | 2 | Mandatory |
-| [WD_KCOFO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 1 | 2 | Mandatory |
-| [WD_KCOMP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 1 | 2 | Mandatory |
+| [WD_KACCM_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 1 | 2 | Mandatory |
+| [WD_KCMSC_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 1 | 2 | Mandatory |
+| [WD_KCOFO_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 1 | 2 | Mandatory |
+| [WD_KCOMP_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 1 | 2 | Mandatory |
 
 ---
 

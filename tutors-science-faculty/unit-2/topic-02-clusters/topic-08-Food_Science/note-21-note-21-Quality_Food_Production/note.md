@@ -21,7 +21,7 @@ This module will enable the student to have a comprehensive understanding of the
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ICASEY |
-| **Cluster** | [Food Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
+| **Cluster** | [Food Science](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 
@@ -138,7 +138,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGUL_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 3 | 6 | Mandatory |
+| [WD_SAGUL_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 3 | 6 | Mandatory |
 
 ---
 

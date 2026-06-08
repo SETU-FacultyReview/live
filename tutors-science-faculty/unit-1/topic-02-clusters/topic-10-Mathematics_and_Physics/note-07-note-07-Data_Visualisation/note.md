@@ -21,7 +21,7 @@ This module will expose the learner to statistical and other methods that will e
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | FLEONARD |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
 
 ---
 
@@ -122,7 +122,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 7 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 7 | Mandatory |
 | WD_KMULM_B | Bachelor of Science (Honours) in Multimedia Applications Development | 4 | 1 | Mandatory |
 
 ---

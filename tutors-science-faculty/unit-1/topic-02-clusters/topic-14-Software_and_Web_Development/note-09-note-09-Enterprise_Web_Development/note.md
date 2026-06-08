@@ -21,7 +21,7 @@ To enhance the student?s existing IT knowledge and experience with the skills-se
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DOCONNOR |
-| **Cluster** | [Software and Web Development](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
+| **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 
@@ -127,13 +127,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-<<<<<<< HEAD
-| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | 1 | 0 | Elective |
-| [WD_KISYP_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | [MSc in Computing (Information Systems Processes)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | 1 | 0 | Elective |
-=======
-| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | 1 | 0 | Elective |
-| [WD_KISYP_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | [MSc in Computing (Information Systems Processes)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | 1 | 0 | Elective |
->>>>>>> main
+| [WD_KCESS_R](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | 1 | 0 | Elective |
+| [WD_KISYP_R](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | [MSc in Computing (Information Systems Processes)](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | 1 | 0 | Elective |
 
 ---
 

@@ -21,7 +21,7 @@ This module teaches the fundamentals of sound, sound recording and multi-track s
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CDUNPHY |
-| **Cluster** | [Media Production](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
+| **Cluster** | [Media Production](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
 
 ---
 
@@ -137,8 +137,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 2 | 3 | Mandatory |
-| [WD_KMULA_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 2 | 3 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 2 | 3 | Mandatory |
+| [WD_KMULA_D](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 2 | 3 | Mandatory |
 
 ---
 

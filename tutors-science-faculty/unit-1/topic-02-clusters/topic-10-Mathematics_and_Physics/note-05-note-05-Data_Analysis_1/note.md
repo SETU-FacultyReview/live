@@ -21,7 +21,7 @@ This module will introduce the student to statistical techniques in data analysi
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PKIRWAN |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
 
 ---
 

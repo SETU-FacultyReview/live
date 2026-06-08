@@ -21,7 +21,7 @@ This is a practical module that requires the student to build, configure and man
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | RFRISBY |
-| **Cluster** | [IT](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-11-IT) |
+| **Cluster** | [IT](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 
@@ -127,7 +127,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KPHTE_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 3 | 5 | Mandatory |
+| [WD_KPHTE_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 3 | 5 | Mandatory |
 
 ---
 

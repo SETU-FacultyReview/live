@@ -21,7 +21,7 @@ This course focuses on the basic knowledge of Python and small project examples,
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADAVY |
-| **Cluster** | [Software and Web Development](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
+| **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 

@@ -21,7 +21,7 @@ The emphasis of the module will be towards design, analysis and implementation o
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CWALSH |
-| **Cluster** | [Engineering](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-06-Engineering) |
+| **Cluster** | [Engineering](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-06-Engineering) |
 
 ---
 
@@ -137,7 +137,7 @@ This module is available on the following programmes:
 | WD_KCOMP_B | Bachelor of Science (Honours) in Applied Computing | 3 | 5 | Elective |
 | WD_KINTT_B | BSc (Hons) in the Internet of Things | 3 | 5 | Mandatory |
 | WD_KINTT_BI | BSc (Hons) in the Internet of Things (International) | 3 | 5 | Mandatory |
-| [WD_KPHTE_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 3 | 5 | Mandatory |
+| [WD_KPHTE_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [Bachelor of Science (Honours) in Physics for Modern Technology](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 3 | 5 | Mandatory |
 
 ---
 

@@ -21,7 +21,7 @@ The aim of this module is to develop the student's critical awareness of the pri
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | RODOWD |
-| **Cluster** | [Business](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-04-Business) |
+| **Cluster** | [Business](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 
@@ -135,9 +135,9 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 8 | Mandatory |
-| [WD_SBSFO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | [Bachelor of Science (Honours) in Land Management (in Forestry)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | 1 | 2 | Elective |
-| [WD_SBSHO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 2 | Elective |
+| [WD_SAGRI_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 8 | Mandatory |
+| [WD_SBSFO_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | [Bachelor of Science (Honours) in Land Management (in Forestry)](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | 1 | 2 | Elective |
+| [WD_SBSHO_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 2 | Elective |
 
 ---
 

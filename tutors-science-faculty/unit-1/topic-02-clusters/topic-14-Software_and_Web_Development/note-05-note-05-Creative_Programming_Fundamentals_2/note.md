@@ -21,7 +21,7 @@ The purpose of this module is to further develop and enrich creativity by focusi
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BONEILL |
-| **Cluster** | [Software and Web Development](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
+| **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 
@@ -128,8 +128,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 1 | 2 | Mandatory |
-| [WD_KMULA_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 1 | 2 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 1 | 2 | Mandatory |
+| [WD_KMULA_D](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 1 | 2 | Mandatory |
 
 ---
 

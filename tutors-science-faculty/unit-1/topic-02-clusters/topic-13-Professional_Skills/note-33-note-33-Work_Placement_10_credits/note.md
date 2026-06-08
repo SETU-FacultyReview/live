@@ -21,7 +21,7 @@ The purpose of the work placement is to require the student to apply the knowled
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
-| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 
