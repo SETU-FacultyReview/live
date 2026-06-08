@@ -7,6 +7,6 @@
 | [Programming Fundamentals - ICT](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-22-note-22-Programming_Fundamentals_-_ICT) | 10 | M |  |  |  |  |  |  |
 | [Web Development 1](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-30-note-30-Web_Development_1) | 5 | M |  |  |  |  |  |  |
 | [Website Development 1](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-32-note-32-Website_Development_1) | 5 | M |  |  |  |  |  |  |
-|  |  |  | [Mobile App Development - ICT](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-19-note-19-Mobile_Application_Development_-_ICT) | 10 | E |  |  |  |
 |  |  |  | [Security and Forensics](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security/note-05-note-05-Computer_Security_and_Forensics) | 10 | E |  |  |  |
+|  |  |  | [Mobile App Development - ICT](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-19-note-19-Mobile_Application_Development_-_ICT) | 10 | E |  |  |  |
 |  |  |  | [Web App Development](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-27-note-27-Web_App_Development) | 10 | E |  |  |  |

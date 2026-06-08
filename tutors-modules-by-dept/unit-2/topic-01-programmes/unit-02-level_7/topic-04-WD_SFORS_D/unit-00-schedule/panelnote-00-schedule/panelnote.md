@@ -9,9 +9,9 @@
 |  |  |  |  |  |  |  |  |  | [Chemistry for Land Scientists](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-05-Chemistry/note-03-note-03-Chemistry_for_Land_Scientists) | 5 | E |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  | [Earth Science](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry/note-05-note-05-Earth_Science) | 5 | E |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  | [Forest Surveying and Mapping](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry/note-15-note-15-Forest_Surveying_and_Mapping) | 5 | E |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  | [Forestry Placement](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects/note-06-note-06-Forestry_Placement) | 30 | E |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  | [Fundamentals of Forestry](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry/note-17-note-17-Fundamentals_of_Forestry) | 5 | E |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  | [ICT for Forestry](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry/note-19-note-19-ICT_for_Forestry) | 5 | E |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  | [Wood Science](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry/note-24-note-24-Wood_Science) | 5 | E |  |  |  |  |  |  |
+|  |  |  |  |  |  |  |  |  | [Forestry Placement](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects/note-06-note-06-Forestry_Placement) | 30 | E |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  | [Sci Professional Development](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects/note-27-note-27-Science_Professional_Development) | 30 | E |  |  |  |  |  |  |
 |  |  |  |  |  |  |  |  |  | Science Study Abroad | 30 | E |  |  |  |  |  |  |
-|  |  |  |  |  |  |  |  |  | [Wood Science](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry/note-24-note-24-Wood_Science) | 5 | E |  |  |  |  |  |  |

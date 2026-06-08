@@ -6,8 +6,8 @@
 | [Introductory Chemistry](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-05-Chemistry/note-07-note-07-Introductory_Chemistry) | 5 | M | [Physics for Scientists](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics/note-21-note-21-Physics_for_Scientists) | 5 | M |
 | [Introductory Mathematics](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics/note-11-note-11-Introductory_Mathematics) | 5 | M |  |  |  |
 | [Introductory Physics](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics/note-12-note-12-Introductory_Physics) | 5 | M |  |  |  |
-|  |  |  | [Intro to Biotech & Pharma Sci](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science/note-05-note-05-Introduction_to_Biotechnology_and_Pharmaceutical_Science) | 5 | E |
-|  |  |  | [Introduction to Food Science and Nutrition](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science/note-18-note-18-Introduction_to_Food_Science_and_Nutrition) | 5 | E |
-|  |  |  | [Introduction to Modern Physics](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics/note-10-note-10-Introduction_to_Modern_Physics) | 5 | E |
 |  |  |  | [Plant Biology](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology/note-21-note-21-Plant_Biology) | 5 | E |
 |  |  |  | [Science and Society](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-07-Environmental_Science/note-06-note-06-Science_and_Society) | 5 | E |
+|  |  |  | [Introduction to Food Science and Nutrition](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science/note-18-note-18-Introduction_to_Food_Science_and_Nutrition) | 5 | E |
+|  |  |  | [Introduction to Modern Physics](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics/note-10-note-10-Introduction_to_Modern_Physics) | 5 | E |
+|  |  |  | [Intro to Biotech & Pharma Sci](/note/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science/note-05-note-05-Introduction_to_Biotechnology_and_Pharmaceutical_Science) | 5 | E |

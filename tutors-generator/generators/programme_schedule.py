@@ -97,17 +97,27 @@ class ProgrammeSchedule:
                 # Determine status label (M or E)
                 status_label = 'M' if status in ['M', 'C'] else 'E'
 
+                # Get cluster name for grouping
+                cluster_name = descriptor.get('cluster', 'Uncategorized')
+
                 modules_by_semester[semester_num].append({
                     'title': short_title,
                     'credits': credits,
                     'status': status_label,
-                    'code': module_code
+                    'code': module_code,
+                    'cluster': cluster_name
                 })
 
-        # Sort modules within each semester: Mandatory first, then Elective
+        # Sort modules within each semester:
+        # - Mandatory: alphabetically by title
+        # - Elective: by cluster first, then alphabetically by title within cluster
         for semester_num in modules_by_semester:
             modules_by_semester[semester_num].sort(
-                key=lambda m: (0 if m['status'] == 'M' else 1, m['title'])
+                key=lambda m: (
+                    0 if m['status'] == 'M' else 1,  # Mandatory first
+                    m['cluster'] if m['status'] == 'E' else '',  # Group electives by cluster
+                    m['title']  # Then alphabetically by title
+                )
             )
 
         return modules_by_semester
