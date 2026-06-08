@@ -21,7 +21,7 @@ This module covers aspects of quality management, including advanced quality sys
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | HHUGHES |
-| **Cluster** | Quality, Regulatory and Compliance |
+| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
 
 ---
 

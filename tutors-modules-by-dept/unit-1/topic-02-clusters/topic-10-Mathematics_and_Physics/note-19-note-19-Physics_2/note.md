@@ -21,7 +21,7 @@ This module is designed to introduce the student to additional fundamental physi
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
-| **Cluster** | Mathematics and Physics |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
 
 ---
 

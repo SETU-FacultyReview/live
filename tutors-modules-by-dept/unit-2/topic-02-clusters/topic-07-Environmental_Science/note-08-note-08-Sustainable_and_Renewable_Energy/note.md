@@ -21,7 +21,7 @@ The module will provide students with an understanding of international and Iris
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | TWOODCOCK |
-| **Cluster** | Environmental Science |
+| **Cluster** | [Environmental Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
 
 ---
 

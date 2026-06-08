@@ -21,7 +21,7 @@ The module is designed for students who have a basic knowledge of agricultural o
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | TWOODCOCK |
-| **Cluster** | Agriculture |
+| **Cluster** | [Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-01-Agriculture) |
 
 ---
 

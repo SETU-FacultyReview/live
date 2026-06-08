@@ -21,7 +21,7 @@ This module provides an introduction to the general principles of physical and o
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EMLANDERS |
-| **Cluster** | Chemistry |
+| **Cluster** | [Chemistry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-05-Chemistry) |
 
 ---
 

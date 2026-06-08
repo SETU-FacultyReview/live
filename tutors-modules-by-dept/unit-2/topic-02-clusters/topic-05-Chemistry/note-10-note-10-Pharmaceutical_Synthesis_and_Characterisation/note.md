@@ -21,7 +21,7 @@ This module will cover the role of spectroscopic methods, specifically nuclear m
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CLENNON |
-| **Cluster** | Chemistry |
+| **Cluster** | [Chemistry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-05-Chemistry) |
 
 ---
 

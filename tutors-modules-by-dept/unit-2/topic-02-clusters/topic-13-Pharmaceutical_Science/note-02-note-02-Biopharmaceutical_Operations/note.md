@@ -21,7 +21,7 @@ This module will provide the learner with an in depth understanding of the key o
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | AHAYDEN |
-| **Cluster** | Pharmaceutical Science |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 

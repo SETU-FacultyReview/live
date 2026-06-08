@@ -21,7 +21,7 @@ This module covers a range of advanced topics in physical chemistry, including i
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CWALSH |
-| **Cluster** | Chemistry |
+| **Cluster** | [Chemistry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-05-Chemistry) |
 
 ---
 

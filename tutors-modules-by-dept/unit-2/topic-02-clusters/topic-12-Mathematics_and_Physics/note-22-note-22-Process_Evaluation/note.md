@@ -21,7 +21,7 @@ This module will expose the student to further control chart constructs.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | FLEONARD |
-| **Cluster** | Mathematics and Physics |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
 
 ---
 

@@ -21,7 +21,7 @@ The aim of this module is to introduce the fundamental concepts in information t
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
-| **Cluster** | Mathematics and Physics |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
 
 ---
 

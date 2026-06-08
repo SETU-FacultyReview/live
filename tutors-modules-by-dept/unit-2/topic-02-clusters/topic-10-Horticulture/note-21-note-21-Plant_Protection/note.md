@@ -21,7 +21,7 @@ The module will enable the student to describe and apply techniques to control w
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CBYRNE |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

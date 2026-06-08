@@ -21,7 +21,7 @@ The aim of this module is to develop the student's critical appreciation of the 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KMURPHY |
-| **Cluster** | Business |
+| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 

@@ -21,7 +21,7 @@ The module aims to: give the student an understanding of the main points of clea
 | **School** | Humanities |
 | **Department** | Computing and Mathematics |
 | **Module Author** |  |
-| **Cluster** | Humanities |
+| **Cluster** | [Humanities](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-08-Humanities) |
 
 ---
 

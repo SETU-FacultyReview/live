@@ -21,7 +21,7 @@ This module will enable the student to acquire an in-depth knowledge of farm bus
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | TWOODCOCK |
-| **Cluster** | Business |
+| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 

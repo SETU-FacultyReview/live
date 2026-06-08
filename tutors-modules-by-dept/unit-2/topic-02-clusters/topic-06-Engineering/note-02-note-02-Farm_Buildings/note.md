@@ -21,7 +21,7 @@ This module is designed to give the student the theory and practice of basic far
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | SWALSH |
-| **Cluster** | Engineering |
+| **Cluster** | [Engineering](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-06-Engineering) |
 
 ---
 

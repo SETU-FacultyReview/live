@@ -21,7 +21,7 @@ This module will provide the student with an advanced understanding of the theor
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KGRENNAN |
-| **Cluster** | Analytical Science |
+| **Cluster** | [Analytical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
 
 ---
 

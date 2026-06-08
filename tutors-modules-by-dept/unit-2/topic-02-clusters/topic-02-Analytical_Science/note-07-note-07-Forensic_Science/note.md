@@ -21,7 +21,7 @@ This module will introduce the student to the world of the forensic scientist.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KGRENNAN |
-| **Cluster** | Analytical Science |
+| **Cluster** | [Analytical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
 
 ---
 

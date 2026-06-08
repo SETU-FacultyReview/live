@@ -21,7 +21,7 @@ A range of Horticultural management problems will be tackled to develop problem 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | UMCDERMOTT |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

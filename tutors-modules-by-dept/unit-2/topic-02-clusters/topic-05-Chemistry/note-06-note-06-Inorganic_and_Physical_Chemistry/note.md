@@ -21,7 +21,7 @@ This module will give the student an in-depth knowledge of metal to ligand bondi
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EOWENS |
-| **Cluster** | Chemistry |
+| **Cluster** | [Chemistry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-05-Chemistry) |
 
 ---
 

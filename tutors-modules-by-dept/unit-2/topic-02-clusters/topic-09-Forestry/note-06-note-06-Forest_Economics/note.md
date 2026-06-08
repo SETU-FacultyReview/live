@@ -21,7 +21,7 @@ This module will explore the role of economics in shaping forest management.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MSOTTOCORNOLA |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

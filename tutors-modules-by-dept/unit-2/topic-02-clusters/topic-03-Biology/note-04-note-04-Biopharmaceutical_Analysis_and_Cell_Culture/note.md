@@ -21,7 +21,7 @@ This module will provide students with an in-depth knowledge and skills in bioph
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KGRENNAN |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

@@ -21,7 +21,7 @@ This module is comprised of a series of in-class discussions, debates and presen
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KTAMBLING |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

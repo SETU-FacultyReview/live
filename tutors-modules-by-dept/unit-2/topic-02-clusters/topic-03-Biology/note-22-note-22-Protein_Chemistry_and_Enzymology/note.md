@@ -21,7 +21,7 @@ This module will provide students with a detailed description of protein and enz
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | OODONOVAN |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

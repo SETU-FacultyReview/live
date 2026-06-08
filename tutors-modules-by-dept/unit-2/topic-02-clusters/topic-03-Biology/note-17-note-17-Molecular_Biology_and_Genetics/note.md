@@ -21,7 +21,7 @@ This module builds on previous modules such as 'Scientific Enquiry in Biology' a
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | AHEARNE |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

@@ -21,7 +21,7 @@ This module will describe the application of biotechnology to the production of 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CLENNON |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

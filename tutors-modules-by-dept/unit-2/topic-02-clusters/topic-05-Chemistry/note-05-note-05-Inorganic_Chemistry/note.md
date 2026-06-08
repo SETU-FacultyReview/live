@@ -21,7 +21,7 @@ This module gives an appreciation of the various bonding theories and structural
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EMLANDERS |
-| **Cluster** | Chemistry |
+| **Cluster** | [Chemistry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-05-Chemistry) |
 
 ---
 

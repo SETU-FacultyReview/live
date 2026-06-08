@@ -21,7 +21,7 @@ This module will provide students with a detailed understanding of the legislati
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CLENNON |
-| **Cluster** | Environmental Science |
+| **Cluster** | [Environmental Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
 
 ---
 

@@ -38,7 +38,8 @@ class MarkdownGenerator:
         module_code: str,
         descriptor: dict,
         cluster_name: Optional[str] = None,
-        programme_to_topic_path: Optional[dict] = None
+        programme_to_topic_path: Optional[dict] = None,
+        cluster_to_topic_path: Optional[dict] = None
     ) -> str:
         """
         Generate markdown content for a module from its descriptor.
@@ -48,6 +49,7 @@ class MarkdownGenerator:
             descriptor: Module descriptor dictionary
             cluster_name: Optional cluster name for icon fallback
             programme_to_topic_path: Optional dict mapping programme codes to topic weburl paths
+            cluster_to_topic_path: Optional dict mapping cluster names to topic weburl paths
 
         Returns:
             Complete markdown content for the module
@@ -85,6 +87,13 @@ class MarkdownGenerator:
         md.append("")
         md.append("| **Field** | **Details** |")
         md.append("|-----------|-------------|")
+        # Get cluster name and create link if available
+        cluster = descriptor.get('cluster', 'N/A')
+        if cluster_to_topic_path and cluster in cluster_to_topic_path:
+            cluster_link = f"[{cluster}]({cluster_to_topic_path[cluster]})"
+        else:
+            cluster_link = cluster
+
         md.append(f"| **Module Code** | {module_code} |")
         md.append(f"| **Module Title** | {descriptor.get('full_title', 'N/A')} |")
         md.append(f"| **Short Title** | {descriptor.get('short_title', 'N/A')} |")
@@ -93,7 +102,7 @@ class MarkdownGenerator:
         md.append(f"| **School** | {descriptor.get('school', 'N/A')} |")
         md.append(f"| **Department** | {descriptor.get('department', 'N/A')} |")
         md.append(f"| **Module Author** | {descriptor.get('author', 'N/A')} |")
-        md.append(f"| **Cluster** | {descriptor.get('cluster', 'N/A')} |")
+        md.append(f"| **Cluster** | {cluster_link} |")
         md.append("")
         md.append("---")
         md.append("")

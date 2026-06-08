@@ -21,7 +21,7 @@ This module will enable the student to have a comprehensive understanding of the
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ICASEY |
-| **Cluster** | Food Science |
+| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 

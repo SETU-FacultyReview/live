@@ -21,7 +21,7 @@ This module is designed to equip students with knowledge of garden centre manage
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | DFLANAGAN |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

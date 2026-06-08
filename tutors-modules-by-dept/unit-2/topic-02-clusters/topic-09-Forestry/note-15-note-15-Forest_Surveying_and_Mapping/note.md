@@ -21,7 +21,7 @@ In this module students will learn how to read a map and use it, along with a co
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MPEDINI |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

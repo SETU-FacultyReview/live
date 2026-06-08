@@ -21,7 +21,7 @@ This module is designed to equip students with knowledge of nursery stock produc
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | PFITTERS |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

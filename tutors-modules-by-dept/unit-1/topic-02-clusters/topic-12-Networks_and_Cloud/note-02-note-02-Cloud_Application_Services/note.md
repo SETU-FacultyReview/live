@@ -21,7 +21,7 @@ The focus of this module is on the principles and practices in the design and im
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RFRISBY |
-| **Cluster** | Networks and Cloud |
+| **Cluster** | [Networks and Cloud](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
 
 ---
 

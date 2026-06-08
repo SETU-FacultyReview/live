@@ -21,7 +21,7 @@ This module aims to make the student security aware.
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JSHEPPARD |
-| **Cluster** | Forensics and Security |
+| **Cluster** | [Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
 
 ---
 

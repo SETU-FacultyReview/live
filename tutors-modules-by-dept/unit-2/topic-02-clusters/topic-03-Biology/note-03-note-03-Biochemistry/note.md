@@ -21,7 +21,7 @@ This module builds on students' knowledge of basic biochemical concepts obtained
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KTAMBLING |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

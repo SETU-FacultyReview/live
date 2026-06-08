@@ -21,7 +21,7 @@ The module will equip participants with methodologies to undertake project plann
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JGERAGHTY |
-| **Cluster** | Placement and Projects |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 

@@ -21,7 +21,7 @@ This module will provide the student with an advanced understanding of the proce
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MKINSELLA |
-| **Cluster** | Quality, Regulatory and Compliance |
+| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
 
 ---
 

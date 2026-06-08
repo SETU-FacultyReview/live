@@ -21,7 +21,7 @@ This module gives an insight into the structure and synthesis of some natural pr
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CLENNON |
-| **Cluster** | Pharmaceutical Science |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 

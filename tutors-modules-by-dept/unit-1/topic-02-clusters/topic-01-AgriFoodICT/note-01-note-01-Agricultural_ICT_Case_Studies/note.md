@@ -21,7 +21,7 @@ This module aims to provide students with an understanding of state of the art t
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | UMCCARTHY |
-| **Cluster** | AgriFoodICT |
+| **Cluster** | [AgriFoodICT](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-01-AgriFoodICT) |
 
 ---
 

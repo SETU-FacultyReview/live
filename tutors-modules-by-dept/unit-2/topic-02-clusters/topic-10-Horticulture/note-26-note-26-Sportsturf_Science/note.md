@@ -21,7 +21,7 @@ This module aims to enable students to develop an understanding of the construct
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | GMCMAHON |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

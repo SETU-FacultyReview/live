@@ -21,7 +21,7 @@ The purpose of this module is to develop students' understanding of current peop
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ESHANLEY |
-| **Cluster** | Business |
+| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 

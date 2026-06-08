@@ -21,7 +21,7 @@ Science is important to all areas of human life.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EOWENS |
-| **Cluster** | Environmental Science |
+| **Cluster** | [Environmental Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
 
 ---
 

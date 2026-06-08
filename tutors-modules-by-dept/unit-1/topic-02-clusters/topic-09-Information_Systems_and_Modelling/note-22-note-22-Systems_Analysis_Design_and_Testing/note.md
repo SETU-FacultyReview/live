@@ -21,7 +21,7 @@ This module introduces students to the main topics of Systems Analysis, Design a
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADUNPHY |
-| **Cluster** | Information Systems and Modelling |
+| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
 
 ---
 

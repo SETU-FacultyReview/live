@@ -21,7 +21,7 @@ This module concentrates on the physical design and implementation of a database
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MLYNG |
-| **Cluster** | Database and Analytics |
+| **Cluster** | [Database and Analytics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 

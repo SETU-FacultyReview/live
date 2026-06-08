@@ -21,7 +21,7 @@ This module aims at providing students with the foundations for the professional
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ABOOTH |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

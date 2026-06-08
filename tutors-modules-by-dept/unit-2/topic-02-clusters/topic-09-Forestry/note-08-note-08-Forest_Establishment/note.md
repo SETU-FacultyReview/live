@@ -21,7 +21,7 @@ This course is designed to give students an overview of forestry establishment p
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ABOOTH |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

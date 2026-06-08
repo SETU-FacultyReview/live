@@ -70,7 +70,7 @@ class DepartmentGenerator:
             cluster_icons=cluster_icons
         )
 
-    def generate_clusters(self, output_dir: Path, programme_to_topic_path: dict = None) -> dict:
+    def generate_clusters(self, output_dir: Path, programme_to_topic_path: dict = None) -> tuple:
         """
         Generate clusters topic containing all clusters + module descriptors + PDFs.
 
@@ -81,7 +81,7 @@ class DepartmentGenerator:
             programme_to_topic_path: Optional dict mapping programme codes to topic weburl paths
 
         Returns:
-            Dictionary mapping module_code -> weburl path
+            Tuple of (module_to_cluster_path dict, cluster_to_topic_path dict)
         """
         clusters_dir = output_dir / "topic-02-clusters"
         clusters_dir.mkdir(exist_ok=True)
@@ -97,6 +97,7 @@ class DepartmentGenerator:
             f.write(f"{len(self.department.clusters)} subject clusters\n")
 
         module_to_cluster_path = {}
+        cluster_to_topic_path = {}
 
         # Sort clusters alphabetically
         sorted_clusters = sorted(self.department.clusters.items(), key=lambda x: x[0])
@@ -115,6 +116,15 @@ class DepartmentGenerator:
                     )
                     f.write(create_icon_frontmatter(icon_type, icon_color))
                 f.write(f"# {cluster_name}\n\n\n")
+
+            # Build cluster topic path
+            cluster_topic_path = get_tutors_weburl_path(
+                self.tutors_course_id,
+                output_dir.name,
+                "topic-02-clusters",
+                f"topic-{idx:02d}-{cluster_dir_name}"
+            )
+            cluster_to_topic_path[cluster_name] = cluster_topic_path
 
             # Sort modules alphabetically by full title
             module_with_names = []
@@ -158,7 +168,8 @@ class DepartmentGenerator:
                     module_code=module_code,
                     descriptor=descriptor,
                     cluster_name=cluster_name,
-                    programme_to_topic_path=programme_to_topic_path
+                    programme_to_topic_path=programme_to_topic_path,
+                    cluster_to_topic_path=cluster_to_topic_path
                 )
 
                 # Write note.md
@@ -166,7 +177,7 @@ class DepartmentGenerator:
                     f.write(markdown_content)
 
         print(f"    Generated {len(self.department.clusters)} clusters with {len(module_to_cluster_path)} modules")
-        return module_to_cluster_path
+        return module_to_cluster_path, cluster_to_topic_path
 
     def generate_all_modules(self, output_dir: Path, module_to_cluster_path: dict):
         """

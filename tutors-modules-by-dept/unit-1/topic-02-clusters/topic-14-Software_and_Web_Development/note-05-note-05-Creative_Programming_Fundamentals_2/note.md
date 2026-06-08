@@ -21,7 +21,7 @@ The purpose of this module is to further develop and enrich creativity by focusi
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BONEILL |
-| **Cluster** | Software and Web Development |
+| **Cluster** | [Software and Web Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 

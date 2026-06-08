@@ -21,7 +21,7 @@ This module will provide the student with an in-depth knowledge of the equipment
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | AHAYDEN |
-| **Cluster** | Pharmaceutical Science |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 

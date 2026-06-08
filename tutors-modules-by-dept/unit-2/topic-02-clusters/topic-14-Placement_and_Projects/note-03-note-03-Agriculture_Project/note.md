@@ -21,7 +21,7 @@ The module is designed to equip students with the skills necessary to organise a
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | TWOODCOCK |
-| **Cluster** | Placement and Projects |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 

@@ -21,7 +21,7 @@ In this module, the student will develop the core technical skills necessary for
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MLYNG |
-| **Cluster** | Software and Web Development |
+| **Cluster** | [Software and Web Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 

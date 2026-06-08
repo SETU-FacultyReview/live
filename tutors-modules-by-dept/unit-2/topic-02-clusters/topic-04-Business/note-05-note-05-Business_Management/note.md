@@ -21,7 +21,7 @@ To provide students with knowledge of fundamental managerial skills and ethical 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | LWALSH |
-| **Cluster** | Business |
+| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 

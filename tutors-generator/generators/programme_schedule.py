@@ -97,17 +97,27 @@ class ProgrammeSchedule:
                 # Determine status label (M or E)
                 status_label = 'M' if status in ['M', 'C'] else 'E'
 
+                # Get cluster name for grouping
+                cluster_name = descriptor.get('cluster', 'Uncategorized')
+
                 modules_by_semester[semester_num].append({
                     'title': short_title,
                     'credits': credits,
                     'status': status_label,
-                    'code': module_code
+                    'code': module_code,
+                    'cluster': cluster_name
                 })
 
-        # Sort modules within each semester: Mandatory first, then Elective
+        # Sort modules within each semester:
+        # - Mandatory: alphabetically by title
+        # - Elective: by cluster first, then alphabetically by title within cluster
         for semester_num in modules_by_semester:
             modules_by_semester[semester_num].sort(
-                key=lambda m: (0 if m['status'] == 'M' else 1, m['title'])
+                key=lambda m: (
+                    0 if m['status'] == 'M' else 1,  # Mandatory first
+                    m['cluster'] if m['status'] == 'E' else '',  # Group electives by cluster
+                    m['title']  # Then alphabetically by title
+                )
             )
 
         return modules_by_semester
@@ -118,6 +128,9 @@ class ProgrammeSchedule:
 
         New format: Each semester gets 3 columns (Module | Credits | Status)
         directly adjacent to each other with no separator columns.
+
+        Rows are organized with all mandatory modules first (across all semesters),
+        followed by all elective modules on new rows below.
 
         Args:
             modules_by_semester: Dictionary mapping semester to module list
@@ -131,8 +144,17 @@ class ProgrammeSchedule:
         # Get sorted list of semesters
         semesters = sorted(modules_by_semester.keys())
 
-        # Find maximum number of modules in any semester (for rows)
-        max_modules = max(len(modules_by_semester[sem]) for sem in semesters)
+        # Separate mandatory and elective modules for each semester
+        mandatory_by_semester = {}
+        elective_by_semester = {}
+
+        for sem in semesters:
+            mandatory_by_semester[sem] = [m for m in modules_by_semester[sem] if m['status'] == 'M']
+            elective_by_semester[sem] = [m for m in modules_by_semester[sem] if m['status'] == 'E']
+
+        # Find max rows needed for mandatory and elective sections
+        max_mandatory = max((len(mandatory_by_semester[sem]) for sem in semesters), default=0)
+        max_elective = max((len(elective_by_semester[sem]) for sem in semesters), default=0)
 
         # Build table
         lines = []
@@ -160,11 +182,35 @@ class ProgrammeSchedule:
         separator = "| " + " | ".join(separator_parts) + " |"
         lines.append(separator)
 
-        # Data rows
-        for row_idx in range(max_modules):
+        # Mandatory module rows
+        for row_idx in range(max_mandatory):
             row_parts = []
             for sem in semesters:
-                modules = modules_by_semester[sem]
+                modules = mandatory_by_semester[sem]
+                if row_idx < len(modules):
+                    mod = modules[row_idx]
+                    # Create markdown link if weburl path exists
+                    module_code = mod['code']
+                    if module_code in self.module_to_cluster_path:
+                        weburl = self.module_to_cluster_path[module_code]
+                        module_title = f"[{mod['title']}]({weburl})"
+                    else:
+                        module_title = mod['title']
+
+                    row_parts.append(module_title)
+                    row_parts.append(str(mod['credits']))
+                    row_parts.append(mod['status'])
+                else:
+                    row_parts.extend(["", "", ""])  # Empty cells
+
+            row = "| " + " | ".join(row_parts) + " |"
+            lines.append(row)
+
+        # Elective module rows (below mandatory rows)
+        for row_idx in range(max_elective):
+            row_parts = []
+            for sem in semesters:
+                modules = elective_by_semester[sem]
                 if row_idx < len(modules):
                     mod = modules[row_idx]
                     # Create markdown link if weburl path exists

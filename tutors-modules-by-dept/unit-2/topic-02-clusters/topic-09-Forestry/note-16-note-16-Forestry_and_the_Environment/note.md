@@ -21,7 +21,7 @@ This module recognises forests as more than simply timber production systems.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | GFEWER |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

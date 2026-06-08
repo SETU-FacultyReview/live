@@ -21,7 +21,7 @@ This module will introduce the student to the concepts and practice of relationa
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MLYNG |
-| **Cluster** | Database and Analytics |
+| **Cluster** | [Database and Analytics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 

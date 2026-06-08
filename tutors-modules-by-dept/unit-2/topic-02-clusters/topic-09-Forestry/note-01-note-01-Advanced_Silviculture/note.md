@@ -21,7 +21,7 @@ This module intends to further explore some of the topics of silviculture that a
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | NMCCARTHY |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

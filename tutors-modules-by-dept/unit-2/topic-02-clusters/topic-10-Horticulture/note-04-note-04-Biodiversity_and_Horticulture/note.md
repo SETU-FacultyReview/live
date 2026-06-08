@@ -21,7 +21,7 @@ This module introduces the student to the principles of ecology and ethics of bi
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | DFLANAGAN |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 
