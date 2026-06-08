@@ -38,7 +38,8 @@ class TutorsCatalogue:
         departments: list,
         data_dir: Path,
         tutors_generator_dir: Path,
-        output_dir: Path = None
+        output_dir: Path = None,
+        tutors_course_id: str = None
     ):
         """
         Initialize the course generator.
@@ -52,6 +53,7 @@ class TutorsCatalogue:
             data_dir: Path to data directory (repo root with Descriptors/, data/, etc.)
             tutors_generator_dir: Path to tutors-generator directory (for tutors-files/)
             output_dir: Path to output directory (defaults to data_dir/tutors-modules-by-dept)
+            tutors_course_id: Tutors course ID (defaults to environment variable or 'setu-science-modules')
         """
         self.catalogue = catalogue
         self.departments = departments
@@ -63,8 +65,10 @@ class TutorsCatalogue:
             output_dir = self.data_dir / "tutors-modules-by-dept"
         self.output_dir = Path(output_dir)
 
-        # Load Tutors course ID from environment
-        self.tutors_course_id = os.getenv('TUTORS_COURSE_ID', 'setu-science-modules')
+        # Set Tutors course ID (parameter > environment > default)
+        if tutors_course_id is None:
+            tutors_course_id = os.getenv('TUTORS_COURSE_ID', 'setu-science-modules')
+        self.tutors_course_id = tutors_course_id
 
     def generate_tutors_course(self):
         """
