@@ -21,7 +21,7 @@ This module introduces the student to the concerns arising from the increasing g
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | SWALSH |
-| **Cluster** | Food Science |
+| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 

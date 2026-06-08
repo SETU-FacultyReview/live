@@ -21,7 +21,7 @@ This module introduces the student to the process of production-scale automotive
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
-| **Cluster** | Automotive, Automation and IoT |
+| **Cluster** | [Automotive, Automation and IoT](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
 
 ---
 

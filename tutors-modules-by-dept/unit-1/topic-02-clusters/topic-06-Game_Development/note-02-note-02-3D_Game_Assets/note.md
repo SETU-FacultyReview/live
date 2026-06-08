@@ -21,7 +21,7 @@ This module serves as an introduction to 3D modelling for game asset designers a
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PMCINERNEY |
-| **Cluster** | Game Development |
+| **Cluster** | [Game Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-06-Game_Development) |
 
 ---
 

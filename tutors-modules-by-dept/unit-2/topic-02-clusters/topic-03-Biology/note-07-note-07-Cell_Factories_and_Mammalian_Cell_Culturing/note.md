@@ -21,7 +21,7 @@ This module will investigate and compare the use of a variety of host cell syste
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EMCNEELA |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

@@ -21,7 +21,7 @@ The aim of this module is to prepare and encourage students to capitalize on the
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MCAHILL |
-| **Cluster** | Professional Skills |
+| **Cluster** | [Professional Skills](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 

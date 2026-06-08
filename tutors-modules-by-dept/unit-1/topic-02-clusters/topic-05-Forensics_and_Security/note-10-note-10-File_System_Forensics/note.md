@@ -21,7 +21,7 @@ The aims of this module are to provide students with an understanding of how com
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JSHEPPARD |
-| **Cluster** | Forensics and Security |
+| **Cluster** | [Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
 
 ---
 

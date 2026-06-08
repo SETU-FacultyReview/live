@@ -21,7 +21,7 @@ In this module students are introduced to the theoretical perspectives underpinn
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RKELLY |
-| **Cluster** | Forensics and Security |
+| **Cluster** | [Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
 
 ---
 

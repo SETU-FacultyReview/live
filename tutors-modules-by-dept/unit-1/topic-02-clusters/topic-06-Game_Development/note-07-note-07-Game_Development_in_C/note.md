@@ -21,7 +21,7 @@ This module deepens the students knowledge of game development techniques in C++
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DFLYNN |
-| **Cluster** | Game Development |
+| **Cluster** | [Game Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-06-Game_Development) |
 
 ---
 

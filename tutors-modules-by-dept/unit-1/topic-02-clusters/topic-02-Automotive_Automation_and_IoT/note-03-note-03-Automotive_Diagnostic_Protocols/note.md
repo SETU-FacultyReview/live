@@ -21,7 +21,7 @@ This module introduces the students to the most commonly used protocols and tool
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BJACKMAN |
-| **Cluster** | Automotive, Automation and IoT |
+| **Cluster** | [Automotive, Automation and IoT](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
 
 ---
 

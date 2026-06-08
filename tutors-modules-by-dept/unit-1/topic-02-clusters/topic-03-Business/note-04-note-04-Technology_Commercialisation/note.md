@@ -21,7 +21,7 @@ This module will offer the student a process and tools to access the business vi
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PLYNCH |
-| **Cluster** | Business |
+| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-03-Business) |
 
 ---
 

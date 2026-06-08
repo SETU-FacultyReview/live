@@ -21,7 +21,7 @@ This is a practical module that requires the student to build, configure and man
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
-| **Cluster** | Networks and Cloud |
+| **Cluster** | [Networks and Cloud](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
 
 ---
 

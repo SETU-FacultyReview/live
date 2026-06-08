@@ -21,7 +21,7 @@ To familiarise students with the key concepts and business theories relating to 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | TGRANT |
-| **Cluster** | Business |
+| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 

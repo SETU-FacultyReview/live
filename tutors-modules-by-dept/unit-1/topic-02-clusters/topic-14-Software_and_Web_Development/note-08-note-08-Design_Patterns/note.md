@@ -21,7 +21,7 @@ This module builds on an undergraduate-level software development knowledge base
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SDROHAN |
-| **Cluster** | Software and Web Development |
+| **Cluster** | [Software and Web Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
 
 ---
 

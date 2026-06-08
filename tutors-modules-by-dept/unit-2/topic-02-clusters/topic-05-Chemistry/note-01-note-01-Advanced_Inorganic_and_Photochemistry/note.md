@@ -21,7 +21,7 @@ This module gives the student and in-depth knowledge of bonding, formation and i
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | HHUGHES |
-| **Cluster** | Chemistry |
+| **Cluster** | [Chemistry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-05-Chemistry) |
 
 ---
 

@@ -21,7 +21,7 @@ Timber production in Ireland is forecast to expand from the current three millio
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | TKENT |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

@@ -21,7 +21,7 @@ This module aims to provide the student with skills to expand their written and 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CCAHILL |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

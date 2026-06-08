@@ -21,7 +21,7 @@ The student?s drawing skills will be developed, with an awareness of traditional
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SORIORDAN |
-| **Cluster** | Graphic Design and Animation |
+| **Cluster** | [Graphic Design and Animation](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
 
 ---
 

@@ -21,7 +21,7 @@ The module introduces the student to work in their chosen specialism with a 15 w
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CPWALSH |
-| **Cluster** | Placement and Projects |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 

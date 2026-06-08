@@ -21,7 +21,7 @@ This module is designed for students to develop professional competence in the r
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ABOOTH |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

@@ -21,7 +21,7 @@ Arboriculture aims to provide the student with an understanding of the principle
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EWOODBYRNE |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

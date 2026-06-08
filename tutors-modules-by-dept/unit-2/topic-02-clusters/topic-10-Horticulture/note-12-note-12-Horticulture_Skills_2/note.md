@@ -21,7 +21,7 @@ This module will equip the student with the skill and competence to perform a ra
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CDOCKRELL |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

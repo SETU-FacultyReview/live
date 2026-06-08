@@ -21,7 +21,7 @@ This module is designed to introduce students to the history, development and in
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MMCMAHON |
-| **Cluster** | Media Production |
+| **Cluster** | [Media Production](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-11-Media_Production) |
 
 ---
 

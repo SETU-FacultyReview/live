@@ -21,7 +21,7 @@ This module is designed to enable the student to read and interpret academic wri
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EWOODBYRNE |
-| **Cluster** | Placement and Projects |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 

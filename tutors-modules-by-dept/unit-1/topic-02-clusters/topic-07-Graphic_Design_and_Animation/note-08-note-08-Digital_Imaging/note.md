@@ -21,7 +21,7 @@ This module introduces students to the different aspects of digital imaging incl
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ASTACK |
-| **Cluster** | Graphic Design and Animation |
+| **Cluster** | [Graphic Design and Animation](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
 
 ---
 

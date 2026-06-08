@@ -21,7 +21,7 @@ This module will provide the student with an advanced understanding of the theor
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KGRENNAN |
-| **Cluster** | Food Science |
+| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 

@@ -21,7 +21,7 @@ This module will introduce the student to the fundamentals of programming for ga
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BLYNG |
-| **Cluster** | Game Development |
+| **Cluster** | [Game Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-06-Game_Development) |
 
 ---
 

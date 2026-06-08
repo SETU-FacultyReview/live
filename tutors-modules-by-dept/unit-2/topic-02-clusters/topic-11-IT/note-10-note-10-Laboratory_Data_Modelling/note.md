@@ -21,7 +21,7 @@ In this module the student will develop skills to fit linear and non-linear theo
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KGRENNAN |
-| **Cluster** | IT |
+| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 

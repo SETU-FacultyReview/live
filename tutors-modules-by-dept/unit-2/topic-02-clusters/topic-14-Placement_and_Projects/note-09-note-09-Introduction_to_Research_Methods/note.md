@@ -21,7 +21,7 @@ This module will introduce the student to techniques that are necessary in a res
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** |  |
-| **Cluster** | Placement and Projects |
+| **Cluster** | [Placement and Projects](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 

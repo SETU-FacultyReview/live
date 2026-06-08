@@ -21,7 +21,7 @@ This module exposes the student to microbiological and molecular methods and the
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | LCOFFEY |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

@@ -21,7 +21,7 @@ This module will teach the student how to communicate effectively both in a writ
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | MCAHILL |
-| **Cluster** | IT |
+| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 

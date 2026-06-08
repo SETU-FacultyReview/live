@@ -21,7 +21,7 @@ This module introduces students to food processing and preservation methods curr
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EDUGGAN |
-| **Cluster** | Food Science |
+| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 

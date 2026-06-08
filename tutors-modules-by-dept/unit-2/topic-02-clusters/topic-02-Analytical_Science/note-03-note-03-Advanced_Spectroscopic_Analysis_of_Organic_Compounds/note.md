@@ -21,7 +21,7 @@ This twelve week intensive module will cover the use of UV-Vis, nuclear magnetic
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | KMURPHY |
-| **Cluster** | Analytical Science |
+| **Cluster** | [Analytical Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-02-Analytical_Science) |
 
 ---
 

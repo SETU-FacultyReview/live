@@ -21,7 +21,7 @@ In this module students will learn to operate and maintain horticultural equipme
 | **School** | Engineering |
 | **Department** | Science |
 | **Module Author** | CDALY |
-| **Cluster** | Engineering |
+| **Cluster** | [Engineering](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-06-Engineering) |
 
 ---
 

@@ -21,7 +21,7 @@ The aim of the module is to advance the student?s knowledge and skill in practic
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BJACKMAN |
-| **Cluster** | Media Production |
+| **Cluster** | [Media Production](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-11-Media_Production) |
 
 ---
 

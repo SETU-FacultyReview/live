@@ -21,7 +21,7 @@ This module addresses the role of information and information systems in support
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LDOYLE |
-| **Cluster** | Information Systems and Modelling |
+| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
 
 ---
 

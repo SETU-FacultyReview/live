@@ -21,7 +21,7 @@ This module introduces the student to the world forestry resource and gives a br
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ABOOTH |
-| **Cluster** | Forestry |
+| **Cluster** | [Forestry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-09-Forestry) |
 
 ---
 

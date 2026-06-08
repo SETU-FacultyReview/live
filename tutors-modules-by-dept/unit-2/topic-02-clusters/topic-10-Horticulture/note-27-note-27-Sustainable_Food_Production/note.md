@@ -21,7 +21,7 @@ The module will enable the student to plan and describe the production of a rang
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | CPWALSH |
-| **Cluster** | Horticulture |
+| **Cluster** | [Horticulture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-10-Horticulture) |
 
 ---
 

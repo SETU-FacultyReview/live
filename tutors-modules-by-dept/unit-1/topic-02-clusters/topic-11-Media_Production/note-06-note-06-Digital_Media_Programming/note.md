@@ -21,7 +21,7 @@ This module builds on strengths already gained in programming, digital media, an
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CDUNPHY |
-| **Cluster** | Media Production |
+| **Cluster** | [Media Production](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-11-Media_Production) |
 
 ---
 

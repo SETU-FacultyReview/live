@@ -21,7 +21,7 @@ In this module the student will learn how to write various types of professional
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ECLAFFEY |
-| **Cluster** | IT |
+| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 

@@ -21,7 +21,7 @@ Students will perform basic building and landscape construction tasks.
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | UMCDERMOTT |
-| **Cluster** | Engineering |
+| **Cluster** | [Engineering](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-06-Engineering) |
 
 ---
 

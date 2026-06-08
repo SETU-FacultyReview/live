@@ -21,7 +21,7 @@ This module will provide the student with a general introduction to the fundamen
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JFRISBY |
-| **Cluster** | IT |
+| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 

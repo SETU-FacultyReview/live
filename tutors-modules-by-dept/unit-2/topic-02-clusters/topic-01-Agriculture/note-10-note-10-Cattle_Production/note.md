@@ -21,7 +21,7 @@ This module will enable the student to gain an in-depth knowledge and the skills
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JDAY |
-| **Cluster** | Agriculture |
+| **Cluster** | [Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-01-Agriculture) |
 
 ---
 

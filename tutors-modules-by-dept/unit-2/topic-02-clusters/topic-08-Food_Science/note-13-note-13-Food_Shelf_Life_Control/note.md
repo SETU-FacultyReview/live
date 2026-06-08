@@ -21,7 +21,7 @@ The aim of this module is to cover the theoretical aspects surrounding the shelf
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ROMAHONY |
-| **Cluster** | Food Science |
+| **Cluster** | [Food Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 

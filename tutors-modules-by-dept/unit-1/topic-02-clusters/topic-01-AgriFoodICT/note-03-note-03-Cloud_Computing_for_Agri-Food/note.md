@@ -21,7 +21,7 @@ This module introduces students to the capabilities of cloud computing, especial
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADUNPHY |
-| **Cluster** | AgriFoodICT |
+| **Cluster** | [AgriFoodICT](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-01-AgriFoodICT) |
 
 ---
 

@@ -1,6 +1,7 @@
 | Any Semester |  |  | Semester 3 |  |  |
 | ----------------- | --- | --- | ----------------- | --- | --- |
-| [Agile Software Development](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-01-note-01-Agile_Software_Development) | 10 | E | [Dissertation](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills/note-07-note-07-Dissertation) | 20 | M |
+|  |  |  | [Dissertation](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills/note-07-note-07-Dissertation) | 20 | M |
+| [Agile Software Development](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-01-note-01-Agile_Software_Development) | 10 | E |  |  |  |
 | [Bus. Proc. Analysis & Design](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling/note-02-note-02-Business_Process_Analysis_and_Design) | 10 | E |  |  |  |
 | [Data Mining](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics/note-09-note-09-Data_Mining) | 10 | E |  |  |  |
 | [Design Patterns](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-08-note-08-Design_Patterns) | 10 | E |  |  |  |

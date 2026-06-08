@@ -21,7 +21,7 @@ Data analytics supports critical decision making in business.
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | AKEALY |
-| **Cluster** | Database and Analytics |
+| **Cluster** | [Database and Analytics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 

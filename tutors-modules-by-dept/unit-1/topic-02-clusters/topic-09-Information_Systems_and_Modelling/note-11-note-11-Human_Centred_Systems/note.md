@@ -21,7 +21,7 @@ The key success factors associated with the effective design, development, deplo
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LSTAPLETON |
-| **Cluster** | Information Systems and Modelling |
+| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
 
 ---
 

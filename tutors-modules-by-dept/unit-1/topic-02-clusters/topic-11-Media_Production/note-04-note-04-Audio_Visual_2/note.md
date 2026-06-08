@@ -21,7 +21,7 @@ This module focuses on visual media.
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ROCONNOR |
-| **Cluster** | Media Production |
+| **Cluster** | [Media Production](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-11-Media_Production) |
 
 ---
 

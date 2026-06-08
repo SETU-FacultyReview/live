@@ -21,7 +21,7 @@ This module will enable the student to gain a comprehensive knowledge of and the
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | SWALSH |
-| **Cluster** | Agriculture |
+| **Cluster** | [Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-01-Agriculture) |
 
 ---
 

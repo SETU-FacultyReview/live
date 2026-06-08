@@ -21,7 +21,7 @@ This module explores the rules and principles that regulate the pre-trial and tr
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DGKEATING |
-| **Cluster** | Forensics and Security |
+| **Cluster** | [Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
 
 ---
 

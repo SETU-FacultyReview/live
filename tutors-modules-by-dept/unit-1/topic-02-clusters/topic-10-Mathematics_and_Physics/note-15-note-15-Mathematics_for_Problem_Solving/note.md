@@ -21,7 +21,7 @@ This module introduces students to problem solving techniques using algebraic, l
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | AVEREKER |
-| **Cluster** | Mathematics and Physics |
+| **Cluster** | [Mathematics and Physics](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
 
 ---
 

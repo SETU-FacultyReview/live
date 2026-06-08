@@ -21,7 +21,7 @@ This module is designed to equip students with a knowledge of the impact of farm
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | TWOODCOCK |
-| **Cluster** | Environmental Science |
+| **Cluster** | [Environmental Science](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-07-Environmental_Science) |
 
 ---
 

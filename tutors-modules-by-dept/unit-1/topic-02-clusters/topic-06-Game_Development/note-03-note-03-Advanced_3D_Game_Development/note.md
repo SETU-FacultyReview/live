@@ -21,7 +21,7 @@ This module provides students with theoretical and practical concepts for the de
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PFELICIA |
-| **Cluster** | Game Development |
+| **Cluster** | [Game Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-06-Game_Development) |
 
 ---
 

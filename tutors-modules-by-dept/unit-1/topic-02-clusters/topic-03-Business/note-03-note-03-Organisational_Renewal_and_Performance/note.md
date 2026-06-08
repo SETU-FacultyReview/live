@@ -21,7 +21,7 @@ The cornerstone of organisational renewal, revitalisation and performance (ORRP)
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
-| **Cluster** | Business |
+| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-03-Business) |
 
 ---
 

@@ -21,7 +21,7 @@ The aim of the module is to provide students with an understanding of the main c
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
-| **Cluster** | Game Development |
+| **Cluster** | [Game Development](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-06-Game_Development) |
 
 ---
 

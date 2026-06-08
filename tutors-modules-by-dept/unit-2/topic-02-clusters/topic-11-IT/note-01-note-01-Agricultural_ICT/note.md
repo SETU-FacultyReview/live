@@ -21,7 +21,7 @@ The aim of this module is to provide students with the knowledge and understandi
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ADUNPHY |
-| **Cluster** | IT |
+| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 

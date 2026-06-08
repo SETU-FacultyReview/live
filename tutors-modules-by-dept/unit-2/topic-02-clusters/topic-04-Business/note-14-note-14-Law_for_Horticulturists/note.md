@@ -21,7 +21,7 @@ The aims of this module is to give students a knowledge of the laws which freque
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | DGKEATING |
-| **Cluster** | Business |
+| **Cluster** | [Business](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 

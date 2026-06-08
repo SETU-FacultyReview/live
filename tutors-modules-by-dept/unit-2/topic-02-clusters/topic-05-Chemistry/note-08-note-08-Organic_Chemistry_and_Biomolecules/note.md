@@ -21,7 +21,7 @@ This module covers the main categories of organic compounds and important classe
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EMCNEELA |
-| **Cluster** | Chemistry |
+| **Cluster** | [Chemistry](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-05-Chemistry) |
 
 ---
 

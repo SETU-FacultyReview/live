@@ -21,7 +21,7 @@ This module will focus on the techniques associated with molecular biology/biote
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ROMAHONY |
-| **Cluster** | Biology |
+| **Cluster** | [Biology](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 

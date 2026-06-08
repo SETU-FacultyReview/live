@@ -21,7 +21,7 @@ This is a practical module that requires the student to build, configure and man
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | RFRISBY |
-| **Cluster** | IT |
+| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 

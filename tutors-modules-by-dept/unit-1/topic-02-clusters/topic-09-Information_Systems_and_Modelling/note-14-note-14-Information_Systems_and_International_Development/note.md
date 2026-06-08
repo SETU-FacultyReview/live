@@ -21,7 +21,7 @@ International development agencies and NGOs are growing sectors with a tradition
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LSTAPLETON |
-| **Cluster** | Information Systems and Modelling |
+| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
 
 ---
 

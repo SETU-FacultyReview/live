@@ -21,7 +21,7 @@ This module examines the agile processes and tools used to deliver software appl
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | FWWALSH |
-| **Cluster** | Information Systems and Modelling |
+| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
 
 ---
 

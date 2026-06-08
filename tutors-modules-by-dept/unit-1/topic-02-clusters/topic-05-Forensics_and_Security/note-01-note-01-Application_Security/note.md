@@ -21,7 +21,7 @@ This module equips the student with knowledge of security vulnerabilities of app
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CLPOWER |
-| **Cluster** | Forensics and Security |
+| **Cluster** | [Forensics and Security](/topic/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
 
 ---
 

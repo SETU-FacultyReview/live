@@ -21,7 +21,7 @@ This key vocational skills module will enable the learner to use a personal comp
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ADUNPHY |
-| **Cluster** | IT |
+| **Cluster** | [IT](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-11-IT) |
 
 ---
 

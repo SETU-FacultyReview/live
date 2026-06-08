@@ -21,7 +21,7 @@ This module is designed to equip students with a introductory understanding of t
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | VNYHAN |
-| **Cluster** | Agriculture |
+| **Cluster** | [Agriculture](/topic/setu-sci-modules-dev/unit-2/topic-02-clusters/topic-01-Agriculture) |
 
 ---
 
