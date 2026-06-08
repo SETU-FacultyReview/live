@@ -37,9 +37,10 @@ def categorize_level(title: str) -> str:
     if 'certificate' in title_lower or 'cert' in title_lower:
         return 'level_6'
 
-    # Level 8: ALL Diplomas (Diploma, HDip, Higher Diploma, Postgrad Diploma, PG Diploma)
+    # Level 8: ALL Diplomas (Diploma, Dip, HDip, Higher Diploma, Postgrad Diploma, PG Diploma)
     # Check before Level 9 to ensure all diplomas are Level 8
-    if 'diploma' in title_lower or 'hdip' in title_lower:
+    # Use word boundary check for 'dip' to avoid matching words like "diplom"
+    if 'diploma' in title_lower or 'hdip' in title_lower or ' dip ' in title_lower or title_lower.startswith('dip '):
         return 'level_8'
 
     # Level 9: MSc, Master (excluding anything with Diploma which is already caught above)

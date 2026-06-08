@@ -177,15 +177,14 @@ departments:
       title: BSc (H) in Land Management (in Horticulture)
       category: '11'
       faculty: Science and Computing
+    - code: WD_SOBIA_G
+      title: Postgrad Dip in Science in Organic & Biological Agriculture
+      category: '30'
+      faculty: Science and Computing
     level_9:
     - code: WD_SOBIA_R
       title: Master of Science in Organic and Biological Agriculture
       category: '25'
-      faculty: Science and Computing
-    other:
-    - code: WD_SOBIA_G
-      title: Postgrad Dip in Science in Organic & Biological Agriculture
-      category: '30'
       faculty: Science and Computing
   Science:
     level_6:
