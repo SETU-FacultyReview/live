@@ -1,0 +1,228 @@
+reference: A14661
+full_title: 'English as a Foreign Language: Upper Intermediate 3'
+short_title: 'EFL: Upper Intermediate 3'
+credits: 5
+level: Introductory
+author: UCUMMINS
+history_comment: ''
+school: Science and Computing
+department: Arts
+cluster: English Language
+aim: This module aims to facilitate language learning for non-native speakers of English
+  at Upper Intermediate level across the key skills of Speaking, Listening, Reading,
+  Writing and Cultural Competence to an achievement level of CEFRL B2.2a (IELTS 6).
+programmes:
+- timetable: ''
+  code: WD_BINTM_B
+  name: Bachelor of Arts (Honours) in International Management
+  stage: 2
+  semester: 3
+  status: E
+- timetable: ''
+  code: WD_CARCH_B
+  name: Bachelor of Science (Honours) in Architectural Technology
+  stage: ''
+  semester: ''
+  status: E
+- timetable: ''
+  code: WD_CARTC_B
+  name: Bachelor of Science (Honours) in Architecture
+  stage: ''
+  semester: ''
+  status: E
+- timetable: ''
+  code: WD_CBARC_B
+  name: Bachelor of Architecture (Honours)
+  stage: ''
+  semester: ''
+  status: E
+- timetable: ''
+  code: WD_CCONM_B
+  name: Bachelor of Science (Honours) in Construction Management and Engineering
+  stage: 3
+  semester: 5
+  status: E
+- timetable: ''
+  code: WD_CQTSU_B
+  name: Bachelor of Science (Honours) in Quantity Surveying
+  stage: 3
+  semester: 5
+  status: E
+- timetable: ''
+  code: WD_ECIEN_D
+  name: Bachelor of Engineering in Civil Engineering
+  stage: 3
+  semester: 5
+  status: E
+- timetable: ''
+  code: WD_ECIVE_D
+  name: Bachelor of Engineering in Civil Engineering
+  stage: 3
+  semester: 5
+  status: E
+- timetable: ENGL-0089
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ENGL-0089
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ''
+  code: WD_FTOUR_C
+  name: Higher Certificate in Business in (Tourism)
+  stage: 2
+  semester: 3
+  status: E
+- timetable: ''
+  code: WD_HTOMA_B
+  name: Bachelor of Arts (Honours) in Tourism Management
+  stage: 2
+  semester: 3
+  status: E
+- timetable: ENGL-0089
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ENGL-0089
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ENGL-0089
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ''
+  code: WD_OHOSM_B
+  name: Bachelor of Arts (Honours) in Hospitality Management
+  stage: 2
+  semester: 3
+  status: E
+- timetable: ''
+  code: WD_OHOSP_C
+  name: Higher Certificate in Arts in (Hospitality Studies)
+  stage: 2
+  semester: 3
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Lexical Contexts covered may include - music; sleep; the body; crime and punishment
+- Grammatical Features covered may include - gerunds and infinitives; used to, be
+  used to and get used to; past modals; would rather; verbs of the senses; the passive
+  (all forms); have something done
+- Discourse/Functions- relaying information; having an argument; describing objects
+  using your senses; writing a description of a photo; writing an opinion article
+- Exercise Types - Multiple-choice, gap-fill, close tests, word formation, sentence
+  transformation, question and answer comprehensions, group definition activities,
+  pairwork, information gap, anecdote descriptions, questionnaires, roleplays
+learning_outcomes:
+- Discuss a range of topics exploiting the language systems (lexis, grammar) and skills
+  (productive and interactive) covered in the module.
+- Distinguish among a variety of short and extended spoken texts within the lexical
+  contexts covered in the module.
+- Demonstrate an understanding of a variety of text types within the lexical contexts
+  covered in the module for general academic purposes, and display those reading skills
+  practised within the module.
+- Construct detailed informal written texts demonstrating a command of the lexical
+  and grammatical elements covered in the module.
+- Demonstrate awareness of cultural diversity based on class discussion and independent
+  reflection.
+learning_and_teaching_methods:
+- Adopting a broadly communicative and integrated approach to language teaching, methods
+  may include inter-active seminars, short talks and presentations and workshops using
+  both traditional and ICT-based materials. Emphasis will be placed on class participation,
+  independent learning and skills development. Teaching approaches that recognise
+  and foster a variety of learning and teaching styles and/or promote learner motivation
+  may be employed.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: 36
+- full_time: 99
+  name: Independent Learning
+  part_time: 99
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,5
+  main: false
+  name: Oral Examination
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 35
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 2,3,4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 35
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% +: The student has demonstrated the ability to understand, produce, apply and
+  manipulate the specified language areas at a proficient level. The student has evidenced
+  a high degree of consistency and accuracy across the skills areas.'
+- '60-69%: The student has demonstrated the ability to understand, produce, apply
+  and manipulate the specified language areas at a competent level. The student has
+  evidenced consistency and accuracy across the skills areas.'
+- '50-59%: The student has demonstrated the ability to understand, produce, apply
+  and manipulate the specified language areas at a functional level. The student has
+  evidenced some consistency and accuracy, but has also evidenced some imbalance across
+  the skills areas.'
+- '40-49%: The student has demonstrated the ability to understand, produce, apply
+  and manipulate the specified language areas at a basic level. Only when presented
+  with tasks that are highly structured in nature or when the knowledge is isolated
+  has the student evidenced any consistency or accuracy. Significant imbalance is
+  evident across the skills areas.'
+- 'Below 40%: The student has not demonstrated the ability to understand, produce,
+  apply or manipulate the language at even a basic level in the skills areas.'
+essential_material:
+- 'Latham-Koenig, C. and C. Oxenden. _English File Upper Intermediate_. 3rd ed.. England:
+  OXford University Press, 2014.'
+- 'Latham-Koenig, C., C. Oxenden and J. Hudson. _English File Upper Intermediate Workbook_.
+  3rd ed.. England: Oxford University Press, 2014.'
+supplementary_material:
+- '"Busy Teacher." www.busyteacher.org'
+- '"English File." www.oup.com/elt/englishfile/upperintermediate'
+- '"English Grammar." www.englishgrammar.org'
+- '"ISL Collective." www.islcollective.com'
+- '"One Stop English." www.onestopenglish.com'
+- '"Using English." www.usingenglish.com'
+- 'Craven, M. _Listening Extra_. England: Cambridge University Press, 2004.'
+- 'Driscoll, L. _Reading Extra_. England: Cambridge University Press, 2004.'
+- 'Gairns, R. and S. Redman. _Oxford Word Skills Intermediate_. England: Oxford University
+  Press, 2008.'
+- 'Gammidge, M. _Speaking Extra_. England: Cambridge University Press, 2004.'
+- 'Haines, S. _Advanced Skills_. England: Cambridge University Press, 2006.'
+- 'Latham-Koenig, C. and C. Oxenden. _English File Upper Intermediate Teacher''s Book_.
+  3rd ed.. England: Oxford University Press, 2014.'
+- 'McCarthy, M. and F. O''Dell. _Vocabulary In Use_. Cambridge: Cambridge University
+  Press, 2017.'
+- 'Palmer, G. _Writing Extra_. England: Cambridge University Press, 2004.'
+- 'Seymour, D. and M. Popova. _700 Classroom Activities_. England: Palgrave MacMillan,
+  2005.'
+- 'Swan, M. and C. Walter. _Oxford English Grammar Course Intermediate_. England:
+  Oxford University Press, 2011.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,124 @@
+reference: A09802
+full_title: Plant Knowledge 2
+short_title: Plant Knowledge 2
+credits: 5
+level: Introductory
+author: LCASSIN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Horticulture
+aim: This module will introduce the learner to a range of plant materials, describe
+  and categorise plant material to include bulbs and annuals, the principles of pruning
+  of trees, shrubs, climbers, turfgrass maintenance and the identification and use
+  of bedding plants.
+programmes:
+- timetable: HORT-0038
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 1
+  semester: 2
+  status: M
+- timetable: HORT-0038
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 4
+  status: E
+- timetable: HORT-0038
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 1
+  semester: 2
+  status: M
+- timetable: HORT-0038
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 4
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Plant identification of 60 plants to include bedding plants
+- Describe and categorise plant material (bulbs and annuals)
+- Prepare displays of bedding plants
+- Pruning techniques - formative pruning of trees, pruning of a variety of shrubs,
+  climbers and perennials
+- Turfgrass maintenance
+learning_outcomes:
+- Identify a range plants to include bedding plants using their correct botanical
+  name.
+- Describe and categorise plant material (bulbs and annuals).
+- Plan a display of bedding plants.
+- Determine and describe appropriate pruning techniques.
+- Describe turfgrass maintenance techniques.
+learning_and_teaching_methods:
+- Using live plant material
+- Lectures
+- Practical demonstrations
+- Visits to sites
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 2,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: '1'
+  main: false
+  name: Practical
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '3'
+  main: false
+  name: Assignment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Not able to identify 40% of plants with botanical names, cannot describe
+  any pruning techniques, cannot describe turfgrass maintenance, cannot select bedding
+  plants.'
+- 40%-49%:Can identify at least 40% of plants with botanical names, basic description
+  of turfgrass maintenance, can describe key pruning techniques but fails to consistently
+  use them correctly, limited selection of bedding plants.
+- '50%-59%: All of the above and achieves 50% of plants identified and selects correct
+  pruning technique, good description of turfgrass maintenance techniques, acceptable
+  selection of bedding plants.'
+- '60%-69%: All the above with 60% of plants identified correctly with no spelling
+  errors, and an understanding of more complex pruning techniques, and good bedding
+  plant selection.'
+- '70%-100%: All of the above and 70% of plants identified correctly with no spelling
+  errors, consistently applies pruning techniques and has a complete understanding
+  of turfgrass maintenance.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Brickell, C. _Royal Horticultural Society A-Z_ _Encyclopedia__of Garden Plants
+  [BOX SET]_. London: Dorling Kindersley, 2008.'
+- 'Brickell, C. and D. Joyce. _RHS Pruning and Training_. 1st. London: Dorling Kindersley
+  , 1996.'
+- 'Fitter, A. _Trees (Collins Gem Series)_. London: Collins, 2004.'
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

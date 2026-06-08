@@ -1,0 +1,179 @@
+reference: A09768
+full_title: Good Laboratory Practice and Core Skills
+short_title: GLP & Core Skills
+credits: 5
+level: Introductory
+author: BWHELAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Quality, Regulatory and Compliance
+aim: This module will emphasise the importance of Good Laboratory Practice (GLP) in
+  the chemistry and biology laboratory environments. It will provide students with
+  training in the necessary skills and practices involved in performing a variety
+  of routine laboratory tasks. The core skills component of this module will allow
+  the student to develop learning and information-handling strategies, develop scientific
+  writing, presentation and report writing skills, as well as critical thinking skills
+  essential to their progress in study at third level.
+programmes:
+- timetable: LABP-0001
+  code: WD_KPHTE_B
+  name: BSc (Hons) in Physics for Modern Technology
+  stage: 1
+  semester: 1
+  status: M
+- timetable: LABP-0001
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: LABP-0001
+  code: WD_SFDSC_D
+  name: Bachelor of Science in Food Science with Business
+  stage: 1
+  semester: 1
+  status: M
+- timetable: LABP-0001
+  code: WD_SFSIN_B
+  name: BSc (Hons) in Food Science and Innovation
+  stage: 1
+  semester: 1
+  status: M
+- timetable: LABP-0001
+  code: WD_SMBIO_B
+  name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
+    Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: LABP-0001
+  code: WD_SMBIO_D
+  name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: LABP-0001
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: LABP-0001
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: LABP-0001
+  code: WD_SSCCM_B
+  name: BSc (Hons) in Science (Common Entry)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: LABP-0001
+  code: WD_SSCIE_D
+  name: Bachelor of Science (Common Entry)
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Good laboratory practices with regard to the use, care and cleaning of laboratory
+  glassware
+- Correct use of top-loading and analytical balances & calibration of balances, pH
+  meter, pipette and micro-pipettes
+- Cleaning of apparatus and work areas and aseptic techniques in biology laboratories;
+  use of centrifuge
+- Fundamental practices of solution preparation
+- Laboratory safety, including the safe disposal of chemical and other wastes & familiarity
+  with material safety data sheets (MSDS) for toxic chemicals
+- Good laboratory practices with regard to filtration techniques (gravity & vacuum)
+  and correct pipetting techniques (glass & micro-pipettes)
+- Scientific writing styles, report writing skills and bibliographic conventions;
+  introduction to research methodology; guide to learning styles
+- Use of the internet search engines and databases for searching and critically evaluating
+  scientific literature
+- Presentation skills
+learning_outcomes:
+- Operate safely in a laboratory, identify hazards involved with certain chemicals
+  and dispose of laboratory waste in accordance with environmental guidelines.
+- Identify, operate and clean laboratory balances, pipettes, filtration apparatuses
+  and pH meters.
+- Complete their experimental work in a safe manner and identify hazards involved
+  with certain chemicals from material safety data sheets (MSDS).
+- Recognise a clean workbench & an aseptic work environment where necessary.
+- Account for laboratory waste safely in accordance with environmental guidelines.
+- Locate and use laboratory glassware for the accurate measurement of solution volume
+  and the preparation of standard solutions.
+- Record scientific reports using appropriate writing skills using library searching
+  techniques.
+- Complete a presentation outlining a scientific topic of interest.
+learning_and_teaching_methods:
+- Lectures.
+- Practicals.
+- Group discussion & presentations.
+- Self-directed study.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 2,5,6
+  main: false
+  name: Lab Report
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,3,4
+  main: false
+  name: Practical
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 7,8
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Little or no demonstration of an understanding of the fundamental core learning
+  skills & concepts. Little or no demonstration of good laboratory practices.'
+- '40%-49%: Will be able to show limited understanding of the fundamental core learning
+  skills & concepts. Some display of good laboratory practices.'
+- '50%-59%: As well as the above, will show reasonable understanding of the fundamental
+  core learning skills & concepts. Will display reasonably good laboratory practices.'
+- '60%-69%: In addition, will demonstrate a more detailed knowledge of core learning
+  skills & concepts. Will display very good laboratory practices.'
+- '70%-100%: All the above to an excellent level. In addition, will demonstrate comprehensive
+  knowledge of core learning skills & concepts. Will display advanced competence and
+  independence with regards to good laboratory practices.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the theory and practical components of the module. In cases where continuous assessment
+  has a practical component attendance of at least 75% in the practicals is mandatory.
+essential_material:
+- 'Anderson, M.A. _GLP Essentials: A Concise Guide to Good Laboratory Practice_. 2nd
+  ed. USA: Interpharm/CRC, 2002.'
+- 'Northedge, A., J. Thomas, A. Lane and A. Peasgood. _The Sciences Good Study Guide_.
+  Berkshire: Open University Press, 1997.'
+supplementary_material:
+- 'Seller, J.P. _Good Laboratory Practice_. Berlin Heidelberg: Springer, 2006.'
+requested_resources:
+- 'Room Type: Chemistry Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

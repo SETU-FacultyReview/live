@@ -1,0 +1,125 @@
+reference: A36201
+full_title: Data Security
+short_title: Data Security
+credits: 5
+level: Advanced
+author: BERNARD.BUTLER
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Forensics and Security
+aim: This module provides the essentials of data security. Topics covered include
+  relevant security threats and vulnerabilities and the services available to address
+  these threats. Cryptographic foundations that underpin many security mechanisms
+  are covered. Network security is covered in the context of ensuring secure access
+  to data in motion. Security-enabled frameworks like Distributed Ledger Technology
+  (also known as blockchain) and privacy preserving techniques are highlighted.
+programmes:
+- timetable: ''
+  code: WD_KDAAN_G
+  name: HDip in Science in Data Analytics
+  stage: 1
+  semester: 2
+  status: M
+- timetable: ''
+  code: WD_KDTAN_MA
+  name: Certificate in Data Analytics
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Introduction to computer security: security threats; attack methods; common vulnerabilities;
+  security services'
+- 'Cryptography: symmetric encryption; modern encryption; block vs stream ciphers;
+  public key cryptography'
+- 'Message authentication and integrity: hash functions; collisions; MACs; digital
+  signatures; digital certificates'
+- 'Computer system security: Access controls, TLS/SSL, SSH, firewalls'
+- Distributed Ledger Technology, trust and managing consensus using cryptography
+- Privacy and data governance when storing and working with data
+learning_outcomes:
+- Assess the various security threats and attack methods to which data may be susceptible.
+- Appraise the role of cryptography in computer and data security, including its benefits
+  and limitations.
+- Test and use cryptographic software and set up secure systems for managing data.
+- Evaluate the benefits of distributed ledgers (including blockchain), including their
+  transparency, resistance to tampering, and decentralised nature.
+- Appraise the role of privacy protection when collecting, storing and performing
+  operations on personal data.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 24
+- full_time: 24
+  name: Practical
+  part_time: 24
+- full_time: 87
+  name: Independent Learning
+  part_time: 87
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3
+  main: false
+  name: In-Class Assessment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,4,5
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to describe key data security technologies. Unable to distinguish
+  between different types of data security threat or to present instances of them
+  in a clear manner. Unable to effectively use relevant tools.'
+- '40%-49%: Can describe in detail key security threats and technologies. Can carry
+  out basic configuration of technologies to implement security policies and to store
+  data in a distributed manner. Able to present instances of data security weaknesses
+  and to assess the privacy implications of a basic system.'
+- '50%-59%: In addition to the above, can reason about the various approaches to security
+  and their benefits and limitations. Able to explain in context and present instances
+  of privacy threats and how they might be realised. Able to model data in a software
+  system with multiple usage scenarios and security requirements, including those
+  drawn from the Confidentiality, Integrity, Availability (CIA) triad.'
+- '60%-69%: In addition, can explain basis of a variety of cryptographic schemes.
+  Can competently make use of security and privacy procedures, tools and technologies
+  in the context of the intended use of data. Able to present and explain why data
+  privacy in analytical settings is difficult to achieve.'
+- '70%-100%: All of the above to an excellent level. Can demonstrate an understanding
+  of some the trade-offs involved in providing security, trust and privacy. Able to
+  demonstrate in detail how to protect data, its subjects and its users.'
+essential_material:
+- '"General Data Protection Regulation." https://gdpr-info.eu/'
+- '"OpenSSL Cryptography and SSL/TLS Toolkit." https://www.openssl.org/'
+- '"The Keys to Data Protection - A Guide for Policy Engagement on Data Protection."
+  https://privacyinternational.org/sites/default/files/2018-09/Data%20Protection%20COMPLETE.pdf'
+supplementary_material:
+- '"SANS Cyber Security Resources." https://www.sans.org/security-resources/?msc=main-nav'
+- '"The CERT Division at SEI, CMU." https://www.sei.cmu.edu/about/divisions/cert/index.cfm'
+- 'Bashir, Imran. _Mastering Blockchain_. 4th ed.. Birmingham, UK: Packt Publishers,
+  2023.'
+- 'Bharajia, N. _Data Privacy: A runbook for engineers_. New York: Manning Publications,
+  2022.'
+- 'Morris Chang, J., D. Zhuang and G. Dumindu Samaraweera. _Privacy-Preserving Machine
+  Learning_. New York: Manning Publications, 2023.'
+- 'Stallings, W. and L. Brown. _Computer Security: Principles and Practices_. 4th
+  ed.. London: Pearson, 2017.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

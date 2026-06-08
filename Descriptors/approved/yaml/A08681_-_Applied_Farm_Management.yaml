@@ -1,0 +1,115 @@
+reference: A08681
+full_title: Applied Farm Management
+short_title: Applied Farm Management
+credits: 5
+level: Advanced
+author: SWALSH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Agriculture
+aim: This module is designed to develop the students' understanding of important concepts
+  and applications of soil science, grassland management, animal breeding and reproduction,
+  nutritional strategies and economic parameters. This will be achieved through the
+  holistic evaluation of a farm enterprise and its potential future developments.
+  To enhance the students' learning, they will be exposed to all current research
+  developments.
+programmes:
+- timetable: AGRI-0108
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 4
+  semester: 7
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Soil quality and fertility and their effects on feed, forage and cereal production
+- Grass budgeting, grassland management and associated software applications
+- Animal breeding and reproductive management strategies
+- Nutritional management strategies and associated software applications
+- Agri-business planning incorporating e-profit monitors, cost control planners, financial
+  planning
+learning_outcomes:
+- Critique current and existing research in soil science.
+- Evaluate current and evolving grassland management strategies and technologies.
+- Assess animal breeding programs and efficiencies in different production systems.
+- Design optimum fertility management protocols.
+- Appraise and assess current animal feed formulation software.
+- Develop a sustainable farm plan based on using data from a monitor farm.
+- Evaluate their own learning progress.
+- Produce an effective presentation.
+learning_and_teaching_methods:
+- Lectures.
+- Guest industry speakers.
+- Farm visits.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '8'
+  main: false
+  name: Presentation
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4,5,6
+  main: false
+  name: Project
+  weighting: 70
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '7'
+  main: false
+  name: Assignment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter.'
+- '40%-49%: Will be able to show a good knowledge of the key learning outcomes including
+  soil and grassland management, animal breeding and reproduction, as well as ability
+  to predict nutritional requirements of the animal given a range of genetic, management
+  and environmental factors.'
+- '50%-59%: As well as the above, the student will be able to demonstrate a good understanding
+  of the learning outcomes, as well as being able to integrate knowledge assimilated
+  in other modules of the course.'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of all
+  the topics, including how to critically assess performance indicators of an enterprise,
+  make recommendations for improvements and justify these recommendations.'
+- '70%-100%: The student will be able to demonstrate a comprehensive knowledge and
+  understanding of all learning outcomes, including the ability to fully integrate
+  the various components of the course.'
+essential_material:
+- 'McDonald, P., R.A. Edwards, J.F. Greenhalgh and C.A. Morgan. _Animal Nutrition_.
+  UK: Pearson, 2002.'
+- 'O''Dwyer, J. _Farm Management_. Ireland: Teagasc, 2012.'
+- 'O''Dwyer, J., J. Maher, S. Norris, F. Phelan and K. Connolly. _Farm Business Planning_.
+  Ireland: Teagasc, 2013.'
+- 'Womack, J. _Bovine Genomics_. England: John Wiley & Sons, 2012.'
+supplementary_material:
+- 'Bedford, M. and G. Partridge. _Enzymes in Farm Animal Nutrition_. UK: CABI Publishing,
+  2001.'
+- 'Givens, D.J., E.J. Owens and H.M. Omed. _Forage Evaluation in Ruminant Nutrition_
+  . UK: CABI Publishing, 2000.'
+- 'Whitehead, D.C. _Nutrient Elements in Grassland : Soil-Plant-Animal Relationships_.
+  UK: CABI Publishing, 2000.'
+requested_resources:
+- 'Room Type: Computer Lab'
+- 'Room Type: Biology Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

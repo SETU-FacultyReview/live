@@ -1,0 +1,114 @@
+reference: A36581
+full_title: Mathematics and Physics for Agriculture
+short_title: Maths Physics
+credits: 5
+level: Introductory
+author: TWOODCOCK
+history_comment: ''
+school: Science and Computing
+department: Land Sciences
+cluster: Mathematics and Physics
+aim: This module will introduce the student to linear and non-linear algebra. There
+  is an emphasis throughout this module on the role of mathematics in the sciences,
+  including real world applications. This module also introduces the student to some
+  fundamental principles of physics and their application to the physical world/environment.
+  The module contains a practical component where the student can develop measurement,
+  analysis and report-writing skills.
+programmes:
+- timetable: MATH-0032
+  code: WD_SAGUL_D
+  name: Bachelor of Science in Agriculture
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Mathematic Fundamentals: review of arithmetic operations; fractions; significant
+  figures; decimal places; percentages; ratios; prefixes, scientific notation; vectors
+  and scalars'
+- 'Introduction to Algebra: simplifying algebraic expressions; factorisation and algebraic
+  fractions'
+- 'Transposition and solution of equations: rearranging a formula; solving linear
+  equations; solving simultaneous equations; solving quadratic equations'
+- 'Introduction to trigonometry: degrees; sine rule and cosine rule'
+- Introduction to measurement, SI units and the need for standards
+- 'Mechanics: motion in one dimension, Newton''s laws of motion; work, energy and
+  power; mechanical energy, total energy and momentum; simple machines and levers'
+- 'Properties of matter: properties & structure of matter; density and relative density;
+  pressure, atmospheric pressure and hydraulic pressure; temperature and temperature
+  scales'
+- Electric circuits; resistance, current and Ohm's Law; simple DC circuits and electrical
+  safety
+- Where possible, practical Agricultural applicaions and examples will be used when
+  teaching the above content
+learning_outcomes:
+- Use and manipulate routine algebraic and numerical calculations.
+- Construct linear and non-linear equations of varying complexity.
+- Use and apply trigonometric functions in the context of applications to physics.
+- Describe and explain some fundamental principles of mechanics and properties of
+  matter.
+- Apply problem-solving skills to analyse simple electric circuit problems.
+- Complete experiments, record and analyse experimental data and present results in
+  the form of a report.
+learning_and_teaching_methods:
+- Lectures
+- Self-directed learning
+- Laboratory experiments
+- Students are supported with notes, online material and feedback
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: 5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: 5,6
+  main: false
+  name: Lab Report
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter'
+- '40%--49%: Will be able to show a basic knowledge of the key learning outcomes.'
+- '50%--59%: As well as the above the student will be able to demonstrate an understanding
+  of some of the complexities of the topics.'
+- '60%--69%: In addition, the student will demonstrate more detailed knowledge of
+  the all topics including and demonstrate an ability to evaluate detailed knowledge
+  acquired in the module to new material.'
+- '70%--100%: The learner will be able to demonstrate comprehensive knowledge and
+  understanding of all learn'
+- 'Note: In addition to the normal regulations, a minimum of 35% must be achieved
+  in both the final exam and continuous assessment components of the module. In cases
+  where continuous assessment has a practical component attendance of at least 75%
+  in the practicals is mandatory.'
+essential_material:
+- 'Croft, A. and R. Davison. _Foundation Mathematics_. 7th ed.. Flanders: Pearson,
+  2020.'
+supplementary_material:
+- '"Khan Academy." https://www.khanacademy.org'
+- 'Bloomfield, L. _How Things Work: The Physics of Everyday Life_. 6th ed.. London:
+  Wiley, 2015.'
+- 'Giancoli, D. _Physics Principles with Applications_. 7th ed.. Flanders: Pearson,
+  2016.'
+- 'O''Regan, D. _Real-World Physics_. Dublin: Folens, 2000.'
+requested_resources:
+- 'SCIENCE LAB: Physics'
+mlo_to_po: ''
+track_changes: true
+
+
+

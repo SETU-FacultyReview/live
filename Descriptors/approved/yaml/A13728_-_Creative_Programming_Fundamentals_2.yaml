@@ -1,0 +1,106 @@
+reference: A13728
+full_title: Creative Programming Fundamentals 2
+short_title: Creative Programming 2
+credits: 5
+level: Introductory
+author: BONEILL
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Software and Web Development
+aim: The purpose of this module is to further develop and enrich creativity by focusing
+  on the creative thought processes, problem solving techniques and programming structures
+  essential for developing systems responsible for more complex tasks underpinned
+  by User Interface (UI) best practice. The student will further extend their knowledge
+  by using their creativity when working with creative class libraries.
+programmes:
+- timetable: COMP-0587
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 1
+  semester: 2
+  status: M
+- timetable: COMP-0587
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Employing and extending objects: Creating and using an array object; Catching exceptions'
+- 'Working with numbers and strings: Using built in objects and internal methods'
+- Working with the Window object in Creative Programs
+- Working with core libraries
+- 'Extend: Working with cameras in creative programs and using other libraries: Using
+  video and video playback;adding camera images and analysis; manipulating the DOM;
+  integrating existing scripting libraries'
+learning_outcomes:
+- Apply problem-solving strategies to various computing problems of increasing complexity.
+- Construct, write and test applications using more advanced programming constructs
+  and data structures.
+- Construct visually creative applications consistent with UI best practice.
+- Demonstrate competence in the use of core libraries.
+- Demonstrate competence in the use of extended libraries.
+learning_and_teaching_methods:
+- Lectures to introduce the theory and concepts of Creative Programming.
+- Practical labs so that the students can put the theory into practice.
+- Self-directed learning.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4,5
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4, 5
+  main: false
+  name: In-Class Assessment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of creative programming.'
+- '40%-49%: Be able to interpret and describe key concepts of creative programming.'
+- '50%-59%: Ability to discuss key concepts of creative programming and ability to
+  discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the creative programming domain by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material:
+- '"Home Page of P5.js." http://p5js.org/'
+- 'Mc Carthy, L., C. Reas and B. Fry. _Getting started with P5.js_. NY: Maker Media,
+  Inc, 2015.'
+- 'Mc Grath, M. _Javascript in easy steps_. 5th ed. NY: In Easy Steps Limited, 2013.'
+supplementary_material:
+- '"Home Page of Lauren Mc Carthy." http://lauren-mccarthy.com/'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

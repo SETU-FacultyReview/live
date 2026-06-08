@@ -1,0 +1,104 @@
+reference: A14165
+full_title: Pipeline Design Concepts
+short_title: Pipeline Design Concepts
+credits: 5
+level: Introductory
+author: SORIORDAN
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Media Production
+aim: This module provides the students with an introduction to the practical processes
+  for realizing and integrating pre-production assets within the production pipeline.
+  It exposes the student to the concepts and themes of the creative process and the
+  interdisciplinary nature of the workflow phases. The theories and processes underlying
+  the creative process are examined, while emphasis is placed on the practical realization
+  of concept assets through the production of a digital animatic.
+programmes:
+- timetable: COMP-0589
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 1
+  semester: 2
+  status: M
+- timetable: COMP-0589
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Story Telling: Writing; The Process of Scipt-writing; Elements of story telling;
+  Narrative construction; Dialogue'
+- Character Design and Development
+- The Language of Film, Cinematography
+- 'Storyboarding: Fundamentals; Technical Structure; Components and Functions; Case
+  Studies; Script to Storyboard Realisation'
+- 'Call Sheets: Purpose and Overview'
+- 'Animatic: Timing, Creation of a basic digital Animatic from existing assets'
+- 'Production: Scene Selection and Setup'
+- Digitisation Process
+learning_outcomes:
+- Identify and recognise the conceptual themes relating to Story telling, Script-writing,
+  Story-boarding and Character Development.
+- Identify and recognise the key elements of Cinematography for story telling.
+- Interpret and identify the Production Pipeline phases.
+- Complete an animatic using industry standard software.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and practicals.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: '1'
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 2,3,4
+  main: false
+  name: Portfolio
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and demonstrate key concepts of the production pipeline.'
+- '40%-49%: Be able to interpret and demonstrate key concepts in the production pipeline.'
+- '50%-59%: Ability to interpret key concepts of the production pipeline and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems using the production pipeline process skills
+  by experimenting with the appropriate skills.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills.'
+essential_material: []
+supplementary_material:
+- 'Dunlop, R. _Production Pipeline Fundamentals for Film and Games_. 1st ed. London:
+  Focal Press, 2014.'
+- 'Glebas, F. _Directing the Story: Professional Storytelling and Storyboarding Techniques
+  for Live Action and Animation_. 1st ed. London: Taylor and Francis, 2009.'
+- 'Moritz, C. _Scriptwriting for the Screen (Media Skills)_. 2nd ed. New York: Routledge,
+  2008.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'COMPUTER LAB: Multimedia Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

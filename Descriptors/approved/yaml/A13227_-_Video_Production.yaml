@@ -1,0 +1,95 @@
+reference: A13227
+full_title: Video Production
+short_title: Video Production
+credits: 5
+level: Introductory
+author: BONEILL
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Media Production
+aim: This module provides the student with the opportunity to apply his/her knowledge
+  of the production pipeline. The student will learn the skills required to shoot
+  and capture footage. Industry standard video editing software is extensively explored
+  in the assembly, editing and application of effects to video footage and audio.
+  The student gains an introduction to post production software, to edit and enhance
+  a completed video asset.
+programmes:
+- timetable: COMP-0596
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0596
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Shoot and capture video assets
+- 'Video editing: Transitions;Effects;Edits;Motions;Titles;Animations'
+- 'Audio: acquire; Edit;Mix;Effects'
+- 'Post Production: Colour;Presets;Animation of objects and text'
+- Toolset for the distortion of objects in post production
+- Build and manipulate 3d objects using advanced editing techniques in post production
+learning_outcomes:
+- Demonstrate an understanding of video principles.
+- Apply sympathetic audio tracks to video.
+- Demonstrate extensive use of industry standard video editing software.
+- Apply animation of objects and text utilizing effects, and pre-sets using post production
+  software.
+- Construct basic post production cinematic effects for the purpose of branding.
+- Complete a short trailer, advert or instructional video for delivery on web, mobile
+  or social media.
+learning_and_teaching_methods:
+- This module will be delivered using two hours of computer-based lectures, along
+  with two hours of computer-based practicals each week.
+- Equipped with Adobe CC suite and data projector.
+- Use of video editing suite; sound equipment;cameras;tripods;green screen;lighting.
+learning_modes:
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5,6
+  main: false
+  name: Portfolio
+  weighting: 100
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and demonstrate key concepts of video production.'
+- '40%-49%: Be able to interpret and demonstrate key concepts of video production.'
+- '50%-59%: Ability to demonstrate key concepts of video production and ability to
+  discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the video production domain by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material: []
+supplementary_material:
+- 'Fridsma, L. and B. Gyncild. _Adobe After Effects CC Classroom in a Book_. 1st ed.
+  NY: Adobe Press, 2016.'
+- 'Maxim, J. _Adobe Premiere Pro CC Classroom in a Book_. 1st ed. NY: Adobe Press,
+  2015.'
+requested_resources:
+- 'COMPUTER LAB: Multimedia Lab'
+- 'EQUIPMENT: MAC PCs'
+- 'EQUIPMENT: Blackboard'
+mlo_to_po: ''
+track_changes: true
+
+
+

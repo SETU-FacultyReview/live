@@ -1,0 +1,147 @@
+reference: A13381
+full_title: User Experience Design
+short_title: User Experience Design
+credits: 5
+level: Introductory
+author: AGANNON
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Graphic Design and Animation
+aim: User Experience (UX) is a concept that has many dimensions, and it includes a
+  variety of different disciplines?such as interaction design, visual design, usability,
+  and human-computer interaction. This module will introduce the student to elements
+  and tools that are essential for enhancing user satisfaction by improving motivation,
+  usability and accessibility provided in the interaction between the user and the
+  product in both web and non-web based interfaces. The student will engage in the
+  various stages of the UX Design process, utilizing a variety of supportive tools
+  to assist in the completion of the varied tasks of the UX Designer.
+programmes:
+- timetable: COMP-0586
+  code: WD_DVISC_B
+  name: Bachelor of Arts (Honours) in Design (Visual Communications)
+  stage: 3
+  semester: 6
+  status: E
+- timetable: COMP-0586
+  code: WD_KCOMC_D
+  name: Bachelor of Science in Software Systems Development
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0586
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 4
+  status: E
+- timetable: COMP-0586
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMP-0586
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0586
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0586
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Visual Design
+- Interaction Design
+- Usability and Accessibility
+- Human Computer Interaction (HCI) & User Centred Design (UCD)
+- Guidelines and Standards
+- Evaluation and Testing
+learning_outcomes:
+- Demonstrate an understanding of the underlying issues and principles of UX.
+- Demonstrate, at a fundamental level through written and practical work, the links
+  between UX and Human Factors.
+- Apply the principles of UCD, to the capture of user requirements providing a basis
+  for design that is fit for purpose.
+- Construct appropriate user interfaces for specific applications and specific users
+  using low and high fidelity prototyping.
+- Explain the usability and accessibility of an interface with respect to different
+  user populations.
+learning_and_teaching_methods:
+- Lectures --will be used to introduce and discuss UX concepts.
+- Practicals/Workshops -- will be used to develop and apply the concepts introduced
+  and discussed during lectures.
+- Student Independent Learning -- Students will research and apply the various concepts
+  introduced and discussed during lectures.
+- Students will use MS Office and Adobe Creative Cloud.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 35
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3, 4, 5
+  main: false
+  name: Assignment
+  weighting: 65
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of the specific knowledge domain(s).'
+- '40%-49%: Be able to interpret and describe key concepts of the specific knowledge
+  domain(s).'
+- '50%-59%: Ability to discuss key concepts of the specific knowledge domain and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the specific knowledge domain(s) by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material:
+- '"Color in Motion." http://www.mariaclaudiacortes.com/colors/Colors.html'
+- '"Interaction Design." http://www.id-book.com/index.php'
+- '"UXMatters." Fundamental Principles of UX Design. http://www.uxmatters.com/mt/archives/2014/11/fundamental-principles-of-great-ux-design-how-to-deliver-great-ux-design.php'
+- 'Preece, J. and Rogers, Y. and Sharp, H. _Interaction Design: Beyond Human Computer
+  Interaction_. 4th Edition. West Sussex: John Wiley and Sons, 2015.'
+supplementary_material:
+- 'Benyon, D. and Turner, P. and Turner, S. _Designing Interactive Systems: People,
+  Activities,Contexts, Technologies_. Essex, UK: Addison-Wesley, 2005.'
+- 'Garrett, J.J. _The Elements of User Experience: User Centred Design for the Web_.
+  2nd Edition. New York: New Riders, 2010.'
+- 'Johnson, J. _Designing with the Mind in Mind_. 2nd Edition. Waltham, MA: Morgan
+  Kaufman, 2014.'
+- 'McManus, S. _Web Design: make your website a success!_. 6th Edition. Warwickshire,
+  England: In Easy Steps, 2014.'
+requested_resources:
+- 'COMPUTER LAB: Multimedia Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

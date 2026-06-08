@@ -1,0 +1,127 @@
+reference: A11990
+full_title: Digital Communication Analysis
+short_title: Digital Communication Analysis
+credits: 5
+level: Advanced
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Electronics
+aim: Information theory and the restrictions and guidelines it presents for digital
+  communication are treated. The role of probability in quantifying information and
+  redundancy is treated leading to source coding, and channel coding. Signal space
+  is presented and the error performance of M-ary FSK and PSK modulation schemes is
+  developed. The bandwidth efficiency plane is then populated for these schemes, leading
+  to power/bandwidth trade-offs and the Shannon limit. Satellite systems are explored
+  as a case study in digital communications. Basic features of GPS, Radar and optical
+  communications are surveyed.
+programmes:
+- timetable: ''
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COME-0003
+  code: WD_EONIC_B
+  name: Bachelor of Engineering (Honours) in Electronic Engineering
+  stage: 4
+  semester: 7
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Information Theory: data, information, entropy, equivocation, source coding, efficiency
+  - Huffman, Shannon-Fano'
+- 'Channel coding: convolutional encoders, systematic/non-systemic, catastrophic error
+  propagation.'
+- Modulation scheme bandwidth efficiency Performance
+- 'Noise and Interference Sources: noise figure, noise temperature, low noise pre-amplifiers'
+- 'Satellite Systems: Frame structure, synchronisation, footprints, beamwidth/gain,
+  link budget analysis.'
+- 'GPS & RADAR: Pseudo-ranges, code phase/carrier phase, ephemeris, almanac, GDOP,
+  RADAR equation, ranging and curvature.'
+- 'Optical Systems: 1550nm & 1330nm characteristics, fibre events, Optical Time Domain
+  Reflectometry'
+learning_outcomes:
+- Derive and calculate error rates for various modulation schemes and be able to devise
+  a realistic choice of scheme for particular applications.
+- Discuss the origin and significance of various noise and interference sources and
+  be able to compose a realistic link budget.
+- Explain source coding and be able to determine code solutions and associated parameters.
+- Outline basic channel coding approaches, and know key parameters & the relative
+  strengths of approaches.
+- Describe the key parameters of GPS, optical comms & radar.
+- Write technical reports on selected problems using simulations as appropriate.
+learning_and_teaching_methods:
+- Lectures
+- Practicals
+- Integrated Worked Examples
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Tutorial
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '6'
+  main: false
+  name: Practical
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Sklar, B. _Digital Communications, Fundamentals and Applications_. 2nd ed.. New
+  York: Prentice Hall, 2001.'
+supplementary_material:
+- 'Glover, I.A. and P.M. Grant. _Digital Communications_. 3rd ed.. Harrow.: Pearson
+  Education, 2010.'
+- 'Taub, H., D. Schilling and G. Saha. _Principles of Communication Systems_. 4th
+  ed.. New York: McGraw Hill, 2008.'
+requested_resources:
+- 'ENGINEERING LAB: Electronics'
+mlo_to_po: ''
+track_changes: true
+
+
+

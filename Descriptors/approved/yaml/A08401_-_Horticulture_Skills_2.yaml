@@ -1,0 +1,102 @@
+reference: A08401
+full_title: Horticulture Skills 2
+short_title: Horticulture Skills 2
+credits: 5
+level: Introductory
+author: CDOCKRELL
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Horticulture
+aim: This module will equip the student with the skill and competence to perform a
+  range of horticulture skills.
+programmes:
+- timetable: HORT-0039
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 1
+  semester: 2
+  status: M
+- timetable: HORT-0039
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 4
+  status: E
+- timetable: HORT-0039
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 1
+  semester: 2
+  status: M
+- timetable: HORT-0039
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 4
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Maintain a lawn (spring), mowing, rolling, edging, nutrition and repairs
+- Grow a range of ornamentals and vegetables using techniques such as pricking out,
+  potting up and growing on
+- Prepare ground for the planting of ornamentals and vegetables
+- Prune and train a range of fruit trees and bushes
+- Produce a range of containerised bedding displays
+- Plant a range of bedding plant displays
+- Plant a range of vegetables and herbs
+learning_outcomes:
+- Demonstrate a range of spring lawn maintenance tasks.
+- Demonstrate the propagation of flowering annuals and vegetables.
+- Show how the ground is prepared for planting of bedding plants and vegetables.
+- Demonstrate the planting of out bedding plants, vegetables and herbs.
+- Construct a range of containerised bedding displays.
+- Demonstrate the pruning and training of fruit trees and bushes.
+- Complete a record of activities and observations.
+- Operate in a team or individually to complete a series of tasks.
+learning_and_teaching_methods:
+- Practical demonstrations and assignments.
+learning_modes:
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5,6,8
+  main: false
+  name: Practical
+  weighting: 80
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '7'
+  main: false
+  name: Reflective Journal
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Demonstrates an inability to perform most of the skills to an acceptable
+  standard and output.'
+- '40%-49%: Demonstrates a limited ability to perform most of the skills to an acceptable
+  standard and output.'
+- '50%-59%: Demonstrates a satisfactory ability to perform most of the skills to an
+  acceptable standard and output.'
+- '60%-69%: Demonstrates a satisfactory ability to perform all of the skills to an
+  acceptable standard and output.'
+- '70%-100%: Demonstrates sound ability to perform all of the skills to a competent
+  standard and output.'
+essential_material: []
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

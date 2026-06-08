@@ -1,0 +1,141 @@
+reference: A09883
+full_title: Physics 1
+short_title: Physics 1
+credits: 5
+level: Introductory
+author: GGALLAGHER
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Mathematics and Physics
+aim: This module is designed to introduce the computing student to the mechanics,
+  electricity, light and measurement principles that they are likely to encounter
+  in their computing course. It assumes no prior knowledge of physics. There will
+  be an emphasis on problem-solving and laboratory-based teaching throughout. Each
+  element of the syllabus is supported by suitable experiments, which will develop
+  the students experimental skills and understanding of measurement and associated
+  uncertainties.
+programmes:
+- timetable: COMP-0542
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMP-0542
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMP-0542
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMP-0542
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMP-0542
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMP-0542
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMP-0542
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMP-0542
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Mechanics: SI units; vectors; Newtons laws; gravitation; projectiles; energy; conservation
+  laws; uniform circular motion'
+- 'Electricity: Ohm''s law; simple resistor networks; Mains electricity and electrical
+  safety'
+- 'Light: Electromagnetic spectrum; Reflection; Refraction; Diffraction; Interference'
+- 'Measurement: Introduction to the general principles of measurement'
+learning_outcomes:
+- Use the SI system of units to carry out formula-based calculations.
+- Define the significant terms associated with mechanics, electricity, light and measurement.
+- Describe and discuss the application of the physics concepts introduced related
+  to a limited number of real world scenarios/devices.
+- Use laboratory equipment in a safe and accurate manner.
+- Report on and critically assess a range of experiments relating to the course content.
+learning_and_teaching_methods:
+- 'Lectures: The lectures will introduce the theory content to the student.'
+- 'Practical programme: The practical element allows the student to put into practice
+  the theoretical concepts covered in the lectures.'
+- Live and video-based demonstrations
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Lab
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: Lab Report
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 60
+assessment_criteria:
+- '<40%: The student has failed to demonstrate a reasonable grasp of mechanics, electricity,
+  light and measurement and is unable to carry out routine calculations reliably.
+  Experimental work is generally poor.'
+- '40%-49%: Able to demonstrate a basic understanding of the mechanics, electricity,
+  light and measurement principles covered. Able to provide partial solutions to numerical
+  problems. Practical work reaches an acceptable level.'
+- '50%-59%: Able to clearly describe and define basics concepts in mechanics, electricity,
+  light and measurement. Able to analyse physical situations and apply suitable problem-solving
+  techniques to find numerical solutions. Practical work is performed and reported
+  on in a capable manner.'
+- '60%-69%: In addition to the above, able to apply problem-solving techniques to
+  new similar problems. Demonstrates a good understanding of the majority of the course
+  content. Good, clear reporting of practical work.'
+- '70%-100%: All the previous to an excellent level. Demonstrates an ability to put
+  a numerical solution into a context and assess whether such solutions are meaningful.
+  Can critically assess experiments undertaken.'
+essential_material: []
+supplementary_material:
+- 'Giancoli, G.C. _Physics, Principles with Applications_. UK: Prentice Hall, 2016.'
+- 'Johnson, K. _Physics for You_. UK: Stanley-Thornes, 2011.'
+- 'O''Regan, D. _Real-World Physics_. Dublin: Folens, 2000.'
+requested_resources:
+- 'SCIENCE LAB: Physics'
+mlo_to_po: ''
+track_changes: true
+
+
+

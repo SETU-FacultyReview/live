@@ -1,0 +1,125 @@
+reference: A13548
+full_title: Web Design and Development
+short_title: Web Design and Development
+credits: 5
+level: Intermediate
+author: CFITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Graphic Design and Animation
+aim: This module focuses on the Web Design and Development Process, from User Experience
+  (UX), Planning, Responsive Design, to Development and Maintenance. The module will
+  use industry standard website planning, design and web authoring tools. It will
+  include web publishing and cross platform application development.
+programmes:
+- timetable: COMP-0598
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 1
+  semester: 2
+  status: M
+- timetable: COMP-0598
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0598
+  code: WD_KINFT_D
+  name: Bachelor of Science in Information Technology
+  stage: 1
+  semester: 2
+  status: M
+- timetable: COMP-0598
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Planning & User Experience
+- Design & User Experience
+- 'Development: Content Management Systems, What You See Is What You Get (WYSIWYG)
+  Authoring'
+- Web Publishing
+- Responsive Development / Frameworks (Cross Platform App Development)
+- 'Website Maintenance: Search Engine Optimisation , Testing & Approval, Launch &
+  Transition'
+learning_outcomes:
+- Demonstrate an ability to document and complete the planning stage of a Web Development
+  project.
+- Apply Web UX guidelines to the design of an interactive website.
+- Demonstrate an ability to construct a responsive website using a Content Management
+  System.
+- Demonstrate an ability to develop an interactive website using industry standard
+  web authoring tools.
+- Publish and test an interactive website.
+learning_and_teaching_methods:
+- This is a lab based module. This module will be delivered using 2 hours of computer-based
+  Lectures, along with 2 hour of computer-based Practicals each week.
+- The Lectures will introduce new concepts and theory relating to the web development
+  process. The practicals will allow the students to design and develop websites using
+  industry standard web authoring software.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 12
+- full_time: 24
+  name: Practical
+  part_time: 12
+- full_time: 87
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '1'
+  main: false
+  name: Assignment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '2'
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4,5
+  main: false
+  name: Assignment
+  weighting: 70
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of the web development process.'
+- '40%-49%: Be able to interpret and describe key concepts of the web development
+  process.'
+- '50%-59%: Ability to discuss key concepts of the web development process and ability
+  to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within web development by experimenting with
+  the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material: []
+supplementary_material:
+- '"Adobe Dreamweaver CC Tutorials." https://helpx.adobe.com/dreamweaver/tutorials.html'
+- '"Learn WordPress." https://learn.wordpress.com'
+- '"Stages of Web Design." https://helpx.adobe.com/dreamweaver/how-to/stages-web-design.html'
+- 'Fielding, J. _Beginning Responsive Web Design with HTML5 and CSS3_. 1st ed.. New
+  York: Apress, 2014.'
+- 'Maivald, J. _Adobe Dreamweaver CC Classroom in a Book (2015 rel__ease)_. 1st ed..
+  United States of America: Peachpit, 2015.'
+requested_resources:
+- 'COMPUTER LAB: Multimedia Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

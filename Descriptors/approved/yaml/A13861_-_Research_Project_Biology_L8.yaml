@@ -1,0 +1,85 @@
+reference: A13861
+full_title: Research Project (Biology L8)
+short_title: Research Project (Biology L8)
+credits: 10
+level: Advanced
+author: ROMAHONY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Placement and Projects
+aim: This module consists of a research and development project, which will give students
+  the facility to plan and carry out a programme of work based significantly on their
+  own initiative.
+programmes:
+- timetable: PROJ-0017
+  code: WD_SMBIO_B
+  name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
+    Science
+  stage: 4
+  semester: 8
+  status: M
+- timetable: PROJ-0017
+  code: WD_SQMBI_B
+  name: Bachelor of Science (Honours) in Applied Biology with Quality Management
+  stage: 4
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Projects will be based on areas such as: developing and validating analytical procedures,
+  environmental analysis, cell culture technology, molecular biology, microbiology,
+  enzymology, applied immunology, computational biology and bioinformatics.'
+learning_outcomes:
+- Plan, organize and carry out a research project.
+- Formulate and test hypotheses.
+- Select advanced scientific skills to generate and analyse data and diagnose and
+  troubleshoot technical problems.
+- Develop a personal work plan and accept responsibility for own work.
+- Develop independent thinking and scientific critical judgement to make effective
+  decisions, including a critical reflection of the project in the context of green
+  practices and institute, national and global sustainability initiatives.
+- Formulate effective communicate skills to disseminate scientific information in
+  a variety of forms including oral presentation.
+- Construct a properly referenced report of the project by sourcing, interpreting
+  and applying appropriate and referenced literature.
+learning_and_teaching_methods:
+- Project work - practical laboratory and online based.
+- Workshop on green and sustainable practices in research
+learning_modes:
+- full_time: 120
+  name: Practical
+  part_time: ''
+- full_time: 150
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6,7
+  main: true
+  name: Final Project
+  weighting: 100
+assessment_criteria:
+- '<40%: Inadequate achievement of the learning outcomes.'
+- '40%-49%: Will be able to show a basic level of achievement in relation to the key
+  learning outcomes. Relatively poor analytical and communication skills.'
+- '50%-59%: Reasonable achievement of learning outcomes. Good analytical and communication
+  skills.'
+- '60%-69%: In addition, the student will demonstrate more detailed achievements of
+  project goals including demonstrating an ability to evaluate knowledge acquired.'
+- '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
+  of all learning outcomes, predict general trends in behaviour including exceptional
+  behaviour, and critically evaluate and relate topics.'
+essential_material:
+- '"United Nations Sustainable Development Goals (SDGs)." https://sdgs.un.org/goals'
+- 'Jones, A., R. Reed and J. Weyers. _Practical skills in Biology_. 5th Edition. UK:
+  Pearson, 2012.'
+supplementary_material: []
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'Room Type: Biology Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,123 @@
+reference: A36381
+full_title: Advanced Materials Characterisation
+short_title: Adv. Material Characterisation
+credits: 10
+level: Postgraduate
+author: KGRENNAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Analytical Science
+aim: This module provides an overview of the current technologies used for the characterisation
+  of materials. The principles and instrumentation used in surface analysis, polymorphism,
+  trace analysis and polymer characterisations will be studied. A wide range of surface
+  analysis techniques such as microscopy and micrometric techniques will be covered,
+  specifically their use, sample requirements, principals and limitations. Examples
+  of industrial applications of these techniques will be given, from raw materials
+  and product characterisation to trace analysis and impurity determinations.
+programmes:
+- timetable: SCIE-0052
+  code: WD_SANSC_G
+  name: Postgraduate Diploma in Analytical Science with Quality Management
+  stage: 1
+  semester: 0
+  status: E
+- timetable: SCIE-0052
+  code: WD_SANSC_R
+  name: Master of Science in Analytical Science with Quality Management
+  stage: 1
+  semester: 0
+  status: E
+- timetable: SCIE-0052
+  code: WD_SMATR_MA
+  name: Certificate in Advanced Materials Characterisation
+  stage: 5
+  semester: 0
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- The properties of surfaces - solids & liquids. Micromeritics to include particle
+  size, specific surface area, porosity, density, surface tension and contact angle
+  measurements.
+- Microscopy and imaging in pharmaceutical analysis for determination of morphology
+  and particle size; Optical Microscopy (OM), Scanning Tunnelling Microscopy (STM),
+  Scanning Electron Microscopy (SEM) and Atomic Force Microscopy (AFM)
+- Microscopic techniques for contaminant identification, including SEM combined with
+  Energy Dispersive X-ray (EDX) detection
+- Particle size analysis techniques based on light scattering
+- Thermal analysis and calorimetric techniques, e.g. Differential Scanning Calorimetry
+  (DSC), Thermogravimetric Analysis (TGA) & Dynamic Mechanical Thermal Analysis (DMTA)
+- Dynamic Vapour Sorption (DVS) characterisation of pharmaceuticals and moisture determination
+  techniques
+- Crystal structure & polymorphism determination techniques, e.g. X-Ray Diffraction
+  (XRD) & thermal microscopy
+- Rheology determination techniques
+learning_outcomes:
+- Establish the principles of operation behind a range of optical, scanning probe
+  and scanning electron microscopic techniques.
+- Establish the principles of operation and applications of a variety of micrometric
+  and thermal analytical techniques for materials characterisation.
+- Establish the principles of a variety of moisture, polymorphism, and particle size
+  and rheology determinations in materials.
+- Evaluate the potential of all the above in the characterisation of materials in
+  the pharmaceutical industrial environment.
+- Plan experiments and calibrate associated laboratory instrumentation for pharmaceutical
+  and biopharmaceutical sample analyses.
+learning_and_teaching_methods:
+- Lectures.
+- Practicals.
+- Demonstrations.
+- E-learning.
+learning_modes:
+- full_time: ''
+  name: Lecture
+  part_time: 24
+- full_time: ''
+  name: Practical
+  part_time: 24
+- full_time: ''
+  name: Independent Learning
+  part_time: 222
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,5
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: The learner will demonstrate little or no understanding of the fundamentals
+  of the learning outcomes. Will display a lack of competence with regards to practical
+  and resulting data analysis skills.'
+- '40%-59%: The learner will demonstrate limited understanding of the fundamentals
+  of the learning outcomes. Will display some ability with regards to associated practical
+  and resulting data analysis skills.'
+- '60%-69%: As well as the above, the learner will demonstrate reasonable understanding
+  of the fundamentals of the learning outcomes. Will display reasonable competence
+  with regards to associated practical and resulting data analysis skills.'
+- '70%-100%: All of the above to excellent levels. In addition, the learner will demonstrate
+  comprehensive knowledge and understanding of all learning outcomes. Will display
+  advanced competence and independence with regards to associated practical and resulting
+  data analysis skills.'
+essential_material:
+- '"Advanced Materials Characterisation module Moodle page." http://moodle.wit.ie'
+- '"WIT library databases." http://library.wit.ie/Resources/databases'
+supplementary_material: []
+requested_resources:
+- 'Room Type: Chemistry Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,76 @@
+reference: A09765
+full_title: Literature Review (GMP)
+short_title: Literature Review (GMP)
+credits: 10
+level: Intermediate
+author: BWHELAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Placement and Projects
+aim: The aim of this module is for a student to source, review, summarise and discuss
+  peer-reviewed literature on a chosen academic topic.
+programmes:
+- timetable: PROJ-0121
+  code: WD_SGMPT_D
+  name: Bachelor of Science in Good Manufacturing Practice and Technology
+  stage: 1
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Literature search; participation in library database tutorials
+- Technical and scientific writing
+- Scientific referencing
+learning_outcomes:
+- Propose a review topic.
+- Utilise the library databases to gather, read and analyse literature on the chosen
+  topic.
+- Compile the review report, including a bibliography.
+- Communicate the review of the literature to academic staff and peers.
+learning_and_teaching_methods:
+- Journal articles.
+- Moodle.
+- Self-directed learning.
+learning_modes:
+- full_time: ''
+  name: Tutorial
+  part_time: 12
+- full_time: ''
+  name: Independent Learning
+  part_time: 258
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Dissertation
+  weighting: 100
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
+  technical ability/skill and understanding to carry out practical/professional tasks.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Show some technical
+  ability/skill in carrying out and reporting on practical/professional tasks.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Logically and competently carry out practical/professional tasks.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter. Show ability to analyse
+  and logically argue in an effective and mature style. Demonstrate initiative and
+  the ability to criticise methods used and appreciation of experimental design when
+  carrying out practical/professional tasks.'
+- '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
+  and extensive understanding of the subject. Provide well focused analysis and convincing
+  argument on the subject.'
+essential_material:
+- '"Introduction to Research Methods Moodle page.." http://moodle.wit.ie'
+- '"Science Direct." http://www.sciencedirect.com/'
+- '"WIT Library Catalogue." http://library.wit.ie/'
+- '"WIT Library Databases.." http://library.wit.ie/Resources/databases'
+- '"Waterford Institute of Technology ." https://www.wit.ie/'
+- '"ebrary." http://site.ebrary.com/lib/waterfordit/home.action'
+supplementary_material: []
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

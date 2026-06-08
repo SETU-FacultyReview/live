@@ -1,0 +1,147 @@
+reference: A07549
+full_title: Introduction to Biotechnology and Pharmaceutical Science
+short_title: Intro to Biotech & Pharma Sci
+credits: 5
+level: Introductory
+author: CLENNON
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Pharmaceutical Science
+aim: This module will provide the students with an appreciation of the pharmaceutical
+  and biotechnology industries. Students will be introduced to the wide range of products
+  produced by these industries. An overview of the processes and quality aspects of
+  production will also be included.
+programmes:
+- timetable: BIPH-0001
+  code: WD_KPHTE_B
+  name: BSc (Hons) in Physics for Modern Technology
+  stage: 1
+  semester: 2
+  status: E
+- timetable: BIPH-0001
+  code: WD_SFSIN_B
+  name: BSc (Hons) in Food Science and Innovation
+  stage: 1
+  semester: 2
+  status: E
+- timetable: BIPH-0001
+  code: WD_SMBIO_B
+  name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
+    Science
+  stage: 1
+  semester: 2
+  status: E
+- timetable: BIPH-0001
+  code: WD_SMBIO_D
+  name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
+  stage: 1
+  semester: 2
+  status: M
+- timetable: BIPH-0001
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 1
+  semester: 2
+  status: M
+- timetable: BIPH-0001
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 1
+  semester: 2
+  status: M
+- timetable: BIPH-0001
+  code: WD_SSCCM_B
+  name: BSc (Hons) in Science (Common Entry)
+  stage: 1
+  semester: 2
+  status: E
+- timetable: BIPH-0001
+  code: WD_SSCIE_D
+  name: Bachelor of Science (Common Entry)
+  stage: 1
+  semester: 2
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Role of regulatory authorities: USA FDA, HPRA, UK MHRA'
+- 'Introduction to pharmaceuticals: terminology and general requirements'
+- 'Classification of pharmaceuticals: topical, solid dose, parenterals and aerosols'
+- Chemical structures and synthesis of pharmaceutical products
+- Overview of API processing and formulation development
+- Historical and modern drug development
+- Explanation of Good Manufacturing Practice (GMP) and its role in pharmaceutical
+  production
+- Roles, responsibilities and career prospects within the pharmaceutical industry
+- Biotechnology in food, pharmaceuticals, agriculture and the environment
+- 'Overview of a typical biotechnology process: inputs, process & outputs'
+- Brief introduction to the principles of genetic engineering of microbes, plants
+  & animals and its potential
+- Fundamentals of biologics and biopharmaceuticals
+learning_outcomes:
+- Describe the roles and structure within the pharmaceutical industry.
+- Describe a typical biotechnological and pharmaceutical process.
+- Identify the impact of regulation and GMP on pharmaceutical production.
+- Describe the evolution and discovery of pharmaceutical products.
+- Communicate scientific material to peers.
+- Illustrate effective teamwork in conjunction with colleagues.
+learning_and_teaching_methods:
+- Lectures.
+- Groupwork to produce presentations.
+- Class discussions.
+- Blended learning.
+- Self-directed study.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 10
+  name: Group Work
+  part_time: ''
+- full_time: 89
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 5,6
+  main: false
+  name: Presentation
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 75
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. No attempt
+  to engage in class discussion.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Minimal engagement
+  in discussion and debate.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Some input into discussion with evidence of independent thought.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter. Contribute significantly
+  to class debate with independent thoughts.'
+- '70%-100%: All the above to an excellent level. Show initiative, individual thought
+  and enthusiasm in self-directed study and independent learning.'
+essential_material: []
+supplementary_material:
+- 'Roy, J. _An Introduction to Pharmaceutical Sciences_. New York: Biohealthcare Publishing,
+  2011.'
+- 'Bennett, B. and G. Cole. _Pharmaceutical Production An Engineering Guide_. Warwickshire:
+  IChemE, 2003.'
+- 'Sharpe, J.P. _Good Manufacturing Practice: Philosophy and Applications_. Illinois:
+  Interpharm Press, 1991.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

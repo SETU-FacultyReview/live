@@ -1,0 +1,103 @@
+reference: A13584
+full_title: Database Administration
+short_title: Database Administration
+credits: 5
+level: Advanced
+author: TMCDONALD
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Database and Analytics
+aim: This module will provide students with the skills to be a Database Administrator
+  (DBA) in an organisation. The module will provide students with the knowledge to
+  be able to successfully design, create and manage a database architecture with a
+  diverse set of tools and technologies, which will enable them to provide database
+  services to support the database needs of different types of end users who are using
+  heterogeneous databases.
+programmes:
+- timetable: COMP-0327
+  code: WD_KINTE_B
+  name: Bachelor of Science (Honours) in Information Technology
+  stage: 4
+  semester: 2
+  status: E
+- timetable: COMP-0327
+  code: WD_KITMA_B
+  name: BSc (Hons) in Information Technology Management
+  stage: 1
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- The role of the DBA
+- The database architecture
+- Managing Files
+- Managing Memory
+- Managing Processes
+- Locking & Latching
+- Concurrency Control & Multi-versioning
+learning_outcomes:
+- Install a database architecture.
+- Manage and modify the file system.
+- Manage and modify the processes.
+- Manage and optimise the memory structures.
+- Manage the locking mechanisms.
+- Appraise appropriate concurrency control mechanisms.
+- Administer the database architecture.
+learning_and_teaching_methods:
+- The students will be introduced to the theory of the module in lectures.
+- The lectures will be interactive and discursive in nature.
+- Some topics will be supported with appropriate case studies and examples.
+- The theory will be applied in a series of practicals that will be problem solving
+  focused and work towards a predefined assignment, all of which is to be completed
+  by the end of the semester.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 4,5,6
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,7
+  main: true
+  name: Final Written Examination
+  weighting: 50
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of the design and development
+  of a database architecture and implement a usable DBMS configuration.'
+- '40%-49%: Be able to interpret and describe key concepts of the design and implementation
+  of a database architecture and implement a usable configuration.'
+- '50%-59%: Ability to discuss key concepts of a database architecture and ability
+  to discover and integrate related knowledge in other disciplines like security and
+  networks.'
+- '60%-69%: Be able to solve problems in regards to Database architecture by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate complex skills and tools.'
+essential_material:
+- 'Kyte, T. and T. Kuhn. _Expert Oracle Database Architecture_. 2nd. New York: Appress,
+  2014.'
+supplementary_material: []
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

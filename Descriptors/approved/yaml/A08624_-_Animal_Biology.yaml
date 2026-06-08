@@ -1,0 +1,139 @@
+reference: A08624
+full_title: Animal Biology
+short_title: Animal Biology
+credits: 5
+level: Introductory
+author: VNYHAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Agriculture
+aim: This module is designed to equip students with a introductory understanding of
+  animal physiology, including the structure and function of the animal cell, various
+  animal organs and systems. Students will learn about the primary meat cuts and how
+  to guarantee high quality meat post-slaughter. The student will also gain an insight
+  into the basic properties of feed nutrients and associated nutritional-related disorders,
+  and will examine the foremost animal feeds used in the main agricultural enterprises
+  in Ireland. The module also explores the basics of microbiology. The student will
+  learn to operate safely in a laboratory, performing dissection-based explorations
+  of animal anatomy.
+programmes:
+- timetable: BIOL-0019
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 1
+  semester: 2
+  status: M
+- timetable: BIOL-0019
+  code: WD_SAGUL_D
+  name: Bachelor of Science in Agriculture
+  stage: 1
+  semester: 2
+  status: M
+- timetable: BIOL-0019
+  code: WD_SAGUL_D
+  name: Bachelor of Science in Agriculture
+  stage: 2
+  semester: 4
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Animal physiology: structure and function of animal cell and main body organs,
+  e.g. heart, lungs, kidneys, liver, immune system'
+- 'Living processes in animals: monogastric and ruminant digestive; reproduction;
+  cellular respiration and enzyme activity'
+- 'Meat quality: meat cuts and changes in meat post-slaughter'
+- 'Animal nutrition: common foods and classification; food analysis tables; energy
+  and protein requirements; diseases and disorders associated with animal nutrition'
+- 'Microbiology: characteristics of microorganisms; role of microorganisms in causing
+  disease and in food production'
+learning_outcomes:
+- Explain the structure and function of the animal cell, cell organelles, the heart,
+  lungs, liver, kidney and relate to animal health.
+- Describe the structure and function of the male and female reproductive tracts,
+  and discuss animal reproduction.
+- Outline the structure and function of the monogastric and ruminant digestive tract,
+  and relate to the management of animal nutrition.
+- Discuss the basic properties, function of feeds and feed requirements in animals,
+  including diseases and disorders associated with animal diet.
+- Describe the slaughtering process and outline the factors that influence the quality
+  of meat post-slaughter.
+- Discuss how enzymes function and explain cellular respiration.
+- Describe microorganisms and discuss microbiology as it relates to agriculture and
+  food production.
+- Operate safely in a laboratory and perform basic laboratory experiments with animal
+  tissues and maintain appropriate records of lab activities.
+learning_and_teaching_methods:
+- Lectures.
+- Laboratory dissections of animal organs.
+- Laboratory demonstrations of different feed types.
+- Video/CD presentations.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6,7
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: '8'
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inadequate understanding of the fundamentals of the learning outcomes and
+  insufficient competence in animal biology.'
+- '40%-49%: Ability to show a basic knowledge of the key learning outcomes including
+  animal physiology and living processes, as well as be able to perform simple laboratory
+  experiments with animals.'
+- '50%-59%: As well as the above the student will be able to demonstrate an understanding
+  of some of the complexities of the topics, and predict nutrition requirements of
+  the animal and potential nutritional disorders. The student will also be able to
+  perform good quality experiments with animal tissues.'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of the
+  all topics and demonstrate an ability to apply detailed knowledge acquired in the
+  module to new material. The student will also be able to perform very good quality
+  experiments with animal tissues .'
+- '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
+  of all learning outcomes, predict nutrition requirements of the animal and potential
+  nutritional disorders and show the ability to evaluate and relate topics that overlap
+  all of the learning outcomes. The student will also be able to perform high quality
+  experiments with animal tissues.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material: []
+supplementary_material:
+- '"Animal Health Ireland." http://www.animalhealthireland.ie/'
+- 'Blowey , R.W. _A veterinary book for dairy farmers_. Sheffield: 5m publishing,
+  1999.'
+- 'Mc Mangle , et al. _Introduction to farm animals_. Piltown: Teagasc, 2008.'
+- 'McDonald, P., R.A. Edwards, J.F.D. Greenhalgh and C.A. Morgan. _Animal nutrition_
+  . 6 Edition. Essex: Prentice Hall, 2002.'
+- 'Roberts, M.B.V. _Biology -A Functional Approach_. 4th ed. Surrey, UK: Nelson, 1986.'
+- 'Soffe, R.J (editor). _the agricultural notebook_. 20th ed.. Oxford: Blackwell publishing,
+  2003.'
+- 'Tortora, G.J., B.R. Funke and C.L. Case. _Microbiology -An introduction_. 5th ed.
+  New York: Benjamin/Cummings, 1995.'
+requested_resources:
+- 'Room Type: Biology Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,136 @@
+reference: A13664
+full_title: Website Development 2
+short_title: Website Development 2
+credits: 5
+level: Introductory
+author: MLYNG
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Software and Web Development
+aim: In this module, the student will develop the core technical skills necessary
+  for a complete understanding of client side web development. This module will examine
+  the concepts involved in front-end user interface design and client side scripting.
+  The module will focus on the development of dynamic interactive client side web
+  applications. The use of client side frameworks, client side libraries and plugins
+  will also be examined.
+programmes:
+- timetable: COMP-0594
+  code: WD_KCOMC_D
+  name: Bachelor of Science in Software Systems Development
+  stage: 1
+  semester: 2
+  status: M
+- timetable: COMP-0594
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0594
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0594
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 1
+  semester: 2
+  status: M
+- timetable: COMP-0594
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 1
+  semester: 2
+  status: M
+- timetable: COMP-0594
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Basic Scripting: Variables; Functions; Conditions; Loops and Repetition; Arrays'
+- 'The Document Object Model: Nodes; Manipulation; Scripting; Event Handling'
+- Storing and transporting data with JavaScript Object Notation (JSON)
+- Use of libraries and plugins
+- Forms Enhancements and Validation
+- Role of Client Web Frameworks & Cascading Style Sheets (CSS) meta languages
+- Client side routing
+- 'Dynamic Web: Combining Content; Presentation; and Behaviour'
+learning_outcomes:
+- Plan and construct dynamic websites incorporating client side scripts.
+- Construct dynamic interactive websites that support user interaction, feedback,
+  and validation.
+- Use client side libraries and plugins in the design of dynamic websites.
+- Apply a client web framework in the design of interactive websites.
+- Employ the client side components in a web application.
+learning_and_teaching_methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 12
+- full_time: 36
+  name: Practical
+  part_time: 12
+- full_time: 75
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5
+  main: false
+  name: Assignment
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: Portfolio
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of dynamic client side application
+  development.'
+- '40%-49%: Be able to interpret and describe key concepts of dynamic client side
+  application development.'
+- '50%-59%: Ability to discuss key concepts of dynamic client side application development
+  and ability to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve dynamic client side application development problems
+  by experimenting with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material: []
+supplementary_material:
+- '"Tutorialspoint." http://www.tutorialspoint.com'
+- '"w3schools." http://www.w3schools.com'
+- 'McFarland, D. _JavaScript & jQuery:The Missing Manual_. 3rd.. California: O''Reilly
+  Media, 2014.'
+- 'Pehlivanian, A. and D. Nguyen. _Jump Start JavaScript_. Melbourne: Sitepoint, 2013.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

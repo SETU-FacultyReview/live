@@ -1,0 +1,111 @@
+reference: A06317
+full_title: Bioanalytical Methods for the Food Industry
+short_title: Bioanalytical Methods Food Ind
+credits: 5
+level: Introductory
+author: LCOFFEY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Food Science
+aim: This module aims to provide an understanding of techniques required in undertaking
+  detailed analysis of food ingredients, processes and products, with a focus on food
+  safety.
+programmes:
+- timetable: BIOL-0025
+  code: WD_SFDSC_D
+  name: Bachelor of Science in Food Science with Business
+  stage: 2
+  semester: 4
+  status: M
+- timetable: BIOL-0025
+  code: WD_SFSIN_B
+  name: BSc (Hons) in Food Science and Innovation
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Traditional microbiological methods for the analysis of food ingredients, processes
+  and products
+- Rapid microbiological and immunological methods for the identification of food borne
+  pathogens/indicator organisms; this will include giving examples and explaining
+  the principles behind chromogenic media
+- The principles and applications of ELISA-based assays for relevant testing
+- The use of enzymes in food production/analysis
+- Rapid hygiene testing methods relevant to the food industry
+- Methods for food allergen analysis in food
+- The concept of genetically modified foods; their applications, potential and their
+  detection
+- PCR as a DNA-based testing method relevant to the food industry
+learning_outcomes:
+- Compare and contrast traditional microbiological methods of food analysis with modern
+  rapid kits, techniques and media.
+- Identify and apply the appropriate modern bioanalytical technique/kit for the chosen
+  substance/parameter.
+- Describe the various bioanalytical methods available for relevant testing such as
+  hygiene, allergen and pathogen detection from foods/food associated surfaces.
+- Describe the principles of ELISA and select the appropriate format for the relevant
+  sample.
+- Describe the concept of GM foods and the associated issues.
+- Identify the basis of a DNA-based testing method relevant to the food industry.
+- Demonstrate proficiency in practical work focused on indicative content.
+learning_and_teaching_methods:
+- Lectures.
+- Self-directed study.
+- Laboratory-based practicals.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Lab
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: '7'
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very little understanding of techniques covered.'
+- '40%-49%: Has a basic understanding of techniques covered.'
+- '50%-59%: Good knowledge of methods and has the ability to perform such methods
+  in a laboratory setting.'
+- '60%-69%: Good knowledge of methods and has the ability to perform such methods
+  in a laboratory setting, also understands the principles behind such bioanalytical
+  methods with the potential to troubleshoot.'
+- '70%-100%: Displays an in-depth knowledge of all relevant current bioanalytical
+  techniques and displays excellent ability in identifying the most appropriate technique,
+  also performing lab experiments designed with such bioanalytical tools.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Shaw, I. _Food Safety: The science of keeping food safe_. UK: Wiley Blackwell,
+  2013.'
+supplementary_material:
+- 'D''Mello, J.P. _Food Safety: contaminants and toxins_. Cambridge, MA: Oxford, 2003.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'Room Type: Biology Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+
+

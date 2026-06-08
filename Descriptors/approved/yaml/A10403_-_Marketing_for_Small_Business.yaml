@@ -1,0 +1,92 @@
+reference: A10403
+full_title: Marketing for Small Business
+short_title: Marketing for Small Business
+credits: 5
+level: Intermediate
+author: RODOWD
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Business
+aim: The aim of this module is to develop the student's critical appreciation of the
+  principles and practices of marketing agricultural products and services.
+programmes:
+- timetable: MARK-0021
+  code: WD_SAGUL_D
+  name: Bachelor of Science in Agriculture
+  stage: 3
+  semester: 5
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Marketing an Overview: Concepts, Principles and the Small Business Context'
+- The Marketing Environment for agricultural enterprises - Macro & Micro Environmental
+  Forces
+- Market Segmentation; Market Positioning; Target Market Analysis
+- Consumer Buyer Behaviour
+- The Marketing Mix - Product, Pricing, Distribution & Promotional Strategies and
+  Campaigns for Agricultural businesses
+- Branding
+- Services Marketing
+- Market Research for Small businesses
+- Marketing Strategy and Planning
+learning_outcomes:
+- Examine the factors that affect marketing decisions for small agricultural businesses.
+- Analyse the key elements of the marketing mix for agricultural products and services.
+- Examine the process of strategic marketing planning for agricultural businesses.
+- Analyse effective marketing campaigns for agricultural products and services.
+learning_and_teaching_methods:
+- Lectures
+- Case Studies
+- Class Discussions
+- Videos
+- Group workshops
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 5,6
+  main: false
+  name: In-Class Assessment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very little knowledge and understanding of the subject matter. Unable to
+  carry out critical thinking or practical skills'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. May have some problems
+  with critical thinking and problem solving. Adequate practical skills'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject .'
+- '60%-69%: Demonstrate skilled and sound knowledge of the subject matter. Show ability
+  to analyse and logically discuss in an effective way. Good critical thinking and
+  a high level of competence and efficiency in theoretical and practical areas of
+  this subject.'
+- '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
+  of complex material and a highly developed and extensive understanding of the subject'
+essential_material:
+- 'Rogan, D. _Marketing - An Introduction for Students in Ireland_. 4th. Dublin: Gill
+  and Macmillan, 2011.'
+supplementary_material: []
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

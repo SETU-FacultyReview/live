@@ -1,0 +1,116 @@
+reference: A12601
+full_title: Advanced Graphics for Games
+short_title: Advanced Graphics for Games
+credits: 5
+level: Advanced
+author: KMURPHY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Game Development
+aim: Design and construct realistic scenes/effects requiring advanced graphics rendering
+  techniques using OpenGL and the OpenGL Shading Language (GLSL).
+programmes:
+- timetable: GAME-0007
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: GAME-0007
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 8
+  status: E
+- timetable: GAME-0007
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Constructive solid geometry (CSG): constructing objects using primitives and boolean
+  operations, ray tracing CSG models'
+- 'Surface modelling: parametric curves and surfaces, Beziers and NURBS, subdivision
+  surfaces, implicit surfaces and Voronoi diagrams'
+- 'Illumination: ray tracing, global illumination, reflection and refraction rays,
+  optimisation methods for ray tracing, Monte Carlo ray tracing and soft shadows,
+  photon mapping'
+- 'Textures: texture mapping, procedural textures, Perlin noise, normal mapping'
+- 'OpenGL and Shaders: Review of the OpenGL pipeline, programming GPUs, the basics
+  of the OpenGL shader language GLSL, vertex and fragment shaders, memory management
+  and optimisation concerns'
+learning_outcomes:
+- Construct realistic scenes using core technologies of constructive solid geometry,
+  implicit surfaces, illumination technologies and texture mapping.
+- Assess a given geometry to determine properties such as normals, curvature, convex
+  hull, bounding box, etc..
+- Design and implement multi-pass rendering sequences on the GPU.
+- Evaluate the computational cost of a GPU implementation.
+learning_and_teaching_methods:
+- Lectures will be used to present all the relevant theory and concepts that will
+  be used in the supervised labs. Supplementary material will be accessible online.
+- Practical exercises will provide students with an opportunity to develop a range
+  of technical competencies relating to creating graphical effects using industry
+  standard development tools, technologies and techniques.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to demonstrate knowledge or understanding of the concepts outlined
+  in the syllabus content, inability to apply concepts to selected problems.'
+- '40%-49%: Able to demonstrate a basic understanding of the fundamental concepts
+  outlined in syllabus content.'
+- '50%-59%: In addition to above, able to evaluate own code for significant performance
+  and resource bottlenecks.'
+- '60%-69%: All of the above, in addition implement all required features consistently
+  well.'
+- '70%-100%: All previous to an excellent level. Implement additional features or
+  uses techniques not directly presented in class.'
+essential_material: []
+supplementary_material:
+- 'Angel, E. and D. Shreiner. _Interactive Computer Graphics: A Top-Down Approach
+  with Shader-Based OpenGL_. 6. USA: Pearson, 2011.'
+- 'Hearn, D. _Computer Graphics with OpenGL_. NY: Pearson, 2004.'
+- 'Shreiner, D., G. Sellers, J. Kessenich and B. Licea-Kane. _OpenGL Programming Guide:
+  The Official Guide to Learning OpenGL_. 8. USA: Addison-Wesley Professional, 2013.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

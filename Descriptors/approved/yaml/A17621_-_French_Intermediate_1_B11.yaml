@@ -1,0 +1,201 @@
+reference: A17621
+full_title: French Intermediate 1 (B1.1)
+short_title: French Intermediate 1 (B1.1)
+credits: 5
+level: Introductory
+author: AFURLONG
+history_comment: ''
+school: Science and Computing
+department: Law and Criminal Justice Studies
+cluster: Humanities
+aim: To facilitate students' language learning to meet an Intermediate level commensurate
+  with CEFR B1.1.
+programmes:
+- timetable: FREN-0001
+  code: WD_BBUSI_B
+  name: Bachelor of Business (Honours)
+  stage: 1
+  semester: 1
+  status: E
+- timetable: FREN-0003
+  code: WD_BINTB_B
+  name: Bachelor of Arts (Honours) in International Business
+  stage: 1
+  semester: 1
+  status: E
+- timetable: ''
+  code: WD_CCONM_B
+  name: Bachelor of Science (Honours) in Construction Management and Engineering
+  stage: 2
+  semester: 3
+  status: E
+- timetable: ''
+  code: WD_CQTSU_B
+  name: Bachelor of Science (Honours) in Quantity Surveying
+  stage: 2
+  semester: 3
+  status: E
+- timetable: ''
+  code: WD_ECIVE_D
+  name: Bachelor of Engineering in Civil Engineering
+  stage: 2
+  semester: 3
+  status: E
+- timetable: FREN-0017
+  code: WD_HARTS_B
+  name: Bachelor of Arts (Honours)
+  stage: 1
+  semester: 1
+  status: E
+- timetable: ''
+  code: WD_HCULA_B
+  name: Bachelor of Arts (Honours) in Culinary Arts
+  stage: 1
+  semester: 1
+  status: E
+- timetable: ''
+  code: WD_HPSYC_B
+  name: Bachelor of Arts (Honours) in Psychology
+  stage: 1
+  semester: 1
+  status: E
+- timetable: ''
+  code: WD_HPSYI_B
+  name: Bachelor of Arts (Honours) in Psychology with Arts (International)
+  stage: 1
+  semester: 1
+  status: E
+- timetable: ''
+  code: WD_HTOMA_B
+  name: Bachelor of Arts (Honours) in Tourism Management
+  stage: 1
+  semester: 1
+  status: E
+- timetable: FREN-0069
+  code: WD_KCOMC_D
+  name: BSc in Software Systems Development
+  stage: 2
+  semester: 3
+  status: E
+- timetable: FREN-0017
+  code: WD_KCSDV_B
+  name: Bachelor of Science (Honours) in Software Systems Development
+  stage: 2
+  semester: 3
+  status: E
+- timetable: FREN-0069
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 2
+  semester: 3
+  status: E
+- timetable: ''
+  code: WD_OHOSM_B
+  name: Bachelor of Arts (Honours) in Hospitality Management
+  stage: 1
+  semester: 1
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- "A compendium of language exercises and tasks from the prescribed textbook Savoir-faire\
+  \ - Le fran\xE7ais a' l'universite'."
+- 'Contexts / themes that may be used to achieve the learning outcomes for this level
+  may include the following:'
+- Curriculum vitae
+- Psychological description of people
+- France in French cinema
+- Education and college education
+- Conditional present, forming hypothesis/es
+- Reflexive verbs (present)
+- Direct and indirect personal pronouns
+- 'Expression of the past: perfect and imperfect'
+- Comphrehension using literary extracts
+- "Parlons fran\xE7ais, c'est facile (web docs)"
+- Feminine adjectives
+learning_outcomes:
+- 'Speaking: Converse spontaneously by exchanging information and expressing opinions
+  on familiar topics through clear articulation.'
+- 'Writing: Write more complex accounts of experiences as well as personal texts.'
+- 'Listening: Display evidence of understanding of general points and some specific
+  details about common and topics related to the content of the module. Identify the
+  main points in media clips which relate to the content.'
+- 'Reading: Identify the main themes and some detail in written texts on familiar
+  and unfamiliar topics in known genres. Deduce meaning of unknown words and phrases
+  from context and familiarity with the topic.'
+learning_and_teaching_methods:
+- Interactive seminars, variety of media (traditional print, audio and video materials,
+  online language learning resources and may also include:Tandem Learning, Content
+  & Language Integrated Learning, Self-directed learning, Blended learning, European
+  Language Portfolio, Transferable skills, Online learning resources)
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 2,3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 35
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 35
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,3
+  main: false
+  name: Oral Examination
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '> 70%: The student has demonstrated the ability to understand, produce, apply and
+  manipulate the specified language areas at a proficient level. The student has evidenced
+  a high degree of consistency and accuracy across the skills areas.'
+- '60-69%: The student has demonstrated the ability to understand, produce, apply
+  and manipulate the specified language areas at a competent level. The student has
+  evidenced consistency and accuracy across the skills areas.'
+- '50-59%: The student has demonstrated the ability to understand, produce, apply
+  and manipulate the specified language areas at a functional level. The student has
+  evidenced some consistency and accuracy, but has also evidenced some imbalance across
+  the skills areas.'
+- '40-49%: The student has demonstrated the ability to understand, produce, apply
+  and manipulate the specified language areas at a basic level. Only when presented
+  with tasks that are highly structured in nature or when the knowledge is isolated
+  has the student evidenced any consistency or accuracy. Significant imbalance is
+  evident across the skills areas.'
+- '< 40%: The student has not demonstrated the ability to understand, produce, apply
+  or manipulate the language at even a basic level in the skills areas.'
+essential_material:
+- "\"Parlons fran\xE7ais, c'est facile.\" http://parlons-francais.tv5monde.com/webdocumentaires-pour-apprendre-le-francais/p-1-lg0-Accueil.htm"
+- '"websites." www.figaro.fr'
+- '"websites." www.french.about.com'
+- '"websites." www.lemonde.fr'
+- '"websites." www.leparisien.fr'
+- "Anjelvin, G. _Savoir-faire. Le fran\xE7ais \\`a l'universit\\'e_ . London: Routledge,\
+  \ 2009."
+- "Blondeau, N. and F. Allouache. _Litt\\'erature progressive du fran\xE7ais. Niveau\
+  \ interm\\'ediaire._. Paris: Cl\\'e, 2003."
+- 'Coffman Crocker, M.E. _Schaum''s Outline of French Grammar_. New York: McGraw Hill,
+  2014.'
+- 'Jubb, M. and A. Rouxeville. _French Grammar in Context_. London: Arnold, 2003.'
+supplementary_material:
+- '"L''\''etudiant.fr." www.letudiant.fr'
+- '"Le point du FLE." www.lepointdufle.net.fr'
+- '"TV5 Monde." http://www.tv5monde.com/'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,120 @@
+reference: A13622
+full_title: Computer Systems (ICT Skills)
+short_title: Computer Systems (ICT Skills)
+credits: 5
+level: Advanced
+author: DPOWER
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Networks and Cloud
+aim: 'The focus of this module will be on five components: computer architecture,
+  memory management, process management, file system management and virtualisation.
+  The student will be given hands-on experience in installing and configuring contemporary
+  operating systems and application services with an emphasis on the Linux environment,
+  including use of the command line interface and writing scripts.'
+programmes:
+- timetable: COMP-0518
+  code: WD_KCOSC_G
+  name: Higher Diploma in Science in Computer Science
+  stage: 4
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Translation and calculation in the following number bases: Binary, octal, decimal,
+  hexadecimal. Mod arithmetic'
+- 'Boolean Algebra: Basic logic & truth tables'
+- Computer System Architecture -- CPU, memory, storage
+- Data Representation
+- 'Operating system structure: Components, services and utilities'
+- 'Process Management: Data structures, concurrency, threads, scheduling, synchronization'
+- 'File management: File-system utilities, file system implementation, case studies'
+- 'Memory management: Paging, segmentation, virtual memory'
+- Scripting
+- Virtualisation
+learning_outcomes:
+- Calculate operatons in binary, octal, decimal and hexadecimal number bases.
+- Apply the basics of Boolean Logic.
+- Describe how the components of a computer system operate together.
+- Demonstrate the relationship between high-level software, low-level programming
+  and hardware.
+- 'Evaluate the memory, process and file management components of a modern operating
+  system with regard to: Operation principles, data structure requirements and algorithms
+  used.'
+- Explain the concepts and theory of virtualisation and in particular how this relates
+  to operating systems management and development.
+- Setup and confirgure some contemporary operating systems (within a virtual PC environment),
+  and configure the services necessary to support basic applications.
+- Demonstrate competency with a limited set of the utilities (e.g. file management)
+  provided by a contemporary operating system.
+learning_and_teaching_methods:
+- This module will be delivered using a combination of lectures and practical laboratory
+  work.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practicals will focus on developing the practical skills of the student using
+  simulation exercises.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 4,7,8
+  main: false
+  name: Practical
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,7,8
+  main: false
+  name: Practical
+  weighting: 25
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Cannot represent the conceptual design of the system components presented
+  in class or explain operation principles at a basic level.'
+- '40%-49%: Knows the role of each component addressed by the learning outcomes and
+  can represent their conceptual design, supported with a basic narrative description
+  of the operation principles.'
+- '50%-59%: As well as a clear understanding of the components'' operation principles,
+  can describe some of the design alternatives covered in the lectures, showing awareness
+  for some of their strengths and weaknesses.'
+- '60%-69%: Can demonstrate a comprehensive understanding of the material covered
+  in the lectures.'
+- '70%-100%: Excellent understanding of the presented material and displays value
+  added knowledge as a result of independent learning.'
+essential_material: []
+supplementary_material:
+- '"Association for Computing Machinery." http:/www.acm.org'
+- '"Institute of Electrical and Electronics Engineers." http://www.ieee.org'
+- 'Dale, N. and J. Lewis. _Computer Science Illuminated_. 6th ed. MA. USA: Jones &
+  Bartlett Learning, 2016.'
+- 'Garrido, J.M., R. Schlesinger and K. Hoganson. _Principles of Modern Operati__ng
+  Systems_. 2nd ed. MA. USA: Jones & Bartlett Learning, 2013.'
+- 'Silberschatz, A., P.B. Galvin and G. Gagne. _Operating System Concepts with Java_.
+  8th ed. NJ. USA: John Wiley & Sons, 2010.'
+- 'Stallings, W. _Operating Systems: Internals and Design Principles_. 8th ed. NY.
+  USA: Pearson, 2014.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

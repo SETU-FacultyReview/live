@@ -1,0 +1,107 @@
+reference: A13487
+full_title: Computer Networks (ICT Skills)
+short_title: Computer Networks (ICT Skills)
+credits: 5
+level: Advanced
+author: LBWHITE
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Networks and Cloud
+aim: This module introduces data communications terminology and concepts, network
+  protocols and models. Students will use protocol analysis software to explore various
+  network protocol operations. An examination of TCP/IP, IP addressing and Ethernet
+  is presented as well as a brief introduction to Routing and Wireless LANs. Practical
+  skills are an essential part of this module.
+programmes:
+- timetable: COMP-0519
+  code: WD_KCOSC_G
+  name: Higher Diploma in Science in Computer Science
+  stage: 4
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Introduction to Computer Networks and Protocols
+- OSI and TCP/IP models
+- Ethernet
+- Network Layer Protocols and Functionality
+- IP Addressing and subnetting
+- Routing
+- Transport Layer Protocols and Functionality
+- Application Layer Protocols and Functionality e.g. HTTP, FTP, DNS, SMTP
+- Wireless LANs
+learning_outcomes:
+- Compare network protocol models to explain the layers of communications in data
+  networks.
+- Evaluate the major components, operation and functionality of a computer network
+  and commonly used protocols and services.
+- Design, calculate and apply subnet masks and addresses.
+- Build a simple Ethernet network using routers and switches.
+- Configure routers and switches using command line interface.
+- Determine the operations and features of network protocols and services using protocol
+  inspection software.
+- Implement a basic wireless network.
+learning_and_teaching_methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures.
+- The continuous assessment will require the student to apply the theory and practical
+  knowledge to a business solution.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 3,4,5,6,7
+  main: false
+  name: In-Class Assessment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to describe the major functions and operation of a Computer Network.
+  Unable to describe and compare the OSI and TCP/IP models. Poor understanding of
+  role of communications protocols in computer networks.'
+- '40%-49%: Can describe and compare the OSI and TCP/IP models. Can provide overview
+  of main computer network components and protocols.'
+- '50%-59%: All of the above. Can describe in detail the data encapsulation process.
+  Demonstrate an understanding of basic LAN implementation.'
+- '60%-69%: In addition, be able to recommend a network solution given an organisations''
+  requirements.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material: []
+supplementary_material:
+- '"Association for Computing Machinery." http://www.acm.org'
+- '"Cisco." http://www.cisco.com/web/learning/netacad/index.html'
+- '"IEEE Communications Society." http://www.comsoc.org'
+- '"IEEE Computer Society." http://www.computer.org'
+- 'Dye, M., R. McDonald and A. Rufi. _Network Fundamentals: CCNA Exploration Companion
+  Guide (Cisco Networking Academy)_. New York: Cisco Press, 2011.'
+- 'Tanenbaum, A. _Computer Networks_. 4th Ed.. New York: Prentice Hall, 2002.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

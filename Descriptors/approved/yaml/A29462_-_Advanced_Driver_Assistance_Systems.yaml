@@ -1,0 +1,125 @@
+reference: A29462
+full_title: Advanced Driver Assistance Systems
+short_title: Adv. Driver Assistance Systems
+credits: 5
+level: Advanced
+author: EREADE
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Automotive, Automation and IoT
+aim: Advanced Driver Assistance Systems (ADAS) assist and complement drivers in the
+  safe and effective control of vehicles. In this module, students will use the industry-standard
+  tools and technologies required to develop ADAS applications using vision/camera
+  systems, sensor technology, in-vehicle data networks, and Vehicle-to-Vehicle (V2V)
+  technology. Furthermore, students will learn how to model and simulate ADAS systems.
+programmes:
+- timetable: COMP-0568
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 7
+  status: E
+- timetable: COMP-0568
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 7
+  status: E
+- timetable: COMP-0568
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 7
+  status: E
+- timetable: COMP-0568
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 4
+  semester: 7
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'The evolution of driver assistance systems: Overview; motivation; history; categorisation'
+- Vehicle Stability Systems
+- Vehicle Control Systems
+- 'Optical and radar based systems: Object and collision detection; Lane departure
+  warning; emergency brake assist, traffic sign recognition'
+- 'Automated Driver Assistance Technology and Applications: Parking assistance; driverless
+  car technology; driver behaviour monitoring'
+- 'Vehicle to Vehicle communication and applications: V2V technologies; Early warning
+  applications; VANETs (Vehicular Ad Hoc Networks) based applications'
+learning_outcomes:
+- Appraise the characteristics, motivations and applications of ADAS.
+- Evaluate, model, and simulate stability and control systems used in modern vehicles.
+- Develop in-vehicle and external optical based applications for driver assistance.
+- Integrate driver assistance application with existing in-car communication networks
+  and applications.
+- Develop and implement driver assistance applications that use Vehicle-to-Vehicle(V2V)
+  technologies.
+- Use industry-standard network and application development tools.
+learning_and_teaching_methods:
+- Combination of lectures and lab-based practicals.
+- The lectures will cover the theory and underlying technologies behind ADAS systems.
+- The lab-based practicals, building on the theoretical knowledge from lectures, provide
+  the practical skills to design, model, simulate and implement ADAS.
+- The practical content will use automotive industry standard technologies and tools
+  to design, model and implement ADAS systems.
+- Student will be encouraged to enhance their lab work and assessment submissions
+  using self-directed research and learning into state-of-the-art ADAS systems.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 2,3,4,5
+  main: false
+  name: Lab Report
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,6
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5,6
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- <40%:Unable to interpret and appraise key characteristics and motivation for ADAS
+  systems. Unable to design and simulate a basic ADAS solution.
+- 40%-49%:Be able to interpret and appraise key ADAS technologies. Be able to design
+  and simulate a basic ADAS solution.
+- 50%-59%:In addition, be to design and implement a multi-modal ADAS solution. Able
+  to appraise, with sufficient knowledge, the relative merits of ADAS technologies
+  and solutions.
+- 60%-69%:In addition, design and simulate complex ADAS solutions that incorporate
+  Vehicle to Vehicle, optical and in-vehicle communication networks.
+- '70%-100%: In addition to the above , combine self-directed research of state-of-the-art
+  ADAS systems in assessment work. Exhibit the ability to solve unforeseen problems
+  through the use and modification of self-learned skills and tools.'
+essential_material: []
+supplementary_material: []
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

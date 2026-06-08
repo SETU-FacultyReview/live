@@ -1,0 +1,146 @@
+reference: A11491
+full_title: Statistics for Scientists
+short_title: Statistics for Scientists
+credits: 5
+level: Introductory
+author: ADALYWALSH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: This module introduces the student to some fundamental statistical concepts,
+  to probability and sampling mechanisms as well as basic methods in descriptive and
+  inferential statistics and regression.
+programmes:
+- timetable: SCIE-0015
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 2
+  semester: 3
+  status: M
+- timetable: SCIE-0015
+  code: WD_SFDSC_D
+  name: Bachelor of Science in Food Science with Business
+  stage: 2
+  semester: 3
+  status: M
+- timetable: SCIE-0015
+  code: WD_SFSIN_B
+  name: BSc (Hons) in Food Science and Innovation
+  stage: 2
+  semester: 3
+  status: M
+- timetable: SCIE-0015
+  code: WD_SMBIO_B
+  name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
+    Science
+  stage: 2
+  semester: 3
+  status: M
+- timetable: SCIE-0015
+  code: WD_SMBIO_D
+  name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
+  stage: 2
+  semester: 3
+  status: M
+- timetable: SCIE-0015
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 2
+  semester: 3
+  status: M
+- timetable: SCIE-0015
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Introduction to statistics: types of variables (scale, nominal, ordinal); predictor
+  versus response and observational versus experimental variables; descriptive and
+  inferential statistics; population and sample; introduction to probability'
+- 'Sampling: probability versus non-probability; simple random; stratified; cluster;
+  systematic; convenience etc., randomising the run order of experiments.'
+- 'Descriptive statistics: statistics measuring centre (mean, median, mode) and spread
+  (standard deviation, quartiles); charts for categorical data (bar charts, pie charts)
+  and scale data (histogram, stem and leaf plot, boxplot); analysis of outliers'
+- 'Normal distribution: calculating probabilities and quartiles; verifying normality-probability
+  plots; other distributions'
+- 'Statistical Inference: null and alternative hypothesis; p-values; confidence intervals
+  for means; t-tests; two sample paired and independent and ratio of variances; interpreting
+  ANOVA table'
+- 'Linear regression: parameter estimation using graphical and analytical methods;
+  correlation coefficient; prediction; interpolation and extrapolation'
+- 'Using a suitable software application such as Minitab or MS Excel: selecting appropriate
+  methods correctly; interpreting output meaningfully'
+learning_outcomes:
+- Describe and summarize the nomenclature and classifications of introductory statistics.
+- Interpret appropriate descriptive statistics constructs and graphs to summarize
+  variables of different types.
+- Discuss methods of sampling.
+- Compute using a calculator and tables, tests of statistical significance and interpret
+  the analysis.
+- Apply and appraise regression models.
+- Determine the goodness of fit of the normal distribution model to sample data.
+- Calculate elementary statistical analysis and interpret the output using industrial
+  standard statistical software (e.g. Minitab).
+learning_and_teaching_methods:
+- Lectures.
+- In class exercises.
+- Discussion.
+- Self-directed learning is emphasized. Students are supported with notes, online
+  material and feedback.
+- Practicals using statistical software supports the learning experience.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: '7'
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of descriptive and inferential statistics
+  and regression.'
+- '40%-49%: Demonstrate a limited knowledge of descriptive and inferential statistics
+  and regression..'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within descriptive
+  and inferential statistics and regression.'
+- '60%-69%: Demonstrate sound knowledge of descriptive and inferential statistics
+  and regression. Show ability to analyse and logically argue in an effective and
+  mature style.'
+- '70%-100%: Demonstrate authoritative handling of complex material and provide well
+  focused analysis and convincing arguments on statistics and regression.'
+essential_material: []
+supplementary_material:
+- '"Looking for Info on Statistics." http://www.statsoft.com/textbook/'
+- 'Dukkipati, R.V. _Probability and Statistics: For Scientists and Engineers (__ebook__)_.
+  US: New Academic Science Limited, 2013.'
+- 'Reilly, J. _Applied Statistics (__ebook__)_. Ireland: Statistical Solutions, 2015.'
+- 'Reilly, J. _Understanding Statistics_. Dublin: Folens, 1997.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

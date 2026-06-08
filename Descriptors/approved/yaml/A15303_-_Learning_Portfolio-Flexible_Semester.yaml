@@ -1,0 +1,126 @@
+reference: A15303
+full_title: Learning Portfolio-Flexible Semester
+short_title: Learning Portfolio
+credits: 10
+level: Intermediate
+author: KMURPHY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Professional Skills
+aim: The purpose of the learning portfolio module is to require the student to reflect
+  on and evaluate the experience gained from their chosen flexible semester elective
+  and to outline their personal and professional learning and growth through a portfolio
+  of assignments.
+programmes:
+- timetable: COMP-0662
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0662
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0662
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0662
+  code: WD_KCOMC_D
+  name: Bachelor of Science in Software Systems Development
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0662
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0662
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0662
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0662
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0662
+  code: WD_KINFT_D
+  name: Bachelor of Science in Information Technology
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0662
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 3
+  semester: 5
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- The student will be required to complete a portfolio of assignments as set by the
+  WIT coordinator, using the approved templates. Assignments content will include
+  a set of reflective journals, detailing their work and/or study experience and outlining
+  their personal and professional understanding, learning and growth
+- The portfolio will be submitted to the WIT coordinatoor
+learning_outcomes:
+- Appraise the learning experience resulting from their work and/or study experience.
+- Determine and present personal skills and competencies along with strengths and
+  areas for further growth and development.
+- Demonstrate the principles and practice of reflective learning.
+- Communicate the aims, expectations and objectives of all parites to the placement.
+learning_and_teaching_methods:
+- The student will receive sample assignments and guidance on reflective learning
+  prior to the placement elective module.
+- Review with the work placement co-ordinator and/or academic mentor.
+learning_modes:
+- full_time: 12
+  name: Tutorial
+  part_time: 12
+- full_time: 269
+  name: Independent Learning
+  part_time: 269
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Portfolio
+  weighting: 100
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- 'Fail: Candidate has not successfully completed and submitted the required portfolio
+  of assignments.'
+- 'Pass: Candidate has successfully completed and submitted the required portfolio
+  of assignments.'
+essential_material: []
+supplementary_material:
+- '"Reflective Writing: Principles and Practice. In Teaching Portfolio Practice in
+  Ireland: A Handbook." http://www.tcd.ie/CAPSL/assets/pdf/Teaching_Portfolio_Practice_in_Ireland.pdf'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

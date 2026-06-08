@@ -1,0 +1,108 @@
+reference: A14161
+full_title: Business Intelligence
+short_title: Business Intelligence
+credits: 10
+level: Postgraduate
+author: RBARRY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Database and Analytics
+aim: In this module students will learn about business intelligence (BI) concepts,
+  methods, and processes for decision support and business process improvement. The
+  student will gain an in-depth theoretical understanding of organisation memory,
+  information integration, insight creation, information presentation and business
+  performance management methods. The student will have both a theoretical knowledge
+  of relevant business intelligence concepts, as well as the practical application
+  of tools and experiences of their use.
+programmes:
+- timetable: ''
+  code: WD_KBUSS_MA
+  name: Certificate in Business Intelligence
+  stage: ''
+  semester: ''
+  status: M
+- timetable: BUSS-0057
+  code: WD_KCESS_R
+  name: MSc in Computer Science (Enterprise Software Systems)
+  stage: 1
+  semester: 0
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Conceptual foundations of BI
+- Organisation memory -- relevant technologies for developing and managing structured
+  data
+- Accessing, cleansing and integrating different types of data
+- Information integration -- integration of information from text, web mining and
+  Big Data
+- Insight creation - data mining -- methods and techniques
+- Information presentation -- visual analytics, enterprise reporting and business
+  performance management methods
+- Major ethical and legal issues of BI implementation
+- Explore emerging technologies and trends in BI
+learning_outcomes:
+- Appraise BI concepts, processes and technologies.
+- Produce a plan for the application of BI for decision support and process improvement
+  in a business environment.
+- Assess the concepts, processes and recommended use of organisation memory to store
+  data.
+- Interpret data using data mining, text and web mining techniques.
+- Evaluate and use reporting and visualization tools to visualise data to support
+  and improve decision making.
+- Appraise big data analytics and emerging technologies.
+learning_and_teaching_methods:
+- This module will be presented using a combination of formal lectures and practical
+  classes. Lectures will introduce concepts and an emphasis will be placed on interaction,
+  discussions and in-class exercises.
+- In practical classes, students will engage with BI software and will work on case
+  studies and exercises.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 24
+- full_time: 24
+  name: Lab
+  part_time: 24
+- full_time: 222
+  name: Independent Learning
+  part_time: 222
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5,6
+  main: false
+  name: Project
+  weighting: 100
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of BI.'
+- '40%-59%: Be able to interpret and discuss key concepts of BI and the ability to
+  discover and integrate related knowledge in other data and information system modules.'
+- '60%-69%: Be able to solve problems within BI by experimenting with the appropriate
+  skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material: []
+supplementary_material:
+- '"Teradata University Network." http://www.teradatauniversitynetwork.com/tun/'
+- 'Minelli, M., M. Chambers and A. Dhiraj. _Big Data, Big Analytics: Emerging Business
+  Intelligence and Analytic Trends for Today''s Businesses_. 1st ed.. New York: Wiley,
+  2013.'
+- 'Sabherwal, R. and I. Becerra-Fernandez. _Business Intelligence_. 1st ed.. New York:
+  Willey, 2011.'
+- 'Sharda, R., D. Delen and E. Turban. _Business Intelligence: A Managerial Approach_.
+  3rd ed.. New York: Prentice Hall, 2014.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+
+

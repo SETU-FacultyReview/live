@@ -1,0 +1,109 @@
+reference: A35615
+full_title: Embedded Systems Design Patterns - NUIST
+short_title: Embed Systems Design Patterns (NUIST)
+credits: 5
+level: Postgraduate
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Discipline Specific Technologies
+aim: This module will cover the design and programming of embedded systems. The student
+  will be introduced to the salient components of an embedded system and then more
+  advanced design patterns such as Master/Slave, Distributed and RTOS applications.
+programmes:
+- timetable: EMBS-0001
+  code: WD_EELEN_G
+  name: Postgraduate Diploma in Engineering in Electronic Engineering
+  stage: 1
+  semester: 1
+  status: M
+- timetable: EMBS-0001
+  code: WD_EELEN_R
+  name: Master of Engineering in Electronic Engineering
+  stage: 1
+  semester: 1
+  status: M
+- timetable: ''
+  code: WD_EELEN_RI
+  name: MEng in Electronic Information Systems
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Architecture of Embedded Systems
+- System Expansion
+- Interrupt and exception handlers
+- Test, debug and verify embedded applications
+- Real Time Operating System
+- Web Servers Ethernet and Wireless
+- Subroutines & Parameter Passing
+- Development Tools
+- System Integration
+- Serial & Network Bootstrapping
+learning_outcomes:
+- Design embedded MPU systems with aid of hardware and software development tools.
+- Develop Distributed Multiprocessor and Multitasking systems.
+- Set up a master slave protocol design pattern.
+- Produce Embedded applications using Real Time Operating System Design Pattern.
+- Test, Debug and Verify embedded applications.
+- Manage and maintain embedded software/hardware applications.
+learning_and_teaching_methods:
+- Lectures
+- Project Based Learning
+- Case Studies
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 6
+  name: Tutorial
+  part_time: ''
+- full_time: 105
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,4,5,6
+  main: false
+  name: Case Studies
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,5,6
+  main: false
+  name: Case Studies
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject; achieved
+  an excellent level of the skills required for the subject matter; demonstrated the
+  ability to carry out further investigation and problem solving associated with the
+  subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '40% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- '"mbed." https://developer.mbed.org/'
+- 'CCS, CCS. _CCS C Compiler Manual._. www: CCS, July 2016.'
+supplementary_material: []
+requested_resources:
+- 'ENGINEERING LAB: Electronics'
+mlo_to_po: ''
+track_changes: true
+
+
+

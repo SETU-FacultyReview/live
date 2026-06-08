@@ -1,0 +1,131 @@
+reference: A35616
+full_title: Mathematical Modelling - NUIST
+short_title: Mathematical Modelling (NUIST)
+credits: 5
+level: Postgraduate
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Science and Mathematics
+aim: 'This module is designed to take the student through the mathematical modelling
+  process from specification to modelling and simulation. The focus is on stochastic
+  modelling. Both discrete and continuous systems are treated including: queuing theory,
+  additive white Gaussian noise (AWGN) in digital communications, discrete symbol
+  alphabets. Analytic results for average behaviour are developed and these are investigated
+  through numerical simulations in the mini-project. Associated mathematical ideas
+  such as orthogonality are explored analytically through polynomials where recurrence
+  relations, and weighting factors are involved.'
+programmes:
+- timetable: MSTU-0001
+  code: WD_EELEN_G
+  name: Postgraduate Diploma in Engineering in Electronic Engineering
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MSTU-0001
+  code: WD_EELEN_R
+  name: Master of Engineering in Electronic Engineering
+  stage: 1
+  semester: 1
+  status: M
+- timetable: ''
+  code: WD_EELEN_RI
+  name: MEng in Electronic Information Systems
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Introduction to the modelling process: formulation, implementation, simulation,
+  interpretation and evaluation of results.'
+- 'Stochastic processes and random variables: characterisation - probability density
+  functions, autocorrelation, power spectral density and thermal noise: queuing theory'
+- 'Queuing systems: birth - death processes, M/M/1 queue, differential difference
+  equations, pure birth - Poisson distribution'
+- 'Digital comms: DS-CDMA - effect of multiple users on BER performance, code length,
+  COFDM: simulation in flat and fading channels'
+learning_outcomes:
+- Follow and reproduce simulations for selected problems in electronic engineering.
+- Implement numerical techniques to standard problems and interpret the results.
+- Apply theory to a problem, selecting and implementing an approach, interpreting
+  and adapting to results.
+- Demonstrate modelling & simulation for assignments & mini project.
+learning_and_teaching_methods:
+- Formal lectures will provide the theoretical base for the subject as well as providing
+  and overview of issues that arise in application of theory. Case studies, with subsequent
+  discussion and explanation, together with feedback from suggested reading will support
+  and direct the students in their own personal study. Computer laboratory sessions
+  will be used to demonstrate implementations of methods and provide framework for
+  feedback and assistance on project work.
+- The laboratory sessions consist of a number of computer based practicals to demonstrate
+  the theory.
+- The ability to apply the theory covered in this module to progress from a physical
+  problem, to selecting and implementing an appropriate solution strategy, and ultimately
+  interpreting the results is a fundamental learning objective of this module. The
+  ability is assessed primarily through the practical work.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 6
+  name: Practical
+  part_time: ''
+- full_time: 105
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1, 2, 3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 1, 2, 3, 4
+  main: false
+  name: Project
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1, 2, 3, 4
+  main: false
+  name: In-Class Assessment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject; achieved
+  an excellent level of the skills required for the subject matter; demonstrated the
+  ability to carry out further investigation and problem solving associated with the
+  subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '40% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Connor, F.R. _Noise_. 2nd ed.. London: Edward Arnold, 1982.'
+- 'Kleinrock, L. _Queuing Systems_. New York: Wiley, 1975.'
+supplementary_material:
+- 'Grimmett, G.R. and D.R. Stirzaker. _Probability and Random Processes_. 2nd ed..
+  Oxford: Oxford University Press, 1992.'
+- 'Primak, S. _Stochastic Methods and their Applications to Communications: Stochastic
+  Differential Equations Approach_. New York: Wiley, 2004.'
+- 'Riley, K.F. _Mathematical Methods for Physics and Engineering: A__Compehensive
+  Guide_. Cambridge: Cambridge University Press, 2002.'
+- 'Shannon, C. and W. Weaver. _A mathematical theory of communication_. New York:
+  Univerisity of Illinois/Dover paperback, 1948.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

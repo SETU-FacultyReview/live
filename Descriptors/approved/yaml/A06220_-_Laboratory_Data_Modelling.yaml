@@ -1,0 +1,119 @@
+reference: A06220
+full_title: Laboratory Data Modelling
+short_title: Laboratory Data Modelling
+credits: 5
+level: Intermediate
+author: KGRENNAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: IT
+aim: In this module the student will develop skills to fit linear and non-linear theoretical
+  models to experimental data. This will enable the student to quantitatively analyse
+  a spreadsheet containing a set of data, fit appropriate models to these and evaluate
+  the fit of such models. This module will also build on the fundamentals of descriptive
+  and inferential statistics to analyse laboratory data. These techniques will be
+  used to analyse laboratory data using relevant statistical software.
+programmes:
+- timetable: SCIE-0038
+  code: WD_SMBIO_D
+  name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
+  stage: 3
+  semester: 6
+  status: M
+- timetable: SCIE-0038
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 3
+  semester: 6
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Use of MS Excel's Data Analysis ToolPak to perform linear regression analysis on
+  laboratory data
+- Use of MS Excel's Solver program to perform non-linear regression analysis on laboratory
+  data
+- Techniques to evaluate the quality of fit of linear & non-linear trendlines to data
+- Analysis of the Normal, Binomial and Poisson distributions with respect to analysing
+  laboratory data
+- Inferential statistical testing, including F-tests and t-tests for the validation
+  of laboratory results
+- Design of experiments and ANOVA models including one-way ANOVA and two-way ANOVA
+learning_outcomes:
+- Apply linear & non-linear regression analysis to experimental data sets.
+- Examine the fit of linear & non-linear regression models to experimental data.
+- Develop a critical attitude to experimental data analysis and modelling laboratory
+  data.
+- Apply and interpret a range of statistical tests to laboratory data.
+- Apply and interpret appropriate ANOVA models to laboratory data.
+- Employ a variety of techniques on statistical software packages to analyse laboratory
+  data.
+learning_and_teaching_methods:
+- Lectures.
+- IT practicals.
+learning_modes:
+- full_time: 18
+  name: Lecture
+  part_time: ''
+- full_time: 18
+  name: Practical
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 5,6
+  main: false
+  name: In-Class Assessment
+  weighting: 35
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Assignment
+  weighting: 15
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: No demonstration of an understanding of the fundamentals of the learning
+  outcomes, selection of the correct mathematical models to fit to laboratory data
+  and understanding of statistical techniques.'
+- '40%-49%: Will be able to show a basic knowledge of the key learning outcomes including
+  demonstration of rudimentary modelling skills with respect to fitting appropriate
+  mathematical models and applying statistical tests to data.'
+- '50%-59%: As well as achieving the pass standard, the student will be able to demonstrate
+  an understanding of some of the complexities of the topics and demonstrate fundamental
+  modelling skills with respect to fitting mathematical models and applying statistical
+  tests to laboratory data.'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of the
+  all topics and demonstrate advanced modelling skills with respect to fitting appropriate
+  mathematical models and applying statistical tests to laboratory data.'
+- '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
+  of all learning outcomes, demonstrate superior modelling skills with respect to
+  fitting mathematical models and applying statistical tests to laboratory data.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the theory and practical components of the module. In cases where continuous assessment
+  has a practical component attendance of at least 75% in the practicals is mandatory.
+essential_material:
+- '"Laboratory Data Modelling module Moodle page." http://moodle.wit.ie'
+supplementary_material:
+- 'Montgomery, D. _Introduction to Statistical Quality Control_. 7th ed. USA: Wiley,
+  2012.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

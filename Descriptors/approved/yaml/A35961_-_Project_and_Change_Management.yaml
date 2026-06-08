@@ -1,0 +1,113 @@
+reference: A35961
+full_title: Project and Change Management
+short_title: Project and Change Management
+credits: 5
+level: Advanced
+author: BMCKEOWN
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Professional Skills
+aim: This module aims to provide students with an understanding of project management
+  and change management concepts, tools and techniques. Furthermore, the module will
+  develop students? ability to identify the inherent risks and change management associated
+  with projects and to apply good project management skills.
+programmes:
+- timetable: PROJ-0150
+  code: WD_KBUSY_G
+  name: Higher Diploma in Science in Business Systems Analysis
+  stage: 2
+  semester: 4
+  status: M
+- timetable: ''
+  code: WD_T0018_X
+  name: Higher Diploma in Science in Production Management for Digital Automation
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Nature of projects, project lifecycles and project stages
+- 'Development methodologies: Waterfall; Lean; Kaizen; Agile; Scrum'
+- Organisational influence on projects and project life cycles
+- 'Role and skills of project managers: Leadership; Resource Allocation; HR Implications'
+- Project Planning and Estimation
+- 'Project Execution: reporting and communication'
+- 'Project Completion and Handover: monitoring and control'
+- Change Management tools and techniques
+- Strategic and Environmental drivers of change
+- Understanding and overcoming resistance to change
+learning_outcomes:
+- Justify systems analysis and design project management skills.
+- Evaluate the risks, issues, and critical success factors associated with systems
+  analysis & design and software development projects.
+- Create a project plan, informed by appropriate industry standards and including
+  scope definition, risk assessment, task breakdown, team selection, estimates, communication
+  mechanisms and progress evaluation and reporting using an appropriate project lifecycle.
+- Manage project planning, estimation, monitoring and control, communication and reporting
+  by employing appropriate software.
+- Critique the role of change management in project management.
+learning_and_teaching_methods:
+- The module will be delivered by lectures, practical computer lab lectures, class
+  discussion, case studies and self-directed learning.
+- For online delivery, the lectures and practical's will be a combination of comprehensive
+  rich media instructional content (notes), interactive synchronous video (live webinars/classes)
+  and asynchronous interactive video playback (on-demand).
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 24
+- full_time: 24
+  name: Practical
+  part_time: 24
+- full_time: 87
+  name: Independent Learning
+  part_time: 87
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: Project
+  weighting: 100
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts that relate to Project and
+  Change Management.'
+- '40%-49%: Be able to interpret and describe key concepts that relate to Project
+  and Change Management.'
+- '50%-59%: Ability to discuss key concepts that relate to Project and Change Management
+  and ability to discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems that relate to Project and Change Management
+  by experimenting with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  that relate to Project and Change Management to a high standard for a range of both
+  complex and unforeseen problems through the use and modification of appropriate
+  skills and tools.'
+essential_material:
+- 'Kerzner, H. _Project Management: A Systems Approach to Planning, Scheduling, and
+  Controlling_. 12th ed.. New Jersey: Wiley, 2017.'
+- 'Pinto, J.K. _Project Management: Achieving Competitive Advantage_. 5th ed. New
+  York: Pearson, 2019.'
+- 'Project Management Institute. _Managing Change in Organizations: A Practice Guide_
+  Pennsylvania. 2013.'
+supplementary_material:
+- 'Burke, R. _Project Management Planning and Control Techniques_. 5th ed.. Chichester:
+  Wiley, 2013.'
+- 'Cadle, J. and D. Yeates. _Project Management for Information Systems_. 5th ed.
+  New York: Pearson, 2007.'
+- 'Olson, D. _Introduction to Information Systems: Project Management_. 2nd ed. New
+  York: McGraw-Hill, 2003.'
+- 'Spector, B. _Implementing Organisational Change, Theory & Practice_. 3rd ed. New
+  Jersey: Prentice Hall, 2012.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

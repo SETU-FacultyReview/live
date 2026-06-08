@@ -1,0 +1,111 @@
+reference: A11372
+full_title: MIS and e-Business
+short_title: MIS and e-Business
+credits: 5
+level: Advanced
+author: SRWALSH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Business
+aim: This module will address the concepts and issues of the design and use of information
+  systems. It will address the use of electronic business and information systems
+  to support the operations and management of a modern enterprise. Students will emerge
+  from this module with an understanding of how systems can be utilised to automate
+  a company's internal and external information flow.
+programmes:
+- timetable: BUSI-0005
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 4
+  semester: 7
+  status: E
+- timetable: BUSI-0006
+  code: WD_SBSAG_B
+  name: Bachelor of Science (Honours) in Land Management (in Agriculture)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: BUSI-0006
+  code: WD_SBSHO_B
+  name: Bachelor of Science (Honours) in Land Management (in Horticulture)
+  stage: 1
+  semester: 1
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Understand the flow of information within organisations
+- Understanding of the foundation principles of management information systems
+- Introduction to information systems and how they add value to businesses for competitive
+  advantage
+- Enterprise systems - Enterprise Resource Planning (ERP); Customer Relationship Management
+  (CRM); Supply Chain Management (SCM)
+- Information system development
+- Information security
+learning_outcomes:
+- Assess the importance of information quality within organisations.
+- Interpret the foundation principles of management information systems.
+- Assess how information systems can provide competitive advantage.
+- Critique the role of enterprise systems within an organisation.
+- Comment on the security, privacy and ethical issues surrounding information systems.
+- Produce well designed websites.
+- Evaluate the use of social media technologies in a business context.
+learning_and_teaching_methods:
+- Lectures will be the main delivery mode, supplemented by participative case studies
+  and independent reading on the issues covered in the lecture material. Overall the
+  course will be characterised by student participation in both classroom activities
+  and self-directed learning outside the classroom.
+- Practicals will enable students to design and develop websites and demonstrate the
+  use of social media.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1, 2, 3, 4, 5
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning_outcomes: 6,7
+  main: false
+  name: Practical
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to demonstrate a basic understanding of the fundamental concepts
+  associated with organisational systems theory.'
+- '40%-49%: Able to demonstrate a basic understanding of the fundamental concepts
+  outlined in the content above. Able to attempt to provide solutions to problems
+  without actually finding a complete solution.'
+- '50%-59%: All the above in addition to applying these ideas and approaches to real
+  life problems to a rudimentary level.'
+- '60%-69%: In addition to the above, be able to analyse and resolve problems, and
+  able to express their findings with rigour and precision.'
+- '70%-100%: All the previous to an excellent level. Demonstrated ability to put a
+  solution into a context and assess whether such solutions are meaningful, and adapt
+  analytic approaches where necessary.'
+essential_material: []
+supplementary_material:
+- 'Laudon, J. and K. Laudon. _Management Information Systems: Managing the Digital
+  Firm_. 15th ed. NJ, USA.: Pearson, 2016.'
+- 'O''Brien, J. and G. Marakas. _Introduction to Information Systems_. 16th ed. USA:
+  McGraw Hill, 2015.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

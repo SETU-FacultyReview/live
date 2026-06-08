@@ -1,0 +1,162 @@
+reference: A09941
+full_title: Introduction to Psychology
+short_title: Intro to Psychology
+credits: 5
+level: Introductory
+author: JBDORAN
+history_comment: ''
+school: Science and Computing
+department: Applied Arts
+cluster: Humanities
+aim: 'This module aims to: Develop an appreciation of how psychology can be used to
+  understand human behaviour. It will introduce students to the main theories, concepts
+  and ideas used within psychology and provide an overview of the different areas
+  of psychology and their relationship to human behaviour.'
+programmes:
+- timetable: PSYC-0103
+  code: WD_HARTI_B
+  name: Bachelor of Arts (Honours) International
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PSYC-0103
+  code: WD_HARTS_B
+  name: Bachelor of Arts (Honours)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PSYC-0121
+  code: WD_HCRJU_B
+  name: Bachelor of Arts (Honours) in Criminal Justice Studies
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PSYC-0118
+  code: WD_HECHS_B
+  name: Bachelor of Arts (Honours) in Early Childhood Studies
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PSYC-0103
+  code: WD_HPSYC_B
+  name: Bachelor of Arts (Honours) in Psychology
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PSYC-0103
+  code: WD_HPSYI_B
+  name: Bachelor of Arts (Honours) in Psychology with Arts (International)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PSYC-0127
+  code: WD_HSOSC_B
+  name: Bachelor of Arts (Honours) in Social Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PSYC-0103
+  code: WD_KCOMC_D
+  name: BSc in Software Systems Development
+  stage: 2
+  semester: 3
+  status: E
+- timetable: PSYC-0065
+  code: WD_KCSDV_B
+  name: Bachelor of Science (Honours) in Software Systems Development
+  stage: 2
+  semester: 1
+  status: E
+- timetable: PSYC-0103
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 2
+  semester: 3
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Introduction and Overview
+- Psychological Perspectives
+- Sensation and Perception
+- Motivation and Emotion
+- Learning and Memory
+- States of Consciousness
+- Sexuality and Gender
+- Personality
+- Intelligence
+- Current Controversies and Debates in Psychology
+- Conclusion/Recap
+learning_outcomes:
+- Recognise how the science and discipline of psychology can be used to understand
+  human behaviour.
+- Explain the factors which influence human behaviour.
+- Differentiate the key areas of psychology and their relationship to human behaviour.
+- Examine the contributions of psychological theories to understanding human behaviour.
+learning_and_teaching_methods:
+- A two-hour lecture and a one-hour tutorial per week.
+- Tutorial/seminar work encompasses small group meetings that function to revise the
+  lecture material. Additional resources/ audio/ video materials are utilised within
+  the tutorial hours.
+- Students engage in exercises/ quizzes relating to the lecture material of the previous
+  week.
+- Students are introduced to current research applications of the theoretical concepts/
+  students are encouraged to participate in small group exercises relating to identifying
+  research ideas for example identifying research questions/variables and engaging
+  in searching for psychological research across various media through library searches
+  both online and off line.
+- Tutorials introduce students to the academic environment and basic research skills.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Tutorial
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 100
+assessment_criteria:
+- Fail (0-39) Fails to address the question, key issues, and concepts. Poor writing
+  and organisation; Evidence that basic material is misunderstood.
+- Pass (40-49) Limited consideration of main points and concepts addressed; Direct
+  attempt at the question but some context lacking. Some understanding of how to structure
+  and presentation of ideas; Limited evidence of the relevant texts and literature.
+- 50--59 (2.2) A satisfactory answer but without the range of reading and interpretation
+  deserving of a higher honours mark; Sparse or highly selective coverage of the relevant
+  material. Assertions not suitably supported by argument or evidence; Limited discussion
+  and reflection, but showing knowledge of the underpinning principles.
+- 60-69 (2.1) A well-organised, well-written answer, demonstrating that the material
+  is critically analysed; Evidence of reading beyond essential course material. Addressing
+  and analysing the main points and showing evidence of a good grasp of the underpinning
+  knowledge; some evidence of evaluation and synthesis of the relevant issues.
+- 70% and over (1.1) Excellent answer that combines an exceptional degree of independent
+  reading and thinking with a high degree of integration; A depth of insight into
+  theoretical issues, demonstrating a concise and clear analytical style. Excellent
+  level of critical analysis and originality of thought; excellent critical evaluation
+  and synthesis of relevant issues, showing an ability to integrate and apply theory
+  in a precise manner.
+essential_material:
+- 'Burns, T. and S. Sinfield. _Essential Study Skills : The complete guide to Success
+  at University_. 4th ed.. London: Sage, 2016.'
+- 'Hock, R. _Forty Studies that changed Psychology_. 7th ed.. London: Pearson , 2012.'
+- 'Passer, M. and R. Smith . _Psychology: The Science of Mind and Behaviour_. New
+  York: McGraw-Hill, 2015.'
+supplementary_material:
+- 'Fairholm, I. _Issues, Debates and Approaches in Psychology..._. Houndsmills: Palgrave
+  MacMillan, 2012.'
+- 'Gross, R. _Psychology, The Science of Mind and Behaviour..._. 7th Edition . London:
+  Hodder Education, 2015.'
+- 'Schacter, D., D. Gilbert, D. Wegner and B Hood. _Psychology: European Edition_
+  . Houndsmills: Palgrave MacMillan, 2012.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

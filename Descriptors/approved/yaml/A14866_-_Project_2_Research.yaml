@@ -1,0 +1,146 @@
+reference: A14866
+full_title: Project 2 (Research)
+short_title: Project 2 (Research)
+credits: 10
+level: Advanced
+author: IDOWNEY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Professional Skills
+aim: This module gives the student experience in developing a computing-related project
+  by undertaking research, based on the work the student has completed in Project
+  1, semester 7. The student will present their work at the end of the module by submitting
+  a dissertation, in addition to a poster, a short video, and a presentation.
+programmes:
+- timetable: PROJ-0170
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PROJ-0170
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PROJ-0170
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PROJ-0170
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PROJ-0170
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PROJ-0170
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: ''
+  code: WD_KCSDV_B
+  name: Bachelor of Science (Honours) in Software Systems Development
+  stage: 4
+  semester: 2
+  status: E
+- timetable: PROJ-0170
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PROJ-0170
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PROJ-0170
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PROJ-0170
+  code: WD_KMULM_B
+  name: Bachelor of Science (Honours) in Multimedia Applications Development
+  stage: 4
+  semester: 2
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Incorporate feedback from project supervisors/examiners, relating to the work done
+  in Semester 1, that work being a literature review and consequent formulation of
+  research question(s), and initial investigative work on appropriate research methodologies,
+  including data gathering strategies.
+- Complete the consideration of the research methodologies to be used, and design
+  of the data collection instruments.
+- Complete the development of any customised software tools to be used in investigation
+  or data gathering and analysis.
+- Further develop the student's ability to write referenced academic and technical
+  reports, principally a required final dissertation, not less than 6000 words and
+  not more than 12000 words, accompanied by a poster and a video.
+- To provide the student with the opportunity (and requirement) to meet with a supervisor
+  week by week and to complete the work according to the initial or a revised plan.
+- To enable the student to apply investigative, problem-solving and technical knowledge
+  to address issues as they arise.
+learning_outcomes:
+- Integrate feedback from Project 1.
+- Complete the process of devising/designing a research methodology.
+- Create the research question(s), using the appropriate tools and methodologies.
+- Reflect on limitations and potential of the chosen methodology and resulting discoveries.
+- Validate the final dissertation, with accompanying video and poster and competently
+  discuss the research area, showing competence in research methods.
+learning_and_teaching_methods:
+- Weekly meetings with project supervisor
+- Self-directed learning using library and Internet sources
+- Devising ways of testing research methodologies before using them.
+learning_modes:
+- full_time: 6
+  name: Tutorial
+  part_time: ''
+- full_time: 264
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Project
+  weighting: 100
+assessment_criteria:
+- '<40%: Failure to incorporate feedback. Failure to competently demonstrate an understanding
+  of research and proceed to an adequate level.'
+- '40%-49%: Produces a basic research dissertation with basic documentation complete.'
+- '50%-59%: As above and produces a dissertation meeting most of the objectives (unless
+  failure to do so is justified). Documentation and reports are clear and of good
+  quality. Comprehensive knowledge of research area.'
+- '60%-69%: As above and requirements fully met in an adequate manner. Demonstration
+  shows evidence of ability to see limitations or potential in approaches used.'
+- '70%-100%: As above and produces an excellent, professional calibre stand-alone,
+  robust and thorough piece of research with equally excellent documentation/dissertation.
+  Demonstrates ability to abstract ideas and reflect on the research process.'
+essential_material: []
+supplementary_material:
+- 'Bell, J. and C. Opie. _Learning from research: getting more from your data_. Buckingham:
+  Open University Press, 2002.'
+- 'Bell, J. and S. Waters. _Doing your research project: A Guide for first time researchers_.
+  Buckingham: Open University Press, McGraw-Hill, 2014.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,120 @@
+reference: A10873
+full_title: Mathematical Methods
+short_title: Mathematical Methods
+credits: 5
+level: Introductory
+author: KMURPHY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Mathematics and Physics
+aim: This module deals with the mathematical concepts and techniques needed to tackle
+  problems in two and three dimensions.
+programmes:
+- timetable: MTHS-0039
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 2
+  semester: 3
+  status: M
+- timetable: MTHS-0039
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 3
+  status: M
+- timetable: MTHS-0016
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 2
+  semester: 3
+  status: M
+- timetable: MTHS-0039
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Matrix algebra: matrix operations; solution of linear systems using Cramers rule;
+  matrix inversion and numerical methods; eigenvalues and eigenvectors; applications
+  of eigenvalues/eigenvectors'
+- 'Vector algebra: dot and cross product; parametric equation of lines and planes;
+  intersection of lines and planes; decomposition of vectors using the dot product'
+- 'Linear transformations: Rotations, reflections, and translations; homogeneous coordinates'
+- 'Eigenvalues and eigenvectors: diagonalisation and similar matrices; powers of matrices'
+- 'Partial differentiation: critical points; local extrema and saddle points'
+- 'Vector calculus: gradient, curl and div; volume and surface integrals'
+learning_outcomes:
+- Use expressions involving vectors and matrices and find the solution set of a system
+  of linear equations using standard methods.
+- Compute expressions involving partial derivatives and vector calculus operators.
+- Use partial derivatives to determine stationary points of multivariate functions
+  and apply techniques to appropriate problems.
+- Use vector algebra to solve three-dimensional geometric problems such as finding
+  where a given line cuts a given plane, intersection of polygons, etc.
+- Apply existing mathematical software and students' own code to represent and solve
+  problems arising in computer science.
+learning_and_teaching_methods:
+- Delivery of the module will be through a mixture of lectures, tutorial classes and
+  computer laboratory sessions.
+- The lectures will develop theory, lead students through worked examples and introduce
+  the context for the module material.
+- The tutorial classes will underpin and rehearse the skills demonstrated in the lectures
+  and described module material.
+- The practical sessions will utilise software that supports linear algebra and multivariate
+  calculus. Students will use this software to solve selected problems and implement
+  matrix and vector operations and algorithms covered in lectures.
+- Active engagement with frequent practice on examples is strongly encouraged through
+  regular course work and class tests.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 25
+- learning_outcomes: '5'
+  main: false
+  name: Practical
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 75
+assessment_criteria:
+- '<40%: Inability to demonstrate knowledge or understanding of the fundamental concepts
+  and techniques in vector calculus and matrix systems as outlined in the syllabus
+  content, inability to apply such concepts to selected problems.'
+- '40%-49%: Able to demonstrate a basic understanding of the fundamental concepts
+  and techniques in vector calculus and matrix systems as concepts outlined in syllabus
+  content.'
+- '50%-59%: In addition to above, able to find the complete solution set to basic
+  problems, and in addition, uses standard notation to express mathematical entities.'
+- '60%-69%: All the above, in addition be able to determine appropriate mathematical
+  techniques to analyse applied problems and to express their work with rigour and
+  precision.'
+- '70%-100%: All the above to an excellent level. Demonstrates an ability to put a
+  solution into a context and assess whether such solutions are meaningful.'
+essential_material: []
+supplementary_material:
+- 'Anton, H. _Elementary Linear Algebra_. NY: Prentice Hall, 2008.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,104 @@
+reference: A30201
+full_title: Research Project (Pharma L8)
+short_title: Research Project (Pharma L8)
+credits: 10
+level: Advanced
+author: CLENNON
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Placement and Projects
+aim: Projects will be carried out under the supervision of individual members of the
+  academic staff. Projects will be linked either to research activity within the department
+  or to a relevant industrial problem.
+programmes:
+- timetable: PROJ-0101
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 4
+  semester: 8
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Planning and design of scientific project in the context of a literature review.
+- Implementation of project work
+- Preparation of written report on project.
+- Interpretation and critical evaluation of results in the context of the relevant
+  scientific literature
+- Presentation of report at oral seminar/poster session
+learning_outcomes:
+- Design and plan a program of work after a critical evaluation of literature related
+  to a scientific problem.
+- Organise and safely implement a detailed research project.
+- Manage work independently and demonstrate initiative towards set objectives, trouble-shooting
+  related problems.
+- Prepare and structure a comprehensive and referenced scientific report.
+- Produce an oral presentation/poster to disseminate the results of a complex scientific
+  review.
+learning_and_teaching_methods:
+- Project practical work.
+- Preparation of scientific report, thesis.
+- Oral presentation at research seminar or poster session.
+learning_modes:
+- full_time: 120
+  name: Practical
+  part_time: ''
+- full_time: 150
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '5'
+  main: false
+  name: Presentation
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3
+  main: false
+  name: Practical
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Lab Report
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Insufficient level of research work performed in terms of quality and quantity
+  of research output. Inadequate standard and knowledge of research topic evident
+  through poor report writing and oral presentation skills.'
+- '40%-49%: Adequate level of research work performed in terms of quality and quantity
+  of research output. Adequate standard and knowledge of research topic evident through
+  fair report writing and oral presentation skills.'
+- '50%-59%: As well as the above, the student will display a good level of research
+  work performed, in terms of quality and quantity of research output. Good standard
+  and knowledge of research topic evident through good report writing and oral presentation
+  skills, supplemented by an ability to present this knowledge in a clear and concise
+  manner.'
+- '60%-69%: In addition to the above, the student will demonstrate a very high level
+  of research work performed in terms of quality and quantity of research output.
+  High standard and knowledge of research topic evident through very good report writing
+  and oral presentation skills, supplemented by an ability to present this knowledge
+  to a high technical standard.'
+- '70%-100%: All previous to an excellent level. In addition, the student will demonstrate
+  an extensive level of research work performed, in terms of quality and quantity
+  of research output. Excellent standard and knowledge of research topic evident through
+  superior report writing and oral presentation skills, supplemented by an ability
+  to present this knowledge to a very high technical standard.'
+essential_material:
+- '"WIT." www.sciencedirect.com. www.wit.ie/library/dbs/scidbs.asp'
+supplementary_material: []
+requested_resources:
+- 'Room Type: Chemistry Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+
