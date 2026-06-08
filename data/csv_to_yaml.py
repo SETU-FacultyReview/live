@@ -5,8 +5,8 @@ Convert programmes.csv to programmes.yaml
 Groups programmes by department and level according to the following rules:
 - Level 6: programme title contains "certificate" or "cert"
 - Level 7: programme title has Bachelor, BSc, BA but not (H) or (Hons)
-- Level 8: programme title has Bachelor with (H)/(Hons)
-- Level 9: programme title has MSc, Master, Higher Diploma, HDip, Postgrad/PG Diploma
+- Level 8: programme title has Bachelor with (H)/(Hons), or Diploma/HDip/Higher Diploma
+- Level 9: programme title has MSc, Master, Postgrad
 - Level 10: programme title has PhD
 - Other: programme has "Independent", "Socrates", or doesn't match above
 """
@@ -33,16 +33,18 @@ def categorize_level(title: str) -> str:
     if 'phd' in title_lower:
         return 'level_10'
 
-    # Level 9: MSc, Master, Higher Diploma (but NOT Higher Certificate), HDip, Postgrad/PG Diploma
-    if 'msc' in title_lower or 'masters' in title_lower or 'master of' in title_lower or \
-       ('higher diploma' in title_lower and 'certificate' not in title_lower) or \
-       ('hdip' in title_lower and 'certificate' not in title_lower) or \
-       ('pg' in title_lower and 'diploma' in title_lower) or 'postgrad' in title_lower:
-        return 'level_9'
-
-    # Level 6: Certificate (including Higher Certificate)
+    # Level 6: Certificate (including Higher Certificate) - check early
     if 'certificate' in title_lower or 'cert' in title_lower:
         return 'level_6'
+
+    # Level 8: ALL Diplomas (Diploma, HDip, Higher Diploma, Postgrad Diploma, PG Diploma)
+    # Check before Level 9 to ensure all diplomas are Level 8
+    if 'diploma' in title_lower or 'hdip' in title_lower:
+        return 'level_8'
+
+    # Level 9: MSc, Master (excluding anything with Diploma which is already caught above)
+    if 'msc' in title_lower or 'masters' in title_lower or 'master of' in title_lower:
+        return 'level_9'
 
     # Level 8: Honours Bachelor degrees
     if ('(h)' in title_lower or '(hons)' in title_lower or 'honours' in title_lower) and \
