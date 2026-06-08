@@ -1,0 +1,90 @@
+reference: A13952
+full_title: Media Tools and Integration
+short_title: Media Tools and Integration
+credits: 10
+level: Advanced
+author: CDUNPHY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Media Production
+aim: This module builds on the student's existing knowledge of audio/visual recording
+  and editing and concentrates on software tool-specific features. The module also
+  looks at bringing together content from multiple sources and integrating it in media-rich
+  digital artefacts.
+programmes:
+- timetable: COMP-0670
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 7
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Working with professional-grade audiovisual software tools and hardware
+- Arranging, mixing and bouncing complex audio works
+- Sound Design and synchronisation for video
+- Production of audiovisual media for live performance and/or installation
+- Troubleshooting and optimisation
+- Lighting
+- Projection
+- 'Sample Project: Conceptualise, plan, create and deploy a digital mixed media installation.
+  e.g. live music performance with video projection & lighting; A digital media mashup'
+learning_outcomes:
+- Propose and defend a concept for live performance or installation (Evaluation).
+- Assemble audio and visual media from multiple sources to create improved artefacts
+  (Creating).
+- Plan and develop an audio/visual live performance or installation that contains
+  an algorithmic element (Creating).
+- Solve simulated and real integration problems as they occur (Creating).
+learning_and_teaching_methods:
+- This module will be characterised by student participation in both formal theoretical
+  and practical/studio classroom activities in which students learn theoretical concepts
+  and apply them immediately using dedicated hardware and software.
+- Studio Classes will be delivered in two 2-hour blocks.
+- Apple Mac Computer Lab with relevant hardware & software (kept up to date at least
+  annually e.g. AdobeCC, iMovie, Resolume ARENA, Ableton Live, Traktor)
+- Accessible, professional sound proofed recording studios with professional microphones
+  and audio workstations (Vibe FM studios)
+- DMX Lighting setup
+- Access to cameras
+- Video/Photography Studio
+- Project Space Room
+- Selection of MIDI controllers
+- Sound System PA
+- Data Projectors
+learning_modes:
+- full_time: 96
+  name: Practical
+  part_time: ''
+- full_time: 174
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Project
+  weighting: 100
+assessment_criteria:
+- '<40%: Unable to propose, conceptualise, plan, develop, create and integrate using
+  digital mixed media tools.'
+- '40%-49%: Be able to propose, conceptualise, plan, develop, create and integrate
+  using digital mixed media tools.'
+- '50%-59%: As above, incorporating creative approaches to artefacts and tool use.'
+- '60%-69%: As above and be able to problem-solve in a ``live'''' setting.'
+- '70%-100%: All the above to an excellent level.'
+essential_material: []
+supplementary_material:
+- '"Create Digital Music." http://createdigitalmusic.com/'
+- '"DJ Tech Tools." http://www.djtechtools.com'
+- '"lynda.com." www.lynda.com'
+- 'Claiborne, V. _Media Servers for Lighting Programmers_. Oxford: Focal Press, 2014.'
+requested_resources:
+- 'CREATIVE AND PERFORMING: Special Purpose Area'
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

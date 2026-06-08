@@ -1,0 +1,114 @@
+reference: A12001
+full_title: Semiconductor Devices
+short_title: Semiconductor Devices
+credits: 5
+level: Advanced
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Electronics
+aim: The course aims to advance the students knowledge of the fundamentals of solid
+  state theory in respect of the analysis and design of complex semiconductor based
+  transistor structures. A comprehensive review of the design, operation and manufacture
+  of bipolar, metal-oxide-semiconductor and compound transistor structures is undertaken.
+  The use of semiconductor TCAD tools for complex transistor structures is also concurrently
+  introduced.
+programmes:
+- timetable: ''
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 4
+  semester: 8
+  status: M
+- timetable: ENGR-0022
+  code: WD_EONIC_B
+  name: Bachelor of Engineering (Honours) in Electronic Engineering
+  stage: 4
+  semester: 8
+  status: E
+- timetable: ENGR-0022
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 4
+  semester: 8
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Review of Semiconductor Theory
+- The Bipolar Junction Transistor & Applications
+- The Metal-Oxide-Semiconductor Transistor & Applications
+- Compound Semiconductor Devices & Applications
+- Semiconductor TCAD Tools
+learning_outcomes:
+- Describe the fundamental concepts of solid state theory as applied in the analysis
+  of carrier transport processes within semiconductor materials and transistor devices.
+- Explain the advanced physical processes employed in the fabrication of semiconductor
+  transistor structures.
+- Analyse the basic design, operation and manufacture of bipolar, metal-oxide-semiconductor
+  and compound transistor structures.
+- Apply the knowledge and comprehension gained in analysing and relating macroscopic
+  semiconductor diode performance parameters to semiconductor solid state theory &
+  associated fabrication processes.
+- Demonstrate the basic use of TCAD software tools and methods as used in the design,
+  analysis and development of complex transistor structures.
+learning_and_teaching_methods:
+- Lectures
+- Practical / Project Work
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning_outcomes: '5'
+  main: false
+  name: Practical
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Muller, R. _Device Electronics for Integrated Circuits_. USA: Wiley, 2003.'
+- 'Pierret, R. _Semiconductor Device Fundamentals_. USA: Addison Wesley, 1996.'
+- 'Sze, S. _Physics of Semiconductor Devices_. USA: Wiley, 2006.'
+supplementary_material:
+- '"Institute of Electrical and Electronic Engineers." www.ieee.org'
+requested_resources:
+- 'ENGINEERING LAB: Electronics'
+mlo_to_po: ''
+track_changes: true
+
+
+

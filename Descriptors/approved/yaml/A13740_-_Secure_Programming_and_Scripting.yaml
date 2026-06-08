@@ -1,0 +1,126 @@
+reference: A13740
+full_title: Secure Programming and Scripting
+short_title: Secure Programming
+credits: 5
+level: Introductory
+author: JMCGIBNEY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Forensics and Security
+aim: This module aims to equip students with the knowledge and skills to apply best
+  security practices when programming in a range of languages and environments. In
+  addition, they will gain an appreciation of risks and learn how to carry out basic
+  threat modelling and avoid common vulnerabilities.
+programmes:
+- timetable: PROG-0083
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 2
+  semester: 4
+  status: E
+- timetable: PROG-0083
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 4
+  status: E
+- timetable: PROG-0083
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 2
+  semester: 4
+  status: M
+- timetable: PROG-0083
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 4
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Software vulnerabilities
+- Threat modelling
+- Secure programming principles
+- Memory allocation, memory leaks, overflows
+- Web application security
+- Secure software engineering; requirements; design; code auditing & review; testing;
+  deployment
+learning_outcomes:
+- Describe a selection of security vulnerabilities caused by software development
+  flaws.
+- Show using code examples how memory overflows can cause programs to behave unexpectedly.
+- Demonstrate specific security problems that can arise with web applications and
+  how to address them.
+- Model security threats in the specification of requirements for a software system.
+- Explain how to build security measures into the software development process.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and practical classes.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element allows the student to put into practice the theoretical concepts
+  covered in the lectures.
+- The practical element involves a selection of laboratory exercises and related tasks.
+  For example, students will look for vulnerabilities in applications provided and
+  also write/adapt their own code to demonstrate common vulnerabilities and mitigation
+  techniques. They will also carry out a high-level threat modelling exercise.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,4,5
+  main: false
+  name: Case Studies
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 2,5
+  main: false
+  name: Lab Report
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,5
+  main: false
+  name: Assignment
+  weighting: 45
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to distinguish between different types of vulnerabilities or present
+  instances of them in a clear manner.'
+- '40%-49%: Able to present instances of software vulnerabilities and carry out threat
+  modelling on a basic system.'
+- '50%-59%: Able to explain in context and present instances of both low level software
+  vulnerabilities and higher level web application vulnerabilities. Able to model
+  threats in a software system with multiple usage scenarios and actors.'
+- '60%-69%: Also able to present and explain how to address both low level and web
+  application vulnerabilities.'
+- '70%-100%: All the above to an excellent level. Able to present and explain in detail
+  various ways to address both low level and web application vulnerabilities.'
+essential_material:
+- '"Open Web Application Security Project." https://www.owasp.org'
+supplementary_material:
+- '"Computer Emergency Response Team." https://www.cert.org'
+- '"Security Focus." http://securityfocus.com'
+- 'McGraw, G. _Software Security: Building Security In_. NY: Addison-Wesley, 2006.'
+- 'Sullivan, B. and V. Liu. _Web Application Security, A Beginner''s Guide_. NY: McGraw-Hill,
+  2012.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,91 @@
+reference: A14883
+full_title: Project 2 IT (Research)
+short_title: Project 2 IT (Research)
+credits: 5
+level: Advanced
+author: TMCDONALD
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Professional Skills
+aim: This module gives the student experience in completing their research-based work.
+  This module continues the work completed in semester 1, with a focus on data gathering
+  and analysis, all of which will culminate in the student deriving answers to their
+  research questions. These answers should make a solid contribution to the body of
+  knowledge in their chosen research area.
+programmes:
+- timetable: COMP-0958
+  code: WD_KINTE_B
+  name: Bachelor of Science (Honours) in Information Technology
+  stage: 4
+  semester: 2
+  status: E
+- timetable: COMP-0958
+  code: WD_KITMA_B
+  name: BSc (Hons) in Information Technology Management
+  stage: 1
+  semester: 8
+  status: E
+prerequisites:
+- Project 1 IT (Research)
+corequisites: []
+indicative_content:
+- Incorporate feedback from project supervisors/examiners, relating to the work done
+  in Semester 1, that work being a literature review and consequent formulation of
+  a research question, and initial investigative work on appropriate research methodologies,
+  including data gathering strategies
+- Complete the consideration of the research methodologies to be used, and design
+  of the data collection instruments
+- Further develop the student's ability to write referenced academic and technical
+  reports, principally a required final dissertation, not less than 4000 words and
+  not more than 6000 words, accompanied by a poster and a video
+- To provide the student with the opportunity (and requirement) to meet with a supervisor
+  week by week and to complete the work according to the initial or a revised plan
+- To enable the student to apply investigative, problem-solving and technical knowledge
+  to address issues as they arise
+learning_outcomes:
+- Intergrate feedback from Project 1.
+- Create the research question(s), using the appropriate methodologies.
+- Reflect on limitations and potential of the chosen methodology and resulting discoveries.
+- Validate the final dissertation, with accompanying video and poster and competently
+  discuss the research area, showing competence in research methods.
+learning_and_teaching_methods:
+- Weekly meetings with project supervisors.
+- Self-directed learning using library and Internet sources.
+- Validation of chosen methdology, techniques and findings.
+learning_modes:
+- full_time: 6
+  name: Tutorial
+  part_time: ''
+- full_time: 129
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Dissertation
+  weighting: 100
+assessment_criteria:
+- '<40%: Failure to incorporate feedback. Failure to competently demonstrate understanding
+  of research.'
+- '40%-49%: Produces basic set of findings. Produces complete set of documentation.
+  Able to demonstrate own work in competent manner.'
+- '50%-59%: As above and produces a solid set of robust findings. Documentation and
+  reports are clear and of good quality. Comprehensive knowledge of methdologies and
+  techniques.'
+- '60%-69%: As above and findings make a contribution to research area. Demonstrates
+  ability to solve unfamiliar research problems. Shows good judgement in technology
+  selection. Documentation shows evidence of ability to see limitations or potential
+  in approaches used.'
+- '70%-100%: As above and produces an excellent piece of research with equally excellent
+  documentation. Demonstrates ability to abstract ideas and reflect on the research
+  process.'
+essential_material: []
+supplementary_material: []
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

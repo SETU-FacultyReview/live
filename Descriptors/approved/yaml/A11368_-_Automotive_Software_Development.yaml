@@ -1,0 +1,119 @@
+reference: A11368
+full_title: Automotive Software Development
+short_title: Automotive Software Dev.
+credits: 5
+level: Advanced
+author: EREADE
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Automotive, Automation and IoT
+aim: This module introduces the student to the process of production-scale automotive
+  software development, beginning with an overview of vehicle electronic architectures
+  and the automotive software development lifecycle. A detailed technical examination
+  of the AUTOSAR vehicle software architecture is presented and students will learn
+  how to apply this to the development of automotive applications. Model Based Development
+  and testing strategies are explored as a way of improving productivity and software
+  quality. In practical laboratory work students will experience the use of advanced
+  automotive software development and simulation tools.
+programmes:
+- timetable: COMP-0567
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 7
+  status: E
+- timetable: COMP-0567
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 7
+  status: E
+- timetable: COMP-0567
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 7
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Vehicle electronic architectures
+- Automotive software lifecycle
+- Automotive software analysis methods and design patterns
+- AUTOSAR architecture
+- AUTOSAR workflow and tools
+- Model Based Development process
+- Model specification and code generation tools
+- Automotive software testing
+learning_outcomes:
+- Select how software applications are structured and distributed in an automotive
+  environment.
+- Critique the AUTOSAR software architecture.
+- Integrate industry-standard workflow and tools to develop automotive software.
+- Set-up model based development techniques.
+- Produce test specifications for distributed software functions.
+- Design AUTOSAR standard software components.
+learning_and_teaching_methods:
+- Combination of lectures and lab-based practicals.
+- The lectures will cover the theory and underlying technologies in automotive software
+  development.
+- The lab-based practicals, building on the theoretical knowledge from the lectures,
+  provide the practical skills to design, simulate and test automotive software applications.
+- Students will be encouraged to enhance their lab work and assessment submissions
+  using self-directed research and learning into the broader automotive industry topics
+  and current issues.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,6
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- <40%:Inability to specify a coherent application design.
+- 40%-49%:Able to describe the basic software development technical concepts.
+- 50%-59%:All the above and in addition is able demonstrate an understanding of the
+  software development using industry tools and workflow.
+- 60%-69%:In addition, is able to develop automotive software components according
+  to the AUTOSAR specification.
+- 70%-100%:All of the above and able to demonstrate a deep understanding of how quality
+  assurance can be incorporated in to the development process.
+essential_material:
+- '"AUTOSAR Organisation." www.autosar.org'
+supplementary_material:
+- 'Schaeuffele, J and T. Zurawaka. _Automotive Software Engineering_. Stuttgart, Germany.:
+  Springer, 2013.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

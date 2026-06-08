@@ -1,0 +1,93 @@
+reference: A36588
+full_title: Mechanisation
+short_title: Mechanisation
+credits: 5
+level: Introductory
+author: TWOODCOCK
+history_comment: ''
+school: Engineering
+department: Land Sciences
+cluster: Engineering
+aim: This module will enable the student to acquire a comprehensive knowledge of tractor
+  technology and a detailed understanding of the selection, operation and maintenance
+  of crop establishment, organic manure handling, harvesting and forage production
+  and feeding equipment.
+programmes:
+- timetable: MECH-0007
+  code: WD_SAGUL_D
+  name: Bachelor of Science in Agriculture
+  stage: 2
+  semester: 3
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Tractor technologies
+- Electronics and precision control systems
+- Crop establishment equipment
+- Organic manure handling equipment
+- Harvesting equipment
+- Forage production and feeding equipment
+- Workshop tools
+learning_outcomes:
+- Describe modern tractors systems including their component design.
+- Explain electronic and precision control systems on modern machinery.
+- Describe crop establishment equipment.
+- Discuss organic manure handling equipment.
+- Describe harvesting equipment and systems.
+- Demonstrate an understanding of the machines involved in forage production and feeding.
+- Identify workshop hand tools and power tools.
+learning_and_teaching_methods:
+- Lectures
+- Self-directed learning
+- Practical demonstrations
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6,7
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: 2,3,4,6,7
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 2,3,4,6,7
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter'
+- '40%--49%: Will be able to show a basic knowledge of the key learning outcomes'
+- '50%--59%: As well as the above the student will be able to demonstrate an understanding
+  of some of the complexities of the topics'
+- '60%--69%: In addition, the student will demonstrate more detailed knowledge of
+  the all topics including and demonstrate an ability to evaluate detailed knowledge
+  acquired in the module to new material.'
+- '70%--100%: The learner will be able to demonstrate comprehensive knowledge and
+  understanding of all learn'
+- 'Note: In addition to the normal regulations, a minimum of 35% must be achieved
+  in both the final exam and continuous assessment components of the module. In cases
+  where continuous assessment has a practical component attendance of at least 75%
+  in the practicals is mandatory.'
+essential_material:
+- Teagasc. _Organic Manure Handling._ Dublin. 2020.
+- Teagasc. _Workshop skills_ Dublin. 2019.
+supplementary_material: []
+requested_resources:
+- 'WORKSHOP: Kildalton Agricultural College Equipment and Machinery'
+mlo_to_po: ''
+track_changes: true
+
+
+

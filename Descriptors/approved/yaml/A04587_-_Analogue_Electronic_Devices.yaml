@@ -1,0 +1,144 @@
+reference: A04587
+full_title: Analogue Electronic Devices
+short_title: Analogue Electronic Devices
+credits: 5
+level: Introductory
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Electronics
+aim: This module is structured to provide students with a comprehensive introduction
+  to analogue electronics. Fundamental semiconductor junction operation and fabrication
+  techniques are introduced along with central analogue devices such as diodes, BJT
+  transistors and FET transistors.
+programmes:
+- timetable: ''
+  code: WD_EAUTO_B
+  name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
+  stage: 1
+  semester: 2
+  status: E
+- timetable: ELTR-0010
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 1
+  semester: 2
+  status: M
+- timetable: ELTR-0010
+  code: WD_EONIC_B
+  name: Bachelor of Engineering (Honours) in Electronic Engineering
+  stage: 1
+  semester: 2
+  status: E
+- timetable: ELTR-0010
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours)
+  stage: 1
+  semester: 2
+  status: E
+- timetable: ELTR-0010
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours) in Electrical Engineering
+  stage: 1
+  semester: 2
+  status: E
+- timetable: ELTR-0010
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 1
+  semester: 2
+  status: M
+- timetable: ELTR-0010
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Fundamental Semiconductor devices theory
+- PN junction Operation and Characteristics
+- LED's, varactor diodes, zener diodes, photodiodes
+- BJT, JFET and MOSFET Transistor operation and characteristics
+- Shockly diodes, SCR's. DIAC's, TRIAC's
+learning_outcomes:
+- Describe the critical properties of semi-conductor material.
+- Summarise the operation and characteristics of PN Junction based devices.
+- Summarise the operation and characteristics of BJT and Field Effect transistors.
+- Analyse fundamental d.c circuit operation for PN junction based devices and transistor
+  type devices.
+- Produce suitable circuit designs for basic switch type circuits.
+- Construct and document the operation of basic diode and transistor circuitry in
+  a laboratory setting.
+learning_and_teaching_methods:
+- Lectures
+- Integrated Tutorials
+- Laboratory Practicals
+- Project Work
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: '6'
+  main: false
+  name: Lab Report
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 5,6
+  main: false
+  name: Project
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Bell, D. _Fundamentals of Electronic Devices and Circuits_. UK: Oxford University
+  Press, 2009.'
+- 'Bogart, T., J.S. Beasley and G. Rico. _Electronic Devices and Circuits_. USA: Pearson,
+  2004.'
+- 'Malvino, A.P., D. Bates and G. Rico. _Electronic Principles_. 8th ed. .: McGraw
+  Hill, 2015.'
+supplementary_material: []
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'ENGINEERING LAB: Electronics'
+mlo_to_po: ''
+track_changes: true
+
+
+

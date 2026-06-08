@@ -1,0 +1,88 @@
+reference: A08428
+full_title: Agricultural Science Industrial Placement
+short_title: Agri Sci Industrial Placement
+credits: 30
+level: Intermediate
+author: SWALSH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Placement and Projects
+aim: This module will allow learners to apply and develop their skills in the agri-food
+  industry. Students will be placed for work experience for a minimum of 15 weeks
+  during semester two of third year. The industrial placement will be organised by
+  WIT and monitored by the employer and WIT staff, with the student keeping a reflective
+  work log. The placement is designed to meet the needs of industry, while providing
+  the student with a broader skills-base. It is envisaged that the practical element
+  of employment will complement the course content and help develop skills that are
+  essential in today's work environment. The completion of a reflective work log will
+  develop the student's ability to engage in reflective learning.
+programmes:
+- timetable: AGRI-0097
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 3
+  semester: 6
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Industrial placement in an agri-food company for a minimum of 15 weeks, with exposure
+  to a range of laboratory, processing and business activities
+- Exposure to a range of laboratory techniques working to Standard Operating Procedures
+  (SOPs) in a Good Laboratory Practice (GLP) context with the ability to carry out
+  work following instructions, according to these SOPs
+- Preparation of reports, both oral and written, on work carried out over the period
+  of placement
+- Maintenance of a work log of placement, critical evaluation and reflection on both
+  the experience itself, as well as the professional development achieved
+- Guidelines for the student, Institute and employers on the aims, objectives, and
+  expectations of the module (learning agreement/guidelines).
+learning_outcomes:
+- Construct a professional CV and prepare for interview to secure placement.
+- Appraise the aims, expectations and objectives of the employer, Institute and student
+  to the successful completion of placement.
+- Operate independently and/or as part of a team towards the set objectives of the
+  industrial enterprise and relate effectively to co-workers and supervisors.
+- Apply, under supervision, their acquired knowledge through application to practice
+  and working in a regulatory environment.
+- Practise safely, agri-food industry related skills and employ good environmental
+  practices those associated with good laboratory practice.
+- Appraise, reflect and report on personal, professional and technical achievements.
+- Communicate their activities and assessment of the industrial enterprise in a professional
+  manner.
+learning_and_teaching_methods:
+- Practical learning experience from industrial placement.
+- Weekly log of activity.
+- Working and relating with other co-workers and clients.
+learning_modes:
+- full_time: 810
+  name: Placement
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5,6,7
+  main: false
+  name: Portfolio
+  weighting: Pass/Fail
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- 'Fail: Student fails to undertake or complete placement to a satisfactory level
+  and/or fails to submit the assessments and documents related to the learning outcomes.'
+- 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisors
+  Evaluation Report submitted, and assessments and documents related to the learning
+  outcomes, all to an acceptable standard and submitted within deadlines.'
+essential_material: []
+supplementary_material:
+- 'Fanthome, C. _Work placements : a survival guide for students_ . Basingstoke :
+  Palgrave Macmillan, 2004.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

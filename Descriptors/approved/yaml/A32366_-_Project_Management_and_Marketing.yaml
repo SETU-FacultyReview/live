@@ -1,0 +1,130 @@
+reference: A32366
+full_title: Project Management and Marketing
+short_title: Management and Marketing
+credits: 10
+level: Postgraduate
+author: JGERAGHTY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Placement and Projects
+aim: The module will equip participants with methodologies to undertake project planning
+  and implementation aimed at delivering desired results. The challenge of converting
+  to organic and biological production and successfully planning this transition will
+  be analysed and discussed. Participants will be able to estimate project duration
+  and associated costs and develop skills necessary to plan, control, monitor project
+  schedules and manage human resources. Integrated with this the marketing component
+  of the course will introduce the participant to the principles of marketing and
+  how these can be applied successfully in the Irish and European marketplace. Factors
+  influencing the consumer buying process, identifying appropriate markets, new product
+  development and associated marketing mix elements, including targeted communications
+  using online platforms will be addressed.
+programmes:
+- timetable: PROJ-0204
+  code: WD_SGRAD_XX
+  name: Postgraduate Programmes in Science
+  stage: 5
+  semester: 0
+  status: E
+- timetable: PROJ-0204
+  code: WD_SOBIA_R
+  name: MSc in Organic and Biological Agriculture
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Business planning and project design: work breakdown structure, critical path network,
+  project risk management, change management, and quality control.'
+- Project cost measurement and management using the concept of earned value.
+- Managing a project team -- leadership, resource allocation, administration, the
+  role of the project manager, project completion and handover
+- 'Consumer and organisational buying behaviour: factors impacting consumer, household
+  and organisational buying behaviour; steps in the buying process; the concept of
+  derived demand.'
+- Market research into market segmentation, positioning and branding strategies.
+- The Marketing Mix -- co-ordinating product, pricing, distribution and promotional
+  strategies for effective marketing campaigns
+learning_outcomes:
+- Describe and illustrate project plans to estimate project duration using appropriate
+  software tools.
+- Prepare business planning guidelines to cater for change management and project
+  risk associated with transition to organic systems.
+- Demonstrate a detailed knowledge and comprehension of the human resource aspects
+  of developing projects - organisation, roles, skillsets required.
+- Estimate and evaluate project costs, report on project earned value, and analyse
+  project cost variances.
+- Critically assess the importance of marketing to a farming business and evaluate
+  key marketing fundamentals e.g. target market segmentation, positioning and branding
+  strategy.
+- Design and develop an integrated marketing plan for a farming business with new
+  product offering(s).
+- Select, appraise and summarize relevant case examples for developments in project
+  management and market research from the published literature.
+learning_and_teaching_methods:
+- Online lectures with live participatory discussion sessions
+- Case studies on agroforestry and enhanced biodiversity on organic farms
+- Webinar presentations with experienced practitioners
+learning_modes:
+- full_time: ''
+  name: Tutorial
+  part_time: 12
+- full_time: ''
+  name: Field Trips
+  part_time: 12
+- full_time: ''
+  name: Online Delivery
+  part_time: 24
+- full_time: ''
+  name: Independent Learning
+  part_time: 222
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6,7
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: 1,2,3,4,6,7
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,5,6,7
+  main: false
+  name: Assignment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very little knowledge and understanding of the subject matter. Unable to
+  carry out critical thinking or practical skills.'
+- '40%--59%: Will be able to show a good knowledge of the key learning outcomes, including
+  the main aspects of project management and marketing principles. The student will
+  be able to write and present a quality case study on project management and a marketing
+  plan for an agri-business.'
+- '60%--69%: In addition, the student will demonstrate more detailed knowledge of
+  all the topics, including human health developments and trends. The student will
+  also be able to write and present a good quality case study on project management
+  and a marketing plan for an agri-business.'
+- '70%--100%: The learner will be able to demonstrate comprehensive knowledge and
+  understanding of all learning outcomes, including project cost measurement, market
+  research, and the marketing mix. The student will write and present a related high
+  quality case study on project management and a marketing plan for an agri-business.'
+essential_material:
+- '"ProjectLibre - Project Management Software." https://www.projectlibre.com/'
+- 'Institute, P.M. _PMBOK - A Guide to the Project Management Body of Knowledge_.
+  7th ed.. USA: Project Management Institute, 2021.'
+supplementary_material:
+- '"Bord Bia - Irish Food Board." https://www.bordbia.ie/farmers-growers/prices-markets/'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

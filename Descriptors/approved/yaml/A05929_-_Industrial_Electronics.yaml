@@ -1,0 +1,137 @@
+reference: A05929
+full_title: Industrial Electronics
+short_title: Industrial Electronics
+credits: 5
+level: Intermediate
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Electronics
+aim: The aim of this module is to provide the student with an understanding of power
+  electronic circuits, equipment and related calculations. A focus is kept on the
+  modern application of these devices to renewable, industrial and automotive applications.
+  In addition, the student will build and test a selection of the circuits in laboratories.
+programmes:
+- timetable: ELTR-0031
+  code: WD_EELCT_D
+  name: Bachelor of Engineering in Electrical Engineering
+  stage: 3
+  semester: 5
+  status: M
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours) in Electrical Engineering
+  stage: 2
+  semester: 4
+  status: M
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours)
+  stage: 2
+  semester: 4
+  status: M
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 3
+  semester: 6
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Thyristors, Triacs, IGBT, Mosfet, Transistor Power Switches.
+- DC Motor Control.
+- DC-DC converters
+- Switching Power Supplies
+- AC-DC rectification
+- Inverters, industrial and automotive applications.
+- Energy recovery in DC and AC motor control circuits.
+- Battery Technology
+- Battery Chargers
+- UPS
+- Typical Mini Project; brushless dc motor controller
+learning_outcomes:
+- Explain the operation, application, control and function of typical power switches.
+- Define the topology, application, control, perform calculations and describe the
+  function of typical dc motor drives, ac rectifiers, ac motor drives, UPS systems
+  and brushless dc motor controllers.
+- Define the topology, application, control, perform calculations and describe the
+  function of typical dc-dc, switch mode power supplies typical battery technology.
+- Build, test, analyse and report on the practical power electronic circuits in accordance
+  with the module submission schedule.
+learning_and_teaching_methods:
+- The course will consist of lectures, laboratories, mini project and formative assessments.
+- The emphasis on course delivery will be to engage the student in the learning of
+  the material, through the integration of the course materials, with the real case
+  studies in laboratories and mini project.
+- The formative assignments will be used to provide an opportunity for the student
+  to engage with the material, before it is applied, to maximise the learning opportunities
+  for the student.
+- Self-directed learning, use of moodle, and recommended software.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning_outcomes: 1,2,3
+  main: false
+  name: In-Class Assessment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Project
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Practical
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Moham, N. _First Court on Power Electronics & Drives_. UK: Mnpere, 2003.'
+- 'Rashid, M.H. _Power Electronics Handbook_. UK: Academic Press, 2001.'
+supplementary_material: []
+requested_resources:
+- 'ENGINEERING LAB: Electronics'
+mlo_to_po: ''
+track_changes: true
+
+
+

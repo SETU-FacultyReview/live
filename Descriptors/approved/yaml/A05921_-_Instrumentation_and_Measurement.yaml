@@ -1,0 +1,150 @@
+reference: A05921
+full_title: Instrumentation & Measurement
+short_title: Instrumentation & Measurement
+credits: 5
+level: Introductory
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Engineering
+aim: The module is designed to give a student the ability to understand, build and
+  perform basic calculations on practical analog and digital electronic circuits commonly
+  used in electrical engineering. Sensors commonly used in electrical engineering
+  applications are covered. Linear operational amplifiers circuits such as basic amplifiers,
+  instrumentation, signal conditioning circuits and interface circuits and essential
+  non linear circuits like comparators and Schmitt triggers are included. It also
+  covers ADC conversion and common 555 timer applications. The digital element concentrates
+  on counters and registers. The essential differences between different logic families
+  will be included. The module has a definite emphasis on industrial standards and
+  typical industrial equipment.
+programmes:
+- timetable: ''
+  code: WD_EAUTO_B
+  name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ENGR-0087
+  code: WD_EELCT_C
+  name: Higher Certificate in Engineering in Electrical Engineering
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ENGR-0087
+  code: WD_EELCT_D
+  name: Bachelor of Engineering in Electrical Engineering
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours) in Electrical Engineering
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ''
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Sensors (pressure, flow rate, level, humidity, ph, temperature, speed, position
+  etc).
+- Operational amplifier characteristics (voltage range, current drive, bandwidth,
+  input and output impedance) and negative feedback
+- Practical linear and non linear operational amplifier circuits (amplifier's, summers,
+  instrumentation amplifiers, integrators, differentiators, comparators, Schmitt triggers)
+- 555 timer and applications
+- Flip flops, counters, registers and logic families
+- Opto-Electronics
+- Interface circuits and ADC conversion
+learning_outcomes:
+- Describe typical sensor operation, calibration and usage (pressure, flow rate, level,
+  temperature, speed, position etc).
+- Define the operation of fundamental linear and non linear operational amplifier
+  circuits.
+- Construct and test fundamental linear and non linear operational amplifier circuits.
+- Explain typical instrumentation techniques and ADC conversion.
+- Describe and use common 555 timer based circuits.
+- Explain the operation of flip flops, counters and registers.
+learning_and_teaching_methods:
+- Two hour practical laboratory sessions to build, test and document circuits
+- Lab project based on circuits covered in lectures and labs but used to implement
+  an electronics based solution to an instrumentation and measurement problem
+- Lectures and integrated tutorials using typical classroom resources and Moodle and
+  other on-line resources.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,4,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning_outcomes: 3,5,6
+  main: false
+  name: Practical
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Alciatore, D. _Introduction to Mechatronics & Measurement Systems_. 4th ed.. USA:
+  McGraw Hill, 2011.'
+- 'Malvino, A. _Electronic Principles_. 8th ed.. USA: McGraw Hill, 2015.'
+- 'Nahvi, M. and J. Edminister. _Electric Circuits_. 4th ed.. USA: Schaum Outline
+  Series, 2002.'
+supplementary_material:
+- 'Tocci, R.J. and N. Widner. _Digital Systems: Principles and applications_. 12th.
+  USA: Pearson, 2016.'
+requested_resources:
+- 'ENGINEERING LAB: Electronics'
+mlo_to_po: ''
+track_changes: true
+
+
+

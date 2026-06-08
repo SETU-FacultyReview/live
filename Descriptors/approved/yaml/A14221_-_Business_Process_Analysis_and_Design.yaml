@@ -1,0 +1,113 @@
+reference: A14221
+full_title: Business Process Analysis and Design
+short_title: Bus. Proc. Analysis & Design
+credits: 10
+level: Postgraduate
+author: LDOYLE
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Information Systems and Modelling
+aim: This module addresses the analysis and design of business processes. The module
+  places emphasis on the role of information and information systems in business processes.
+  The module introduces the student to modelling techniques for representing business
+  process. It addresses methods to support the analysis and design of business processes
+  and techniques for measuring the performance level of processes. The module includes
+  techniques associated with lean and six-sigma approaches to process improvement.
+programmes:
+- timetable: BUSI-0004
+  code: WD_KCESS_R
+  name: MSc in Computer Science (Enterprise Software Systems)
+  stage: 1
+  semester: 0
+  status: E
+- timetable: BUSI-0004
+  code: WD_KISYP_R
+  name: Master of Science in Computing (Information Systems Processes)
+  stage: 1
+  semester: 0
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Overview of business process change
+- Business process management
+- Modelling organisations and processes
+- Business process analysis
+- Business process design
+- Process performance management
+- Business process management technologies
+learning_outcomes:
+- Justify the role of business process management within organisations.
+- Construct models using appropriate techniques to capture the nature of business
+  process.
+- Select and apply appropriate analytic techniques to characterise business process
+  performance.
+- Design business process using appropriate techniques.
+- Evaluate the role of information technologies in support of business processes.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and computer based practicals.
+- The lectures will be used to introduce new topics and their related concepts. Lectures
+  will be supplemented by participative case studies and independent reading on the
+  issues covered in the lecture material.
+- The practical element is intended to provide the student with the skills needed
+  to use and understand technologies available to assist in business process analysis
+  and design.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: 36
+- full_time: 12
+  name: Practical
+  part_time: 12
+- full_time: 222
+  name: Independent Learning
+  part_time: 222
+assessment_methods:
+- learning_outcomes: 1,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 2,5
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of business process analysis
+  and design.'
+- '40%-59%: Be able to describe and discuss key concepts of business process analysis
+  and design and ability to discover and integrate related knowledge in other knowledge
+  domains.'
+- '60%-69%: Be able to solve problems within business process analysis and design
+  by experimenting with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material:
+- 'Annupindi, R., S. Chopra, S. D. Deshmukh, J. Van Mieghem and E. Zemel. _Managing
+  Business Process Flows: Principles of Operations Management_. 3rd ed.. Harlow, Essex,
+  UK: Pearson, 2013.'
+- 'Freund, J. and B. Rucker. _Real-Life BPNM: Using BPMN 2.0 to Analyze, I__mprove,
+  and Automate Processes in Your Company_. 2nd ed. Berlin, Germany: Camunda.com, 2014.'
+- 'George, M. L. _Lean Six Sigma for Service_. London, UK: McGraw-Hill, 2003.'
+- 'Harmon, P. _Business Process Change_. 3rd ed. London, UK: Morgan Kaufmann, 2014.'
+supplementary_material:
+- 'Hammer, M. and J. Champy. _Reengineering the Corporation: A Manifesto for Business
+  Revolution_. Revised ed.. New York, NY, USA: Harper Business, 2001.'
+- 'Rummler, G.A. and A.P. Brache. _Improving Performance: How to Manage the White
+  Space on the Organisation Chart_. 3rd ed.. San Francisco, CA, USA: Jossey Bass,
+  2013.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+
+

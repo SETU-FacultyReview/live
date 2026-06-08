@@ -1,0 +1,104 @@
+reference: A11405
+full_title: Mathematics for GMP
+short_title: Mathematics for GMP
+credits: 10
+level: Introductory
+author: MBREEN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: This is an introductory course in mathematics and statistics. It assumed that
+  the student has a knowledge of very basic mathematics only.
+programmes:
+- timetable: MTHS-0019
+  code: WD_SGMPT_C
+  name: Higher Certificate in Science in Good Manufacturing Practice and Technology
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Mathematics fundamentals: fractions and percentages; units of measurement (S.I.
+  units) & scientific notation; use of formulae; decimal places and significant digits;
+  using a scientific calculator, including statistics mode; algebraic manipulation'
+- 'Statistics fundamentals: basic concepts; statistics and data defined; variables
+  and variable measure (scale, ordinal, nominal). Variable type/role (experimental
+  v observational, predictor v response). Descriptive v inferential statistics. Sampling
+  (probability v non-probability sampling). Measures of central tendency (mean, median,
+  mode) and spread (quartiles, standard deviation, range); plots -- histogram, stem
+  and leaf, ogives, boxplot, bar chart, pie-chart, pareto diagrams'
+- The normal distribution; calculating probabilities and quartiles; applications,
+  e.g. impacts on defective ppm of change in process parameters; assessing normality
+  - probability plots
+- Acceptance sampling; operating characteristics curves. the binomial distribution.
+- 'Simple regression: scatter plots and graphical estimation of regression equation;
+  prediction'
+- 'Software: using MS Excel; basic tabular calculations; Excel''s statistical functions
+  (mean, SD, normal, binomial, regression etc.); add-ins - Solver, data analysis;
+  constructing / configuring charts in Excel'
+learning_outcomes:
+- Complete arithmetic calculations and simple percentage calculations.
+- Use fundamental concepts to solve problems in linear algebra.
+- Use formula and calculators to calculate measures of centre and spread.
+- Illustrate data using histograms, ogives, scatter plots and stem and leaf diagrams.
+- Complete simple regression and use regression equation for prediction.
+- Use software to carry out statistical calculations.
+learning_and_teaching_methods:
+- Lectures.
+- IT practicals.
+- Reading recommended texts.
+learning_modes:
+- full_time: ''
+  name: Lecture
+  part_time: 24
+- full_time: ''
+  name: Independent Learning
+  part_time: 246
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '6'
+  main: false
+  name: Assignment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
+  technical ability/skill and understanding to carry out practical/professional tasks.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Show some technical
+  ability/skill in carrying out and reporting on practical/professional tasks.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Logically and competently carry out tasks.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter. Show ability to analyse
+  and logically argue in an effective and mature style. Demonstrate initiative and
+  the ability to criticise methods used.'
+- '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
+  and extensive understanding of the subject. Provide well focused analysis and convincing
+  argument on the subject.'
+essential_material:
+- 'O'' Reilly , J. _Applied Statistics [__ebook__]_. Dublin: Statistical Solutions,
+  2014.'
+supplementary_material:
+- 'Stroud, K. A. _Foundation Mathematics_. UK: Palgrave Macmillan, 2009.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,113 @@
+reference: A14027
+full_title: File System Forensics
+short_title: File System Forensics
+credits: 5
+level: Introductory
+author: JSHEPPARD
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Forensics and Security
+aim: The aims of this module are to provide students with an understanding of how
+  computer file systems organize and store data. Students will learn how different
+  operating systems arrange data. The student will use tools to extract and forensically
+  analyse these kinds of data.
+programmes:
+- timetable: COMP-0119
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 2
+  semester: 3
+  status: E
+- timetable: COMP-0119
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 3
+  status: E
+- timetable: COMP-0119
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0119
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 3
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Introduction: data analysis & organisation; the booting process'
+- 'Hard Disk Acquisition: Host Protected Areas (HPAs); write blockers; cryptographic
+  hashes'
+- 'Volume Analysis: partitioning schemes'
+- 'File System Analysis: file system category; content category; metadata category;
+  filename category; application category'
+- File Systems
+learning_outcomes:
+- Describe the concepts of partitions.
+- Demonstrate an awareness of issues surrounding the creation of forensic duplicates.
+- Analyse file systems of various kinds of operating systems.
+- Use a forensic toolkit.
+- Demonstrate how to retrieve deleted data.
+- Examine the conceptual types of data associated within a file system and how these
+  conceptual types of data are implemented in common file systems.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and practicals. The lectures
+  will be used to introduce new topics and their related concepts. The practical element
+  allows the student to put into practice the theoretical concepts covered in the
+  lectures. Practical work will include the student working with an industry standard
+  forensic toolkit.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Lab
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4,5,6
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to describe concepts of file systems. Unable to use and explain system
+  forensics tools and related OS utilities.'
+- '40%-49%: Can describe in detail major concepts of file systems. Able to use and
+  explain system forensics tools and related OS utilities.'
+- '50%-59%: All of the above and in addition can compare and contrast various different
+  file systems and data formats.'
+- '60%-69%: In addition, be capable of demonstrating an in depth understanding of
+  different file systems.'
+- '70%-100%: All above to an excellent level.'
+essential_material:
+- 'Carrier, B. _File System Forensic Analysis_. New York: Addison-Wesley, 2005.'
+supplementary_material:
+- '"Digital Investigation." http://www.sciencedirect.com/science/journal/17422876'
+- 'Altheide, C and H Carvey. _Digital Forensics with Open Source Tools_. United States:
+  Syngress, 2011.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

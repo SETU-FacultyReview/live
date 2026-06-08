@@ -1,0 +1,116 @@
+reference: A06318
+full_title: Microbial Ecology and Bioremediation
+short_title: Micro Ecology & Bioremediation
+credits: 5
+level: Intermediate
+author: NKENNEDY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Biology
+aim: This module will give students a broad introduction to the major elements of
+  microbial ecology and bioremediation. The interplay between microbe and macrobe
+  will be studied, with an emphasis on the role of this interaction in areas such
+  as the intestine and nutrient cycles in the environment. A series of laboratory-based
+  experiments plus field trips will be used to reinforce the theory elements of this
+  module.
+programmes:
+- timetable: ENVI-0007
+  code: WD_SMBIO_D
+  name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
+  stage: 3
+  semester: 6
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Introduction to microbial ecology: examples of microbial ecosystems, microbe/microbe
+  interactions, biofilms'
+- Microbe/macrobe interactions such as intestinal microflora, mycorrhizae
+- Culture-dependent and independent analysis of microbial communities, e.g. plate
+  counts, selective enrichment, microscope-based methods, Lux and GFP tagging, FISH,
+  DNA-based profiling, including high throughput sequencing methods
+- 'Wastewater treatment: traditional and newer remediation methods, nutrient removal
+  from wastewater'
+- 'Bioremediation in soils and water: xenobiotics, pollutant bioremediation'
+- Anaerobic digestion and composting
+- 'Field trips: field trips to facilities such as integrated wetland systems and wastewater
+  treatment plants'
+- 'Laboratory practicals: analysis of microbial diversity in natural ecosystems, using
+  both culture-dependent and independent techniques; isolation and characterisation
+  of microbes from the environment'
+learning_outcomes:
+- Apply appropriate culture-dependent and -independent methodologies for analysis
+  of microbial ecosystems.
+- Appraise the relationships microbes can have with each other and with macro-organisms.
+- Analyse the role of micro-organisms in a variety of microbial ecosystems, e.g. nutrient
+  cycles, biodegradation of pollutants, animal and human intestines.
+- Express how bioremediation can help to provide solutions to current issues of concern
+  to society.
+- Compare strategies for biological remediation and monitoring of pollution.
+- Prepare detailed records of activities of both laboratory and field visits.
+learning_and_teaching_methods:
+- Lectures on the indicative content will be delivered, including active learning
+  activities, peer-to-peer learning, and formative assessment (ungraded quizzes).
+- Laboratory investigations plus field trips will reinforce and support theoretical
+  elements of the module.
+- Independent case study assignment on bioremediation will be carried out.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 1,6
+  main: false
+  name: Practical
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '5'
+  main: false
+  name: Assignment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: No understanding of the basic principles of microbial ecology and bioremediation.'
+- '40%-49%: The student has a basic understanding of the fundamental principles of
+  the module. May have some difficulty with applying this theory.'
+- '50%-59%: All the above in addition to evaluation of practical data.'
+- '60%-69%: In addition to the above plus show a high level of competence and efficiency
+  in the subject area.'
+- '70%-100%: Student will demonstrate a high level of understanding plus be able to
+  critically evaluate and discuss the significance of the module.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- '" Moodle e-learning platform." Lecturers may also assign reading from relevant
+  current literature (e.g. journal articles).'
+- 'Madigan, M.T., J.M. Martinko, D.A. Stahl and D.P. Clark. _Brock Biology of Microorganisms_.
+  13th ed. UK: Benjamin Cummings (Pearson), 2011.'
+supplementary_material:
+- 'Northup, D.E. and L.L. Barton. _Microbial Ecology_. USA: Wiley-Blackwell, 2011.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'Room Type: Biology Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

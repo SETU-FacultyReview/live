@@ -1,0 +1,146 @@
+reference: A13489
+full_title: Data Structures and Algorithms 1
+short_title: Data Structures & Algorithms 1
+credits: 5
+level: Introductory
+author: PCAREW
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Software and Web Development
+aim: Implement, from first principles, custom and general purpose data structures
+  and algorithms that are efficient, thread safe, and robustly tested and validated.
+programmes:
+- timetable: COMP-0602
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0602
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0602
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0602
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0602
+  code: WD_KCOMC_D
+  name: Bachelor of Science in Software Systems Development
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0602
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 3
+  status: M
+- timetable: COMP-0602
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0602
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0602
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0602
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Implementing Data Structures: Abstract Data Types (ADTs); Lists; Sets; Stacks;
+  Queues; Maps'
+- 'Implementing Search Algorithms: Linear; Binary; Hashing; Other'
+- 'Implementing Sorting Algorithms: Selection; Bubble; Insertion; Other'
+- Recursive Algorithms
+- Multithreading and Concurrency Issues
+- Test-Driven Development for Data Structures and Algorithms
+learning_outcomes:
+- Construct, from first principles, custom and general purpose data structures.
+- Construct suitable and efficient search algorithms for different data structures.
+- Construct efficient sorting algorithms for different data structures.
+- Use recursion in algorithmic implementations.
+- Explain the issues surrounding, and be able to implement solutions for, concurrently
+  accessed data structures.
+- Construct robust data structures and efficient algorithms in a systematic, test-driven
+  fashion.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and computer-based practicals
+  whilst capitalising on a web-enhanced learning environment.
+- Students will work on building a portfolio of practical project work.
+- Cooperative and peer learning (e.g. pair-programming, teamwork).
+- Self-directed learning.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 12
+- full_time: 36
+  name: Practical
+  part_time: 12
+- full_time: 75
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,6
+  main: false
+  name: Portfolio
+  weighting: 70
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to describe or implement basic data structures and algorithms.'
+- '40%-49%: Able to describe and implement basic data structures and algorithms.'
+- '50%-59%: Able to choose and apply appropriate data structures and algorithms to
+  solve problems.'
+- '60%-69%: Able to choose and apply appropriate data structures and algorithms to
+  solve complex problems.'
+- '70%-100%: Able to critically choose, analyse and design custom data structures
+  and algorithmic solutions to a high standard for a range of both complex and unforeseen
+  problems.'
+essential_material: []
+supplementary_material:
+- '"Khan Academy Computer science alogrithms." https://www.khanacademy.org/computing/computer-science/algorithms'
+- 'Sedgewick, R. and K. Wayne. _Algorithms_. NY: Addison-Wesley, 2011.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

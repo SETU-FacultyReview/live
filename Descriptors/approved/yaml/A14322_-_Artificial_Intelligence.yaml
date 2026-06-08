@@ -1,0 +1,114 @@
+reference: A14322
+full_title: Artificial Intelligence
+short_title: Artificial Intelligence
+credits: 5
+level: Advanced
+author: PCAREW
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Software and Web Development
+aim: The purpose of this module is to introduce the student to the fundamental concepts
+  of Artificial Intelligence. The student will be introduced to symbolic A.I., knowledge
+  representation, search techniques and an A.I. programming paradigm.
+programmes:
+- timetable: COMP-0215
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0215
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0215
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0215
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0215
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0215
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'History of A.I: Introduction to problem characteristics; Historical and contemporary
+  applications'
+- 'Knowledge representation techniques: Trees; Productions; Frames; Semantic networks;
+  Predicate calculus and theorem proving'
+- 'Search: Un-informed; Bi-directional; Heuristic; Constraint based; Application domains'
+- 'A.I. architectures: Planning and case based reasoning; Production systems; Rule
+  based systems; Agent, reactive and blackboard systems; Non-monotonic systems; Neural
+  networks; Natural language systems'
+- 'Practical Programme: The student will exposed to A.I. problems in practical sessions
+  using an A.I language such as Prolog'
+learning_outcomes:
+- Appraise various knowledge representation techniques.
+- infer using the rules of logic as applied in predicate calculus.
+- Appraise different heuristic search techniques and their applications.
+- Construct programs in an Artificial Intelligence based language.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and computer-based practical.
+- The lectures will be used to introduce new topics and their related concepts.
+- The practical element is intended to provide the student with the necessary skills
+  to represent and solve A.I. problems using a suitable programming language.
+- Student will be expected to read ahead on lecture content.
+- Student will be expected to complement lecture content with self-learning.
+- Student will be expected to develop skills to solve problems using A.I. language
+  in practicals.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 100
+assessment_criteria:
+- '<40%: Unable to explain the principles of AI techniques for solving simple problems.'
+- '40%-49%: Able to explain the principles of AI techniques for solving simple problems.'
+- '50%-59%: Able to explain and apply AI techniques for solving problems.'
+- '60%-69%: Able to explain, choose and apply AI techniques for solving complex problems.'
+- '70%-100%: Able to critically choose, adapt and apply complex AI techniques for
+  solving complex problems.'
+essential_material: []
+supplementary_material:
+- 'Luger, G. _Artificial Intelligence: Structures and Strategies for Complex Problem
+  Solving_. 6th ed. Harlow: Addison Wesley, 2008.'
+- 'Negnevitsky, M. _Artificial Intelligence: A Guide to Intelligent Systems_. 3rd
+  ed. Harlow: Addison Wesley, 2011.'
+- 'Russell, S. and P. Norvig. _Artificial Intelligence: A Modern Approach_. 3rd ed.
+  NJ: Prentice Hall, 2009.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

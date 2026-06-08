@@ -1,0 +1,113 @@
+reference: A08421
+full_title: Arboriculture
+short_title: Arboriculture
+credits: 5
+level: Intermediate
+author: EWOODBYRNE
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Horticulture
+aim: Arboriculture aims to provide the student with an understanding of the principles
+  and processes involved in the establishment and management of amenity trees.
+programmes:
+- timetable: HORT-0043
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 6
+  status: M
+- timetable: HORT-0043
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 6
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Benefits of trees and valuation of trees
+- Tree establishment and management; species selection, planting including semi-mature
+  trees, pruning, tree response to wounding
+- Decay detection in trees
+- Tree pests and pathogens
+- Tree hazard assessment and management
+- Importance and management of veteran, ancient and heritage trees
+- Protection of trees in the development process
+- Amenity woodland management
+learning_outcomes:
+- Debate the benefits of trees and apply a method for valuing amenity trees.
+- Relate the processes involved in tree establishment and maintenance to the development
+  of healthier trees.
+- Compare a range of technologies for detecting decay in trees.
+- Inspect trees for hazards and propose appropriate solutions.
+- Explain the principles of managing trees (including veteran, ancient, and heritage
+  trees), including pest and pathogen impact.
+- Associate the potential impacts of the development process on trees with the strategies
+  used to protect trees in this context.
+- Analyse the importance of amenity woodlands and explain the processes involved in
+  managing these woodlands.
+learning_and_teaching_methods:
+- Lectures
+- Fieldwork/tree walks
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Field Trips
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: '7'
+  main: false
+  name: Group Project
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Project
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Little or no knowledge and understanding of the subject matter. Fails to
+  meet project objectives.'
+- '40%-49%: Demonstrates a basic level of knowledge and understanding. Project objectives
+  achieved to a basic level.'
+- '50%-59%: Demonstrates a satisfactory level of knowledge and understanding. Good
+  attempt to achieve project objectives.'
+- '60%-69%: Demonstrates a very good level of understanding, analysis and evaluation.
+  Project objectives achieved.'
+- '70%-100%: Demonstrates an excellent level of understanding, analysis and evaluation.
+  Project objectives achieved.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Collins, K, ed. _Amenity Trees and Woodlands: A Guide to their Management in Ireland_.
+  Dublin: Tree Council of Ireland, 2010.'
+- 'Watson, R. _Trees: Their Use, Management, Cultivation and Biology_. Wiltshire:
+  Crowwood Press, 2006.'
+supplementary_material:
+- 'British Standards Institution. _BS 3998 Tree Work: Recommendations_ London. 2010.'
+- 'British Standards Institution. _BS 5837 Trees in Relation to Design, Demolition
+  and Construction: Recommendations_ London. 2012.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

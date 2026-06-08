@@ -1,0 +1,131 @@
+reference: A05844
+full_title: Enterprise Studies
+short_title: Enterprise Studies
+credits: 5
+level: Advanced
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Business
+aim: This module focuses on providing the student with a set of skills useful for
+  employment within an engineering enterprise in terms of developing the ability to
+  work in teams, to communicate within a range of stakeholders, to develop problem
+  solving skills and to increase awareness of ethical considerations, including health
+  and safety issues.
+programmes:
+- timetable: ''
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 3
+  semester: 6
+  status: M
+- timetable: ENTS-0001
+  code: WD_EELEC_B
+  name: Bachelor of Science (Honours) in Applied Electronics
+  stage: 2
+  semester: 4
+  status: M
+- timetable: ''
+  code: WD_EONIC_B
+  name: Bachelor of Engineering (Honours) in Electronic Engineering
+  stage: 3
+  semester: 6
+  status: M
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 3
+  semester: 6
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Project management and production system networks (resource management, setting
+  realistic milestones, marshalling available resources).
+- Maintenance, performance, quality and reliability measures (quality assurance techniques,
+  productivity measures, equipment effectiveness).
+- Workplace behaviour and expectations, and maximising placement outcomes (guidelines
+  to effective meetings, reporting requirements, record keeping, effective teamwork,
+  identification of learning outcomes and activities).
+- Engineering ethics and communications (requirement for ethical standards in professional
+  and private capacity, reports, presentation skills).
+learning_outcomes:
+- Apply project management skills in engineering environments.
+- Communicate standard engineering system performance criteria to a range of stakeholders.
+- Evaluate the requirements of professional conduct and the responsibilities of engineers
+  in a range of circumstances.
+- Propose a coherent team-based approach for industrial and commercial environments.
+learning_and_teaching_methods:
+- Lectures
+- Problems
+- Formative MCQ
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Lab
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '2'
+  main: false
+  name: Presentation
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4
+  main: false
+  name: Tutorial/Problem Sheets
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- '"Engineers Ireland (2009) Code of Ethics." http://www.engineersireland.ie/about/code-of-ethics-and-bye-laws.aspx'
+- 'Meredith, J.R. and S.J. Mantel. _Project Management: A Managerial Approach_. 7th
+  ed.. Asia: Wiley, 2010.'
+supplementary_material:
+- 'Greasley, A. _Operations Management_. 3rd Ed. Chichester: Wiley, 2013.'
+- 'Tonso, K.L. _Teams that work: Campus culture, engineer identity, and social interactions_.
+  January 25-37. .: Journal of Engineering Education, 2006.'
+- 'Various incl. Andersson, C. and M. Bellgran. "On the complexity of using performance
+  measures: Enhancing sustained production improvement capability by combining OEE
+  and productivity." _Journal of Manufacturing Systems_ 35. (2015): 144-154.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

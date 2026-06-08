@@ -1,0 +1,98 @@
+reference: A13951
+full_title: Digital Media Programming
+short_title: Digital Media Programming
+credits: 5
+level: Intermediate
+author: CDUNPHY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Media Production
+aim: This module builds on strengths already gained in programming, digital media,
+  and user experience. Students will build platform appropriate/independent UIs to
+  develop software which uses or interacts with digital media by using relevant tools,
+  software libraries, software frameworks, and environments.
+programmes:
+- timetable: COMP-0667
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 3
+  semester: 5
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Interaction design patterns: visual hierarchy; navigational distance'
+- Choosing interaction styles and interaction techniques
+- 'Presenting information: navigation; representation; manipulation'
+- Modern UI libraries and frameworks
+- Social and digital media APIs & frameworks
+- Programmatic drawing; geometry; animation
+- Programmatic image processing
+- Programmatic sound & video processing
+- Cross platform development
+- Optimization for resource-constrained devices
+learning_outcomes:
+- Differentiate User Interfaces across multiple platforms. (Remembering).
+- Design user interface consistent with digital media programming concepts (Understanding).
+- Build a simple application with a modern graphical user interface (Creating).
+- Build an interactive application utilising digital media libraries and frameworks.
+  (Creating).
+learning_and_teaching_methods:
+- This module will be characterised by student participation in both formal theoretical
+  and practical classroom activities in which students learn theoretical concepts
+  and apply them immediately using dedicated hardware and software.
+- Studio classes will be delivered in two 2-hour blocks.
+learning_modes:
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '3'
+  main: false
+  name: Project
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Project
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of digital media programming.'
+- '40%-49%: Be able to interpret and describe key concepts of digital media programming.'
+- '50%-59%: Ability to discuss key concepts of media programming and ability to discover
+  and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within digital media programming by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material: []
+supplementary_material:
+- '"Adobe TV." http://tv.adobe.com'
+- '"lynda.com." www.lynda.com'
+requested_resources:
+- 'Room Type: Computer Lab'
+- 'COMPUTER LAB: Multimedia Lab'
+- 'EQUIPMENT: MAC PCs'
+mlo_to_po: ''
+track_changes: true
+
+
+

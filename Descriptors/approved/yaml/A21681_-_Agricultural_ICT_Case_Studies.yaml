@@ -1,0 +1,101 @@
+reference: A21681
+full_title: Agricultural ICT Case Studies
+short_title: AG Case Studies
+credits: 5
+level: Advanced
+author: UMCCARTHY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: AgriFoodICT
+aim: This module aims to provide students with an understanding of state of the art
+  tools and technologies at currently being deployed at work in the industry. This
+  course will involve a number of relevant guest speakers discussing both experience
+  and presenting case studies as well as a number of field trips to relevant stakeholders.
+programmes:
+- timetable: ''
+  code: WD_18AFICT_G
+  name: Higher Diploma in Science in Agi-Food ICT Systems
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMP-0979
+  code: WD_SAFICT_G
+  name: HDip in Science in Agri-Food ICT Systems
+  stage: 5
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Evolution of ICT in the Agri Food Sector
+- Guest Lecturers and Seminars
+- State of the art in Agri Food ICT Application
+- Sensor Technology and connectivity application and demonstrations
+learning_outcomes:
+- Appraise current best practice within the Agri Food sector.
+- Compare different capabilities of sensing technologies across the sector.
+- Assess the principles of Agro Food ICT technologies.
+- Demonstrate methodologies and techniques for the analysis of Agri Data to produce
+  reports based on seminars and field trips.
+- Discuss the evolution of ICT in the Agri Food Sector.
+- Explore ICT services and technologies from the perspective of security, privacy
+  and cost.
+- Compare and contrast the main technologies used in the Agri Food sector.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures, guest lectures, practicals
+  and field trips.
+- The lectures will be used to introduce new topics and their related content.
+- Many topics will be supported with case studies and examples.
+- The student will be encouraged to participate in class discussions ask questions
+  to support their learning.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6,7
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,4,6
+  main: false
+  name: Project
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,6,7
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,5,7
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inadequate achievement of the learning outcomes.'
+- '40%--49%: Will be able to show a basic level of achievement in relation to the
+  key learning outcomes. Relatively poor analytical and communication skills.'
+- '50%--59%: Reasonable achievement of learning outcomes. Good analytical and communication
+  skills.'
+- '60%--69%: In addition, the student will demonstrate more detailed achievements
+  of project goals including demonstrating an ability to evaluate knowledge acquired.'
+- '70%--100%: The learner will be able to demonstrate comprehensive knowledge and
+  understanding of all learning outcomes, predict general trends in behaviour including
+  exceptional behaviour, and critically evaluate and relate topics.'
+essential_material: []
+supplementary_material: []
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,172 @@
+reference: A07559
+full_title: Introductory Mathematics
+short_title: Introductory Mathematics
+credits: 5
+level: Introductory
+author: ADALYWALSH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: This module will introduce the student to linear and non-linear algebra. It will
+  explore the basics of trigonometry and how it relates to waves. There is an emphasis
+  throughout this module on the role of mathematics in the sciences, including real
+  world applications.
+programmes:
+- timetable: MTHS-0001
+  code: WD_KPHTE_B
+  name: BSc (Hons) in Physics for Modern Technology
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0001
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0001
+  code: WD_SFDSC_D
+  name: Bachelor of Science in Food Science with Business
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0001
+  code: WD_SFSIN_B
+  name: BSc (Hons) in Food Science and Innovation
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0001
+  code: WD_SMBIO_B
+  name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
+    Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0001
+  code: WD_SMBIO_D
+  name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0001
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0001
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0001
+  code: WD_SSCCM_B
+  name: BSc (Hons) in Science (Common Entry)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: MTHS-0001
+  code: WD_SSCIE_D
+  name: Bachelor of Science (Common Entry)
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Arithmetic: review of arithmetic operations; fractions; significant figures; decimal
+  places; percentages and ratios'
+- 'Introduction to algebra: simplifying algebraic expressions; factorisation and algebraic
+  fractions'
+- 'Transposition and solution of equations: rearranging a formula; solving linear
+  equations; solving simultaneous equations; solving quadratic equations'
+- 'Introduction to functions: straight line function; polynomial function; rational
+  function; exponential function; logarithmic function'
+- 'Angles: measuring angles; length of an arc and area of a sector'
+- 'Introduction to trigonometry: trigonometric ratios; finding the angle given one
+  of the ratios; extended definition of trigonometric ratios; trigonometric functions
+  and their graphs'
+- 'Trigonometric identities and equations: solution of triangles using Pythagoras''
+  theorem, sine and cosine rule; area of a triangle'
+- 'Application of trigonometry to waves: general equation of a sine wave; construction
+  of a sine wave from a circle'
+learning_outcomes:
+- Use and manipulate routine algebraic and trigonometric calculations.
+- Construct linear, non-linear and trigonometric equations of varying complexity.
+- Sketch linear, polynomial, rational, growth and trigonometric functions.
+- Interpret linear, polynomial, rational, growth and trigonometric functions in a
+  meaningful way.
+- Construct mathematical expressions for problems of an applied nature in the science
+  environment.
+- Explain results obtained from problems of an applied nature in the science environment.
+learning_and_teaching_methods:
+- Lectures.
+- Online exercises.
+- Technology to enhance the learning experience.
+- Self-directed learning is emphasised.
+- Students are supported with notes, online material and feedback.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Online Delivery
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 4,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: 1,2,3
+  main: false
+  name: In-Class Assessment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3
+  main: false
+  name: Tutorial/Problem Sheets
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to identify and describe key concepts of algebra and trigonometry.'
+- '40%-49%: Ability to identify and describe key concepts of algebra and trigonometry.'
+- '50%-59%: Ability to discuss key concepts of algebra and trigonometry clearly and
+  interpret their relative importance.'
+- '60%-69%: Ability to apply solutions to problems based on algebra and trigonometry
+  in a range of relevant contexts. An ability to employ a comprehensive range of specialised
+  skills.'
+- '70%-100%: All the above to an excellent level, with the ability to analyse and
+  design solutions to algebraic and trigonometric problems to a high standard, for
+  a range of complex or unseen problems.'
+essential_material:
+- 'Croft, A. and R. Davison. _Foundation Maths_. 5th Edition. England: Pearson Education
+  Limited, 2010.'
+supplementary_material:
+- '"Loughborough University, U.K." MathCenter. www.mathcenter.ac.uk'
+- 'Aufmann, R.N., V.C. Barker and R.D. Nation. _College Algebra and Trigonometry_.
+  8th Edition. Boston: Houghton Mifflin, 2001.'
+- 'Bird, J.O. and A.J.C May. _Technician Mathematics 1_. 3rd Edition. Malaysia: Longman,
+  1994.'
+- 'Bird, J.O. and A.J.C. May. _Technician Mathematics 2_. 3rd Edition. Malaysia: Longman,
+  1994.'
+- 'Bird, J.O. and A.J.C. May. _Technician Mathematics 3_. 2nd Edition. Malaysia: Longman
+  , 1994.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

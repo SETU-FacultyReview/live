@@ -1,0 +1,123 @@
+reference: A27463
+full_title: Electronic Devices and Systems
+short_title: Electronic Devices and Systems
+credits: 5
+level: Introductory
+author: CKEARY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: This module introduces the student to digital devices and systems. The structure
+  and principle of operation of bipolar and field effect devices will be described.
+  The fundamental building blocks of digital design across several levels of abstraction,
+  from semiconductor devices to logic gates to registers, will be introduced. The
+  student will learn how to design a range of basic combinational and sequential circuits
+  with implementation at logic circuit level. This will be accompanied by a comprehensive
+  study of digital electronics and digital circuits in the laboratory setting.
+programmes:
+- timetable: ELEC-0021
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 3
+  status: E
+- timetable: ELEC-0021
+  code: WD_KINTT_B
+  name: BSc (Hons) in the Internet of Things
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ELEC-0021
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Bipolar devices: review of pn junction diode and characteristics; bipolar junction
+  transistor: structure, principle of operation and characteristics'
+- 'Field effect devices: field effect transistor (MOSFET and CMOS); structure, principle
+  of operation and characteristics'
+- 'Digital devices: digital concepts and components, logic families'
+- 'Combinational logic: circuits and design'
+- 'Sequential logic: latches and flip-flops, registers, asynchronous and synchronous
+  counters; waveform/timing diagrams'
+- Decoders, demultiplexers and multiplexers
+learning_outcomes:
+- Describe and explain the structure and principle of operation of bipolar and field
+  effect devices.
+- Describe a range of digital devices based on combinational and sequential logic.
+- Discuss a range of design issues in digital devices; plot and analyze timing diagrams.
+- Demonstrate problem solving and investigative skills in conjunction with the integrated
+  practical programme, and present results in the form of a report.
+learning_and_teaching_methods:
+- 'Lectures: The lectures will be used to present new topics and their related concepts.
+  Techniques used to design a range of combinational and sequential logic circuits
+  and devices will be introduced in lectures.'
+- 'Laboratory-based practicals: An integrated practical programme is designed to run
+  in parallel with lectures. This will allow the student to develop experimental skills
+  in the design and construction of a range of combinational and sequential circuits.
+  The importance of planning of experiments, data acquisition, and data analysis will
+  be emphasised throughout.'
+- Self-directed study.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: '4'
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: '4'
+  main: false
+  name: Practical
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to demonstrate a basic understanding of elementary digital devices
+  and systems. An understanding of very little of the course content.'
+- '40%-49%: Able to produce diagrams of digital devices and systems but unable to
+  explain clearly principle of operation. Able to provide partial solutions to circuit
+  problems.'
+- '50%-59%: Able to describe clearly principles of operation of a range of digital
+  circuits. Able to analyse digital devices and systems and provide solutions to circuit
+  problems. Demonstrates an understanding of the mathematical techniques used in circuit
+  analysis.'
+- '60%-69%: Able to apply problem-solving techniques to new similar circuit problems.
+  Demonstrates an ability to design a digital system from a number of component parts.'
+- '70%-100%: All the previous to an excellent level. Demonstrates an understanding
+  of the limitations of digital circuits and systems and subsequent consequences.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material: []
+supplementary_material:
+- 'Floyd, T. _Digital Fundamentals_. 11th ed. USA: Prentice-Hall, 2014.'
+- 'Harris, D. and S. Harris. _Digital Design and Computer Architecture_. 2nd ed. USA:
+  Morgan Kaufmann, 2012.'
+- 'Storey, N. _Electronics: A Systems Approach_. 5th ed. UK: Pearson, 2013.'
+- 'Wakerly, J. _Digital Design: Principles and Practices_. 4th ed. USA: Prentice-Hall,
+  2005.'
+requested_resources:
+- 'SCIENCE LAB: Physics'
+mlo_to_po: ''
+track_changes: true
+
+
+

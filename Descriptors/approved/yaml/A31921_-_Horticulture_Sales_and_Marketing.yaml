@@ -1,0 +1,99 @@
+reference: A31921
+full_title: Horticulture Sales and Marketing
+short_title: Hort Sales and Mkt
+credits: 5
+level: Intermediate
+author: CDALY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Business
+aim: The aim of the module is to introduce the student to the principles and practices
+  of marketing, sales and customer service within the horticulture industry.
+programmes:
+- timetable: HORT-0042
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 5
+  status: M
+- timetable: HORT-0042
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 5
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Overview of Marketing Principles and Practices
+- Target Marketing, Segmentation and Positioning
+- The Four Ps of Marketing, Product, Price, Place and Promotion
+- Consumer Buyer Behaviour
+- Drivers of Change within Horticulture & Supply Chain Management
+- The Selling Process
+- Negotiation and Closing the Sale
+- Overview of Customer Service and Key Customer Service Behaviours
+- Handling Complaints and Difficult Customers
+- Designing a Service Blueprint
+learning_outcomes:
+- Compare the key marketing concepts and practices in business today.
+- Analyse and determine appropriate marketing techniques for successful marketing
+  campaigns.
+- Examine effective selling techniques.
+- Analyse and determine the principles and practices of good customer service management
+  for small businesses.
+- Design a service blueprint for a business and evaluate how it may be measured by
+  staff and customers of the business.
+learning_and_teaching_methods:
+- Lectures
+- Case Studies
+- Role Plays
+- Workshops
+learning_modes:
+- full_time: 48
+  name: Lecture
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very little knowledge and understanding of the subject matter. Unable to
+  carry out critical thinking or practical skills.'
+- '40%-49%: Demonstrates a limited knowledge of the subject matter. May have some
+  problems with critical thinking and problem solving. Adequate practical skills.'
+- '50%-59%: Demonstrates satisfactory general knowledge of the main issues within
+  the subject. Good practical skills.'
+- '60%-69%: Demonstrates skilled and sound knowledge of the subject matter. Shows
+  ability to analyse and logically discuss in an effective way. Good critical thinking
+  and a high level of competence and efficiency in theoretical and practical areas
+  of this subject.'
+- '70%-100%: All of the above to an excellent level. Demonstrates authoritative handling
+  of complex material and a highly developed and extensive understanding of the subject.'
+essential_material:
+- 'Rogan, D. _Marketing an introduction for Irish Students_. 4th. Dublin: Gill and
+  Macmillan, 2011.'
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

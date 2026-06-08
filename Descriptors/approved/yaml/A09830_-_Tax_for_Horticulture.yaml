@@ -1,0 +1,86 @@
+reference: A09830
+full_title: Tax for Horticulture
+short_title: Tax for Horticulture
+credits: 5
+level: Intermediate
+author: LWALSH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Business
+aim: This module will provide students with knowledge and practical skills to comply
+  with obligations relating to the self-assessment and payment of Value Added Tax
+  (VAT), Income Taxes, Universal Social Charge (USC), Pay Related Social Insurance
+  (PRSI) and minimise business exposure to Capital Gains Tax (CGT) and Capital Acquisitions
+  Tax (CAT).
+programmes:
+- timetable: HORT-0045
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 6
+  status: M
+- timetable: HORT-0045
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 6
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'VAT: how the VAT system operates, registration, records, returns'
+- 'Income taxes, USC and PRSI: how to calculate taxable income. Calculation of liability
+  (owner''s liability and on behalf of employees); required records; payment and filing
+  obligations'
+- 'CGT: how CGT operates; business related exemptions and reliefs'
+- 'CAT: how CAT operates; reliefs for the acquisition of a farm or business'
+learning_outcomes:
+- Complete the basic requirements of the VAT system.
+- Calculate taxable income and liability for the purpose of income taxes and determine
+  payment and filing obligations.
+- Prepare income tax, USC and PRSI records required as an employer.
+- Illustrate how CGT and CAT operates, and the exemptions and reliefs available to
+  reduce business exposure to CGT and CAT liability on the transfer of a farm or business.
+learning_and_teaching_methods:
+- Lecturers and practical exercises.
+- Class and group discussions.
+- Pre-lecture preparation of readings and exercises for in-class discussion.
+- Self-study of assigned readings, exercises and texts.
+learning_modes:
+- full_time: 48
+  name: Lecture
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1, 2, 3, 4
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+assessment_criteria:
+- '<40%: Very little knowledge and understanding of the subject matter. Unable to
+  carry out critical thinking or practical skills.'
+- '40%-49%: Demonstrates a limited knowledge of the subject matter. May have some
+  problems with critical thinking and problem solving. Adequate practical skills.'
+- '50%-59%: Demonstrates satisfactory general knowledge of the main issues within
+  the subject. Good practical skills.'
+- '60%-69%: Demonstrates skilled and sound knowledge of the subject matter. Shows
+  ability to analyse and logically discuss in an effective way. Good critical thinking
+  and a high level of competence and efficiency in theoretical and practical areas
+  of this subject.'
+- '70%-100%: All of the above to an excellent level. Demonstrates authoritative handling
+  of complex material and a highly developed and extensive understanding of the subject.'
+essential_material:
+- '"Revenue (Irish Taxes and Customs)." www.revenue.ie'
+supplementary_material:
+- 'Various, I. T. I. _Taxation Summary_. Dublin: Irish Tax Institute, Annually.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

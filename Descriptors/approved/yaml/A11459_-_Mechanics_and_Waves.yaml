@@ -1,0 +1,113 @@
+reference: A11459
+full_title: Mechanics and Waves
+short_title: Mechanics and Waves
+credits: 5
+level: Introductory
+author: EMOLLOY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: This module is a calculus-based module. It introduces the differential and integral
+  calculus required for the solution of dynamics problems. Vector calculus and linear
+  algebra are also introduced as required. The physics content is dynamics and waves.
+programmes:
+- timetable: PHYI-0009
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 2
+  semester: 3
+  status: M
+- timetable: PHYI-0009
+  code: WD_SSCIE_D
+  name: Bachelor of Science (Common Entry)
+  stage: 1
+  semester: 2
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Vectors and scalars: dot and cross products'
+- Kinematics
+- Newton's laws of motion
+- Motion under a general potential
+- Work and energy
+- 'Uniform circular motion: angular momentum'
+- 'Simple harmonic motion including damping: simple treatment of resonance'
+- 'Collisions: conservation laws; mechanical energy, total energy and momentum'
+- Mathematical description of a wave
+- Energy, power and intensity in wave motion
+- Reflection, refraction, diffraction, interference, polarisation and Doppler effect
+- 'Light waves: geometrical optics; lenses and mirrors'
+- 'Sound waves: acoustics'
+- 'Practical programme: determination of g; investigation of Newton''s second law;
+  friction; measurement of wavelength of light and sound; determination of refractive
+  index; focal lengths of lenses and mirrors'
+learning_outcomes:
+- Describe the fundamentals of mechanics by being able to solve relevant problems.
+- Describe the fundamentals of wave motion by being able to solve relevant problems.
+- Record and analyse experimental data and present results in the form of a report.
+- Communicate results in a presentation to peers.
+learning_and_teaching_methods:
+- Lectures.
+- Tutorials.
+- Practical/computer labs.
+- Additional reading material.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 6
+  name: Tutorial
+  part_time: ''
+- full_time: 18
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '3'
+  main: false
+  name: Practical
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Presentation
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Student has demonstrated a very limited knowledge of the course material.
+  He/She is unable to carry out critical thinking of subject area.'
+- '40%-49%: Student has demonstrated an adequate knowledge of the course material.
+  He/She is able to carry out some critical thinking of subject area.'
+- '50%-59%: Shows a reasonable level of understanding of the various principles involved.'
+- '60%-69%: Shows good knowledge of the area. Shows ability to reason and analyse
+  problems in this area.'
+- '70%-100%: Excellent knowledge of the subject area. Excellent reasoning skills and
+  focused well thought out arguments.'
+essential_material: []
+supplementary_material:
+- 'Gregory, D.R. _Class Mechanics_. 1st ed. UK: Cambridge University Press, 2006.'
+- 'Woolfson, D. _Resonance Applications in Physical Science_. 1st ed. USA: Cambridge
+  University Press, 2015.'
+requested_resources:
+- 'SCIENCE LAB: Physics'
+mlo_to_po: ''
+track_changes: true
+
+
+

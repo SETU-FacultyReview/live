@@ -1,0 +1,103 @@
+reference: A11147
+full_title: Digital Electronics
+short_title: Digital Electronics
+credits: 5
+level: Introductory
+author: EREADE
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Automotive, Automation and IoT
+aim: 'The logical outputs of digital circuits are determined by the logical function
+  being performed and the logical input states at that particular moment. The design
+  of combinational logic circuits is arguably the most important topic in logic design
+  and a thorough understanding of the principles of combinational design is an essential
+  prerequisite to the design of more complex sequential systems, e.g. counters, registers
+  and memories, and categorised as: asynchronous or synchronous. Programmable implementations
+  may also be investigated.'
+programmes:
+- timetable: COMP-0556
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 4
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Number Systems.
+- Boolean Algebra, Operators and Codes.
+- Applications of combinational & sequential logic.
+- Combinational and sequential implementations in digital circuits.
+- Logic families.
+learning_outcomes:
+- Explain the fundamental concepts of combinational and sequential logic design.
+- Construct, simplify and convert Boolean expressions.
+- Define, analyse and design combinational and sequential logic circuits using SSI/MSI
+  components.
+- Explain the differences between asynchronous and synchronous sequential circuits
+  and implement counter and register applications.
+- Interpret data sheets and display a good understanding of the main characteristics
+  of the different logic families.
+- Demonstrate the ability to build, simulate and test digital circuits.
+- Demonstrate a thorough knowledge of number systems, binary operations and codes.
+learning_and_teaching_methods:
+- Lectures.
+- Practicals / Project.
+- Integrated demonstrations and examples.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,4,7
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning_outcomes: 3,5,6
+  main: false
+  name: Practical
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- <40%:Unable to interpret and describe key concepts of the specific knowledge domain(s).
+- 40%-49%:Be able to interpret and describe key concepts of the specific knowledge
+  domain(s).
+- 50%-59%:Ability to discuss key concepts of the specific knowledge domain and ability
+  to discover and integrate related knowledge in other knowledge domains.
+- 60%-69%:Be able to solve problems within the specific knowledge domain(s) by experimenting
+  with the appropriate skills and tools.
+- 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+essential_material:
+- '"Orcad PCB Design Solutions." www.orcad.com'
+- '"Programmable Logic. ." www.xilinx.com'
+- 'Floyd, T. . _Digital Fundamentals_ . 10th Ed. . NY: Prentice Hall, 2008.'
+- 'Lewin, D. and D. Protheroe. _Design of Logic Systems_. NY: Chapman & Hall, 1992.'
+- 'Wakerly, J. . _Digital Design, Principles and Practices_. 3rd Ed. . NY: Prentice
+  Hall, 2005.'
+supplementary_material:
+- 'Ashenden, P. _The Students Guide to VHDL._ . 2nd ed.. San Francisco: Morgan Kauffman,
+  2008.'
+- 'Katz, H. and G. Borriello. _Contemporary Logic Design_. 2nd ed. . New Jersey: Prentice
+  Hall, 2005.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'ENGINEERING LAB: Electronics'
+mlo_to_po: ''
+track_changes: true
+
+
+

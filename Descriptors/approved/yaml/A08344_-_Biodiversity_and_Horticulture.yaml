@@ -1,0 +1,124 @@
+reference: A08344
+full_title: Biodiversity and Horticulture
+short_title: Biodiversity and Horticulture
+credits: 5
+level: Intermediate
+author: DFLANAGAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Horticulture
+aim: This module introduces the student to the principles of ecology and ethics of
+  biodiversity. Students will gain an understanding of the role that horticulture
+  can play in the conservation and development of biodiversity.
+programmes:
+- timetable: HORT-0030
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 3
+  status: M
+- timetable: HORT-0030
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Ethics of conservation and biodiversity
+- Principles of ecology - biodiversity, habitats, niche, species interactions, succession,
+  climax community, energy flow
+- Range and extent of Irish Flora and key Irish habitats, horticulture and invasive
+  species, alien species, biosafety
+- Legal framework of protection of habitats and biodiversity
+- Environmental impact assessment (EIS), environmental monitoring methods
+- Horticultural applications to protect, enhance or re-establish biodiversity and
+  reduce negative environmental impacts in a range of sites including commercial horticulture
+  and amenity e.g. brown field, roads, orchards, use of reed beds, flood amelioration
+  techniques, tree and plant selections for urban areas, land stabilization
+- Importance and protection of surface water and ground water e.g. sustainable urban
+  drainage, water framework directive
+- 'Urban ecology: Back gardens, urban forestry, green roof, green walls, water courses,
+  parks'
+- Pollinating insects and the role of horticulture in providing protection
+learning_outcomes:
+- Propose Horticultural interventions that would benefit Biodiversity.
+- Relate the relevant national and European regulations and laws to their role in
+  protecting biodiversity.
+- Debate the importance of conserving biodiversity and the threats facing it.
+- Distinguish between and identify native and alien species of flora and fauna.
+- Prepare a limited EIS (or a biodiversity survey) for a designated site.
+learning_and_teaching_methods:
+- Lectures
+- Practical demonstration
+- Practice
+- Site visit
+- Site survey
+- Group work activity to encourage the development of collaborative skills
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1, 2, 3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: '4'
+  main: false
+  name: In-Class Assessment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '5'
+  main: false
+  name: Group Project
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Does not perform biodiversity survey or practicals assessments to reasonable
+  standard. Limited knowledge and understanding of the application of horticulture
+  to preserve or develop biodiversity.'
+- '40%-49%: Demonstrates a limited knowledge of the subject matter. Is able to complete
+  a biodiversity survey at a basic level. Demonstrates limited understanding in practicals.'
+- '50%-59%: Demonstrates satisfactory general knowledge of the main issues within
+  the subject. Practicals and biodiversity survey; demonstrates a clear understanding
+  and grasp of the subject material.'
+- '60%-69%: Demonstrates sound knowledge of the subject matter. Shows ability to analyse
+  and logically argue in an effective and mature style. Demonstrates initiative and
+  the ability to criticise methods used. Practicals and biological survey; demonstrates
+  sound understanding of theory and application.'
+- '70%-100%: Demonstrates authoritative handling of complex material and a highly
+  developed and extensive understanding of the subject. Practicals and biological
+  survey demonstrate excellent understanding of theory. Demonstrates reading outside
+  of essential course material.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Fossitt, J. _A guide to Habitats in Ireland_. Dublin: The Heritage Council, 2000.'
+supplementary_material:
+- 'Douglas, I. and P. James. _Urban ecology_. Devon: Taylor & Francis, 2015.'
+- 'Dunnett, N. and N. Kingsbury. _Planting Green Roofs and Living Walls_. Sheffield:
+  Timber Press, 2008.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+
+

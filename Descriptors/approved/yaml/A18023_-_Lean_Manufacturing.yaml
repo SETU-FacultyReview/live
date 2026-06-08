@@ -1,0 +1,117 @@
+reference: A18023
+full_title: Lean Manufacturing
+short_title: Lean Manufacturing
+credits: 10
+level: Introductory
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Engineering
+aim: The aim of this module is to provide the student with an understanding of the
+  Principles of Lean Manufacturing as well as gaining an important insight into its
+  effective implementation using the fundamental tools that have played a vital role
+  in its success.
+programmes:
+- timetable: ''
+  code: WD_EMANF_C
+  name: Higher Certificate in Engineering in Manufacturing Engineering
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Fundamentals of Lean, Lean Thinking, Background, Seven Wastes, 5 Principles of Lean,
+  Lean Tools, Continuous Improvement, JIT, Six Sigma, Education Training and Development,
+  Teamwork.
+- Standardised Work, Standard Work Chart, Standard Work Combination Chart, Problem
+  Countermeasure Sheet.
+- 5S Workplace Organisation, Sort Out, Storage, Shine, Standardise and Sustain, Numbers
+  Game.
+- Problem Solving, Problem statement, Root Cause, Direct Causes, Contributing Causes,
+  SQC Tools, Pareto analysis, Why-Why analysis, Kepner Tregoe, SIPOC, Brainstorming,
+  Fishbone diagrams, Corrective and Preventative action, intro to DMAIC model, Process
+  Analytical Technology (PAT), Why-Why analysis, Polar Diagrams, Process Mapping.
+learning_outcomes:
+- Explain the general principles, approaches, and key components of Lean and why Lean
+  makes good business sense.
+- List the main elements of Standardised Work, understand and list the main benefits
+  to the company and the individual.
+- Apply World Class Manufacturing (WCM) techniques to effect continuous improvement.
+- List the attributes and requirements of a well organised storage system including
+  5S implementation.
+- Create an accurate problem statement and perform root cause analysis, distinguishing
+  between Direct, Contributing and Root causes.
+- Use basic tools including Pareto analysis, Brainstorming and Fishbone diagrams and
+  distinguish between Corrective and Preventative actions.
+learning_and_teaching_methods:
+- Lectures
+- Case Studies
+learning_modes:
+- full_time: 48
+  name: Lecture
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1, 2, 3, 4, 5, 6
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: 1,2,4,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 5,6
+  main: false
+  name: Group Project
+  weighting: 15
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Assignment
+  weighting: 15
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Bicheno, J. and M. Holweg. _The Lean Toolbox: A handbook for lean transformation_.
+  5th Ed.. .: Picsie Books, 2016.'
+- 'Liker, J. and G.L. Convis. _The Toyota Way to Lean Leadership: Achieving and Sustaining
+  Excellence through Leadership Development,_ . 1st Ed.. .: McGraw-Hill Education,
+  2011.'
+- 'Wilson, L. _How to Implement Lean Manufacturing_. 2nd Ed.. .: McGraw-Hill Education,
+  2015.'
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

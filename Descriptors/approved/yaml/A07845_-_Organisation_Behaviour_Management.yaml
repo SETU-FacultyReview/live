@@ -1,0 +1,95 @@
+reference: A07845
+full_title: Organisation Behaviour Management
+short_title: Organisation Behaviour Mgt
+credits: 5
+level: Advanced
+author: ESHANLEY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Business
+aim: This module is designed to develop organisational behavioural skills and competencies
+  necessary to be an effective manager. It explores areas such as motivation, conflict,
+  negotiation, teams and change in order to enhance the students understanding of
+  the link between the human elements of the organisation and organisational effectiveness.
+programmes:
+- timetable: MGTH-0025
+  code: WD_SBSHO_B
+  name: Bachelor of Science (Honours) in Land Management (in Horticulture)
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Motivating and developing others: Understanding motivation; performance evaluations;
+  giving and receiving constructive feedback'
+- 'Effective negotiation: key elements in a negotiation; distributive and integrative
+  bargaining; the bargaining zone and the stages of negotiation; ethical and unethical
+  negotiation tactics'
+- 'Managing conflict: perspectives on conflict; stages in the conflict process; levels
+  of conflict; sources of conflict; managing conflict'
+- 'Managing change: external and internal triggers of organisational change; characteristics
+  of human response to change; nature of resistance to change; overcoming resistance'
+- 'Team-building: team development; team roles; effective teams; diversity in teams;
+  sources of problems in teams'
+learning_outcomes:
+- Integrate theoretical knowledge of organisational behaviour with practical situations.
+- Develop the competencies needed to ethically manage behaviours in organisations.
+- Determine the importance of continually developing behavioural competencies in organisations.
+- Modify behaviour based on experience and reflection.
+learning_and_teaching_methods:
+- Role plays.
+- Case studies.
+- Group discussion.
+- Lectures.
+- Independent research.
+- Documentary.
+- Guest speakers.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Reflective Journal
+  weighting: 100
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter.'
+- '40%-49%: Will be able to show a good knowledge of the key learning outcomes including
+  a good understanding of marketing for small business.'
+- '50%-59%: As well as the above the student will be able to integrate the various
+  components of the course.'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of all
+  topics including how to evaluate the factors affecting marketing of a small business.'
+- '70%-100%: The learner will be able to demonstrate a comprehensive knowledge and
+  understanding of all learning outcomes, including the ability to fully integrate
+  the various components of the course.'
+essential_material: []
+supplementary_material:
+- 'Buchanan, D. and A. Huczynski. _Organisational Behaviour_. 7th Ed. UK: Prentice
+  Hall, 2010.'
+- 'Caproni, P. _Management Skills for Everyday Life The Practical Coach_ . 2nd Edition.
+  New Jersey: Prentice Hall, 2011.'
+- 'Wheetton, D. and K. Cameron. _Developing Management Skills_ . 9th eds. USA: Prentice
+  Hall , 2016.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,93 @@
+reference: A10024
+full_title: Business Management
+short_title: Business Management
+credits: 5
+level: Intermediate
+author: LWALSH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Business
+aim: To provide students with knowledge of fundamental managerial skills and ethical
+  and social responsibility of businesses, evaluate forms of business ownership and
+  practical skills for decision making (cost-volume-profit analysis, relevant costs
+  and revenues, pricing and capital investment appraisal).
+programmes:
+- timetable: MGTS-2003
+  code: WD_KINFS_C
+  name: Higher Certificate in Science in Information Technology Support
+  stage: 2
+  semester: 0
+  status: ''
+- timetable: MGTS-0005
+  code: WD_SAGUL_D
+  name: Bachelor of Science in Agriculture
+  stage: 3
+  semester: 5
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Management skills: difference between management and leadership, management functions,
+  effective management skills'
+- 'Ethics and social responsibility: defining ethical behaviour, social responsibility
+  in business versus profits, social responsibility towards society and the environment,
+  consumers, employees and investors using agriculture and food business examples'
+- 'Forms of business ownership: distinguish between sole trader, partnership, company;
+  factors to consider when determining an appropriate form of business ownership'
+- 'Decision making: equation to calculate break-even and margin of safety, relevant
+  costs and revenues, pricing (price taker/setter, pricing policies), capital investment
+  appraisal'
+learning_outcomes:
+- Appraise fundamental managerial skills and discuss ethical and social responsibilities
+  of a business.
+- Distinguish between forms of business ownership.
+- Use break-even calculations, determine relevant costs and revenues, and evaluate
+  pricing options.
+- Analyse an investment opportunity in a financial context.
+learning_and_teaching_methods:
+- Lectures.
+- Class and group discussions.
+- Self study of assigned readings, exercises and texts.
+- Pre-lecture preparation of readings, exercises and texts for participation in lectures.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 100
+assessment_criteria:
+- '<40%: Very little knowledge and understanding of the subject matter. Unable to
+  carry out critical thinking or practical skills.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. May have some problems
+  with critical thinking and problem solving. Adequate practical skills'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Good practical skills.'
+- '60%-69%: Demonstrate skilled and sound knowledge of the subject matter. Show ability
+  to analyse and logically discuss in an effective way. Good critical thinking and
+  a high level of competence and efficiency in theoretical and practical areas of
+  this subject.'
+- '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
+  of complex material and a highly developed and extensive understanding of the subject.'
+essential_material:
+- 'Atrill, P. and E. McLaney. _Accounting and Finance for Non-Specialists_. Latest
+  Edition. Harlow: Pearson Education, Latest.'
+supplementary_material:
+- 'Scarborough, N.M. and J.R. Cornwall. _Essentials of Entrepreneurship and Small
+  Business Management_. Latest Edition. Harlow: Pearson Education, Latest.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'EQUIPMENT: Blackboard'
+- 'EQUIPMENT: MAC PCs'
+mlo_to_po: ''
+track_changes: true
+
+
+
+

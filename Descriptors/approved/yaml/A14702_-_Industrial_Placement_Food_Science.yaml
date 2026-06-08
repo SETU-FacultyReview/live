@@ -1,0 +1,104 @@
+reference: A14702
+full_title: Industrial Placement (Food Science)
+short_title: Industrial Placement (Food Sc)
+credits: 30
+level: Intermediate
+author: EKENT
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Placement and Projects
+aim: Students will be placed for work experience in food processing/food business/research
+  for three months during the first semester of the third year of their programme
+  (i.e. September to December). The aim of this placement is to expose the student
+  to the organisation and management of an industrial production/research facility.
+  The placement is designed to allow learners to apply and develop their knowledge
+  and skills in a food company or research facility, working to accredited quality
+  standards, thus enhancing their professional development.
+programmes:
+- timetable: PLAC-0148
+  code: WD_SFDSC_D
+  name: Bachelor of Science in Food Science with Business
+  stage: 3
+  semester: 5
+  status: E
+- timetable: PLAC-0148
+  code: WD_SFSIN_B
+  name: BSc (Hons) in Food Science and Innovation
+  stage: 3
+  semester: 5
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Work placement in a food business company for an extended period, with exposure
+  to a range of laboratory, processing and business activities
+- Exposure to a range of quality and food safety systems or standards and be capable
+  of evaluating the effectiveness of these
+- Preparation of reports, both oral and written, on work carried out over the period
+  of placement
+- Presentation of reports at seminar and oral
+- Maintenance of a log of work experience, critical evaluation and reflection on both
+  the experience itself, as well as the professional development achieved during the
+  experience
+- Interpretation and critical evaluation of results of scientific or business procedures
+  carried out during the placement
+- Ability to work individually and as part of a team
+learning_outcomes:
+- Construct a professional CV and prepare for interview to secure placement.
+- Plan learning objectives for the placement.
+- Operate independently and/or as part of a team towards the set objectives of the
+  food based business or food research facility.
+- Apply competently their food science knowledge and skills in a range of settings.
+- Practise safely, laboratory and food industry related skills and employ good environmental
+  practices.
+- Examine their personal, professional and technical achievements on the placement.
+- Communicate their activities and assessment of the food related enterprise in a
+  professional manner.
+learning_and_teaching_methods:
+- Reporting of scientific and / or business data.
+- Scientific or business report and appraisal.
+- Weekly log of activity.
+- Oral presentation.
+learning_modes:
+- full_time: 810
+  name: Placement
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 3,4,5
+  main: false
+  name: Employer's Report
+  weighting: Pass/Fail
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,6,7
+  main: false
+  name: Portfolio
+  weighting: Pass/Fail
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '7'
+  main: false
+  name: Oral Examination
+  weighting: Pass/Fail
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- 'Fail: Student fails to undertake or complete placement to a satisfactory level
+  and/or fails to submit the assessments and documents related to the learning outcomes.'
+- 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisor
+  Evaluation Report submitted, and assessments and documents related to the learning
+  outcomes, all to an acceptable standard and submitted within deadlines'
+essential_material:
+- '"Module Moodle page." www.moodle.wit.ie'
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

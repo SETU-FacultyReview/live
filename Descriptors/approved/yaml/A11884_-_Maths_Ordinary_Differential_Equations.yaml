@@ -1,0 +1,156 @@
+reference: A11884
+full_title: Maths Ordinary Differential Equations
+short_title: Maths ODE
+credits: 5
+level: Introductory
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Mathematics and Physics
+aim: This module gives an introduction to methods (analytical and numerical) for the
+  solution of ordinary differential equations of first and second order together with
+  necessary background material in multivariable differential calculus and complex
+  variables.
+programmes:
+- timetable: ''
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: MTHE-0030
+  code: WD_EONIC_B
+  name: Bachelor of Engineering (Honours) in Electronic Engineering
+  stage: 2
+  semester: 3
+  status: M
+- timetable: MTHE-0030
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: MTHE-0030
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours) in Electrical Engineering
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: MTHE-0030
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Engineering Functions: Error function, Gamma function, Dirac delta function. Functions
+  of a complex variable. Functions of two real variables; surface and contour plots.
+  Partial Derivatives; Differentials. Fourier sums.'
+- 'Linear Ordinary Differential Equations (analytical methods): Existence, uniqueness
+  and independence of solutions; Wronskian. First Order (integrating factor method,
+  undetermined coefficient method). Second order (undetermined coefficients; variation
+  of parameters). Solution of a system of linear first order equations using matrix
+  exponential. Laplace transform methods.'
+- Nonlinear Ordinary Differential Equations (analytical and numerical methods). Separation
+  of variables method; exact differential method; Euler and Runge-Kutta methods. Equilibrium
+  solutions and stability.
+- Qualitative methods for the analysis of the solutions of a pair of coupled ODEs
+learning_outcomes:
+- Classify ordinary differential equations and hence determine whether a unique solution
+  exists.
+- Review the general properties of an unseen Special Function using an Engineering
+  handbook or a help file.
+- Recognise standard functions of two variables, find partial derivatives and differentials
+  for such functions.
+- Use standard methods (analytical and numerical) to solve linear and basic nonlinear
+  ordinary differential equations of first and second order and a system of first
+  order linear equations.
+- Describe functions of a complex variable in terms of their real valued real and
+  imaginary parts.
+- Use mathematical software to study ordinary differential equations.
+learning_and_teaching_methods:
+- Delivery of the subject will be through a mixture of lectures and directed problem-solving
+  sessions.
+- The lectures will develop theory and present the associated mathematical methods.
+- The directed work sessions will underpin and rehearse the skills demonstrated. Students
+  will be required to construct valid and precise mathematical arguments and will
+  be expected to start to treat mathematics as a modelling language rather than as
+  a stand alone subject.
+- The laboratory sessions consist of a number of computer based practicals to reinforce
+  the concepts covered during the lectures using mathematical software such as OCTAVE/MATLAB
+  or Python (or similar language).
+learning_modes:
+- full_time: 48
+  name: Lecture
+  part_time: ''
+- full_time: ''
+  name: Tutorial
+  part_time: ''
+- full_time: ''
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: '3'
+  main: false
+  name: Practical
+  weighting: 15
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,4,5,6
+  main: false
+  name: In-Class Assessment
+  weighting: 15
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Has not attained the module learning outcomes; demonstrated sufficient knowledge
+  of the associated subject matter or demonstrated a sufficient level of the skills
+  expected on completion of this module.'
+- '40%-49%: Has attained the module learning outcomes at a basic level, demonstrated
+  a basic knowledge of the associated subject matter, and achieved a basic level of
+  the skills required for the subject matter.'
+- '50%-59%: Has attained the module learning outcomes at a good level; demonstrated
+  a good knowledge of the associated subject matter; achieved a good level of the
+  skills required for the subject matter.'
+- '60%-69%: Has attained the module learning outcomes at a very good level, demonstrated
+  a detailed knowledge of the associated subject matter, and achieved a very good
+  level of the skills required for the subject matter.'
+- '70%-100%: Has attained the module learning outcomes at an excellent level, demonstrated
+  a comprehensive knowledge of the associated subject matter, achieved an excellent
+  level of the skills required for the subject matter, and demonstrated the ability
+  to carry out further investigation and problem solving associated with the subject
+  matter.'
+essential_material: []
+supplementary_material:
+- 'Boyce, W.E. and R.C. DiPrima. _Elementary Differential Equations and Boundary Value
+  Problems_. .USA: Wiley, .2012.'
+- 'Greenberg, M.D. _Advanced Engineering Mathematics_. USA: Prentice Hall, .2006.'
+- 'Nunez-Iglesias, J., S. van der Walt and H. Dashnow. _Elegant SciPy: The Art of
+  Scientific Python_. USA: O''Reilly Media, 2017.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

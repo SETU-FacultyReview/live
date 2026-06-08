@@ -1,0 +1,76 @@
+reference: A09763
+full_title: Work-based Project (GMP)
+short_title: Work-based Project (GMP)
+credits: 10
+level: Introductory
+author: BWHELAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Placement and Projects
+aim: The aim of the work-based project (WBP) is for the student to complete a project,
+  based on-site, that is undertaken with an external organisation where the student
+  is employed.
+programmes:
+- timetable: PROJ-0031
+  code: WD_SGMPT_C
+  name: Higher Certificate in Science in Good Manufacturing Practice and Technology
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- The student completes a project report that reflects the business needs of the organisation
+- The scope of the project must reflect the manufacturing or compliance context of
+  the programme
+- The host company and the course board will co-operate in allowing the student to
+  complete a work-based project
+learning_outcomes:
+- Define and describe Good Manufacturing Practice and Technologies as implemented
+  by the host enterprise.
+- Employ the skills learned and acquired to fulfil defined roles and responsibilities.
+- Review pharmaceutical operations.
+- Plan a project to enhance employability within the host organisation.
+- Complete a Final Learning Report and MS PowerPoint presentation.
+learning_and_teaching_methods:
+- Work based learning
+learning_modes:
+- full_time: ''
+  name: Independent Learning
+  part_time: 270
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: Project
+  weighting: 100
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
+  technical ability/skill and understanding to carry out practical/professional tasks.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Show some technical
+  ability/skill in carrying out and reporting on practical/professional tasks. Attempt
+  made to meet objectives and carry out independent study and research. Final result
+  lacks balance and arguments undeveloped.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Logically and competently carry out practical/professional tasks.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter. Show ability to analyse
+  and logically argue in an effective and mature style. Demonstrate initiative and
+  the ability to criticise methods used and appreciation of experimental design when
+  carrying out practical/professional tasks.'
+- '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
+  and extensive understanding of the subject. Provide well focused analysis and convincing
+  argument on the subject.'
+essential_material: []
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

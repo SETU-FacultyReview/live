@@ -1,0 +1,88 @@
+reference: A09823
+full_title: Landscape Design Advanced
+short_title: Landscape Design Advanced
+credits: 5
+level: Intermediate
+author: LMMURPHY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Horticulture
+aim: This is a studio based module where students build on knowledge and skills acquired
+  in the 'Landscape Design' major elective. Students will concentrate totally on studio
+  projects for public and semi public schemes and will include knowledge of correct
+  maintenance (short-term) and ongoing management (long-term) procedures.
+programmes:
+- timetable: DESG-0012
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 6
+  status: E
+- timetable: DESG-0012
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 6
+  status: E
+prerequisites:
+- Landscape Design
+corequisites: []
+indicative_content:
+- Draft site surveys and site analysis
+- Draft masterplans including section/elevation drawings
+- Draft axonometric projections and construction details
+- Draft planting plans
+- Prepare a maintenance plan for proposed planting scheme
+learning_outcomes:
+- Survey and analyse public and semi-public sites.
+- Design an appropriate landscape design meeting the needs of the client and working
+  within the constraints of the site.
+- Use a variety of drawing types.
+- Propose suitable vegetation for a range of landscape contexts.
+- Compile a management plan and costings for a selected planting scheme.
+learning_and_teaching_methods:
+- Studio
+- Site visits
+learning_modes:
+- full_time: 48
+  name: Tutorial
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: Portfolio
+  weighting: 100
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Survey and analysis weak or absent and/or design portfolio missing more than
+  50 % of drawings.'
+- '40%-49%: Identifies key site constraints and opportunities of site, portfolio of
+  drawings complete, but design fails to fully exploit site or meet the needs of the
+  client.'
+- '50%-59%: Identifies key site constraints and opportunities as well as subtle details,
+  portfolio of drawings complete, design adequately meets needs of clients but fails
+  to fully exploit site opportunities.'
+- '60%-69%: Identifies key site constraints and opportunities as well as subtle details,
+  portfolio of drawings complete, design meets needs of clients well and exploits
+  site opportunities.'
+- '70%-100%: Identifies key site constraints and opportunities as well as subtle details,
+  portfolio of drawings complete, design expertly meets needs of clients, fully exploits
+  site opportunities and ameliorates site difficulties.'
+essential_material: []
+supplementary_material: []
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,94 @@
+reference: A07182
+full_title: Applied Fluid Mechanics
+short_title: Applied Fluid Mechanics
+credits: 5
+level: Advanced
+author: GGALLAGHER
+history_comment: ''
+school: Engineering
+department: Engineering Technology
+cluster: Engineering
+aim: This module builds on the fundamentals of fluids established in the Fluid Mechanics
+  module in year 3 of this programme. The approach is to look at real fluids in real
+  applications. It further develops the principles underlying the subject and demonstrates
+  how these are used for the design of hydraulic components and systems.
+programmes:
+- timetable: FPOW-0005
+  code: WD_EMSEN_B
+  name: Bachelor of Engineering (Honours) in Mechanical and Manufacturing Engineering
+  stage: 4
+  semester: 8
+  status: M
+- timetable: FPOW-0005
+  code: WD_KPHTE_B
+  name: BSc (Hons) in Physics for Modern Technology
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Review of basic fluid properties. Fluid statics. Bernoulli and continuity equations.
+- Behaviour of real fluids. Flow in bounded systems
+- Flow in pipelines. Friction effects. General energy equation. Pump sizing and selection
+- 'External flow: boundary layer, drag and lift'
+- Dimensional analysis and similarity
+- 'Analysis of fluid flow in rotodynamic machinery such as: centrifugal pump, Francis
+  turbine and Pelton wheel'
+learning_outcomes:
+- Design simple fluids systems accounting for the various energy losses the fluid
+  experience and select a suitable pump.
+- Explain the origin of lift and drag in a variety of external flow scenarios and
+  evaluate consequent drag and lift forces.
+- Apply dimensional analysis and similarity techniques.
+- Analyse simple fluid flows and determine important fluid parameters in such flows.
+- Describe a range of turbomachines and analyse fluid flow in same.
+learning_and_teaching_methods:
+- 'Learning and teaching methods and strategies:'
+- 1. Lectures
+- 2. Assignments
+- 3. Laboratories
+learning_modes:
+- full_time: 48
+  name: Lecture
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: 1,4
+  main: false
+  name: In-Class Assessment
+  weighting: 15
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,4
+  main: false
+  name: Project
+  weighting: 15
+  due_weeks: []
+  comment: ''
+assessment_criteria: []
+essential_material: []
+supplementary_material:
+- 'Cengel, Y. and J.M. Cimbala. _Fluid Mechanics: Fundamentals and Applications_.
+  USA: McGraw-Hill, 2013.'
+- 'Douglas, J.F., J.M. Gasiorek, J.A. Swaffield and L.B. Jack. _Fluid Mechanics_.
+  UK: Prentice Hall, 2011.'
+- 'Mott, R.L. _Applied Fluid Mechanics_. USA: Prentice Hall, 2006.'
+- 'Potter, M., D.C. Wiggert and B.H. Ramadan. _Mechanics of Fluids_. USA: Cengage,
+  2011.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

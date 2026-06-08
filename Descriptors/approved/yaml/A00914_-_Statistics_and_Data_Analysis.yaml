@@ -1,0 +1,129 @@
+reference: A00914
+full_title: Statistics and Data Analysis
+short_title: Statistics and Data Analysis
+credits: 10
+level: Postgraduate
+author: KGRENNAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: The module aims to develop the learner's competence in the application of modern
+  techniques of data analysis in the context of analytical method development. The
+  learner will be enabled to apply statistical analysis processes to data sets and
+  interpret the results in order to quantify data quality and compare data sets. These
+  data sets will deal with real world applications from the pharmaceutical and food
+  industries. The learner will also develop competence in a range of process control
+  tools and minimisation strategies. Continuous improvement and data-driven decisions
+  will also be emphasised throughout the course of the programme.
+programmes:
+- timetable: STAT-0052
+  code: WD_SANSC_G
+  name: Postgraduate Diploma in Analytical Science with Quality Management
+  stage: 1
+  semester: 0
+  status: E
+- timetable: STAT-0052
+  code: WD_SANSC_R
+  name: Master of Science in Analytical Science with Quality Management
+  stage: 1
+  semester: 0
+  status: E
+- timetable: STAT-0052
+  code: WD_STATD_MA
+  name: Certificate in Statistics and Data Analysis
+  stage: 5
+  semester: 0
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Descriptive statistics: graphical methods of display, measures of centre and spread'
+- 'Precision and error measurement: relative and fixed bias, random errors, propagation
+  of errors and accuracy, comparing and combining standard deviations and means of
+  data sets, limit of detection'
+- 'Sampling distributions: point estimation, sampling from continuous and discrete
+  distributions'
+- 'Statistical inference: inference for single, two or more samples'
+- Analysis of data through case studies in `real world' applications in the pharmaceutical
+  and food industries
+- 'Statistical process control: multivariate statistical process control, process
+  monitoring and control strategies, process capability indices in statistics, Shewhart
+  control charts, CUSUM charts, moving average and moving range charts'
+- Sampling plans and the statistical analysis of the quality of batches
+learning_outcomes:
+- Assess analytical data using appropriate descriptive statistics tests.
+- Assess data sets based on applied inter-comparison significance tests.
+- Assess analytical data using statistical software packages.
+- Assemble and integrate process capability indices as a statistical measure of process
+  capability.
+- Justify the usefulness of Shewhart control charts, CUSUM charts and other control
+  charts to control a process.
+- Evaluate sampling plans and statistical analysis of quality in product batches.
+learning_and_teaching_methods:
+- Lectures.
+- Tutorials.
+- IT practicals.
+learning_modes:
+- full_time: ''
+  name: Lecture
+  part_time: 24
+- full_time: ''
+  name: Tutorial
+  part_time: 12
+- full_time: ''
+  name: Practical
+  part_time: 12
+- full_time: ''
+  name: Independent Learning
+  part_time: 222
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: Tutorial/Problem Sheets
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '3'
+  main: false
+  name: Practical
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5,6
+  main: false
+  name: In-Class Assessment
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: The learner will demonstrate little or no understanding of the fundamentals
+  of the learning outcomes. Will display a lack of competence with regards to associated
+  data analysis skills and statistics.'
+- '40%-59%: The learner will demonstrate limited understanding of the fundamentals
+  of the learning outcomes. Will display some ability with regards to associated data
+  analysis skills and statistics.'
+- '60%-69%: As well as the above, the learner will demonstrate reasonable understanding
+  of the fundamentals of the learning outcomes. Will display reasonable competence
+  with regards to associated data analysis skills and statistics.'
+- '70%-100%: All of the above to excellent levels. In addition, the learner will demonstrate
+  comprehensive knowledge and understanding of all learning outcomes. Will display
+  advanced competence and independence with regards to associated data analysis skills
+  and statistics.'
+essential_material:
+- '"Statistics & Data Analysis module Moodle page." http://moodle.wit.ie'
+- 'Montgomery, D.C. _Introduction to Statistical Quality Control_. 7th ed. New York:
+  Wiley, 2013.'
+supplementary_material:
+- '"Science Direct." http://www.sciencedirect.com'
+requested_resources:
+- 'Room Type: Computer Lab test'
+mlo_to_po: ''
+track_changes: true
+
+
+

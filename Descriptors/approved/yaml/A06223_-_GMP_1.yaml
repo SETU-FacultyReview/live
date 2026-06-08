@@ -1,0 +1,99 @@
+reference: A06223
+full_title: GMP 1
+short_title: GMP 1
+credits: 5
+level: Introductory
+author: BWHELAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Quality, Regulatory and Compliance
+aim: This module covers all aspects of current Good Manufacturing Practice (cGMP),
+  the aim of which is to ensure that pharmaceutical products are safe, effective,
+  pure and free of contamination. The student will also learn how to interpret guidelines
+  for quality systems and they will be able to assist with inspections of the manufacturing
+  environment.
+programmes:
+- timetable: GMPR-0001
+  code: WD_SGMPT_C
+  name: Higher Certificate in Science in Good Manufacturing Practice and Technology
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Definition of a medicinal product; role of the Competent Authorities in Europe and
+  USA; associated pharmaceutical legislation; regulatory inspections
+- 'Quality assurance principles: establish quality characteristics; auditing procedures
+  to manage Quality Systems'
+- Validation life-cycle; Design Qualification, Installation Qualification, Operational
+  Qualification, Performance Qualification; Change Control to maintain the validated
+  system
+- Management of customer complaints, as a means to improve process control; performance
+  metrics; CAPA reports
+- Control of documentation; Standard Operating Procedures (SOPs); Batch records; software
+  packages for electronic documentation
+learning_outcomes:
+- Identify the function of Good Manufacturing Practice in the production of medicinal
+  products.
+- Complete quality audits.
+- Construct a validation protocol with acceptance criteria to prepare a validation
+  report.
+- Apply corrective and preventative actions in a manufacturing environment.
+- Record a sample Standard Operating Procedure and equivalent documentation.
+learning_and_teaching_methods:
+- Lectures.
+- Class discussion.
+learning_modes:
+- full_time: ''
+  name: Lecture
+  part_time: 12
+- full_time: ''
+  name: Independent Learning
+  part_time: 123
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,4
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,5
+  main: false
+  name: Case Studies
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
+  technical ability/skill and understanding to carry out practical/professional tasks.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Show some technical
+  ability/skill in carrying out and reporting on practical/professional tasks.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Logically and competently carry out practical/professional tasks.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter. Show ability to analyse
+  and logically argue in an effective and mature style. Demonstrate initiative and
+  the ability to criticise methods used and appreciation of experimental design when
+  carrying out practical/professional tasks.'
+- '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
+  and extensive understanding of the subject. Provide well focused analysis and convincing
+  argument on the subject. Demonstrate imaginative approach, excellent technical ability,
+  awareness, and aptitude in carrying out and reporting on practical/professional
+  tasks.'
+essential_material:
+- '"European Medicines Agency." http://www.ema.europa.eu/ema/'
+- '"Food and Drugs Administration." http://www.fda.gov/'
+- '"Healthcare Products Regulatory Authority." http://www.hpra.ie/'
+- 'Ng, R. _Drugs: from discovery to approval_. 3rd ed. London: Wiley Blackwell, 2015.'
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

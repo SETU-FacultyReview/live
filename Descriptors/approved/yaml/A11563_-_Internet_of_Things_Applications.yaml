@@ -1,0 +1,132 @@
+reference: A11563
+full_title: Internet of Things Applications
+short_title: Internet of Things Apps
+credits: 5
+level: Advanced
+author: EREADE
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Software and Web Development
+aim: Internet of Things (IoT) applications combine low-level physical world devices
+  with higher level IT and cloud-based services. In this module, students learn how
+  to develop software applications with the connectivity and interoperability required
+  for distributed IoT-based applications. The characteristics and requirements of
+  IoT distributed systems is covered in addition to development platforms and technology
+  standards currently used in IoT applications. The overall focus of this module is
+  the practical design and implementation of full stack IoT-enabled distributed applications.
+programmes:
+- timetable: COMP-0676
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0676
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0676
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0676
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 4
+  semester: 8
+  status: M
+- timetable: COMP-0676
+  code: WD_KPHTE_B
+  name: BSc (Hons) in Physics for Modern Technology
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'IoT Application Fundamentals: Device communication characteristics; Device data
+  characteristics; Event-based integration'
+- 'IoT Architectures: Device centric; Cloud centric; Gateway centric'
+- 'Development Frameworks and Platforms: IoT-specific Microcontroller Platforms; Cloud-based
+  application development platforms'
+- 'IoT-based Services: Device Solution Development kits; Device access and configuration;
+  Cloud based data and operational services integration'
+- 'Device and Application interactions (middleware): Device discovery and addressing;
+  Listeners and Message brokers'
+- 'Sensor data: Real-time sensor data access; Filtering, aggregation, Time-series
+  archiving'
+learning_outcomes:
+- Design, develop and implement software applications that interconnect heterogeneous
+  physical world devices and sensors, mobile devices, and cloud-based services.
+- Evaluate and use a suitable development platform for IoT applications.
+- Design, develop and implement software APIs that promote scalable, modular access
+  to physical world sensors, actuators and devices.
+- Integrate cloud based data storage solutions with device and sensor data.
+- Integrate suitable messaging, gateway, and middleware solutions to develop applications
+  that provide direct, real-time access to low level devices and sensors.
+- Develop a knowledge discovery based web application that utilises the storage and
+  computational power of the cloud.
+learning_and_teaching_methods:
+- Combination of lectures and computer-based practicals.
+- Lectures will cover key topics in IoT application architectures, frameworks, and
+  services.
+- Practicals will allow students to explore the tools and technologies used to build
+  and connect that components of an IoT application.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5,6
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- <40%:Unable to explain the key concepts of IoT based distributed applications; unable
+  to successfully apply technologies that provide integration necessary for IoT distributed
+  applications.
+- 40%-49%:Sufficient grasp of the concepts and technology to successfully implement
+  a skeleton IoT based application. Can explain the architecture's use of technology
+  at all layers.
+- 50%-59%:Can design and implement a prototype IoT distributed application, demonstrating
+  a range of styles and technologies. Is competent in the use of the tools, frameworks
+  and components covered in the labs and lectures.
+- 60%-69%:Be able to solve problems within the specific knowledge domain(s) by experimenting
+  with the appropriate skills and tools. Is complete in their understanding and demonstration
+  of the IoT software technology stacks and architecture choices.
+- 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+essential_material: []
+supplementary_material:
+- 'McEwan, A. _Designing the Internet of Things_. NY: Wiley, 2014.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

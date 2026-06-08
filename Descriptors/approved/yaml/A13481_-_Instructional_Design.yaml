@@ -1,0 +1,100 @@
+reference: A13481
+full_title: Instructional Design
+short_title: Instructional Design
+credits: 5
+level: Advanced
+author: EREADE
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Media Production
+aim: Instructional Design is the analysis of how people learn and the systematic development
+  of instruction. This module introduces students to the core fundamentals of learning
+  theories as a pre-requisite to designing effective e-learning solutions. This module
+  focuses upon theories of learning and their practical implications in the design
+  of effective blended and technical solutions in training and instruction.
+programmes:
+- timetable: DESG-0038
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 4
+  semester: 7
+  status: E
+- timetable: DESG-0038
+  code: WD_KMULM_B
+  name: Bachelor of Science (Honours) in Multimedia Applications Development
+  stage: 4
+  semester: 1
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Theories of learning
+- Implications of pedagogical approaches to the effective design of training and learning
+  solutions
+- The instructional design process
+- Evaluation of current instructional design technologies and delivery systems
+learning_outcomes:
+- Evaluate key assumptions within the main learning paradigms.
+- Assess the practical implications of pedagogical approaches to the effective design
+  of training and learning solutions.
+- Evaluate current instructional technologies and assess the practical implications
+  in designing effective training and learning solutions.
+- Design and develop an effective training solution based upon theoretical assumptions
+  explored in the module.
+learning_and_teaching_methods:
+- This module will be delivered using 2 hours of computer-based Lectures, along with
+  2 hours of computer-based Practicals each week.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3, 4
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of the paradigms of learning.'
+- '40%-49%: Be able to interpret and describe key concepts of learning theories and
+  their implications.'
+- '50%-59%: Ability to discuss key concepts of theories of learning and ability to
+  discover and integrate related knowledge in other knowledge domains.'
+- '60%-69%: Be able to solve problems within the learning theoires by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material: []
+supplementary_material:
+- 'Cennamo, K. and P. Kalk. _Real World Instructional Design_. 3rd. UK: Wadsworth
+  Publishing, 2014.'
+- 'Jordan, A., O. Carlile and A. Stack. _Approaches to Learning: A Guide for Teachers_.
+  1st ed. UK: McGraw-Hill: Open University Press, 2008.'
+- 'Morrison, R., M. Kemp and P. Ross. _Designing Effective Instruction_. UK: Wiley,
+  2006.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

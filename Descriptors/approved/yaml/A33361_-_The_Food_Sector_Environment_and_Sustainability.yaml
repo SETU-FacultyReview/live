@@ -1,0 +1,101 @@
+reference: A33361
+full_title: 'The Food Sector: Environment and Sustainability'
+short_title: Food Environ & Sustainability
+credits: 5
+level: Advanced
+author: EDUGGAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Environmental Science
+aim: This module examines the impact the food industry has on our environment. The
+  waste management hierarchy is examined in detail as well as an introduction to the
+  challenges facing the food industry. The value of food wastes is examined. The waste
+  management strategy and environmental impact of a food company are investigated
+  as part of a case study. The conversion of food waste into energy is studied through
+  an introduction to a variety of newly established technologies.
+programmes:
+- timetable: FOOD-0031
+  code: WD_SFSIN_B
+  name: Bachelor of Science (Honours) in Food Science and Innovation
+  stage: 4
+  semester: 8
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Effects of food industry pollution on the environment
+- Food security and food waste and the circular bioeconomy
+- Types of food waste
+- Waste management hierarchy model
+- Food waste as a resource, food waste to energy technologies
+- Greenhouse gases and carbon footprint
+- Legislation relating to food waste / processing and the environment
+- Energy conservation and recovery within the food sector
+learning_outcomes:
+- Assess of the causes and effects of pollution from the food industry.
+- Assess the future impact of food security and sustainability.
+- Establish the different food waste types, pre- and post-consumer.
+- Critique the waste management hierarchy model within the circular bioeconomy.
+- Evaluate the importance of greenhouse gas emissions and the carbon footprint from
+  farm to retail food product.
+- Appraise the legislation associated with the management of food wastes.
+- Assess energy conservation and recovery using waste to energy conversion technologies
+  within the food sector.
+learning_and_teaching_methods:
+- Lectures on the stated indicative content will be delivered.
+- Field trips will reinforce and support theoretical elements of the course.
+learning_modes:
+- full_time: 30
+  name: Lecture
+  part_time: ''
+- full_time: 6
+  name: Field Trips
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 2,3,4,5,6,7
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning_outcomes: 1,2,3,6,7
+  main: false
+  name: Case Studies
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: No understanding of basic principles of environmental aspects of food production
+  and food security.'
+- '40%-49%: Able to understand principles; may have some difficulty applying this
+  theory.'
+- '50%-59%: Able to understand principles discussed in the course and also able to
+  evaluate practical data and evaluate food processing from an environmental point
+  of view.'
+- '60%-69%: In addition to the above, able to demonstrate a high level of competence
+  and efficiency in subject area.'
+- '70%-100%: All previous to excellent level. Be able to describe and discuss in detail
+  environmental aspects of food production, processing and food security.'
+essential_material:
+- 'Arvanitoyannis, I.S. _Waste Management for the Food Industries_. London: Elsevier
+  Academic Press, 2008.'
+- 'Yadav, S.S., R.J. Redden, J.L. Hatfield, A.W. Ebert and D. Hunter. _Food Security
+  and Climate Change_. Chichester, West Sussex, England: Wiley Blackwell, 2019.'
+supplementary_material:
+- '"Department of the Environment, Community and Local Government." http://www.environ.ie/en/'
+- '"The European Commission - A European Green Deal." https://ec.europa.eu/info/strategy/priorities-2019-2024/european-green-deal_en'
+- '"The United Nations Climate Action - What is Climate change." https://www.un.org/en/climatechange/what-is-climate-change'
+- 'Tiwari , B.K., T. Norton and N.M. Holden. _Sustainable Food Processing_. England:
+  Wiley-Blackwell, 2013.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

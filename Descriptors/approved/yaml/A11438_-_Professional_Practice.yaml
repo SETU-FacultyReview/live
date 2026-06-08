@@ -1,0 +1,170 @@
+reference: A11438
+full_title: Professional Practice
+short_title: Professional Practice
+credits: 5
+level: Intermediate
+author: MCAHILL
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Professional Skills
+aim: The aim of this module is to prepare and encourage students to capitalize on
+  the learning potential of their flexible semester experience and enhance their industry
+  awareness. The module will focus on developing students' transferable skills and
+  encouraging professional awareness and practice.
+programmes:
+- timetable: COMP-0599
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 3
+  semester: 5
+  status: E
+- timetable: COMP-0599
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 3
+  semester: 5
+  status: E
+- timetable: COMP-0599
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0599
+  code: WD_KCOMC_D
+  name: Bachelor of Science in Software Systems Development
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0599
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0599
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0599
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0599
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0599
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0599
+  code: WD_KINFT_D
+  name: Bachelor of Science in Information Technology
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0599
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Workplace ethics for the computing industry
+- Potential for learning during placement and the strategies commonly used
+- Identification of transferable skills for integration and progression in the workplace
+- 'Career Preparation: CV preparation and interview skills, career planning, e-portfolio
+  development'
+- 'Workplace and placement awareness: Managing equality and diversity, group dynamics
+  and teamwork, understanding organisational culture'
+- Work-based impression management including the impact of social media as a professional
+  presentation tool for personal and corporate identity
+learning_outcomes:
+- Examine ethical conduct in the workplace.
+- Develop transferable skills for integration and progression in the workplace.
+- Construct an appropriate personal career development plan and professional profile,
+  to include a skills-needs analysis and CV.
+- Demonstrate professional skills through group and individual presentations.
+- Employ personal autonomy and take responsibility for their personal and academic
+  well-being.
+- Demonstrate the principles and practice of reflective learning.
+learning_and_teaching_methods:
+- Theory classes will comprise of lectures, case studies, group discussion, simulations
+  and project work.
+- The tutorial classes facilitate the student in implementing the theory learned in
+  the lectures and will give the student the opportunity to work on the continuous
+  assessment and receive feed-back.
+- Self-directed learning.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 12
+- full_time: 24
+  name: Tutorial
+  part_time: 12
+- full_time: 87
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: 1, 2, 3, 4, 5, 6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '1'
+  main: false
+  name: Group Project
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '2'
+  main: false
+  name: Presentation
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3, 4, 5, 6
+  main: false
+  name: Portfolio
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to present self as ethical and professional through their written
+  work, e-portfolio and presentation skills.'
+- '40%-49%: Able to present knowledge of self as ethical and professional through
+  their written work, e-portfolio and presentation skills.'
+- '50%-59%: Understands ethical and professional practice and can apply this through
+  their written and presented work.'
+- '60%-69%: Presented work shows evidence of analysis regarding the professional persona,
+  in the structure, content and format of their written work, e-portfolio and presentation
+  skills.'
+- '70%-100%: Excellent presented work; illustrates the evaluation of self as a professional
+  and evaluation of professional practice through presented materials.'
+essential_material:
+- '"Ethics Resource Centre." http://www.ethics.org/'
+- '"Transferrable Skills Project." http://www.skillsproject.ie/'
+- '"gradireland." https://gradireland.com/'
+supplementary_material:
+- 'Billett, S. _Learning in the Workplace: Strategies for Effective Practice_. Australia:
+  Allen & Unwin, 2001.'
+- 'Robbins, S.P. and P.L. Hunsaker. _Training in Interpersonal Skills_. 6th ed. USA:
+  Pearson Education, 2012.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

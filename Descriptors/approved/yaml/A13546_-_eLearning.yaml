@@ -1,0 +1,108 @@
+reference: A13546
+full_title: eLearning
+short_title: eLearning
+credits: 5
+level: Advanced
+author: CFITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Media Production
+aim: This module is concerned with the authoring of instructionally sound, accessible
+  eLearning for different platforms. This can, for example, be a single part of a
+  course, or all of a course whether it is in an academic environment, part of mandatory
+  business training or a full distance learning course.
+programmes:
+- timetable: COMP-0636
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0636
+  code: WD_KMULM_B
+  name: Bachelor of Science (Honours) in Multimedia Applications Development
+  stage: 4
+  semester: 2
+  status: E
+prerequisites:
+- Instructional Design
+corequisites: []
+indicative_content:
+- Design and Authoring of eLearning
+- Needs and Task Analysis
+- Organising Instruction
+- Learning Environments
+- Using Standards and Guidelines
+- Creating, Testing and Validation of Accessible Web Sites
+learning_outcomes:
+- Evaluate and critique the suitability of eLearning Authoring Tools.
+- Design organised instruction and develop learning environments using Instructional
+  Design Guidelines.
+- Prepare needs and task analysis.
+- Substantiate the creation, testing and validation of accessible user interfaces
+  using guidelines and standards.
+- Develop a computer based, accessible learning environment.
+learning_and_teaching_methods:
+- This module will be delivered using 2 hours of computer-based Lectures, along with
+  2 hour of computer-based Practicals each week.
+- The Lectures will introduce new concepts and theory relating to eLearning. The practicals
+  will allow the students to design and develop eLearning content using industry standard
+  eLearning software.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '1'
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 2,3
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- <40%:Unable to interpret and describe key concepts of the eLearning.
+- 40%-49%:Be able to interpret and describe key concepts of the eLearning.
+- 50%-59%:Ability to discuss key concepts of eLearning and ability to discover and
+  integrate related knowledge in other knowledge domains.
+- 60%-69%:Be able to solve problems within eLearning by experimenting with the appropriate
+  skills and tools.
+- 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+essential_material:
+- 'Clark, R. and R. Mayer. _e-Learning and the Science of Instruction: Proven Guidelines
+  for Consumers and Designers of Multimedia Learning_. 3rd ed.. United Stated of America:
+  Pfeiffer, 2011.'
+supplementary_material:
+- 'Horton, W. _E-Learning by Design_. 2nd ed.. United States of America: Pfeiffer,
+  2011.'
+requested_resources:
+- 'COMPUTER LAB: Multimedia Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

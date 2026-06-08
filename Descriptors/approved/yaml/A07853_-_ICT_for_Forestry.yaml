@@ -1,0 +1,104 @@
+reference: A07853
+full_title: ICT for Forestry
+short_title: ICT for Forestry
+credits: 5
+level: Introductory
+author: CCAHILL
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Forestry
+aim: This module aims to provide the student with skills to expand their written and
+  oral communications skills in an academic and professional manner, for both the
+  online and offline environment. Students will appraise the value of the use of modern
+  technology for research and current awareness. Students will have practical exposure
+  to advanced concepts in search techniques, word processing, spreadsheets and presentations.
+programmes:
+- timetable: ICTS-0001
+  code: WD_SFORS_D
+  name: Bachelor of Science in Forestry
+  stage: 1
+  semester: 2
+  status: M
+- timetable: ICTS-0001
+  code: WD_SFORS_D
+  name: Bachelor of Science in Forestry
+  stage: 2
+  semester: 4
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Advanced writing and word processing: academic writing and associated word processing
+  features for a variety of document types'
+- 'Advanced spreadsheets: edit, format and visually represent data sets with the assistance
+  of appropriate formulae and charts'
+- Research and evaluate information while considering plagiarism, copyright laws and
+  an academic referencing style
+- Present a clearly defined and structured oral presentation using presentation software
+learning_outcomes:
+- Demonstrate an ability to create attractively displayed documents using word processing
+  and exploit the various advanced editing and formatting features of a modern package.
+- Use appropriate software to edit, format and visually represent data sets formulae
+  and charts.
+- Use appropriate search techniques to find reliable and reference suitable sources
+  of information.
+- Communicate effectively with the assistance of appropriate presentation software.
+learning_and_teaching_methods:
+- 'Computer-based practicals: to provide the student with the skills and confidence
+  to be able to perform applications tasks in a computing environment.'
+learning_modes:
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3
+  main: false
+  name: Portfolio
+  weighting: 65
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '2'
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Presentation
+  weighting: 15
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Poor presentation and/or poorly communicated and formatted assignments.'
+- '40%-49%: Presentation adequate, communication and technology use adequate.'
+- '50%-59%: Presentation of material is competent with clear ideas and logical structure,
+  few if any grammatical and spelling errors. Competent display of IT skills.'
+- '60%-69%: Presentation of material is logical and persuasive, indicates strong communication
+  and technical skills.'
+- '70%-100%: Excellent communication of material supported by the use of correct conventions
+  and excellent use of technology.'
+essential_material:
+- '"WIT Online Learning Platform." moodle.wit.ie'
+supplementary_material:
+- 'Harvey, N. _Effective Communication_. 4th ed. Dublin: Gill and Macmillian, 2014.'
+- 'O''Leary, T. and L. O''Leary. _Computing Essentials 2015 Complete Edition (O''Leary)_.
+  USA: McGraw-Hill Higher Education, 2014.'
+- 'O''Neill, S. and G. Morgan. _Essential Computer Applications_. 4th ed. Dublin:
+  Gill and Macmillian, 2007.'
+- 'Stanton, N. _Mastering Communication_. UK: Macmillan, 2009.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

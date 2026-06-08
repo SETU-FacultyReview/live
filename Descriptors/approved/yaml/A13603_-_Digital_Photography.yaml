@@ -1,0 +1,120 @@
+reference: A13603
+full_title: Digital Photography
+short_title: Digital Photography
+credits: 5
+level: Advanced
+author: BJACKMAN
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Media Production
+aim: The aim of the module is to advance the student?s knowledge and skill in practical
+  digital photography. The module addresses both the technical and creative aspects
+  of image creation.
+programmes:
+- timetable: PHOT-0016
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PHOT-0016
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PHOT-0016
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PHOT-0016
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: PHOT-0016
+  code: WD_KPHTE_B
+  name: BSc (Hons) in Physics for Modern Technology
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Camera Controls and operations
+- Composition principles
+- Practical image making
+- Practical editing techniques
+- Lighting Techniques -- studio and available light
+- Presentation of images
+learning_outcomes:
+- Manage the technical aspects of image capture.
+- Integrate key visual principals underlying digital image capture and editing.
+- Compose images through editing.
+- Assess correct camera controls and settings for a subject.
+- Develop and realise photographic projects.
+learning_and_teaching_methods:
+- Combination of lectures and studio-based practicals.
+- The lectures will cover the theory and underlying technologies of image capture
+  using a DSLR camera.
+- The practical work will provide the student with the skills to dynamically consider
+  lighting options and composition choices when making images.
+- Students will be encouraged to use self-directed research and learning to study
+  images from world-class photographers and investigate camera technology.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,4
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 2,3,4,5
+  main: false
+  name: Portfolio
+  weighting: 80
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to demonstrate an understanding of the ``photographic triangle''''
+  to create properly exposed images under various lighting conditions.'
+- '40%-49%: Ability to use ambient lighting to create effective images.'
+- '50%-59%: Ability to use both ambient and studio lighting to creatively to express
+  photographic intentions.'
+- '60%-69%: Ability to use digital editing techniques to create effective images and
+  minimise technical image problems such as sensor noise and optical lens aberrations.'
+- '70%-100%: All the above to an excellent level. Ability to assemble a strong set
+  of images as a photo essay to examine a specific subject or topic.'
+essential_material:
+- '"Cambridge in Colour." www.cambridgeincolour.com'
+- '"Creative Live." www.creativelive.com'
+- '"Digital Photography Review." www.dpreview.com'
+- '"Magnum Photo Agency." www.magnumphotos.com'
+supplementary_material:
+- 'Freeman, M. _The Photographer''s Eye_. NY: Ilex, 2007.'
+- 'duChemin, D. _The Photographer''s Eye_. NY: Peachpit/New Riders, 2010.'
+- 'duChemin, D. _Within The Frame_. NY: Peachpit/New Riders, 2009.'
+requested_resources:
+- 'CREATIVE AND PERFORMING: Photography'
+mlo_to_po: ''
+track_changes: true
+
+
+

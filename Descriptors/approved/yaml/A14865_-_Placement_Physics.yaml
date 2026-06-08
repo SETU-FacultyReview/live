@@ -1,0 +1,98 @@
+reference: A14865
+full_title: Placement (Physics)
+short_title: Placement (Physics)
+credits: 30
+level: Intermediate
+author: CKEARY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Placement and Projects
+aim: During the placement period students are given the opportunity to complete work
+  placement in an industrial or research environment. Students usually undertake the
+  work placement element, which allows them to acquire valuable technical and professional
+  skills within an organisation. The placement is typically of six month's duration;
+  a student must complete a minimum of 16 weeks in order to gain credit for this module.
+  Each student is expected to monitor their own performance by maintaining a weekly
+  activity and reflection journal. In addition, the student must submit a work placement
+  report on completion of the placement period. The employer submits an evaluation
+  of the students' work at the end of the placement. Placement is assessed on a pass/fail
+  basis. In order to gain credit for this module, the student must submit all relevant
+  documentation to the placement coordinator. Arrangements for the work placement
+  are detailed in the course placement handbook.
+programmes:
+- timetable: PLAC-0151
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 3
+  semester: 6
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Reflective writing and maintenance of weekly activity and reflection journal.
+- Report writing.
+- Industrial placement OR placement in a designated research environment
+learning_outcomes:
+- Plan learning objectives for the placement.
+- Operate independently and/or as part of a team towards the set objectives of the
+  work environment.
+- Apply competently their scientific and technical knowledge and skills in a range
+  of settings.
+- Examine their personal, professional and technical achievements on the placement.
+- Communicate effectively their activities in an appropriate and professional manner.
+- Complete a portfolio of work consisting of weekly reflective logs; a comprehensive
+  end-of-semester report on work carried out over the placement period; and an up-to-date
+  professional curriculum vitae.
+learning_and_teaching_methods:
+- At the beginning of the placement period, the student develops a set of job objectives
+  in consultation with their flexible semester mentor.
+- The student monitors their own learning on a weekly basis by maintaining a weekly
+  activity and reflection journal.
+- In addition, the student submits a work placement report on completion of the placement
+  period.
+learning_modes:
+- full_time: 810
+  name: Placement
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,6
+  main: false
+  name: Portfolio
+  weighting: Pass/Fail
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5
+  main: false
+  name: Reflective Journal
+  weighting: Pass/Fail
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 2,3,4
+  main: false
+  name: Supervisor's Report
+  weighting: Pass/Fail
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- 'Fail: Student fails to undertake or complete placement to a satisfactory level
+  and/or fails to submit the assessments and documents related to the learning outcomes.'
+- 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisor
+  Evaluation Report submitted, and assessments and documents related to the learning
+  outcomes, all to an acceptable standard and submitted within deadlines'
+essential_material: []
+supplementary_material:
+- '"ASET Good Practice Guide for Work based and Placement Learning in Higher Education
+  (2013)." http://www.asetonline.org/wp-content/uploads/2014/11/ASET-Good-Practice-Guide-2014.pdf'
+- '"Effective Practice in Industrial Work Placement: A Physical Sciences Practice
+  Guide (2009)." https://www.heacademy.ac.uk/sites/default/files/effective_practice_in_industrial_work_placement.pdf'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

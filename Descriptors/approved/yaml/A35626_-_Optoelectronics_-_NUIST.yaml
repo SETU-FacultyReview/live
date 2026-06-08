@@ -1,0 +1,122 @@
+reference: A35626
+full_title: Optoelectronics - NUIST
+short_title: Optoelectronics (NUIST)
+credits: 5
+level: Postgraduate
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Discipline Specific Technologies
+aim: This module provides the student with an overview of the current state of the
+  field in optoelectronics. The module places a special emphasis on the fundamental
+  principles which underlie the operation of optoelectronic devices and systems. The
+  module associates this theory with commonly used photonic devices and their application
+  in the areas of communications, sensing and medical diagnostics. The module aims
+  to provide the student with sufficient knowledge of optics and solid state physics
+  to evaluate optoelectronic devices and systems and to understand future developments
+  in the field.
+programmes:
+- timetable: OPTO-0001
+  code: WD_EELEN_G
+  name: Postgraduate Diploma in Engineering in Electronic Engineering
+  stage: 1
+  semester: 2
+  status: E
+- timetable: OPTO-0001
+  code: WD_EELEN_R
+  name: Master of Engineering in Electronic Engineering
+  stage: 1
+  semester: 2
+  status: E
+- timetable: ''
+  code: WD_EELEN_RI
+  name: MEng in Electronic Information Systems
+  stage: 3
+  semester: 5
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Sources (mechanisms, various spectral sources and modes, conversion efficiency)
+- 'Receivers (mechanisms, receiver architecture: point or array, optical and electronic
+  signal conditioning)'
+- 'Optics: Nature of light (Hygiene, Planick, Maxwell and Elnstein)'
+- 'Optics: Components (Lens, Mirrors, Coatings, Polarisers, and Gratings)'
+learning_outcomes:
+- Analyse the various mechanisms used to describe light sources and evaluate the efficiency
+  and the emission characteristics.
+- Examine a receiver architecture and compare point and array detectors in terms of
+  suitability or individual Applications.
+- Evaluatethe theory of Maxwell and Einstein and derive the most pertinent expressions
+  describing the nature of light.
+- Use optical components to construct optical systems for medical diagnostics and
+  communications.
+- Calibrate optical receivers and sources and employ these devices in measurement
+  application.
+- Evaluate state of the art developments in plasmonics and photonic crystals and their
+  applications.
+learning_and_teaching_methods:
+- Lecture and Demonstration
+- Mini Project
+- Assignments
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 6
+  name: Practical
+  part_time: ''
+- full_time: 105
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 4,5
+  main: false
+  name: Practical
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '6'
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% In addition to the criteria set out below: The student will have shown exceptional
+  ability in the interpretation and evaluation of optoelectronic devices and their
+  applications. They will have demonstrated an ability to develop and understand other
+  future developments within the field.'
+- '>60% <70% In addition to the criteria set out below: The student will have shown
+  a firm understanding of the theory and application of optoelectronic devices and
+  systems. They will demonstrate the use of theory to evaluate current systems and
+  design functional optoelectronic systems'
+- '>40% <60% The student will have shown a basic understanding of the applications
+  of optoelectronic devices and systems and an ability to construct functional optoelectronic
+  systems for applications in diagnostics and communications.'
+- <40% The student has failed to demonstrate a basic understanding of the applications
+  of optoelectronic devices and systems and their ability to construct functional
+  optoelectronic systems for applications in diagnostics and communications.
+essential_material:
+- 'Smith, F.G. and T.A. King. _Optics and Photonics: An Introduction_. U.K.: Wiley,
+  2004.'
+- 'Wilson, J. and J. Hawkes. _Optoelectronics: An Introduction_. 3rd Ed.. UK: Pearson,
+  1998.'
+supplementary_material: []
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'ENGINEERING LAB: Electronics'
+mlo_to_po: ''
+track_changes: true
+
+
+
