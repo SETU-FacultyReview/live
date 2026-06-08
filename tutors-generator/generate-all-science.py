@@ -80,7 +80,9 @@ def main():
         data_dir=data_dir,
         tutors_generator_dir=tutors_generator_dir,
         output_dir=data_dir / "tutors-science-faculty",
-        tutors_course_id="setu-science-faculty"
+        tutors_course_id="setu-science-faculty",
+        course_title="SETU Science Faculty",
+        course_description="Complete catalogue of approved modules for the Science Faculty, organized by department."
     )
     faculty_generator.generate_tutors_course()
 
@@ -103,7 +105,9 @@ def main():
         data_dir=data_dir,
         tutors_generator_dir=tutors_generator_dir,
         output_dir=data_dir / "tutors-science-dept",
-        tutors_course_id="setu-science-dept"
+        tutors_course_id="setu-science-dept",
+        course_title="SETU Science Department",
+        course_description="Complete catalogue of approved modules for the Science Department."
     )
     science_generator.generate_tutors_course()
 
@@ -126,7 +130,9 @@ def main():
         data_dir=data_dir,
         tutors_generator_dir=tutors_generator_dir,
         output_dir=data_dir / "tutors-computing-maths-dept",
-        tutors_course_id="setu-computing-maths-dept"
+        tutors_course_id="setu-computing-maths-dept",
+        course_title="SETU Computing & Maths Department",
+        course_description="Complete catalogue of approved modules for the Computing & Mathematics Department."
     )
     computing_generator.generate_tutors_course()
 

@@ -21,7 +21,7 @@ This module will give students a good understanding of the development on a rang
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ADONEGAN |
-| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 
@@ -134,7 +134,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SGMPT_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | [Bachelor of Science in Good Manufacturing Practice and Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | 1 | 3 | Mandatory |
+| [WD_SGMPT_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | [Bachelor of Science in Good Manufacturing Practice and Technology](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-05-WD_SGMPT_D) | 1 | 3 | Mandatory |
 
 ---
 

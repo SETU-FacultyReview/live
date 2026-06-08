@@ -21,7 +21,7 @@ This is a fundamental chemistry course for non-chemistry specialists, and deals 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EOWENS |
-| **Cluster** | [Chemistry](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-05-Chemistry) |
+| **Cluster** | [Chemistry](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-05-Chemistry) |
 
 ---
 
@@ -131,7 +131,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SGMPT_C](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | [Higher Certificate in Science in Good Manufacturing Practice and Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | 1 | 1 | Mandatory |
+| [WD_SGMPT_C](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | [Higher Certificate in Science in Good Manufacturing Practice and Technology](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-01-level_6/topic-01-WD_SGMPT_C) | 1 | 1 | Mandatory |
 
 ---
 

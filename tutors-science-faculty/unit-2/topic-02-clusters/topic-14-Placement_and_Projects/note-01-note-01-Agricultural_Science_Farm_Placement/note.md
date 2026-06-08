@@ -21,7 +21,7 @@ This module is designed to give the student experience of practical farming on a
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | SWALSH |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -121,7 +121,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 3 | 6 | Elective |
+| [WD_SAGRI_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 3 | 6 | Elective |
 
 ---
 

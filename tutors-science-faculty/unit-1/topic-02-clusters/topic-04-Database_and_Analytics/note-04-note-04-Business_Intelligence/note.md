@@ -21,7 +21,7 @@ In this module students will learn about business intelligence (BI) concepts, me
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBARRY |
-| **Cluster** | [Database and Analytics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
+| **Cluster** | [Database and Analytics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 
@@ -127,11 +127,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_KBUSS_MA | Certificate in Business Intelligence |  |  | Mandatory |
-<<<<<<< HEAD
-| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | 1 | 0 | Elective |
-=======
-| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | 1 | 0 | Elective |
->>>>>>> main
+| [WD_KCESS_R](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | 1 | 0 | Elective |
 
 ---
 

@@ -1,3 +1,3 @@
-# SETU Science Modules by Department
+# SETU Computing & Maths Department
 
 Browse modules organized by department.

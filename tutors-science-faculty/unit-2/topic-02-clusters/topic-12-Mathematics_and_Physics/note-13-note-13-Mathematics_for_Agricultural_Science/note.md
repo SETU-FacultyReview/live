@@ -21,7 +21,7 @@ This module introduces mathematical models and techniques used in agricultural a
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | FLEONARD |
-| **Cluster** | [Mathematics and Physics](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
+| **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-12-Mathematics_and_Physics) |
 
 ---
 
@@ -125,7 +125,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 2 | 4 | Mandatory |
+| [WD_SAGRI_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 2 | 4 | Mandatory |
 
 ---
 

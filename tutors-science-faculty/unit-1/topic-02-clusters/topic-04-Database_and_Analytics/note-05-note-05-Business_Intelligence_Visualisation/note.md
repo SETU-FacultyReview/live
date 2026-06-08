@@ -21,7 +21,7 @@ The fundamental area of Business Intelligence (BI) is the skill to effectively c
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBARRY |
-| **Cluster** | [Database and Analytics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
+| **Cluster** | [Database and Analytics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 
@@ -133,7 +133,7 @@ This module is available on the following programmes:
 | WD_KDAAN_G | HDip in Science in Data Analytics | 1 | 2 | Mandatory |
 | WD_KDTAN_MA | Certificate in Data Analytics | 1 | 2 | Mandatory |
 | WD_KINTE_B | Bachelor of Science (Honours) in Information Technology | 4 | 2 | Elective |
-| [WD_KITMA_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | [BSc (Hons) in Information Technology Management](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | 1 | 8 | Elective |
+| [WD_KITMA_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | [BSc (Hons) in Information Technology Management](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | 1 | 8 | Elective |
 | WD_SAFICT_G | HDip in Science in Agri-Food ICT Systems | 6 | 4 | Mandatory |
 
 ---

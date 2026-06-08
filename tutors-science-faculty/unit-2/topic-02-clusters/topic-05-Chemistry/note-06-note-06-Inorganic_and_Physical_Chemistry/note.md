@@ -21,7 +21,7 @@ This module will give the student an in-depth knowledge of metal to ligand bondi
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EOWENS |
-| **Cluster** | [Chemistry](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-05-Chemistry) |
+| **Cluster** | [Chemistry](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-05-Chemistry) |
 
 ---
 
@@ -144,8 +144,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SPHSC_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 3 | 5 | Mandatory |
-| [WD_SPHSC_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [BSc in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 3 | 5 | Mandatory |
+| [WD_SPHSC_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 3 | 5 | Mandatory |
+| [WD_SPHSC_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | [BSc in Pharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-09-WD_SPHSC_D) | 3 | 5 | Mandatory |
 
 ---
 

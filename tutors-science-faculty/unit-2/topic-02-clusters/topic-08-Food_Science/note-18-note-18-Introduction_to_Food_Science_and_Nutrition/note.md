@@ -21,7 +21,7 @@ This module will provide the student with an introduction to key aspects of food
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EDUGGAN |
-| **Cluster** | [Food Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
+| **Cluster** | [Food Science](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 
@@ -130,13 +130,13 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KPHTE_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [BSc (Hons) in Physics for Modern Technology](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 1 | 2 | Elective |
-| [WD_SAGUL_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 2 | 4 | Elective |
-| [WD_SFDSC_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | [Bachelor of Science in Food Science with Business](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | 1 | 2 | Mandatory |
-| [WD_SFSIN_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 1 | 2 | Elective |
-| [WD_SMBIO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [BSc (Hons) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 1 | 2 | Elective |
-| [WD_SSCCM_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-02-WD_SSCCM_B) | [BSc (Hons) in Science (Common Entry)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-02-WD_SSCCM_B) | 1 | 2 | Elective |
-| [WD_SSCIE_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-01-WD_SSCIE_D) | [Bachelor of Science (Common Entry)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-01-WD_SSCIE_D) | 1 | 2 | Elective |
+| [WD_KPHTE_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | [BSc (Hons) in Physics for Modern Technology](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-09-WD_KPHTE_B) | 1 | 2 | Elective |
+| [WD_SAGUL_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 2 | 4 | Elective |
+| [WD_SFDSC_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | [Bachelor of Science in Food Science with Business](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-03-WD_SFDSC_D) | 1 | 2 | Mandatory |
+| [WD_SFSIN_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | [BSc (Hons) in Food Science and Innovation](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-01-WD_SFSIN_B) | 1 | 2 | Elective |
+| [WD_SMBIO_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [BSc (Hons) in Molecular Biology with Biopharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 1 | 2 | Elective |
+| [WD_SSCCM_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-02-WD_SSCCM_B) | [BSc (Hons) in Science (Common Entry)](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-02-WD_SSCCM_B) | 1 | 2 | Elective |
+| [WD_SSCIE_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-01-WD_SSCIE_D) | [Bachelor of Science (Common Entry)](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-01-WD_SSCIE_D) | 1 | 2 | Elective |
 
 ---
 

@@ -21,7 +21,7 @@ This module is an in-depth course in advanced analytical and laboratory techniqu
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | EMLANDERS |
-| **Cluster** | [Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
+| **Cluster** | [Pharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-13-Pharmaceutical_Science) |
 
 ---
 
@@ -139,7 +139,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SPHSC_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 4 | 7 | Mandatory |
+| [WD_SPHSC_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 4 | 7 | Mandatory |
 | WD_SQMCH_B | Bachelor of Science (Honours) in Applied Chemistry with Quality Management | 4 | 1 | Mandatory |
 
 ---

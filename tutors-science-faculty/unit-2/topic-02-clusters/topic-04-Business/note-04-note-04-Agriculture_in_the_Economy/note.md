@@ -21,7 +21,7 @@ This module will enable the student to describe the structure of Irish agricultu
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JGERAGHTY |
-| **Cluster** | [Business](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-04-Business) |
+| **Cluster** | [Business](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-04-Business) |
 
 ---
 
@@ -132,8 +132,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGUL_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 1 | 2 | Mandatory |
-| [WD_SAGUL_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 2 | 4 | Elective |
+| [WD_SAGUL_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 1 | 2 | Mandatory |
+| [WD_SAGUL_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | [Bachelor of Science in Agriculture](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-02-WD_SAGUL_D) | 2 | 4 | Elective |
 
 ---
 

@@ -21,7 +21,7 @@ This module focuses on the Web Design and Development Process, from User Experie
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CFITZPATRICK |
-| **Cluster** | [Graphic Design and Animation](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
+| **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
 
 ---
 
@@ -128,10 +128,10 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCOMP_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 1 | 2 | Mandatory |
-| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 2 | 4 | Mandatory |
-| [WD_KINFT_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 1 | 2 | Mandatory |
-| [WD_KMULA_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 2 | 4 | Mandatory |
+| [WD_KCOMP_D](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 1 | 2 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 2 | 4 | Mandatory |
+| [WD_KINFT_D](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 1 | 2 | Mandatory |
+| [WD_KMULA_D](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 2 | 4 | Mandatory |
 
 ---
 

@@ -21,7 +21,7 @@ The aim of this module is to introduce the principles of microbial molecular bio
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | ROMAHONY |
-| **Cluster** | [Biology](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-03-Biology) |
+| **Cluster** | [Biology](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-03-Biology) |
 
 ---
 
@@ -144,8 +144,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SMBIO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 2 | 4 | Mandatory |
-| [WD_SMBIO_D](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 2 | 4 | Mandatory |
+| [WD_SMBIO_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | [Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-07-WD_SMBIO_B) | 2 | 4 | Mandatory |
+| [WD_SMBIO_D](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | [Bachelor of Science in Molecular Biology with Biopharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-02-level_7/topic-08-WD_SMBIO_D) | 2 | 4 | Mandatory |
 
 ---
 

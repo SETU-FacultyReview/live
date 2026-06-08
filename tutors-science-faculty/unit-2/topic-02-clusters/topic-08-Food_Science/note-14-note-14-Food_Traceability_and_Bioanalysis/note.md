@@ -21,7 +21,7 @@ This module introduces the student to the concerns arising from the increasing g
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | DOMEARA |
-| **Cluster** | [Food Science](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
+| **Cluster** | [Food Science](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-08-Food_Science) |
 
 ---
 
@@ -136,7 +136,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 8 | Mandatory |
+| [WD_SAGRI_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 8 | Mandatory |
 
 ---
 

@@ -21,7 +21,7 @@ The aim of this module is to provide the professional adult learner with knowled
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | BWHELAN |
-| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
+| **Cluster** | [Quality, Regulatory and Compliance](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-15-Quality_Regulatory_and_Compliance) |
 
 ---
 

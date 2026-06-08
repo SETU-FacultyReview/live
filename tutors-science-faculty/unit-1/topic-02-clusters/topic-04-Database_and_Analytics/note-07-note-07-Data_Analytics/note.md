@@ -21,7 +21,7 @@ Data analytics supports critical decision making in business.
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | AKEALY |
-| **Cluster** | [Database and Analytics](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
+| **Cluster** | [Database and Analytics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
 
 ---
 
@@ -131,11 +131,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_18AFICT_G | Higher Diploma in Science in Agi-Food ICT Systems | 1 | 3 | Mandatory |
-<<<<<<< HEAD
-| [WD_KBUSY_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | 1 | 2 | Mandatory |
-=======
-| [WD_KBUSY_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 1 | 2 | Mandatory |
->>>>>>> main
+| [WD_KBUSY_G](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | 1 | 2 | Mandatory |
 | WD_SAFICT_G | HDip in Science in Agri-Food ICT Systems | 6 | 3 | Mandatory |
 
 ---

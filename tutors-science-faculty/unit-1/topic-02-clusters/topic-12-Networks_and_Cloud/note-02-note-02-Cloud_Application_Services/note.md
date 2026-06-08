@@ -21,7 +21,7 @@ The focus of this module is on the principles and practices in the design and im
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RFRISBY |
-| **Cluster** | [Networks and Cloud](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
+| **Cluster** | [Networks and Cloud](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
 
 ---
 
@@ -126,11 +126,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-<<<<<<< HEAD
-| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | 1 | 0 | Elective |
-=======
-| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | 1 | 0 | Elective |
->>>>>>> main
+| [WD_KCESS_R](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | 1 | 0 | Elective |
 
 ---
 

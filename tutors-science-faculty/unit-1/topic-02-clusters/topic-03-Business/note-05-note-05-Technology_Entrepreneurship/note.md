@@ -21,7 +21,7 @@ This module is designed to develop knowledge, skills and capabilities for the fo
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CGATELY |
-| **Cluster** | [Business](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-03-Business) |
+| **Cluster** | [Business](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-03-Business) |
 
 ---
 
@@ -135,8 +135,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCOMC_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 3 | 6 | Elective |
-| [WD_KDEVP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 3 | 6 | Elective |
+| [WD_KCOMC_D](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 3 | 6 | Elective |
+| [WD_KDEVP_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 3 | 6 | Elective |
 
 ---
 

@@ -21,7 +21,7 @@ The aim of this module is for students to synthesise, deepen and develop their k
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
-| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 

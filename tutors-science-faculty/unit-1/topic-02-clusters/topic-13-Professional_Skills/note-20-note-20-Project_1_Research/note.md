@@ -21,7 +21,7 @@ This is the capstone module for Semester one; it should bring together the stude
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PKIRWAN |
-| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 
@@ -119,18 +119,18 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KACCM_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 4 | 7 | Elective |
+| [WD_KACCM_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | [BSc (Hons) in Applied Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-01-WD_KACCM_B) | 4 | 7 | Elective |
 | WD_KACMI_B | BSc (Hons) in Applied Computing (International) | 4 | 7 | Elective |
-| [WD_KCMSC_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 4 | 7 | Elective |
-| [WD_KCOFO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 4 | 7 | Elective |
-| [WD_KCOMP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 4 | 7 | Elective |
-| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 7 | Elective |
+| [WD_KCMSC_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | [BSc (Hons) in Computer Science](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-02-WD_KCMSC_B) | 4 | 7 | Elective |
+| [WD_KCOFO_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 4 | 7 | Elective |
+| [WD_KCOMP_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 4 | 7 | Elective |
+| [WD_KCRCO_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 7 | Elective |
 | WD_KCSDV_B | Bachelor of Science (Honours) in Software Systems Development | 4 | 1 | Elective |
-| [WD_KDEVP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 7 | Elective |
+| [WD_KDEVP_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 4 | 7 | Elective |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 4 | 7 | Elective |
 | WD_KINTE_B | Bachelor of Science (Honours) in Information Technology | 4 | 1 | Elective |
 | WD_KINTT_BI | BSc (Hons) in the Internet of Things (International) | 4 | 7 | Elective |
-| [WD_KITMA_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | [BSc (Hons) in Information Technology Management](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | 1 | 7 | Elective |
+| [WD_KITMA_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | [BSc (Hons) in Information Technology Management](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-04-WD_KITMA_B) | 1 | 7 | Elective |
 | WD_KMULM_B | Bachelor of Science (Honours) in Multimedia Applications Development | 4 | 1 | Elective |
 
 ---

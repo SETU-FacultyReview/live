@@ -21,7 +21,7 @@ The purpose of the three-month work placement is to require the student to apply
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
-| **Cluster** | [Professional Skills](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
+| **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
 
 ---
 
@@ -120,11 +120,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-<<<<<<< HEAD
-| [WD_KBUSY_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | 2 | 4 | Mandatory |
-=======
-| [WD_KBUSY_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 2 | 4 | Mandatory |
->>>>>>> main
+| [WD_KBUSY_G](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | 2 | 4 | Mandatory |
 
 ---
 

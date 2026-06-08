@@ -39,7 +39,9 @@ class TutorsCatalogue:
         data_dir: Path,
         tutors_generator_dir: Path,
         output_dir: Path = None,
-        tutors_course_id: str = None
+        tutors_course_id: str = None,
+        course_title: str = None,
+        course_description: str = None
     ):
         """
         Initialize the course generator.
@@ -54,6 +56,8 @@ class TutorsCatalogue:
             tutors_generator_dir: Path to tutors-generator directory (for tutors-files/)
             output_dir: Path to output directory (defaults to data_dir/tutors-modules-by-dept)
             tutors_course_id: Tutors course ID (defaults to environment variable or 'setu-science-modules')
+            course_title: Course title (defaults to 'SETU Science Modules by Department')
+            course_description: Course description (defaults to generic description)
         """
         self.catalogue = catalogue
         self.departments = departments
@@ -69,6 +73,15 @@ class TutorsCatalogue:
         if tutors_course_id is None:
             tutors_course_id = os.getenv('TUTORS_COURSE_ID', 'setu-science-modules')
         self.tutors_course_id = tutors_course_id
+
+        # Set course title and description
+        if course_title is None:
+            course_title = "SETU Science Modules by Department"
+        self.course_title = course_title
+
+        if course_description is None:
+            course_description = "This site contains a complete catalogue of approved modules organized by department."
+        self.course_description = course_description
 
     def generate_tutors_course(self):
         """
@@ -169,25 +182,23 @@ class TutorsCatalogue:
         # Get tutors-files directory
         tutors_files_dir = self.tutors_generator_dir / "tutors-files"
 
-        # Copy course.md
-        source_course_md = tutors_files_dir / "course.md"
+        # Create course.md with custom title and description
         dest_course_md = self.output_dir / "course.md"
-        if source_course_md.exists():
-            shutil.copy(source_course_md, dest_course_md)
-            print("  Copied course.md")
-        else:
-            # Fallback: create basic course.md
-            with open(dest_course_md, 'w') as f:
-                f.write("# SETU Science Modules by Department\n\n")
-                f.write("This site contains a complete catalogue of approved modules organized by department.\n\n")
-                f.write("**Unit 1:** Computing and Mathematics Department\n\n")
-                f.write("**Unit 2:** Science Department\n")
-            print("  Created course.md (source not found)")
+        with open(dest_course_md, 'w') as f:
+            f.write(f"# {self.course_title}\n\n")
+            f.write(f"{self.course_description}\n\n")
+
+            # Add department unit information
+            for unit_num, dept_config in enumerate(self.departments, 1):
+                dept_name = dept_config['department'].name
+                f.write(f"**Unit {unit_num}:** {dept_name}\n\n")
+
+        print("  Created course.md")
 
         # Create root topic.md
         root_topic = self.output_dir / "topic.md"
         with open(root_topic, 'w') as f:
-            f.write("# SETU Science Modules by Department\n\n")
+            f.write(f"# {self.course_title}\n\n")
             f.write("Browse modules organized by department.\n")
         print("  Created topic.md")
 

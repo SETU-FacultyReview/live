@@ -21,7 +21,7 @@ This module provides the student with the opportunity to apply his/her knowledge
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PKIRWAN |
-| **Cluster** | [Media Production](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
+| **Cluster** | [Media Production](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
 
 ---
 
@@ -144,7 +144,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 7 | Elective |
+| [WD_KCRCO_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 4 | 7 | Elective |
 | WD_KMULM_B | Bachelor of Science (Honours) in Multimedia Applications Development | 4 | 1 | Elective |
 
 ---

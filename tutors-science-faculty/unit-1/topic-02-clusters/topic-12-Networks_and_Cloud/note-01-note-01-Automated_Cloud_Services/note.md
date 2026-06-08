@@ -21,7 +21,7 @@ This is a practical module that requires the student to build, configure and man
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RFRISBY |
-| **Cluster** | [Networks and Cloud](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
+| **Cluster** | [Networks and Cloud](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
 
 ---
 
@@ -133,11 +133,11 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_EAUTO_B | Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence | 4 | 8 | Mandatory |
-| [WD_KCOMC_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 3 | 6 | Mandatory |
-| [WD_KCOMP_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 3 | 6 | Mandatory |
-| [WD_KDEVP_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 3 | 6 | Mandatory |
+| [WD_KCOMC_D](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 3 | 6 | Mandatory |
+| [WD_KCOMP_D](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 3 | 6 | Mandatory |
+| [WD_KDEVP_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | [BSc (Hons) in Software Systems Development](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-05-WD_KDEVP_B) | 3 | 6 | Mandatory |
 | WD_KDEVP_BI | BSc (Hons) in Software Engineering | 3 | 6 | Mandatory |
-| [WD_KINFT_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 3 | 6 | Mandatory |
+| [WD_KINFT_D](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | [Bachelor of Science in Information Technology](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-02-WD_KINFT_D) | 3 | 6 | Mandatory |
 | WD_KPHTE_B | Bachelor of Science (Honours) in Physics for Modern Technology | 4 | 8 | Elective |
 
 ---

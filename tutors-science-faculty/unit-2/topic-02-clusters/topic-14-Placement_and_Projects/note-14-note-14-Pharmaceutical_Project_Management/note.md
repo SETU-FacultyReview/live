@@ -21,7 +21,7 @@ This module aims to provide the learner with the ability to develop an understan
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | UMCCARTHY |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 

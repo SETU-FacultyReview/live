@@ -21,7 +21,7 @@ This module addresses the role of information and information systems in support
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LDOYLE |
-| **Cluster** | [Information Systems and Modelling](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
+| **Cluster** | [Information Systems and Modelling](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
 
 ---
 
@@ -135,11 +135,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-<<<<<<< HEAD
-| [WD_KISYP_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | 1 | 0 | Elective |
-=======
-| [WD_KISYP_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | 1 | 0 | Elective |
->>>>>>> main
+| [WD_KISYP_R](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | 1 | 0 | Elective |
 
 ---
 

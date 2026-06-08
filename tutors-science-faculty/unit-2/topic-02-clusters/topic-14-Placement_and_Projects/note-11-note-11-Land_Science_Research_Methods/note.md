@@ -21,7 +21,7 @@ This module will introduce techniques that are necessary in a research environme
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | NMCCARTHY |
-| **Cluster** | [Placement and Projects](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
+| **Cluster** | [Placement and Projects](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-14-Placement_and_Projects) |
 
 ---
 
@@ -127,10 +127,10 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 7 | Mandatory |
-| [WD_SBSAG_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 1 | Mandatory |
-| [WD_SBSFO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | [Bachelor of Science (Honours) in Land Management (in Forestry)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | 1 | 1 | Mandatory |
-| [WD_SBSHO_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 1 | Mandatory |
+| [WD_SAGRI_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 7 | Mandatory |
+| [WD_SBSAG_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 1 | Mandatory |
+| [WD_SBSFO_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | [Bachelor of Science (Honours) in Land Management (in Forestry)](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-05-WD_SBSFO_B) | 1 | 1 | Mandatory |
+| [WD_SBSHO_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | [Bachelor of Science (Honours) in Land Management (in Horticulture)](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-06-WD_SBSHO_B) | 1 | 1 | Mandatory |
 
 ---
 

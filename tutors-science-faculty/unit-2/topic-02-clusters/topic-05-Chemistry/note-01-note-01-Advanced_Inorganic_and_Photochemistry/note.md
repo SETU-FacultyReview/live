@@ -21,7 +21,7 @@ This module gives the student and in-depth knowledge of bonding, formation and i
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | HHUGHES |
-| **Cluster** | [Chemistry](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-05-Chemistry) |
+| **Cluster** | [Chemistry](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-05-Chemistry) |
 
 ---
 
@@ -140,7 +140,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SPHSC_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 4 | 8 | Mandatory |
+| [WD_SPHSC_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | [Bachelor of Science (Honours) in Pharmaceutical Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-08-WD_SPHSC_B) | 4 | 8 | Mandatory |
 | WD_SQMCH_B | Bachelor of Science (Honours) in Applied Chemistry with Quality Management | 4 | 2 | Mandatory |
 
 ---

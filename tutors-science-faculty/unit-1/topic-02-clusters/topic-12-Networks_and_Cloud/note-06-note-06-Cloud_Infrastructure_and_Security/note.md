@@ -21,7 +21,7 @@ This module will build on the student?s prior knowledge of computer networks and
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RFRISBY |
-| **Cluster** | [Networks and Cloud](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
+| **Cluster** | [Networks and Cloud](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
 
 ---
 

@@ -21,7 +21,7 @@ This module is designed for students who already have an intermediate knowledge 
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | JGERAGHTY |
-| **Cluster** | [Agriculture](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-01-Agriculture) |
+| **Cluster** | [Agriculture](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-01-Agriculture) |
 
 ---
 
@@ -134,8 +134,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 7 | Mandatory |
-| [WD_SBSAG_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 1 | Mandatory |
+| [WD_SAGRI_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 4 | 7 | Mandatory |
+| [WD_SBSAG_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | [Bachelor of Science (Honours) in Land Management (in Agriculture)](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-04-WD_SBSAG_B) | 1 | 1 | Mandatory |
 
 ---
 

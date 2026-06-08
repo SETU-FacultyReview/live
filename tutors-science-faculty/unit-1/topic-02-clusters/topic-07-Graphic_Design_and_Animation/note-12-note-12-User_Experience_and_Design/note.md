@@ -21,7 +21,7 @@ User Experience (UX) is a concept that has many dimensions, and it includes a va
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | AGANNON |
-| **Cluster** | [Graphic Design and Animation](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
+| **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
 
 ---
 
@@ -134,13 +134,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-<<<<<<< HEAD
-| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | 1 | 0 | Elective |
-| [WD_KISYP_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | 1 | 0 | Elective |
-=======
-| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | 1 | 0 | Elective |
-| [WD_KISYP_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | 1 | 0 | Elective |
->>>>>>> main
+| [WD_KCESS_R](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | 1 | 0 | Elective |
+| [WD_KISYP_R](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | 1 | 0 | Elective |
 
 ---
 

@@ -1,7 +1,8 @@
-# SETU Science Modules by Department
+# SETU Science Faculty
 
-This site contains a complete catalogue of approved modules organized by department.
+Complete catalogue of approved modules for the Science Faculty, organized by department.
 
 **Unit 1:** Computing and Mathematics Department
 
 **Unit 2:** Science Department
+

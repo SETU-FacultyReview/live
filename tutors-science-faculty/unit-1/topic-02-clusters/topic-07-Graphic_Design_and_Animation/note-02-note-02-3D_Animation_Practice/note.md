@@ -21,7 +21,7 @@ The purpose of this module is to give a student the practical knowledge to prepa
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MMCMAHON |
-| **Cluster** | [Graphic Design and Animation](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
+| **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
 
 ---
 
@@ -124,8 +124,8 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KCRCO_B](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 3 | 6 | Mandatory |
-| [WD_KMULA_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 3 | 6 | Mandatory |
+| [WD_KCRCO_B](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | [BSc (Hons) in Creative Computing](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-03-WD_KCRCO_B) | 3 | 6 | Mandatory |
+| [WD_KMULA_D](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | [Bachelor of Science in Multimedia Applications Development](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-03-WD_KMULA_D) | 3 | 6 | Mandatory |
 
 ---
 

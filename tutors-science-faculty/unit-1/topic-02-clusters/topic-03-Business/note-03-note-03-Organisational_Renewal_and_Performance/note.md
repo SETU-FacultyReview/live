@@ -21,7 +21,7 @@ The cornerstone of organisational renewal, revitalisation and performance (ORRP)
 | **School** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
-| **Cluster** | [Business](/topic/setu-sci-faculty/unit-1/topic-02-clusters/topic-03-Business) |
+| **Cluster** | [Business](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-03-Business) |
 
 ---
 
@@ -148,11 +148,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-<<<<<<< HEAD
-| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | 1 | 0 | Elective |
-=======
-| [WD_KCESS_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-03-WD_KCESS_R) | 1 | 0 | Elective |
->>>>>>> main
+| [WD_KCESS_R](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | [MSc in Computer Science (Enterprise Software Systems)](/topic/setu-science-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KCESS_R) | 1 | 0 | Elective |
 
 ---
 

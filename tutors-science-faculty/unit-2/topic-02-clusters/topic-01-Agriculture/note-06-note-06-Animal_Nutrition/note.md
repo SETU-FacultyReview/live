@@ -21,7 +21,7 @@ This module will give students a broad introduction to both ruminant and monogas
 | **School** | Science and Computing |
 | **Department** | Science |
 | **Module Author** | SWALSH |
-| **Cluster** | [Agriculture](/topic/setu-sci-faculty/unit-2/topic-02-clusters/topic-01-Agriculture) |
+| **Cluster** | [Agriculture](/topic/setu-science-faculty/unit-2/topic-02-clusters/topic-01-Agriculture) |
 
 ---
 
@@ -134,7 +134,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_SAGRI_B](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 2 | 4 | Mandatory |
+| [WD_SAGRI_B](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | [Bachelor of Science (Honours) in Agricultural Science](/topic/setu-science-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-03-WD_SAGRI_B) | 2 | 4 | Mandatory |
 
 ---
 
