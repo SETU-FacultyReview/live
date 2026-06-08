@@ -1,0 +1,14 @@
+| Semester 7 |  |  | Semester 8 |  |  |
+| ----------------- | --- | --- | ----------------- | --- | --- |
+| [BI & Data Warehousing](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics/note-06-note-06-Business_Intelligence_and_Data_Warehousing) | 10 | M |  |  |  |
+| [Cloud Computing 1](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud/note-04-note-04-Cloud_Computing_1) | 5 | M |  |  |  |
+| [Network and System Security](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security/note-18-note-18-Network_and_System_Security) | 5 | M |  |  |  |
+| [Project Management](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling/note-17-note-17-Project_Management) | 5 | M |  |  |  |
+| [Project 1 (Development)](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills/note-19-note-19-Project_1_Development) | 5 | E | [BI Visualisation](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics/note-05-note-05-Business_Intelligence_Visualisation) | 5 | E |
+| [Project 1 (Research)](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills/note-20-note-20-Project_1_Research) | 5 | E | [Database Administration](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-04-Database_and_Analytics/note-13-note-13-Database_Administration) | 5 | E |
+|  |  |  | [Computer Forensics](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-05-Forensics_and_Security/note-03-note-03-Computer_Forensics) | 5 | E |
+|  |  |  | [IT Operations Management](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling/note-12-note-12-IT_Operations_Management) | 5 | E |
+|  |  |  | [Knowledge Systems Engineering](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling/note-16-note-16-Knowledge_Systems_Engineering_and_the_Semantic_Web) | 5 | E |
+|  |  |  | [Cloud Computing 2](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud/note-05-note-05-Cloud_Computing_2) | 5 | E |
+|  |  |  | [Project 2 IT (Prototyping)](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills/note-23-note-23-Project_2_IT_Prototyping) | 5 | E |
+|  |  |  | [Project 2 IT (Research)](/note/setu-sci-modules-dev/unit-1/topic-02-clusters/topic-13-Professional_Skills/note-24-note-24-Project_2_IT_Research) | 5 | E |

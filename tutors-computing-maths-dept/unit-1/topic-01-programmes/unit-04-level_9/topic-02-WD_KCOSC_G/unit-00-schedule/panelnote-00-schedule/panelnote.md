@@ -1,0 +1,12 @@
+| Semester 1 |  |  | Semester 2 |  |  | Semester 3 |  |  |
+| ----------------- | --- | --- | ----------------- | --- | --- | ----------------- | --- | --- |
+| [Computer Networks (ICT Skills)](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud/note-08-note-08-Computer_Networks_ICT_Skills) | 5 | M | [Developer Operations](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud/note-13-note-13-Developer_Operations) | 5 | M | [ICT Skills Placement](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills/note-09-note-09-ICT_Skills_Placement) | 30 | M |
+| [Computer Systems (ICT Skills)](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud/note-09-note-09-Computer_Systems_ICT_Skills) | 5 | M | [ICT Skills Studio](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-13-note-13-ICT_Skills_Studio) | 5 | M |  |  |  |
+| [Computer Systems and Networks](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud/note-12-note-12-Computer_Systems_and_Networks) | 10 | M |  |  |  |  |  |  |
+| [DB Design and Implementation](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-04-Database_and_Analytics/note-15-note-15-Database_Design_and_Implementation) | 5 | M |  |  |  |  |  |  |
+| [Programming Fundamentals - ICT](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-22-note-22-Programming_Fundamentals_-_ICT) | 10 | M |  |  |  |  |  |  |
+| [Web Development 1](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-30-note-30-Web_Development_1) | 5 | M |  |  |  |  |  |  |
+| [Website Development 1](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-32-note-32-Website_Development_1) | 5 | M |  |  |  |  |  |  |
+|  |  |  | [Security and Forensics](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-05-Forensics_and_Security/note-05-note-05-Computer_Security_and_Forensics) | 10 | E |  |  |  |
+|  |  |  | [Mobile App Development - ICT](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-19-note-19-Mobile_Application_Development_-_ICT) | 10 | E |  |  |  |
+|  |  |  | [Web App Development](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development/note-27-note-27-Web_App_Development) | 10 | E |  |  |  |
