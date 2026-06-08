@@ -126,7 +126,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
+<<<<<<< HEAD
 | [WD_KBUSY_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | 4 | 2 | Mandatory |
+=======
+| [WD_KBUSY_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 4 | 2 | Mandatory |
+>>>>>>> main
 | [WD_KCOMP_D](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | [BSc in Applied Computing](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-02-level_7/topic-01-WD_KCOMP_D) | 3 | 6 | Mandatory |
 
 ---

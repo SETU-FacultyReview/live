@@ -133,7 +133,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
+<<<<<<< HEAD
 | [WD_KBUSY_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | 1 | 1 | Mandatory |
+=======
+| [WD_KBUSY_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 1 | 1 | Mandatory |
+>>>>>>> main
 
 ---
 

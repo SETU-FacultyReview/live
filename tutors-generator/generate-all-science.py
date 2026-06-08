@@ -80,7 +80,7 @@ def main():
         data_dir=data_dir,
         tutors_generator_dir=tutors_generator_dir,
         output_dir=data_dir / "tutors-science-faculty",
-        tutors_course_id="setu-sci-faculty"
+        tutors_course_id="setu-science-faculty"
     )
     faculty_generator.generate_tutors_course()
 
