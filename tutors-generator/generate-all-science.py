@@ -109,7 +109,7 @@ def main():
         tutors_course_id="setu-science-dept",
         course_title="SETU Science Department",
         course_description="Complete catalogue of approved modules for the Science Department.",
-        llm_notebook_url="https://notebooklm.google.com/notebook/10307cf3-46dd-4cc2-a447-470906eec44a"
+        llm_notebook_url="https://notebooklm.google.com/notebook/cb07f2c3-dda5-4f44-8de2-8cc884d7590f"
     )
     science_generator.generate_tutors_course()
 
