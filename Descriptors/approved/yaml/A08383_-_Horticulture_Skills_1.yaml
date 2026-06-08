@@ -1,0 +1,87 @@
+reference: A08383
+full_title: Horticulture Skills 1
+short_title: Horticulture Skills 1
+credits: 5
+level: Introductory
+author: CDOCKRELL
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Horticulture
+aim: This module will equip the student with the skill and competence to perform a
+  range of horticultural skills.
+programmes:
+- timetable: HORT-0035
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 1
+  semester: 1
+  status: M
+- timetable: HORT-0035
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Control weeds using cultural and chemical methods
+- Prepare ground by digging, harrowing, rotovating and raking
+- Establish a lawn by seeding and sodding
+- Plant a range of plants including spring flowering annuals, bulbs, trees and shrubs
+- Plant care and maintenance including deadheading, thinning, division, training and
+  support
+learning_outcomes:
+- Show how to prepare the ground for seed sowing and planting.
+- Control weeds by chemical and cultural means.
+- Show how to prepare the ground and establish a lawn by seeding and sodding.
+- Demonstrate how to plant a range of plants and bulbs.
+- Demonstrate a range of plant maintenance tasks.
+- Complete a record of activities and observations.
+- Operate in a team or individually to complete a series of tasks.
+learning_and_teaching_methods:
+- Practical demonstrations and assignments.
+learning_modes:
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '6'
+  main: false
+  name: Reflective Journal
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4,5,7
+  main: false
+  name: Practical
+  weighting: 80
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Demonstrates an inability to perform most of the skills to an acceptable
+  standard and output.'
+- '40%-49%: Demonstrates a limited ability to perform most of the skills to an acceptable
+  standard and output.'
+- '50%-59%: Demonstrates a satisfactory ability to perform most of the skills to an
+  acceptable standard and output.'
+- '60%-69%: Demonstrates a satisfactory ability to perform all of the skills to an
+  acceptable standard and output.'
+- '70%-100%: Demonstrates sound ability to perform all of the skills to an competent
+  standard and output.'
+essential_material: []
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,109 @@
+reference: A09658
+full_title: Calibration Science
+short_title: Calibration Science
+credits: 5
+level: Introductory
+author: ADONEGAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Quality, Regulatory and Compliance
+aim: This module covers all aspects of calibration within the pharmaceutical industry.
+  Students will learn and observe the practice of performing calibration on routine
+  items of equipment. They will be given the skills to develop a calibration schedule
+  taking into consideration the frequency, how critical the equipment is to the manufacturing
+  process and is GMP compliant.
+programmes:
+- timetable: CALI-0001
+  code: WD_SGMPT_C
+  name: Higher Certificate in Science in Good Manufacturing Practice and Technology
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Definition of calibration; review of the purpose of calibration and frequency of
+  calibration; the role of the National Standards Authority of Ireland (NSAI) and
+  international bodies
+- Review of GMP requirements for equipment calibration and the maintenance of calibration
+  documentation (procedure and records); identification of calibrated from non-calibrated
+  equipment
+- Measurement techniques mass, temperature dimension, pressure and the extent of these
+  in pharmaceutical industry - calibration of instruments for these measurements
+- Setting up logbooks for the calibration
+- 'Choose from the following list of equipment: analytical balance, callipers, pH
+  meter, conductivity meter, hygrometers, UV-visible spectrometers, microscopes'
+- Volumetric flasks and graduated cylinders, pipettes, micro-pipettes, thermometers,
+  autoclaves, incubators, fridges, freezers
+- Calibration, operation and maintenance of equipment
+- Primary and secondary calibration in temperature measurement
+learning_outcomes:
+- Discuss the principles of calibration in Quality Assurance and the external agencies
+  involved.
+- Distinguish between calibrated and non-calibrated equipment, calibration certificates
+  and records.
+- Explain the principles of measurement and techniques involved for routine process
+  use and for calibration.
+- Summarise a calibration procedure and carry out a calibration of a simple item of
+  equipment.
+learning_and_teaching_methods:
+- Lectures.
+- Discussion.
+- Practical examples.
+- Industrial visits.
+- E-learning via Moodle.
+learning_modes:
+- full_time: ''
+  name: Lecture
+  part_time: 24
+- full_time: ''
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '4'
+  main: false
+  name: Lab Report
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3
+  main: false
+  name: In-Class Assessment
+  weighting: 75
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
+  technical ability/skill and understanding to carry out practical/professional tasks.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Show some technical
+  ability/skill in carrying out and reporting on practical/professional tasks.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Logically and competently carry out practical/professional tasks.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter. Show ability to analyse
+  and logically argue in an effective and mature style. Demonstrate initiative and
+  the ability to criticise methods used and appreciation of experimental design when
+  carrying out practical/professional tasks.'
+- '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
+  and extensive understanding of the subject. Provide well focused analysis and convincing
+  argument on the subject.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the theory and practical components of the module. In cases where continuous assessment
+  has a practical component attendance of at least 75% in the practicals is mandatory.
+essential_material: []
+supplementary_material:
+- 'Morris, A. _Measurement and calibration requirements for quality assurance to ISO9000_.
+  Chichester: John Wiley, 1997.'
+- 'Placko, D. _Fundamentals of Instrumentation and Measurement_. Chichester: Wiley,
+  2008.'
+requested_resources:
+- 'Room Type: Chemistry Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

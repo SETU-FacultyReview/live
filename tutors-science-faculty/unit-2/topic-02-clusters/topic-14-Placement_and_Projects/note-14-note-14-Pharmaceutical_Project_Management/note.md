@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A33521 | Timetable Code: PHAR-0021*
+*Module Code: A33521 | Timetable Code: PHAR-0021 | Change Tracking: Enabled*

@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11533 | Timetable Code: PHAR-0015*
+*Module Code: A11533 | Timetable Code: PHAR-0015 | Change Tracking: Enabled*

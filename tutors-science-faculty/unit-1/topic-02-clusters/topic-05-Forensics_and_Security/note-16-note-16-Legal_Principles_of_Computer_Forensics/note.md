@@ -147,4 +147,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14171 | Timetable Code: LAWS-0001*
+*Module Code: A14171 | Timetable Code: LAWS-0001 | Change Tracking: Enabled*

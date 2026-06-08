@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07825 | Timetable Code: CHRO-0001*
+*Module Code: A07825 | Timetable Code: CHRO-0001 | Change Tracking: Enabled*

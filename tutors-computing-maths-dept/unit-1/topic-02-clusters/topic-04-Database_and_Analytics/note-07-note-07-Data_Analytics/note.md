@@ -131,7 +131,7 @@ This module is available on the following programmes:
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
 | WD_18AFICT_G | Higher Diploma in Science in Agi-Food ICT Systems | 1 | 3 | Mandatory |
-| [WD_KBUSY_G](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-01-WD_KBUSY_G) | 1 | 2 | Mandatory |
+| [WD_KBUSY_G](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | [Higher Diploma in Science in Business Systems Analysis](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-10-WD_KBUSY_G) | 1 | 2 | Mandatory |
 | WD_SAFICT_G | HDip in Science in Agri-Food ICT Systems | 6 | 3 | Mandatory |
 
 ---
@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13665 | Timetable Code: DATA-0013*
+*Module Code: A13665 | Timetable Code: DATA-0013 | Change Tracking: Enabled*

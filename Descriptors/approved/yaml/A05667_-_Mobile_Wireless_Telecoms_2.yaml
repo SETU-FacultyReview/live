@@ -1,0 +1,152 @@
+reference: A05667
+full_title: Mobile Wireless Telecoms 2
+short_title: Mobile Wireless Telecoms 2
+credits: 5
+level: Advanced
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Electronics
+aim: 'This module builds upon and continues on from the second year module entitled,
+  Introductory Telecommunications Theory & the third year module entitled, Mobile
+  Wireless Telecommunications-1. This module focuses primarily on advanced digital
+  modulation techniques in the context of commercial cellular systems: 2G-Second Generation
+  based modulation schemes (primarily GSM), 3G-Third Generation based modulation schemes
+  (primarily Universal Mobile Telecommunications System (UMTS)), and 4G-Fourth Generation
+  based modulation schemes (primarily Long Term Evolution (LTE) and Digital Video
+  Broadcasting-Terrestrial (DVB-T)), and frames them in the context of the state of
+  the art approach of Software Defined Radio (SDR). A practical program runs in parallel
+  with lectures and tutorials to enhance and reinforce the student''s understanding
+  of the theory, using experience and technical information gleaned from the numerical
+  modeling. This is realised by utilising off-the-shelf USB TV receivers, partnered
+  with a standard PC, furnished with appropriate software suites (Python, C/C++, GnuRadio,
+  etc (facilitating the PC with a Linux capability to access this hardware will be
+  necessary)), as a laboratory workstation.'
+programmes:
+- timetable: ''
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 4
+  semester: 7
+  status: M
+- timetable: WCOM-0001
+  code: WD_EELEC_B
+  name: Bachelor of Science (Honours) in Applied Electronics
+  stage: 2
+  semester: 3
+  status: M
+- timetable: WCOM-0001
+  code: WD_EONIC_B
+  name: Bachelor of Engineering (Honours) in Electronic Engineering
+  stage: 4
+  semester: 7
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Advanced Digital Modulation - 2nd Gen (2G): Partial Response Signalling (PRS) pulse
+  shaping, spectral compression, narrowband constant envelope modulation. Architectural
+  implementation of Gaussian MSK modulator & associated BER performance, matched filtering
+  (equalization) demodulator requirement.'
+- 'Advanced Digital Modulation - 3rd Gen (3G): CDMA -- Direct Sequence & Frequency
+  Hopping. Root Raised Cosine (RRC) wideband pulse shaping, rake receiver delay locked
+  loop receiver architecture incorporating RRC matched filter. Spreading codes / selection
+  criteria. Auto & cross correlation.'
+- 'Advanced Digital Modulation - Fourth Generation (4G): Orthogonal Frequency Division
+  Multiplex (OFDM). MultiMode transmission & implications for wireless channel propagation,
+  ISI. DVB-T, DRM, ADSL, LTE.'
+- 'Architecture / Infrastructure: SDR architecture and implementation. ADC architectures
+  and principles for SDR. DVB-T USB module Radio Frequency front-end receiver (utilising
+  Free-Software Foundation / GNU Radio software tools) for SDR. Toward MIMO architectures,
+  Smart Antenna architectures.'
+learning_outcomes:
+- Discuss and differentiate between modulation and access schemes in terms of implementation
+  and spectral efficiency.
+- Describe the theory for the need for advanced modulation schemes, the motivating
+  factors and drivers for their employment in modern mobile wireless cellular telecommunications
+  systems, and the technical implications of their implementation with current technology.
+- Express the physical layer modulation schemes associated with 2G, 3G & 4G cellular
+  communications systems using advanced numerical modelling techniques.
+- Frame the digital modulation principles in the context of state of the art SDR implementation
+  entities and verify this exercise through robust numerical models.
+- Construct numeric & circuit level simulations of telecommunications systems, such
+  that a partnering physical layer apparatus can be constructed in a laboratory setting.
+- Write meaningful practical reports, commensurate with a prescribed format, that
+  includes adequate presentation of numerical / circuit simulation and experimental
+  results, relevant calculations and meta information, and draw relevant conclusions.
+learning_and_teaching_methods:
+- Lectures
+- Practicals
+- Integrated Worked Examples
+- Laboratory Work
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,4
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning_outcomes: 1,2,4
+  main: false
+  name: In-Class Assessment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,5,6
+  main: false
+  name: Practical
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Carlson, B.A., P.B. Crilly and J.C. Rutledge. _Communication Systems: An Introduction
+  to Signals and Noise in Electrical Communication_. 4th ed.. .: McGraw Hill, 2002.'
+- 'Feher, K. _Wireless Digital Communications_. Upper Saddle River, New Jersey: Prentice
+  Hall, 1995.'
+- 'Glover, I. and P. Grant. _Digital Co__mmunications_. 2nd ed.. .: Pearson Education,
+  2003.'
+- 'Lee, J.S. and L.E. Miller. _CDMA Systems Engineering Handbook_. 1st. Boston & London:
+  Artech House Publishers, 1998.'
+- 'Sklar, B. _Digital Communications, Fundamentals and Applications_. 2nd ed.. .:
+  Prentice Hall, 2001.'
+- 'Steele, R. _Mobile Radio Communications_. 2nd Edition. New York, U.S.A.: Wiley-IEEE
+  Press, 1999.'
+supplementary_material: []
+requested_resources:
+- 'ENGINEERING LAB: Electronics'
+mlo_to_po: ''
+track_changes: true
+
+
+

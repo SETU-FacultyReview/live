@@ -130,4 +130,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09823 | Timetable Code: DESG-0012*
+*Module Code: A09823 | Timetable Code: DESG-0012 | Change Tracking: Enabled*

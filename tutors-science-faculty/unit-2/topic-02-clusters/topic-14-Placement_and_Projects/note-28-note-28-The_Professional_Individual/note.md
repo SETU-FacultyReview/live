@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A36041 | Timetable Code: PROF-0040*
+*Module Code: A36041 | Timetable Code: PROF-0040 | Change Tracking: Enabled*

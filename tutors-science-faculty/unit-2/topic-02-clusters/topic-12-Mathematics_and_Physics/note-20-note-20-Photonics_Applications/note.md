@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11386 | Timetable Code: PHYI-0033*
+*Module Code: A11386 | Timetable Code: PHYI-0033 | Change Tracking: Enabled*

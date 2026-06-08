@@ -152,4 +152,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A21781 | Timetable Code: COMP-0980*
+*Module Code: A21781 | Timetable Code: COMP-0980 | Change Tracking: Enabled*

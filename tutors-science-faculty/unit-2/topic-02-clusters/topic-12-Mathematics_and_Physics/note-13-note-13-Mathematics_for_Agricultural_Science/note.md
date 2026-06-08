@@ -135,4 +135,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14121 | Timetable Code: MTHS-0050*
+*Module Code: A14121 | Timetable Code: MTHS-0050 | Change Tracking: Enabled*

@@ -1,0 +1,105 @@
+reference: A07736
+full_title: Pharmaceutical Synthesis and Characterisation
+short_title: Pharm Synth & Characterisation
+credits: 5
+level: Advanced
+author: CLENNON
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Chemistry
+aim: This module will cover the role of spectroscopic methods, specifically nuclear
+  magnetic resonance (NMR), for the structural elucidation of organic compounds. A
+  review of functional group transformations and carbon-carbon bond forming reactions
+  will be undertaken, with a focus on evaluating routes to synthesise pharmaceuticals.
+  Additional techniques for the design of efficient selective organic syntheses will
+  be presented.
+programmes:
+- timetable: PHAR-0017
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 4
+  semester: 7
+  status: M
+- timetable: CHEM-0032
+  code: WD_SQMCH_B
+  name: Bachelor of Science (Honours) in Applied Chemistry with Quality Management
+  stage: 4
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Advanced Spectroscopy: fourier transform NMR techniques such as decoupling and
+  the nuclear Overhauser effect (NOE); multi-pulse techniques such as DEPT; two-dimensional
+  NMR spectra; use of expert systems'
+- Application and detailed analysis of advanced spectroscopic techniques for the identification
+  of complex organic and pharmaceutical compounds
+- A comprehensive review of functional group transformations, carbon-carbon and carbon-nitrogen
+  bond forming reactions; application of such reactions to the synthesis of targeted
+  pharmaceuticals along with relevant precursors such as heterocyclic components.
+- Organometallic reactions, reagent formation and selectivity in reactions, Palladium
+  catalysed carbon-carbon bond formation including Heck, Suzuki and Stille reactions,
+  regio- and stereochemical aspects are discussed.
+- Design aspects of synthetic routes, retrosynthesis; importance of chemoselectivity,
+  regioselectivity and protecting groups
+- Research-based examples of advanced organic synthesis and application of synthesised
+  compounds, e.g. supramolecular compounds, organocatalysts
+learning_outcomes:
+- Propose and design synthetic routes to targets by applying an in-depth knowledge
+  of organic reactions.
+- Interpret such routes towards the syntheses of pharmaceuticals by applying knowledge
+  of functional group transformations and carbon-carbon and carbon-nitrogen bond forming
+  reactions.
+- Compare the various C-C forming reactions which utilise organometallic reagents
+  and describe in detail reagent formation and selectivity. Distinguish between Suzuki,
+  Heck and Stille palladium catalysed reactions.
+- Distinguish issues of chemoselectivity and regioselectivity when designing or interpreting
+  synthetic routes.
+- Determine complex product structure by applying a thorough knowledge of advanced
+  nuclear magnetic resonance (NMR) spectroscopy and its applications.
+learning_and_teaching_methods:
+- Lectures.
+- Self-directed study.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 100
+assessment_criteria:
+- '<40%: Inadequate understanding of pharmaceutical synthesis and characterisation
+  at even a basic level.'
+- '40%-49%: Will be able to show a basic knowledge of pharmaceutical synthesis and
+  characterisation.'
+- '50%-59%: As well as the above, the student will be able to demonstrate an understanding
+  of some of the complexities of pharmaceutical synthesis and characterisation and
+  predict trends in characterisation results.'
+- '60%-69%: In addition, the student will demonstrate a more detailed knowledge of
+  pharmaceutical synthesis and characterisation and demonstrate an ability to evaluate
+  detailed knowledge acquired in the module to new material.'
+- '70%-100%: All of the above to an excellent level. The learner will be able to demonstrate
+  comprehensive knowledge and understanding of pharmaceutical synthesis and characterisation,
+  predict general trends in behaviour, including exceptional behaviour and critically
+  evaluate and relate topics.'
+essential_material:
+- 'Clayden, J., N. Greeves and S. Warren. _Organic Chemistry_ . 2nd ed. : Oxford University
+  Press, 2012.'
+- 'Sanders, J.K.M. _Modern NMR Spectroscopy_. Oxford: Oxford University Press, 1993.'
+supplementary_material:
+- 'Lednicer, D. _Organic Chemistry of Drug Synthesis_. Hoboken: Wiley, 2008.'
+- 'Meakins, D.G. _Functional groups : characteristics and interconversions_. Oxford:
+  Oxford University Press, 1996.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

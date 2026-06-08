@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A15261 | Timetable Code: ACCS-0006*
+*Module Code: A15261 | Timetable Code: ACCS-0006 | Change Tracking: Enabled*

@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A12201 | Timetable Code: CRIM-0008*
+*Module Code: A12201 | Timetable Code: CRIM-0008 | Change Tracking: Enabled*

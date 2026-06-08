@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14579 | Timetable Code: HORT-0044*
+*Module Code: A14579 | Timetable Code: HORT-0044 | Change Tracking: Enabled*

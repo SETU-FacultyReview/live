@@ -133,4 +133,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14702 | Timetable Code: PLAC-0148*
+*Module Code: A14702 | Timetable Code: PLAC-0148 | Change Tracking: Enabled*

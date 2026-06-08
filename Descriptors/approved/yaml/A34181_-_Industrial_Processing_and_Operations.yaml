@@ -1,0 +1,123 @@
+reference: A34181
+full_title: Industrial Processing and Operations
+short_title: Industrial Processing and Ops
+credits: 5
+level: Intermediate
+author: KMURPHY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Pharmaceutical Science
+aim: This module describes the overall operation, unit processes, equipment and documentation
+  utilised in the modern pharmaceutical and biopharmaceutical industries. The module
+  will also focus on key elements in pharmaceutical scale-up as part of a drug development
+  programme. The student will be provided with an understanding of Quality by Design
+  principles, and the various tools used to identify and reduce product variability.
+  The course is designed to be suitable for both pharmaceutical and biopharmaceutical
+  students.
+programmes:
+- timetable: SCIE-0066
+  code: WD_SMBIO_D
+  name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
+  stage: 3
+  semester: 6
+  status: M
+- timetable: SCIE-0066
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 3
+  semester: 6
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Pharmaceutical operations: facility design, layout, process flow, process control,
+  process safety; green chemistry'
+- 'Pharmaceutical unit operations and equipment: reactors, reactor kinetics, calorimetry,
+  crystallisation, filtration, drying, powder properties'
+- 'Pharmaceutical unit operations and equipment: separation equipment, distillation,
+  solvent recovery'
+- 'Biopharmaceutical unit operations and equipment: fermentation, bioreactor design,
+  scale-up, harvesting, filtration, purification'
+- 'Biopharmaceutical unit operations and equipment: filling, lyophilisation, packaging'
+- 'Pharmaceutical/biopharmaceutical processing documentation: BMRs, BPRs, Out of Specification
+  results, labelling'
+- Aspects in scale-up and pilot plant production
+- 'Quality by Design: critical quality attributes, risk assessment, experimental design,
+  Process Analytical Technology (PAT)'
+learning_outcomes:
+- Demonstrate the importance of design, layout and process control to pharmaceutical
+  operations.
+- Illustrate and explain the operation and function of pharmaceutical and biopharmaceutical
+  processing equipment.
+- Compare individual processes and their underlying theory and describe associated
+  documentation.
+- Explore and categorise milestones and hazards in pharmaceutical scale-up.
+- Interpret and classify risk and learn how to reduce risk through process understanding
+  and experimental design.
+learning_and_teaching_methods:
+- Lectures.
+- Field trips.
+- Group work.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '3'
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '5'
+  main: false
+  name: Group Project
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 70
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: The student will have failed to attain the learning outcomes at even a basic
+  level.'
+- '40%-49%: The student will have attained the learning outcomes at a basic level.'
+- '50%-59%: The student will be able to demonstrate understanding of some of the complexities
+  of the topics.'
+- '60%-69%: The student will demonstrate a more detailed knowledge of all of the topics
+  covered, and will have the ability to interpret data.'
+- '70%-100%: The student will demonstrate a comprehensive understanding of all of
+  the material covered, including calculations.'
+essential_material:
+- 'Mollah, A.H., M. Long and M. Baseman. _Risk Management Applications in Pharmaceutical
+  and Biopharmaceutical Applications_. USA: Wiley, 2013.'
+- 'Nuslim, S. _Active Pharmaceutical Ingredient. Development, Manufacture and Regulation_.
+  USA: Taylor and Francis, 2005.'
+- 'Walsh, G. _Biopharmaceuticals : biochemistry and biotechnology_. Chichester: Wiley,
+  1998.'
+supplementary_material:
+- 'Cox, S. _Pharmaceutical Manufacturing Handbook: Production and Processes_. USA:
+  Wiley, 2008.'
+- 'Doble, M. and A.K. Krutheventi. _Green Chemistry and Processes_. London: Academic
+  Press, 2007.'
+- 'McCabe, W., J.C. Smith and P. Harriott. _Unit operations of chemical engineering_.
+  London: McGraw-Hill, 1993.'
+- 'Moulijn, J.A., I.M. Makkee and A.E. Van Diepen. _Chemical process technology_.
+  New York: John Wiley & Sons, 2001.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

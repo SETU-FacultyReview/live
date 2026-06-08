@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A27463 | Timetable Code: ELEC-0021*
+*Module Code: A27463 | Timetable Code: ELEC-0021 | Change Tracking: Enabled*

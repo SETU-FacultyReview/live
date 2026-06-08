@@ -148,4 +148,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09678 | Timetable Code: QUAL-0029*
+*Module Code: A09678 | Timetable Code: QUAL-0029 | Change Tracking: Enabled*

@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A29284 | Timetable Code: PHYI-0025*
+*Module Code: A29284 | Timetable Code: PHYI-0025 | Change Tracking: Enabled*

@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07261 | Timetable Code: SOIL-0007*
+*Module Code: A07261 | Timetable Code: SOIL-0007 | Change Tracking: Enabled*

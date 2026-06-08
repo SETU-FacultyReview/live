@@ -161,4 +161,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07611 | Timetable Code: CHEM-0002*
+*Module Code: A07611 | Timetable Code: CHEM-0002 | Change Tracking: Enabled*

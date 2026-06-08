@@ -155,4 +155,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13832 | Timetable Code: BIOL-0028*
+*Module Code: A13832 | Timetable Code: BIOL-0028 | Change Tracking: Enabled*

@@ -1,0 +1,91 @@
+reference: A09850
+full_title: Computer Aided Design
+short_title: Computer Aided Design
+credits: 5
+level: Intermediate
+author: UMCDERMOTT
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: IT
+aim: This module will enable students to produce simple landscape design plans using
+  computer aided design (CAD), and to print out drawings to scale.
+programmes:
+- timetable: CADD-0002
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 6
+  status: E
+- timetable: CADD-0002
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 3
+  semester: 6
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Identify components of a CAD system
+- Use quick setup wizard
+- Use menu commands
+- Use snap, grid, ortho, object snap
+- Use scale grids
+- Use drawing tools
+- Use layers
+- Dimensions and leaders
+- Produce a hard copy of a file
+- Plot to scale
+learning_outcomes:
+- Operate CAD software drawing and modifying tools.
+- Complete simple landscape drawing using CAD.
+- Create drawings and plot them.
+- Produce printed drawings to scale.
+learning_and_teaching_methods:
+- Practical sessions using computers, and supervised sessions using CAD.
+learning_modes:
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,3,4
+  main: false
+  name: Practical
+  weighting: 80
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '2'
+  main: false
+  name: Project
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
+  technical ability/skill and understanding to carry out the task.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Shows some technical
+  ability/skill in carrying out the task.'
+- '50%-59%: Demonstrate a good knowledge of the subject matter. Shows good technical
+  ability/skill in carrying out the task.'
+- '60%-69%: Demonstrate a sound knowledge of the subject matter, logically and competently
+  carries out the practical/professional task.'
+- '70%-100%: Demonstrate a very good knowledge of the subject matter. Shows good technical
+  ability/skill in carrying out the task, and can print plan to scale.'
+essential_material: []
+supplementary_material:
+- 'Autodesk Official Press, A. _Mastering AutoCAD 2016 and AutoCAD LT 2016_. London:
+  Autodesk Official Press, 2016.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

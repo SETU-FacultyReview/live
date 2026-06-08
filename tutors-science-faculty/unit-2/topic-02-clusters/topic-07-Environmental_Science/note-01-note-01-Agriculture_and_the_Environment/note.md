@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A32001 | Timetable Code: AGRI-0015*
+*Module Code: A32001 | Timetable Code: AGRI-0015 | Change Tracking: Enabled*

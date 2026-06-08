@@ -131,4 +131,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11530 | Timetable Code: MTHE-0044*
+*Module Code: A11530 | Timetable Code: MTHE-0044 | Change Tracking: Enabled*

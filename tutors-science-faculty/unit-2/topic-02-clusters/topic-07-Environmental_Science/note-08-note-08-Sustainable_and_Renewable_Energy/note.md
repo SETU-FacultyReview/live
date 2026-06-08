@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07262 | Timetable Code: SUST-0002*
+*Module Code: A07262 | Timetable Code: SUST-0002 | Change Tracking: Enabled*

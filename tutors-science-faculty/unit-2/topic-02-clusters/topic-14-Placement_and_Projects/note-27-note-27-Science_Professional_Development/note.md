@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A32621 | Timetable Code: SCIE-0085*
+*Module Code: A32621 | Timetable Code: SCIE-0085 | Change Tracking: Enabled*

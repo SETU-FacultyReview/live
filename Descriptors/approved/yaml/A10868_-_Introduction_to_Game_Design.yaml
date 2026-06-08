@@ -1,0 +1,112 @@
+reference: A10868
+full_title: Introduction to Game Design
+short_title: Introduction to Game Design
+credits: 5
+level: Introductory
+author: BLYNG
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Game Development
+aim: 'This module is a practical introduction to game design and game design concepts,
+  emphasising the basic tools of game design: paper and digital prototyping, design
+  iteration, and user testing.'
+programmes:
+- timetable: COMP-0643
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 2
+  semester: 3
+  status: E
+- timetable: COMP-0643
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 3
+  status: E
+- timetable: COMP-0643
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 3
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Vocabulary and formal elements of game design
+- Ideation, early design and prototyping
+- Mechanics, dynamics, aesthetics and the concept of 'Fun'
+- Narratology and story telling
+- Character and level design
+- Playtesting and balancing
+- Pitching an idea
+learning_outcomes:
+- Classify games using the recognised terminology.
+- Experiment with game ideas through critical investigation and playtesting.
+- Examine a game concept by creating a mechanically sound board game.
+- Construct and present a game pitch and proposal in a commercial style.
+learning_and_teaching_methods:
+- Lectures are used to study and evaluate design thinking in a games context. Lecture
+  content is assessed in both assignments, in the form of a game criticism paper and
+  a formal game design document.
+- Workshops are used to apply design theory to a game concept. Students are required
+  to make a polished, playtested and boardgame using these workshops.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Workshop
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: '1'
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 2,3,4
+  main: false
+  name: Assignment
+  weighting: 80
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to understand, describe and discuss key concepts of game design.
+  Inability to apply appropriate techniques and/or tools to solve problems in game
+  design.'
+- '40%-49%: Ability to understand, describe and discuss key concepts of game design.
+  Ability to apply appropriate techniques and/or tools to solve problems in game design.'
+- '50%-59%: Ability to analyse and classify key concepts of game design. Be able to
+  employ a variety of specialised skills and pre-selected tools or techniques within
+  game design.'
+- '60%-69%: Ability to exercise appropriate judgement in applying the key concepts
+  of game design and demonstrating an ability to be creative in designing and developing
+  solutions to problems for game design using the appropriate skills, tools and/or
+  techniques.'
+- '70%-100%: All the above to an excellent level. Ability to demonstrate mastery of
+  specialised skills within game design, generalise key concepts and deploy solutions
+  to a high standard for a range of complex, specialised and unforeseen problems through
+  the use and modification of advanced skills, tools and/or techniques.'
+essential_material: []
+supplementary_material:
+- '"Game Balance Concepts." 08/09/2010. https://gamebalanceconcepts.wordpress.com/'
+- '"Game Design Concepts." 01/12/2009. https://gamedesignconcepts.wordpress.com/'
+- 'Fullerton, T. _Game Design Workshop: A Playcentric Approach to Creating Innovative
+  Games_. 3rd. Natick, MA, USA: A K Peters/CRC Press, 2014.'
+- 'Schell, J. _The Art of Game Design: A Book of Lenses_. Natick, MA, USA: A K Peters/CRC
+  Press, 2014.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

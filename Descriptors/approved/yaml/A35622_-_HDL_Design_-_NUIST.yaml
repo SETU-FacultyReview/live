@@ -1,0 +1,111 @@
+reference: A35622
+full_title: HDL Design - NUIST
+short_title: HDL Design (NUIST)
+credits: 5
+level: Postgraduate
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Discipline Specific Technologies
+aim: This module aims to provide the student with a working knowledge of digital system
+  design, capture and verification using the VHDL/Verilog Hardware Description Languages
+  and implementation of design on CPLD or FPGA.
+programmes:
+- timetable: HDLD-0001
+  code: WD_EELEN_G
+  name: Postgraduate Diploma in Engineering in Electronic Engineering
+  stage: 1
+  semester: 2
+  status: M
+- timetable: HDLD-0001
+  code: WD_EELEN_R
+  name: Master of Engineering in Electronic Engineering
+  stage: 1
+  semester: 2
+  status: M
+- timetable: ''
+  code: WD_EELEN_RI
+  name: MEng in Electronic Information Systems
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Programmable Logic Architecture
+- VHDL/Verilog Language Concepts
+- Signals, Data Types, Operate
+- Behavioural and register transfer level modelling
+- Structural modelling
+- 'Concurrent execution: Procedures and Functions, sequential statements'
+- Design verification (pre and post synthesis)
+- VHDL/Verilog Synthesis and implementation
+- Design, Capture, synthesis verification and implementation of special purpose digital
+  system
+learning_outcomes:
+- Comprehend behavioural, register transfer level and structural HDL based modelling,
+  design capture and simulation and apply to the development of digital systems.
+- Synthesise behavioural, register transfer level and structural HDL modules.
+- Write efficient testbench code to analyse the integrity of the design at all stages.
+- Apply VHDL/Verilog language principles to the design of complex digital systems.
+learning_and_teaching_methods:
+- Lectures
+- Assignments Design, capture and design verification problems will be assigned throughout
+  the module to reinforce the concepts demonstrated in class.
+- Mini Project
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 6
+  name: Practical
+  part_time: ''
+- full_time: 105
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Project
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject; achieved
+  an excellent level of the skills required for the subject matter; demonstrated the
+  ability to carry out further investigation and problem solving associated with the
+  subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '40% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material: []
+supplementary_material:
+- 'Ashenden, P.J. _...The Designers Guide to VHDL_. 3rd Ed.. USA: Morgan Kaufmann,
+  2008.'
+- 'Pedroni, V.A. _...Circuit Design & Simulation with VHDL_. 2nd Ed.. USA: MIT Press,
+  2010.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

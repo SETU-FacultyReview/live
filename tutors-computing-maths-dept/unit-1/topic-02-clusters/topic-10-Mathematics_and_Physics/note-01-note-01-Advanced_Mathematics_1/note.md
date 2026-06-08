@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A35244 | Timetable Code: MATH-0030*
+*Module Code: A35244 | Timetable Code: MATH-0030 | Change Tracking: Enabled*

@@ -1,0 +1,126 @@
+reference: A13490
+full_title: Data Structures and Algorithms 2
+short_title: Data Structures & Algorithms 2
+credits: 5
+level: Introductory
+author: PCAREW
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Software and Web Development
+aim: Implement, from first principles, advanced general purpose and custom data structures
+  and algorithms that employ appropriate strategies for demonstrable efficiency.
+programmes:
+- timetable: COMP-0639
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0639
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0639
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0639
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0639
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0639
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0639
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Implementing Advanced Data Structures: Trees; Graphs; Rings; Other'
+- 'Implementing Algorithms for Advanced Data Structures: Traversals; Shortest Path;
+  Union Find; Other'
+- 'Algorithmic Strategies: Brute Force; Greedy; Divide and Conquer; Heuristic; Other'
+- 'Algorithmic Analysis: Static Analysis; Dynamic Analysis; Profiling Tools'
+- Test-Driven Development for Advanced Data Structures and Algorithms
+learning_outcomes:
+- Construct, from first principles, advanced general purpose and custom data structures.
+- Construct suitable and efficient algorithms for utilising advanced data structures.
+- Determine and implement suitable algorithmic strategies for utilising advanced data
+  structures and large data sets.
+- Employ static and dynamic algorithmic analysis.
+- Construct robust advanced data structures and efficient algorithms in a systematic,
+  test-driven fashion.
+learning_and_teaching_methods:
+- This module will be presented by a combination of lectures and practicals whilst
+  capitalising on a web-enhanced learning environment.
+- Students will work on building a portfolio of practical project work.
+- Cooperative and peer learning (e.g. pair-programming, teamwork).
+- Self-directed learning.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,4,5
+  main: false
+  name: Portfolio
+  weighting: 70
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to describe or implement advanced general purpose data structures
+  and algorithms.'
+- '40%-49%: Able to describe and implement advanced general purpose data structures
+  and algorithms.'
+- '50%-59%: Able to choose and implement advanced general purpose data structures
+  and algorithms to solve a problem.'
+- '60%-69%: Able to critically choose and implement advanced data structures and algorithms
+  to solve a complex problem.'
+- '70%-100%: Able to critically choose, analyse and implement custom advanced data
+  structures and efficient algorithms to solve complex and unseen problems.'
+essential_material: []
+supplementary_material:
+- 'Sedgewick, R. and K. Wayne. _Algorithms_. 4th ed.. NY: Addison-Wesley, 2011.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

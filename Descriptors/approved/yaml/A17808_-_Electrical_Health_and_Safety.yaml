@@ -1,0 +1,123 @@
+reference: A17808
+full_title: Electrical Health & Safety
+short_title: Electrical Health & Safety
+credits: 5
+level: Intermediate
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Engineering
+aim: This module introduces the student to the various requirements for Electrical
+  Engineers working in hazardous environments. The general legal principles of health
+  and safety law are introduced along with relevant statutory obligations.
+programmes:
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours) in Electrical Engineering
+  stage: 3
+  semester: 5
+  status: M
+- timetable: ''
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours)
+  stage: 3
+  semester: 5
+  status: M
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 3
+  semester: 5
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Work Practices in Hazardous Environments: General principles, ignition properties
+  and apparatus protection.'
+- Standards, Directives, Practices and ATEX legislation.
+- Relevant Statutory Bodies within the Electrical Engineering Sector.
+- Legislation relating to overhead cables, underground cables, risk assessment, safety
+  plans
+- Health and safety duties under the common law, Principle of ``reasonable practicable''
+- Duties of Project Supervisor Design Process (PSDP)
+learning_outcomes:
+- Determine the selection and use of electrical apparatus in potentially explosive
+  atmospheres.
+- Distinguish the Statutory Bodies within the Electrical Engineering Sector.
+- Determine the Health & Safety requirements in relation to the Electrical Engineering
+  Sector.
+- Apply common law and legislative principles to the Health & Safety role of the electrical
+  engineer.
+learning_and_teaching_methods:
+- Lectures
+- Tutorials
+- Case Studies
+- Presentations / Seminars
+learning_modes:
+- full_time: 48
+  name: Lecture
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 2,3
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'E., T. _ETCI National Rules for Electrical Installations in potentially explosive
+  atmosphere''s_. 3rd. .: ET105, 2011.'
+- 'E., T. _ETCI National Rules for Electrical Installations_. 4th . .: ET101, 2008.'
+- 'McMahon, M., G. Shannon and M. Darlington. _A-Z of Health and Safety Risk Assessment
+  in Ireland_. .: Round Hall, 1998.'
+- 'Shannon, G. _Health and Safety: Law and Practice_. .: Round Hall, 2007.'
+supplementary_material:
+- '"www.atex.ie." www.atex.ie'
+- '"www.bailii.org." www.bailii.org'
+- '"www.etci.ie." www.etci.ie'
+- '"www.hsa.ie." www.hsa.ie'
+- '"www.oireachtas.ie." www.oireachtas.ie'
+- 'E., T. _Good practice Guide on the Management of Electrical Safety at Work_. .:
+  ET206, 2009.'
+- 'E., T. _Guide to the basic principles of Electrical Safety_. .: ET2013, 2007.'
+- 'McMahon, M., G. Shannon and M. Darlington. _``A-Z of Health and Safety Risk Assessment
+  in Ireland"_. .: Round Hall, 1998.'
+requested_resources:
+- 'EQUIPMENT: MAC PCs'
+- 'ENGINEERING LAB: Electronics'
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

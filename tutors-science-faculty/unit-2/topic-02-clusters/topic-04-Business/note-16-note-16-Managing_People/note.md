@@ -147,4 +147,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07041 | Timetable Code: PEOP-0001*
+*Module Code: A07041 | Timetable Code: PEOP-0001 | Change Tracking: Enabled*

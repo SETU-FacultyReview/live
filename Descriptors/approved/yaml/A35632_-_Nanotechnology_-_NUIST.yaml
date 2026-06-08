@@ -1,0 +1,142 @@
+reference: A35632
+full_title: Nanotechnology - NUIST
+short_title: Nanotechnology (NUIST)
+credits: 5
+level: Postgraduate
+author: KOMAHONEY
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Discipline Specific Technologies
+aim: This module provides an engineering perspective on the interdisciplinary advances
+  in nanotechnology. The module is divided in to five sections, (1) Social Perspectives,
+  (2) Electronic Devices (3) Nanotechnology and Materials (4) Nanotechnology and Manufacturing
+  (5) Environmental Nanotechnology. The module aims at student development gained
+  through an understanding of the interdisciplinary nature of nanotechnology, the
+  horizontal affects that nanotechnology is having modern industry and the disruptive
+  advances that are leading social progress. The research informed ethos of the module
+  comprises both student led and tutor led discovery pathways designed to build discipline
+  specific theoretical and application knowledge through the framing of pertinent
+  research questions and framing a structured response through close interaction with
+  the knowledge base.
+programmes:
+- timetable: ''
+  code: WD_CBIOM_MA
+  name: Certificate in Biomedical Engineering
+  stage: 1
+  semester: 1
+  status: M
+- timetable: ENGR-0039
+  code: WD_CINNT_G
+  name: Postgraduate Diploma in Science in Innovative Technology Engineering
+  stage: 1
+  semester: 1
+  status: E
+- timetable: ENGR-0039
+  code: WD_CINNT_R
+  name: Master of Science in Innovative Technology Engineering
+  stage: 1
+  semester: 1
+  status: E
+- timetable: NANO-0001
+  code: WD_EELEN_G
+  name: Postgraduate Diploma in Engineering in Electronic Engineering
+  stage: 1
+  semester: 1
+  status: E
+- timetable: NANO-0001
+  code: WD_EELEN_R
+  name: Master of Engineering in Electronic Engineering
+  stage: 1
+  semester: 1
+  status: E
+- timetable: ''
+  code: WD_EELEN_RI
+  name: MEng in Electronic Information Systems
+  stage: 1
+  semester: 1
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Societal Nanotechnology
+- Quantum Structures
+- Tools of Nanotechnology (Visualisation and Manipulation)
+- Nanoelectronic Devices -- (Organic Electronics and Single Electron Devices)
+- Nanostructures and Nanocomposites
+- Environmental Nanotechnology (Sensors, Mitigation and Energy)
+- Natural Nanotechnology (Evolution, Nature's Laboratory )
+learning_outcomes:
+- Assess the societal implications of nanotechnology as a horizontal technology and
+  its positive current and future disruptive potential.
+- Develop models to describe quantum systems and thus estimate their size property
+  relationship.
+- Evaluate the role of 1-D and 0-D systems and synthesise associated nanostructures
+  for the development of future electronic devices.
+- Apply SEM, SFM and optical technologies to nanoscale characterisation and manipulation.
+- Distinguish the properties of different thin film composites, evaluate methods for
+  the manufacture and characterisation of thin film materials.
+- Describe intricacies involved in Nanometrology and the NIST roadmap for Nanomanufacture.
+- Evaluate modern nanotechnology innovations for environmental monitoring (air, water,
+  soil) and energy harvesting.
+learning_and_teaching_methods:
+- Lecture and Demonstration
+- Mini Project
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: ''
+  name: Practical
+  part_time: ''
+- full_time: 111
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,5,6,7
+  main: false
+  name: Assignment
+  weighting: 70
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4
+  main: false
+  name: Project
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '>70% In addition to the criteria set out below: The student will have shown exceptional
+  ability in the interpretation and evaluation of nanotechnology innovations and their
+  application in a societally aware context.'
+- '>60% <70% In addition to the criteria set out below: Through a demonstrated ability
+  to interpret and evaluate some nanotechnology concepts the student will have demonstrated
+  a capacity for research informed learning and the development of life-long learning
+  skills.'
+- '>40% <60% The student will have demonstrated a basic understanding of the interdisciplinary
+  nature of nanotechnology, the horizontal affects that nanotechnology is having modern
+  industry and the disruptive nature of nanotechnology. They will also have demonstrated
+  a highly professional approach to submitting all assignments on time.'
+- <40% The student has failed to demonstrate a basic understanding of the interdisciplinary
+  nature of nanotechnology, the horizontal affects that nanotechnology is having modern
+  industry and the disruptive nature of nanotechnology and/or failed to demonstrate
+  a professional approach to submitting all assignments on time.
+essential_material:
+- 'Hornyak, G.L. _Introduction to Nanoscience_. .: CRC Press, 2008.'
+- 'Rubahhn, H.G. _Basics of Nanotechnology_. USA: Wiley, 2008.'
+supplementary_material:
+- '"Nano Hub." www.nanohub.org'
+- 'Hornyak, G.L. _Fundamentals of Nanotechnology_. USA: CRC Press, 2009.'
+- 'Kuno, M. _Introductory Nanoscience_. USA: Garland Science, 2012.'
+- 'Poole, C.P. _Introduction to Nanotechnology_. 1st ed.. USA: Wiley, 2003.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

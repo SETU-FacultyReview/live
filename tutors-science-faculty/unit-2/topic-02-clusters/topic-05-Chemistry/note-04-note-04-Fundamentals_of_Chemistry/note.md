@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11330 | Timetable Code: CHEM-0018*
+*Module Code: A11330 | Timetable Code: CHEM-0018 | Change Tracking: Enabled*

@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07727 | Timetable Code: CHEM-0009*
+*Module Code: A07727 | Timetable Code: CHEM-0009 | Change Tracking: Enabled*

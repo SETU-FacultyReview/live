@@ -136,4 +136,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07001 | Timetable Code: PSYC-0099*
+*Module Code: A07001 | Timetable Code: PSYC-0099 | Change Tracking: Enabled*

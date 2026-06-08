@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10403 | Timetable Code: MARK-0021*
+*Module Code: A10403 | Timetable Code: MARK-0021 | Change Tracking: Enabled*

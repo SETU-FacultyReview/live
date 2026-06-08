@@ -133,4 +133,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A08661 | Timetable Code: PLAC-0008*
+*Module Code: A08661 | Timetable Code: PLAC-0008 | Change Tracking: Enabled*

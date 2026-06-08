@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A29443 | Timetable Code: COMP-0572*
+*Module Code: A29443 | Timetable Code: COMP-0572 | Change Tracking: Enabled*

@@ -147,4 +147,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07553 | Timetable Code: BIOL-0023*
+*Module Code: A07553 | Timetable Code: BIOL-0023 | Change Tracking: Enabled*

@@ -1,0 +1,171 @@
+reference: A14881
+full_title: Project 1 (Development)
+short_title: Project 1 (Development)
+credits: 5
+level: Advanced
+author: TMCDONALD
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Professional Skills
+aim: This module extends the student?s knowledge of software engineering with a view
+  to equipping them for their project work in this current year (year IV) of the programme.
+  In addition it requires the student to prepare a consolidated report on the first
+  stage of their fourth year project in conjunction with a learning contract established
+  between student and supervisor.
+programmes:
+- timetable: PROJ-0166
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 7
+  status: E
+- timetable: PROJ-0166
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 4
+  semester: 7
+  status: E
+- timetable: PROJ-0166
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 7
+  status: E
+- timetable: PROJ-0166
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 4
+  semester: 7
+  status: E
+- timetable: PROJ-0166
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 7
+  status: E
+- timetable: PROJ-0166
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 4
+  semester: 7
+  status: E
+- timetable: PROJ-0111
+  code: WD_KCSDV_B
+  name: Bachelor of Science (Honours) in Software Systems Development
+  stage: 4
+  semester: 1
+  status: E
+- timetable: PROJ-0166
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 4
+  semester: 7
+  status: E
+- timetable: PROJ-0166
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 4
+  semester: 7
+  status: E
+- timetable: PROJ-0166
+  code: WD_KINTE_B
+  name: Bachelor of Science (Honours) in Information Technology
+  stage: 4
+  semester: 1
+  status: E
+- timetable: PROJ-0166
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 4
+  semester: 7
+  status: E
+- timetable: PROJ-0166
+  code: WD_KITMA_B
+  name: BSc (Hons) in Information Technology Management
+  stage: 1
+  semester: 7
+  status: E
+- timetable: PROJ-0166
+  code: WD_KMULM_B
+  name: Bachelor of Science (Honours) in Multimedia Applications Development
+  stage: 4
+  semester: 1
+  status: E
+- timetable: PROJ-0166
+  code: WD_KSOFP_B
+  name: BSc (Hons) in Software Systems Practice
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Consolidate knowledge of software development processes, particularly those that
+  are based on an iterative strategy and early risk mitigation
+- To enhance the student's ability to analyse a problem through scenarios that will
+  subsequently provide a plan for construction and testing
+- Where appropriate to define the user requirements of an intended system through
+  use case descriptions
+- Use of UML and other textual/diagramming techniques essential for discussing final
+  year projects at a conceptual level
+- To revise and consolidate the students' abilities to write referenced reports
+- Using appropriate techniques, tentatively plan a project in detail breaking it into
+  sub-tasks; rigorously identify deliverables and critical dependencies
+learning_outcomes:
+- Explain, in words and diagrammatically, to their peers, the work of their project.
+- Interact with their supervisor in discussing how their project might proceed and
+  the risks and interact options associated with their work.
+- Complete a technological prototype of their project showing that all their hardware
+  and software components work together.
+- Prepare a test strategy for their project and have a detailed tentative plan for
+  building a draft design.
+learning_and_teaching_methods:
+- Weekly meetings with project supervisors.
+- Self-directed learning using library and Internet sources.
+- In the case of Product Development Mode, trying out carefully considered ideas to
+  test if they are workable.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 6
+  name: Tutorial
+  part_time: ''
+- full_time: 117
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Project
+  weighting: 100
+assessment_criteria:
+- '<40%: Failure to demonstrate ability to understand, scope or document a problem.
+  Level of problem chosen for project considered too trivial. Failure to meet the
+  objectives of the learning contract appropriate to this stage of project.'
+- '40%-49%: Demonstrates ability to understand scope and document problem. Generally
+  meets objectives of learning contract. Ability to justify the choice of problem.
+  Ability to present material in a clear manner.'
+- '50%-59%: As above and ability to break down problem into appropriate packages.
+  Comprehensive knowledge of area of problem. Ability to evaluate risks in mature
+  and reflective manner. Planning is reasonable. Scoping shows an ability to abstract
+  and get a clear overview of project.'
+- '60%-69%: As above and ability to critique works in area of project. Document is
+  of professional standard. Planning shows a degree of reflection and maturity.. Excellent
+  presentation skills with demonstrable ability to explain complex problems in a clear
+  manner.'
+- '70%-100%: As above and produces an excellent document which clearly and precisely
+  describes what needs to be done as part of the project. Demonstrates ability to
+  abstract ideas and reflect on the process.'
+essential_material: []
+supplementary_material:
+- 'Lacey, M. _The Scrum Field Guide: Practical advice for the first year_. New York:
+  Addison Wesley, 2012.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

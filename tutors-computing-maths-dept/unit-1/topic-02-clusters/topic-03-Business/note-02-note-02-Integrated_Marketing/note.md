@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13328 | Timetable Code: MARK-0193*
+*Module Code: A13328 | Timetable Code: MARK-0193 | Change Tracking: Enabled*

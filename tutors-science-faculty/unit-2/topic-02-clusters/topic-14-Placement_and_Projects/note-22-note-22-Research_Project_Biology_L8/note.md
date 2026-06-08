@@ -130,4 +130,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13861 | Timetable Code: PROJ-0017*
+*Module Code: A13861 | Timetable Code: PROJ-0017 | Change Tracking: Enabled*

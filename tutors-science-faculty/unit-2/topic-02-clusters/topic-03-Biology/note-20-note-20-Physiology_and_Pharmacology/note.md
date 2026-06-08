@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13844 | Timetable Code: PHAR-0018*
+*Module Code: A13844 | Timetable Code: PHAR-0018 | Change Tracking: Enabled*

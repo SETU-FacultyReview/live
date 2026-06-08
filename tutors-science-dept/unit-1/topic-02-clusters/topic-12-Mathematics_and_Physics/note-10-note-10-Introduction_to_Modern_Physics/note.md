@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A24641 | Timetable Code: PHYI-0040*
+*Module Code: A24641 | Timetable Code: PHYI-0040 | Change Tracking: Enabled*

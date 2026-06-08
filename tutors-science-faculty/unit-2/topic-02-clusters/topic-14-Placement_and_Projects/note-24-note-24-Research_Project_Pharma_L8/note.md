@@ -134,4 +134,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A30201 | Timetable Code: PROJ-0101*
+*Module Code: A30201 | Timetable Code: PROJ-0101 | Change Tracking: Enabled*

@@ -150,4 +150,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A34961 | Timetable Code: CUTL-0001*
+*Module Code: A34961 | Timetable Code: CUTL-0001 | Change Tracking: Enabled*

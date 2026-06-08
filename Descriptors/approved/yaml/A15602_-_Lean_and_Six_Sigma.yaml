@@ -1,0 +1,127 @@
+reference: A15602
+full_title: Lean & Six Sigma
+short_title: LSS
+credits: 5
+level: Advanced
+author: JLAWLOR
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Engineering
+aim: This module focuses on the tools and concepts associated with developing lean
+  systems and achieving six sigma levels of excellence. Addressed at green belt level,
+  this module examines the fundamentals of statistics, six sigma, and its application,
+  as well as lean concepts and tools and their implementation. Related critical issues,
+  including team performance, project management and voice of the customer, are examined
+  in the context of achieving operational excellence.
+programmes:
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 4
+  semester: 8
+  status: M
+- timetable: ''
+  code: WD_TCAMF_B
+  name: Bachelor of Science (Honours) in Manufacturing Engineering
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Lean and six sigma---concepts and goals
+- Basic probability, statistics, central limit theorem, distributions
+- Collecting & summarising data, exploratory data analysis and hypothesis testing
+- SPC, control charts, measurement system analysis, GR&R studies, Cpk, Ppk
+- Design of experiments
+- Lean process control, TPM, visual factory
+- Project management basics from identification through closure, team performance
+- Lean tools application, root cause analysis, problem solving, kaizen
+- Management & planning tools, activity networks, PDPC, QFD
+learning_outcomes:
+- Collect and summarise data, conduct hypothesis tests and interpret results.
+- Construct statistical process control charts, and apply a range of process capability
+  indices.
+- Define basic DOE factors, and design DOE graphs and plots.
+- Apply lean tools to waste elimination, cycle time reduction and kaizen.
+- Utilise project planning tools, and evaluate the performance of project teams.
+- Plan and control processes through the implementation of TPM and visual factory.
+learning_and_teaching_methods:
+- Lectures
+- Presentations
+- Guided reading
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1, 2, 4, 6
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: 3, 5
+  main: false
+  name: In-Class Assessment
+  weighting: 15
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1, 2, 3, 4, 5, 6
+  main: false
+  name: Assignment
+  weighting: 15
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Montgomery, D.C. _Introduction to Statistical Quality Control_. 5th Ed.. Chichester:
+  Wiley, 2005.'
+- 'Santos, J., R.A. Wysk and J.M. Torres. _Improving Production with Lean Thinking_.
+  Chichester: Wiley, 2014.'
+- 'Various incl. Dombrowski, U. and T. Mielke. "Defining lean production: some conceptual
+  and practical issues." _The TQM Journal_ 21, 2. (2009): 127-142.'
+supplementary_material:
+- 'Barone, S. and E.L. Franco. _Statistical and Managerial Techniques for Six Sigma
+  Methodology: Theory and Application_. Chichester: John Wiley & Sons, 2012.'
+- 'Bicheno, J. and M. Holweg. _The Lean Toolbox: The essential guide to lean transformation_.
+  Buckingham: PICSIE Books, 2009.'
+- 'Henderson, G.R. _Six Sigma Quality Improvement with Minitab_. Chichester: John
+  Wiley & Sons, 2011.'
+- 'Montgomery, D. _Design and Analysis of Experiments_. 6th Ed.. Chichester: Wiley,
+  2005.'
+- 'Taghizadegan, S. _Essential of Lean Six Sigma_. Oxford: Butterwirth-Heinemann,
+  2010.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

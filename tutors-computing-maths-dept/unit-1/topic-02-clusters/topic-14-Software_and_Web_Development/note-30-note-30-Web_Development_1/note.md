@@ -135,7 +135,7 @@ This module is available on the following programmes:
 | [WD_KCOFO_B](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | [Bachelor of Science (Honours) in Computer Forensics and Security](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-09-WD_KCOFO_B) | 1 | 1 |  |
 | [WD_KCOMC_D](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | [Bachelor of Science in Software Systems Development](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-02-level_7/topic-04-WD_KCOMC_D) | 1 | 1 |  |
 | [WD_KCOMP_B](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | [Bachelor of Science (Honours) in Applied Computing](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-08-WD_KCOMP_B) | 1 | 1 |  |
-| [WD_KCOSC_G](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [HDip in Science in Computer Science](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 1 | 1 | Mandatory |
+| [WD_KCOSC_G](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | [HDip in Science in Computer Science](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | 1 | 1 | Mandatory |
 
 ---
 
@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10923 | Timetable Code: COMP-0517*
+*Module Code: A10923 | Timetable Code: COMP-0517 | Change Tracking: Enabled*

@@ -143,4 +143,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13386 | Timetable Code: HRMB-0088*
+*Module Code: A13386 | Timetable Code: HRMB-0088 | Change Tracking: Enabled*

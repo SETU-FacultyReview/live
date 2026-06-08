@@ -166,4 +166,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07888 | Timetable Code: BIOL-0001*
+*Module Code: A07888 | Timetable Code: BIOL-0001 | Change Tracking: Enabled*

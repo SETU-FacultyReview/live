@@ -1,0 +1,134 @@
+reference: A34061
+full_title: Study Abroad for Scientists
+short_title: Science Study Abroad
+credits: 30
+level: Intermediate
+author: TKENT
+history_comment: ''
+school: Science and Computing
+department: Land Sciences
+cluster: Placement and Projects
+aim: The Study Abroad module is offered to students to strengthen their studies through
+  experiencing learning in an international environment. This module will enable the
+  student to benefit from studying and living abroad by developing intercultural awareness
+  and competence through reflection on the experience, enhancing personal development
+  and allowing scope to transfer the knowledge and skills acquired to both academic
+  and future work. It will allow expansion of the student s programme-specific knowledge
+  and understanding, and awareness of operating in an international context. Where
+  appropriate, this module will enhance the student s language skills and aid the
+  student in developing strategies for more effective language learning.
+programmes:
+- timetable: SCIE-0086
+  code: WD_SAGRI_B
+  name: BSc (Hons) in Agricultural Science
+  stage: 3
+  semester: 6
+  status: E
+- timetable: SCIE-0086
+  code: WD_SFDSC_D
+  name: BSc in Food Science with Business
+  stage: 3
+  semester: 5
+  status: E
+- timetable: SCIE-0086
+  code: WD_SFORS_D
+  name: Bachelor of Science in Forestry
+  stage: 2
+  semester: 4
+  status: E
+- timetable: SCIE-0086
+  code: WD_SFSIN_B
+  name: BSc (Hons) in Food Science and Innovation
+  stage: 3
+  semester: 5
+  status: E
+- timetable: SCIE-0086
+  code: WD_SMBIO_B
+  name: BSc (Hons) in Molecular Biology with Biopharmaceutical Science
+  stage: 3
+  semester: 6
+  status: E
+- timetable: SCIE-0086
+  code: WD_SPHSC_B
+  name: BSc (Hons) in Pharmaceutical Science
+  stage: 3
+  semester: 6
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- The student will receive pre-departure support in preparing for a successful study
+  abroad semester.
+- The student will prepare a learning agreement detailing the modules of study (minimum
+  20 ECTS) chosen to be relevant to the student's programme and agreed with the Study
+  Abroad Co-ordinator before departure. The student may elect, subject to approval
+  in the learning agreement, to take more than the minimum 20 ECTS in modules at the
+  host institute. Language and/or culture studies may form part of the Study Abroad
+  learning agreement where appropriate.
+- Students will be required to attend classes in the host institute and undertake
+  all assignments and examinations required. Credits earned will be worth up to a
+  minimum of 20 ECTS for the semester.
+- Up to a further 10 ECTS will be awarded for the completion of a study abroad portfolio
+  containing a set of reflective journals detailing the international study experience
+  and outlining personal and professional understanding, learning and growth. Documented
+  evidence of language learning and/or a presentation summarising the student's experience
+  may also form part of the portfolio. The maximum ECTS awarded to this module will
+  be 30 ECTS.
+learning_outcomes:
+- Demonstrate competency in the modules undertaken in the host institute as per the
+  learning agreement amounting to at least 20 ECTS credits (or equivalent).
+- Develop cross-cultural communication skills, potentially including second language
+  skills.
+- Demonstrate an ability to reflect critically on the independent learning and self-management
+  that studying abroad requires.
+- Compose a study abroad portfolio consisting of a set of reflective journals, detailing
+  their study experience, and outlining their personal and professional understanding,
+  learning and growth. A presentation summarising the student's experience may also
+  form part of the portfolio.
+learning_and_teaching_methods:
+- The range and variety of teaching and learning methods will depend on the modules
+  studied at the partner institution. However, it is expected to consist of lectures,
+  practical classes, group work, assignments, and examinations.
+- In addition to study and assessment at the partner institution, a reflective log
+  or journal of learning and cultural experiences and/or presentation (portfolio)
+  will be submitted to the SETU Study Abroad Co-ordinator for assessment on completion
+  of the study abroad period.
+learning_modes:
+- full_time: 810
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1, 2
+  main: false
+  name: In-Class Assessment
+  weighting: 67
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3, 4
+  main: false
+  name: Portfolio
+  weighting: 33
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- 'Pass: Student obtains 20 ECTS from host institute and adequate student portfolio
+  submitted within the appropriate deadlines.'
+- 'Fail: Student fails to obtain 20 ECTS from host institute and/or does not submit
+  an adequate portfolio.'
+essential_material:
+- '"Study Abroad for Scientists module page on Moodle.." www.setu.ie. https://moodle.wit.ie/'
+supplementary_material:
+- '"Information for Outgoing Erasmus students." www.setu.ie. https://www.wit.ie/international/erasmus-non-eu-exchange/outgoing-erasmus-students/'
+- '"Studying and Working Abroad." https://gradireland.com/. https://gradireland.com/search/advice?search=international%2520abroad'
+- 'Berdan, S. N., A. Goodman and C. Taylor. _A student''s guide to study abroad._.
+  New York: The Institute of International Education, 2013.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

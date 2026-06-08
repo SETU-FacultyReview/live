@@ -131,4 +131,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13481 | Timetable Code: DESG-0038*
+*Module Code: A13481 | Timetable Code: DESG-0038 | Change Tracking: Enabled*

@@ -135,7 +135,7 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
-| [WD_KISYP_R](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | 1 | 0 | Elective |
+| [WD_KISYP_R](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-computing-maths-dept/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | 1 | 0 | Elective |
 
 ---
 
@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14381 | Timetable Code: TECH-0012*
+*Module Code: A14381 | Timetable Code: TECH-0012 | Change Tracking: Enabled*

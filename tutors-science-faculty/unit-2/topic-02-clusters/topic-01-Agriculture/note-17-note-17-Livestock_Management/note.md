@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11425 | Timetable Code: MGTH-0018*
+*Module Code: A11425 | Timetable Code: MGTH-0018 | Change Tracking: Enabled*

@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06797 | Timetable Code: STAT-0020*
+*Module Code: A06797 | Timetable Code: STAT-0020 | Change Tracking: Enabled*

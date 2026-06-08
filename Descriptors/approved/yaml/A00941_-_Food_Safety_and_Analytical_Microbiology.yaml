@@ -1,0 +1,163 @@
+reference: A00941
+full_title: Food Safety and Analytical Microbiology
+short_title: Food Safety & Analytical Micro
+credits: 10
+level: Postgraduate
+author: KGRENNAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Food Science
+aim: This module will provide the student with an advanced understanding of the theory,
+  practices and implementation issues associated with food industry safety management,
+  while incorporating a comprehensive overview of the theoretical background, methodologies
+  and practical skills in modern methods used in the analysis of foods for microbial
+  contaminants. The learner will be exposed to aspects of working in an environment
+  which operates under strict guidelines for production and quality outputs. The aims
+  of the module are to produce graduates with an in-depth knowledge of food industry
+  safety management, along with modern methods for the microbiological analysis of
+  foods and food production premises. The student will acquire the tools and skills
+  in modern methods and the technology associated with the analysis of foods and production
+  facilities for microbial contaminants. The module will also enable students to critically
+  appraise the scientific literature, and identify future trends in the areas of food
+  safety and analytical microbiology.
+programmes:
+- timetable: FOOD-0013
+  code: WD_SANSC_G
+  name: Postgraduate Diploma in Analytical Science with Quality Management
+  stage: 1
+  semester: 0
+  status: E
+- timetable: FOOD-0013
+  code: WD_SANSC_R
+  name: Master of Science in Analytical Science with Quality Management
+  stage: 1
+  semester: 0
+  status: E
+- timetable: FOOD-0013
+  code: WD_SFOOD_MA
+  name: Certificate in Food Safety & Microbiological Analysis
+  stage: 5
+  semester: 0
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Food premises and equipment design
+- Clean-room technology; controlled cleaning and structural, procedural and personal
+  hygiene
+- Quality control of food ingredients
+- 'H.A.C.C.P.: methodology, documentation, integration and other quality systems (G.M.P.,
+  Q-mark, I.S.O. system, T,Q,M., World class manufacturing)'
+- Food legislation and regulation and organisations involved in food safety (FSAI,
+  WHO, Codex Alimentarius)
+- 'Food safety auditing: theory and practice, the audit process, integrated safety
+  auditing, traceability and complaint management'
+- Methods for isolation and growth of bacteria and fungi from foods and pharmaceuticals
+- 'Selective enrichment and isolation techniques: chromogenic media & immunomagnetic
+  beads'
+- Facilitated cultural techniques (Petrifilm, Easygel, Kwikcount and Microtrap)
+- Pyrogen detection and endotoxic assays
+- 'Traditional methods of identification of microorganisms: phenotypic methods including
+  microscopy and biochemical tests'
+- Rapid and/or computer-assisted kit systems for identification (immunological methods,
+  API, Biolog etc.)
+- 'Modern molecular methods for identifying microorganisms: 16S PCR and DNA sequencing,
+  PFGE, AFLP, RFLP, real-time PCR'
+- Sterilisation methods, sterility testing and monitoring and disinfectant testing;
+  methods for evaluating disinfectants
+- Microbiological tests for hygiene testing of production facilities, including ATP
+  and lux-based bioluminescence technology and modern rapid swab techniques
+learning_outcomes:
+- Evaluate the inter-related processes that contribute to food safety management.
+- Assess the role and function of quality through production and processing of food,
+  including the origins of HACCP and its basis as a Food Safety Management System.
+- Propose suitable techniques for the selective isolation and identification of pathogens
+  and indicator organisms from a wide variety of products using current methodologies
+  and technologies.
+- Evaluate the underlying principles behind molecular biology techniques employed
+  in isolation and identification of microbes.
+- Appraise sterility testing of products and monitoring of sterile production facilities,
+  and recommend appropriate methods for routine hygiene assessment in the food industry.
+learning_and_teaching_methods:
+- Lectures.
+- Laboratory practicals.
+- Analysis and review of scientific literature.
+- Team work.
+- Independent learning.
+learning_modes:
+- full_time: ''
+  name: Lecture
+  part_time: 30
+- full_time: ''
+  name: Practical
+  part_time: 18
+- full_time: ''
+  name: Independent Learning
+  part_time: 222
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 3,5
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '2'
+  main: false
+  name: Group Project
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,4
+  main: false
+  name: In-Class Assessment
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Little or no demonstration of an understanding of the fundamentals of analytical
+  microbiology or the basic concepts of food safety management.'
+- '40%-59%: Ability to show limited understanding of the fundamentals of analytical
+  microbiology. Will display some ability with associated demonstrations. Ability
+  to understand the food safety management philosophies but unable to critically think
+  on this subject.'
+- '60%-69%: Ability to show reasonable understanding of the complexities of analytical
+  microbiology and predict some trends in analytical results. Will display reasonable
+  competence with associated laboratory demonstrations. Good critical thinking and
+  problem-solving skills in both analytical microbiology and food safety management.
+  Good teamwork abilities.'
+- '70%-100%: All the above to an excellent level. In addition, will be able to demonstrate
+  comprehensive knowledge and understanding of the area, have an ability to critically
+  evaluate and relate topics, and formulate food safety management strategies.'
+essential_material:
+- '""Food Safety & Analytical Microbiology" module Moodle page." http://moodle.wit.ie'
+- '"Food Safety Authority of Ireland." http://www.fsai.ie/'
+- 'Madigan, Michael T., John M. Martinko, Kelly S. Bender, Daniel H. Buckley and David
+  A. Stahl. _Brock biology of microorganisms_ . 14th ed.. Upper Saddle River, NJ: Prentice Hall/Pearson Education, 2014.'
+supplementary_material:
+- '"European Food Safety Authority." http://www.efsa.europa.eu'
+- 'Bibek, Ray and Arun Bhunia. _Fundamental food microbiology_ . 4th ed.. Boca Raton,
+  Fla.: CRC; London : Taylor & Francis: Boca Raton : CRC Press, 2008.'
+- 'Bisen, Prakash S. . _Microbes: concepts and applications_ . Hoboken, N.J. : Wiley-Blackwell,
+  2012.'
+- 'Doyle, Michael P. and Robert L. Buchanan. _Food microbiology: fundamentals and
+  frontiers_ . 4th ed.. Washington, D.C. : ASM Press, c2013, 2013.'
+- 'Mortimore, Sara, Carol Wallace and Christos Cassianos. _HACCP_ . Chichester, GBR
+  : Wiley, 2008.'
+- 'Motarjemi , Yasmine and Huub Lelieveld. _Food S__afety Management, A Practical
+  Guide for the Food Industry_. 1st. USA: Academic Press, 2014.'
+- 'Pawsey, Rosa, K. _Case Studies in Food Microbiology for Food Safety and Quality_.
+  Cambridge, GBR : Royal Society of Chemistry , 2002.'
+- 'Toldra, Fidel and Leo M. L. Nollet. _Advances in Food Diagnostics_. Hoboken, NJ,
+  USA : Wiley-Blackwell , 2009.'
+requested_resources:
+- 'Room Type: Biology Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -135,4 +135,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07550 | Timetable Code: SCIE-0069*
+*Module Code: A07550 | Timetable Code: SCIE-0069 | Change Tracking: Enabled*

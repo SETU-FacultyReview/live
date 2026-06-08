@@ -1,0 +1,138 @@
+reference: A13267
+full_title: Communications Skills
+short_title: Communications Skills
+credits: 5
+level: Introductory
+author: PKIRWAN
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Professional Skills
+aim: The goal of this module is to enable students to develop key communication skills
+  that are essential to the work-place environment as well as the student?s academic
+  career. Such skills include interpersonal skills, oral presentation skills, ability
+  to participate in meetings, and ability to participate effectively in groups, along
+  with writing skills for work-related documents.
+programmes:
+- timetable: COMS-0012
+  code: WD_KCOMC_D
+  name: Bachelor of Science in Software Systems Development
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMS-0012
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMS-0012
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMS-0012
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMS-0012
+  code: WD_KINFT_D
+  name: Bachelor of Science in Information Technology
+  stage: 1
+  semester: 1
+  status: M
+- timetable: COMS-0012
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Introduction to Human Communications
+- Communication Flows within Industry and Academia
+- Structuring and Writing Professional Reports
+- 'Meetings: Managing, Recording and Participation'
+- Communication Flows in Groups
+- Oral Presentations
+- Workshop Communication Strategy
+- Communications for Career Success
+learning_outcomes:
+- Create a well-designed Professional Profile.
+- Construct a profile for Web-based Career Networking Websites.
+- Complete a professional presentation, using a Software Tool to showcase the presentation.
+- Give a professional presentation.
+- Complete a professionally written document.
+- Plan a Technical Workshop.
+learning_and_teaching_methods:
+- Students will attend lectures to learn about the latest research supporting the
+  development of interpersonal skills.
+- Lectures will also provide a foundation for creating Communication Forums, such
+  as Websites and Workshops.
+- Tutorials will be focused on exploring the themes of interpersonal communications
+  in the digital environments.
+- Also explored will be practicing and developing both skill and confidence with oral
+  presentation.
+- Practical classes will be focused on providing students with an opportunity to apply
+  the themes discussed in both Lectures, and Tutorial using planned exercises, and
+  creating submissions for various CA elements.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: 24
+- full_time: 24
+  name: Practical
+  part_time: 0
+- full_time: 87
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: Portfolio
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4
+  main: false
+  name: Presentation
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 5,6
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to create and deliver a presentation. Unable to plan and deliver a
+  Workshop.'
+- '40%-49%: Be able to deliver oral presentation. Be able to plan and run a Workshop.'
+- '50%-59%: Demonstrates a proactive ability to plan and run a Workshop. Delivers
+  a well-structured presentation.'
+- '60%-69%: Demonstrates the ability to create a Workshop on an advanced technical
+  topic. Delivers a well-structured presentation using a prop.'
+- '70%-100%: Demonstrates the ability to create a Workshop on an advanced technical
+  topic that is digitally recorded is uploaded to YouTube. Delivers a well-structured
+  oral presentation using one or more props.'
+essential_material: []
+supplementary_material:
+- 'Euson, B. _C21: Communicating in the 21st Century, 4th edition_. 3rd ed. NY: Wiley,
+  2012.'
+requested_resources:
+- 'Room Type: Computer Lab'
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

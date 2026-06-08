@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09890 | Timetable Code: PHYI-0031*
+*Module Code: A09890 | Timetable Code: PHYI-0031 | Change Tracking: Enabled*

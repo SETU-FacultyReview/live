@@ -1,0 +1,127 @@
+reference: A07727
+full_title: Pharmaceutical Organic Chemistry
+short_title: Pharmaceutical Organic Chem
+credits: 5
+level: Introductory
+author: CLENNON
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Chemistry
+aim: This module will introduce reactions and mechanisms of key organic functional
+  groups. Examples to illustrate the course will be drawn from biologically and pharmaceutically
+  important compounds. The laboratory course will include a range of organic syntheses
+  to complement the theory section. Products will be characterised via a range of
+  analytical techniques.
+programmes:
+- timetable: CHEM-0009
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 2
+  semester: 4
+  status: M
+- timetable: CHEM-0009
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Functional group interconversions to include carbonyls, alkenes, amines, alcohols,
+  ethers and epoxides
+- Aromatic compounds, electrophilic substitution, effect of substituents on reactivity;
+  aromaticity, basicity and reactivity of nitrogen heterocycles
+- Carbon-carbon bond formation using organometallic reagents
+- Examples of biological and pharmaceutically important compounds to illustrate the
+  above reactions
+- 'Practical organic chemistry: a range of preparative work designed to teach the
+  organic techniques and illustrate reactions'
+learning_outcomes:
+- Explain the mechanism of a number of fundamental organic reactions and account for
+  the trends in reactivity.
+- Predict and explain the influence of substrate substituents on these reactions.
+- Identify synthetic routes for some reaction pathways, including functional group
+  transformations and some carbon-carbon bond formations.
+- Employ a range of synthetic organic reactions in the laboratory, including some
+  multi-step synthetic procedures.
+- Practise purification and characterisation techniques on synthetic products according
+  to given procedures..
+learning_and_teaching_methods:
+- Lectures.
+- Laboratory-based practicals.
+- Tutorials.
+- Self-directed study.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Tutorial
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 1,2,3
+  main: false
+  name: Tutorial/Problem Sheets
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 4,5
+  main: false
+  name: Lab Report
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: No understanding of the basic principles of pharmaceutical organic chemistry.
+  Inability to carry out associated laboratory work to a satisfactory standard.'
+- '40%-49%: Will be able to show a basic knowledge of pharmaceutical organic chemistry
+  and demonstrate the ability to carry out associated practical work to a satisfactory
+  standard.'
+- '50%-59%: As well as the above, the student will be able to demonstrate an understanding
+  of some of the complexities of the topics and predict some trends in reactivity
+  and behaviour. In addition, the learner will show a consistently good ability as
+  reflected in associated laboratory experiments.'
+- '60%-69%: In addition, the student will demonstrate a more detailed knowledge of
+  the all topics and demonstrate an ability to evaluate detailed knowledge acquired
+  in the module to new material. Will demonstrate very good ability in most laboratory
+  experiments and preparation of laboratory reports.'
+- '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
+  of pharmaceutical organic chemistry, predict general trends in behaviour, including
+  exceptional behaviour and show the ability to evaluate and relate topics. Will demonstrate
+  excellent laboratory skills and a consistently high ability in analysis of results.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Bruice, P.Y. _Organic Chemistry_. 6th ed. NewYork: Pearson Education, 2010.'
+supplementary_material:
+- 'Ege, S.N. _Organic Chemistry: Structure and Reactivity_. 4th ed. Boston: Houghton
+  Mifflin, 1999.'
+- 'Hart, H., D. Hart and L. Craine. _Organic Chemistry_. 10th ed. Boston: Houghton
+  Mifflin, 2000.'
+- 'McMurry, J.E. _Organic Chemistry_. 5th ed. London: Brooks Cole, 1999.'
+requested_resources:
+- 'Room Type: Chemistry Lab'
+- 'Lecture Room: Loose Seated'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,114 @@
+reference: A32021
+full_title: Animal Breeding and Genetics
+short_title: Animal Breeding and Genetics
+credits: 5
+level: Intermediate
+author: KMURPHY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Agriculture
+aim: This module introduces the student to the fundamental concepts of molecular biology,
+  genetics and genomics, and their applications to animal breeding. The module contains
+  a practical component where the student can develop molecular laboratory skills,
+  logical thinking, analysis and report-writing skills.
+programmes:
+- timetable: AGRI-0106
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 3
+  semester: 5
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Overview of genetics and genomics
+- 'Molecular genetics: structure and properties of nucleic acids, DNA replication
+  and repair, transcription and translation, DNA extraction, PCR'
+- Domestication; qualitative and quantitative traits
+- Crossbreeding, inbreeding
+- Animal breeding and breeding policy
+- National breed improvement strategies
+- Genomic selection
+learning_outcomes:
+- Appraise the fundamental concepts of molecular biology, genetics and genomics and
+  their applications to animal breeding.
+- Demonstrate how molecular biology has improved the understanding of some areas of
+  animal breeding.
+- Appraise the fundamental concepts and principles of animal breeding and demonstrate
+  how these are applied to breed improvement strategies.
+- Communicate the importance of implementing breed improvement strategies.
+- Apply knowledge and skill to analyse livestock production systems and evaluate economic
+  returns from such systems.
+- Use laboratory techniques and computer applications to demonstrate an understanding
+  of molecular and quantitative genetics.
+learning_and_teaching_methods:
+- Lectures.
+- Laboratory practicals.
+- Guest industry speakers.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 40
+- learning_outcomes: '6'
+  main: false
+  name: Lab Report
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '6'
+  main: false
+  name: Project
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter.'
+- '40%-49%: Will be able to show a good knowledge of the key learning outcomes including
+  fundamentals of molecular and quantitative genetics, as well as a basic knowledge
+  of animal breeding.'
+- '50%-59%: As well as the above, the student will be able to demonstrate a good understanding
+  of the learning outcomes, as well as being able to describe and evaluate national
+  breed improvement strategies.'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of all
+  the topics, including factors affecting the rate of genetic gain and response to
+  selection in breeding programmes and how this is applied to breed improvement strategies.'
+- '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
+  of all learning outcomes, including the ability to fully integrate the various components
+  of the course.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Bray, D., K. Hopkin, B. Alberts, A. Johnson, M. Raff and Roberts, K & Walter, P
+  . _Essential Cell Biology_. 3rd ed. USA: Garland Science, 2009.'
+supplementary_material:
+- 'Campbell, N.A., J.B. Reece, L.A. Urry, M.L. Cain, S.A. Wasserman and Minorsky,
+  P.V., Jackson, R.B. _Biology_. 8th ed. San Francisco: Pearson, Benjamin / Cummings,
+  2008.'
+- 'Simm, G. _Genetic Improvement of Cattle and Sheep_. UK: Farming Press, 1998.'
+requested_resources:
+- 'Room Type: Computer Lab'
+- 'Lecture Room: Loose Seated'
+- 'Room Type: Biology Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

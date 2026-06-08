@@ -147,4 +147,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11478 | Timetable Code: ELEC-0040*
+*Module Code: A11478 | Timetable Code: ELEC-0040 | Change Tracking: Enabled*

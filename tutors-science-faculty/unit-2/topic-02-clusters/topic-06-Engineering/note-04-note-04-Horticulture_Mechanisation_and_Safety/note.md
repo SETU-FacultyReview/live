@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A31902 | Timetable Code: MECH-0038*
+*Module Code: A31902 | Timetable Code: MECH-0038 | Change Tracking: Enabled*

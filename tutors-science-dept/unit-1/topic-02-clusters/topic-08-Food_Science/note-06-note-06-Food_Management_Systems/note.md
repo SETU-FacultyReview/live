@@ -149,4 +149,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A36342 | Timetable Code: AGRI-0094*
+*Module Code: A36342 | Timetable Code: AGRI-0094 | Change Tracking: Enabled*

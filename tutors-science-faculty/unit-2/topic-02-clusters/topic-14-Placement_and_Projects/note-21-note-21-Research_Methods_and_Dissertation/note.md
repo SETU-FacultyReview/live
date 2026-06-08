@@ -144,4 +144,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A32367 | Timetable Code: RESA-0210*
+*Module Code: A32367 | Timetable Code: RESA-0210 | Change Tracking: Enabled*

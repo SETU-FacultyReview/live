@@ -143,4 +143,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A34181 | Timetable Code: SCIE-0066*
+*Module Code: A34181 | Timetable Code: SCIE-0066 | Change Tracking: Enabled*

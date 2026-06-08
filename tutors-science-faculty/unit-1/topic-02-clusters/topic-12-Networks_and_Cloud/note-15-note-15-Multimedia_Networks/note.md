@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13421 | Timetable Code: COMP-0966*
+*Module Code: A13421 | Timetable Code: COMP-0966 | Change Tracking: Enabled*

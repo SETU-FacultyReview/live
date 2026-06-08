@@ -143,4 +143,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A26761 | Timetable Code: CHEM-0033*
+*Module Code: A26761 | Timetable Code: CHEM-0033 | Change Tracking: Enabled*

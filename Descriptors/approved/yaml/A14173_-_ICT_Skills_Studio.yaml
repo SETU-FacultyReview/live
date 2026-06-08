@@ -1,0 +1,83 @@
+reference: A14173
+full_title: ICT Skills Studio
+short_title: ICT Skills Studio
+credits: 5
+level: Intermediate
+author: EDELEASTAR
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Software and Web Development
+aim: Continue to develop the students' programming skills with a particular focus
+  on modern web development tools, frameworks and applications. A strong emphasis
+  industry best practice - with close attention software configuration management
+  tools. The Studio will also support a forum for talks and seminars from industry
+  on technology trends and work practices.
+programmes:
+- timetable: COMP-0521
+  code: WD_KCOSC_G
+  name: Higher Diploma in Science in Computer Science
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Consolidating programming principles & practices
+- Elementary algorithms & data structures
+- Web development applications design & implementation
+- Server side and client side aspects of web wevelopment
+- Current trends in software development technology
+learning_outcomes:
+- Construct a simple but robust server-rendered web application.
+- Differentiate the role of the client and server in this context.
+- Break a problem domain into a series of discrete features.
+- Manage the assets of a project in a configuration management environment.
+learning_and_teaching_methods:
+- Supervised, guided and scripted practicals will lead the student through the construction
+  of selection of small applications, designed to illustrate key concepts covered
+  in the lectures.
+- Worked Laboratory Exercises.
+- Short Lectures to outline specific concepts.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 100
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret, describe or implement key components of a simple web
+  application.'
+- '40%-49%: Be able to construct a minimal web application, incorporating server side
+  rendering.'
+- '50%-59%: Design and implement a web application including basic database and session
+  support.'
+- '60%-69%: All of the above including a simple model of the application structure.'
+- '70%-100%: All the above to an excellent level. Incorporate Unit Tests for a specific
+  subset of an application.'
+essential_material: []
+supplementary_material:
+- 'Richard-Foy, J. _Play Framework Essentials_. New York: Packt Publishing, 2014.'
+- 'Syed, B. _Beginning Node.js_. New York: Apress, 2014.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,126 @@
+reference: A07731
+full_title: Pharmaceuticals and Natural Products
+short_title: Pharmaceuticals & Nat Products
+credits: 5
+level: Intermediate
+author: CLENNON
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Pharmaceutical Science
+aim: This module gives an insight into the structure and synthesis of some natural
+  products and pharmaceuticals. A particular emphasis will be on the use of carbanions
+  in the synthesis of such molecules.
+programmes:
+- timetable: PHAR-0005
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 3
+  semester: 5
+  status: M
+- timetable: PHAR-0005
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 3
+  semester: 5
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'The use of carbanions in the synthesis of a range of pharmaceuticals and natural
+  products; synthetic pathways of these reactions along with mechanisms are studied
+  in detail. Strategies involving the following reactions are included: $\alpha$-halogenation,
+  enolate alkylation, aldol, Claisen, Michael and Wittig reactions. Combinations of
+  such reactions to generate cyclic products are discussed along with strategies for
+  selectivity'
+- Structure of a range of pharmaceutical and natural products, including terpenes,
+  steroids, sulphonamides and beta-lactam antibiotics
+- Chemical aspects and the synthesis of peptides, the structure of proteins, nucleotides
+  and DNA
+learning_outcomes:
+- Differentiate and illustrate the structure of a range of pharmaceuticals and natural
+  products.
+- Examine synthetic routes to suggested products.
+- Relate the mechanisms involved in representative reactions to synthesise such targets.
+- Use laboratory techniques to perform a multi-step organic synthesis.
+learning_and_teaching_methods:
+- Lectures.
+- Tutorials
+- Laboratory-based practicals.
+- Self-directed study.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 9
+  name: Tutorial
+  part_time: ''
+- full_time: 27
+  name: Lab
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: '4'
+  main: false
+  name: Lab Report
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3
+  main: false
+  name: Tutorial/Problem Sheets
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Little or no demonstration of an understanding of the fundamentals of pharmaceuticals
+  and natural products. Lack of competence with regard to associated laboratory skills
+  and practices.'
+- '40%-49%: Will be able to show a limited understanding of the fundamentals of pharmaceuticals
+  and natural products. May have some difficulty with applying this theory. Will display
+  some ability with regard to associated laboratory skills and practices.'
+- '50%-59%: As well as the above, the student will be to show an understanding of
+  the complexities of pharmaceuticals and natural products. Will display reasonable
+  competence with regard to associated laboratory skills and practices.'
+- '60%-69%: In addition, the student will demonstrate a more detailed knowledge of
+  pharmaceuticals and natural products and display a very good level of competence
+  and efficiency with regard to associated laboratory skills and practices.'
+- '70%-100%: All of the above to an excellent level. In addition, the learner will
+  be able to demonstrate comprehensive knowledge and understanding of pharmaceuticals
+  and natural products, as well as being able to predict general trends, evaluate
+  and relate topics. Will display advanced competence and independence with regard
+  to associated laboratory skills and practices.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- '"Mastering Chemistry." www.pearsonmylabandmastering.com/masteringchemistry'
+- 'Bruice, P.Y. _Organic Chemistry_. 8th Edition. New Jersey: Pearson, 2010.'
+supplementary_material:
+- '"The Virtual Textbook of Organic Chemistry." http://www2.chemistry.msu.edu/faculty/reusch/VirtTxtJml/intro1.htm'
+- 'Clayden, J., N. Greaves and S. Warren . _Organic Chemistry_. 2nd ed. Oxford: Oxford
+  University Press, 2012.'
+- 'Lednicer, D. and L.A. Mitscher. _The Organic Chemistry of Drug Synthesis_. New
+  York: Wiley, 1990.'
+- 'Mann, J., J. Harborne and R.S. Davidson. _Natural Products: Their Chemistry and
+  Biological SignificancePublication info. Harlow : Longman Scientific & Technical,
+  1994._ . UK: Longman, 1994.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'Room Type: Chemistry Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

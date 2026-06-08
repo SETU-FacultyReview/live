@@ -144,4 +144,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07731 | Timetable Code: PHAR-0005*
+*Module Code: A07731 | Timetable Code: PHAR-0005 | Change Tracking: Enabled*

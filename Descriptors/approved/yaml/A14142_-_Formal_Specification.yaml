@@ -1,0 +1,122 @@
+reference: A14142
+full_title: Formal Specification
+short_title: Formal Specification
+credits: 5
+level: Advanced
+author: MMEAGHER
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Software and Web Development
+aim: Having examined the software development process in detail, the student is now
+  introduced to a more formal way to treat systems. Using mathematics, the student
+  learns how to precisely specify computer systems. This exposes the student to rigorous
+  and critical thinking skills. This module will also help the student to prioritise
+  needs in a system, e.g. correctness, usability so that appropriate methodologies
+  are chosen. An overview of the formal life-cycle is presented.
+programmes:
+- timetable: COMP-0216
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0216
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0216
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0216
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Introduction to Formal Methods
+- Mathematics of Formal Specification
+- Formal Specification notation (e.g. Z, B)
+- Modelling using notation, writing system states and operations using chosen notation
+learning_outcomes:
+- Choose when formal methods are applicable in software development.
+- Read and write formal specifications and explain them clearly using informal means.
+- Choose the mathematical model underlying the formal specification language in this
+  context.
+- Write consistent specifications and be able to explain why they are consistent.
+- Assess a complex system, distill an inderstanding of it into an abstracted view,
+  and model this view using approproate abstract data models and mathematical description.
+- Formally specify part of a real world system (e.g. substantial student project)
+  with appropriate narrative text.
+learning_and_teaching_methods:
+- As this module requires a strong mathematical foundation, it is important that the
+  student be presented with these foundations in a lecture context and that these
+  concepts practiced on specification examples in tutorials.
+- Lectures and tutorials will be interleaved, with small examples regularly being
+  attempted in class.
+- When the student has learned the necessary component skills, s/he will practice
+  these skills on part of a substantial project.
+- This will enliven his/her understanding of the notation as well as demonstrating
+  to him/her the advantages of rigour in software development.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Tutorial
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: 1,2,3,5,6
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 2,3
+  main: false
+  name: In-Class Assessment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,5,6
+  main: false
+  name: Assignment
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to understand the basics of mathematical concepts or notation.
+  Inability to write simple specifications of parts of a system, e.g. simple operations.'
+- '40%-49%: Able to write simple (familiar) formal specifications. Able to write simple,
+  robust operations. Understands the role of formal methods in software development.'
+- '50%-59%: In addition, show the ability to choose appropriate data models and types.
+  Able to write complete specifications for simple systems.'
+- '60%-69%: In addition, be able to write complete specificationsl for limited systems
+  with increased complexity. Able to scope an unfamiliar system.'
+- '70%-100%: All previous to an excellent level. Able to reflect on the structure
+  of a consistent specification and write a clearer, more elegant specification with
+  the same functionality.'
+essential_material:
+- W.I.T.. _Student's Final Year Project Preliminary Report_ W.I.T.. curr academic
+  year.
+supplementary_material:
+- '"http://formalmethods.wikia.com/wiki/Z_notation." Formal Methods Wiki. http://formalmethods.wikia.com/wiki/Z_notation'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

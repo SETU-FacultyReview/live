@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09841 | Timetable Code: ENVI-0024*
+*Module Code: A09841 | Timetable Code: ENVI-0024 | Change Tracking: Enabled*

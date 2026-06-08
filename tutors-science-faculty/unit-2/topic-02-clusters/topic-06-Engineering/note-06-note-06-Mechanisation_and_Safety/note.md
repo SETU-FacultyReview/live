@@ -147,4 +147,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A36582 | Timetable Code: MECH-0005*
+*Module Code: A36582 | Timetable Code: MECH-0005 | Change Tracking: Enabled*

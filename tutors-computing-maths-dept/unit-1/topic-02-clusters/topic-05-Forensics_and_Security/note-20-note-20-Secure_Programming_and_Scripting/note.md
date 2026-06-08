@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13740 | Timetable Code: PROG-0083*
+*Module Code: A13740 | Timetable Code: PROG-0083 | Change Tracking: Enabled*

@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A08381 | Timetable Code: PROD-0004*
+*Module Code: A08381 | Timetable Code: PROD-0004 | Change Tracking: Enabled*

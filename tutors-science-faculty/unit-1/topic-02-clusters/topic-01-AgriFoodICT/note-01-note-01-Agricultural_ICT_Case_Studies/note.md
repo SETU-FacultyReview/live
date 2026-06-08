@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A21681 | Timetable Code: COMP-0979*
+*Module Code: A21681 | Timetable Code: COMP-0979 | Change Tracking: Enabled*

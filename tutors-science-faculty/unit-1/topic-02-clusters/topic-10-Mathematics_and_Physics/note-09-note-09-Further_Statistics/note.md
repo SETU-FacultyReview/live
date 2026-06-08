@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13004 | Timetable Code: STAT-0054*
+*Module Code: A13004 | Timetable Code: STAT-0054 | Change Tracking: Enabled*

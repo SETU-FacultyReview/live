@@ -151,4 +151,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11491 | Timetable Code: SCIE-0015*
+*Module Code: A11491 | Timetable Code: SCIE-0015 | Change Tracking: Enabled*

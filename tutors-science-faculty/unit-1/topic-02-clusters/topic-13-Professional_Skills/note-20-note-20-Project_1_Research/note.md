@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14786 | Timetable Code: PROJ-0167*
+*Module Code: A14786 | Timetable Code: PROJ-0167 | Change Tracking: Enabled*

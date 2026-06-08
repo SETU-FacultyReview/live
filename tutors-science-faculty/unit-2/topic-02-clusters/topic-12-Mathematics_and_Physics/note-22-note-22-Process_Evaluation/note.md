@@ -136,4 +136,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11523 | Timetable Code: EVAL-0003*
+*Module Code: A11523 | Timetable Code: EVAL-0003 | Change Tracking: Enabled*

@@ -147,7 +147,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
+<<<<<<< HEAD
+| [WD_SANSC_G](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | 1 | 0 | Elective |
+=======
 | [WD_SANSC_G](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | 1 | 0 | Elective |
+>>>>>>> main
 | [WD_SANSC_R](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
 | WD_SFOOD_MA | Certificate in Food Safety & Microbiological Analysis | 5 | 0 | Mandatory |
 
@@ -159,4 +163,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A00941 | Timetable Code: FOOD-0013*
+*Module Code: A00941 | Timetable Code: FOOD-0013 | Change Tracking: Enabled*

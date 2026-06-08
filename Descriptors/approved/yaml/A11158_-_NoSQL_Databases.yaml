@@ -1,0 +1,175 @@
+reference: A11158
+full_title: NoSQL Databases
+short_title: NoSQL Databases
+credits: 5
+level: Intermediate
+author: EREADE
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Database and Analytics
+aim: This module will introduce the student to the principles and practice of designing
+  database solutions for large volumes of either structured or unstructured data.
+  The student will gain competence in determining the suitability of a schemaless
+  database or a data warehouse. The student will be introduced to the concepts of
+  data persistence, consistency and distribution in the NoSQL database context. They
+  will gain experience in the design and implementation of a NoSQL database system
+  for unstructured data. The module will also introduce them to the use of data warehouses
+  for storage of large volumes of structured data.
+programmes:
+- timetable: COMP-0661
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0661
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0661
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0661
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0661
+  code: WD_KCOMC_D
+  name: Bachelor of Science in Software Systems Development
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0661
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0661
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0661
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0661
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0661
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0661
+  code: WD_KINFT_D
+  name: Bachelor of Science in Information Technology
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0661
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 3
+  semester: 5
+  status: M
+- timetable: COMP-0661
+  code: WD_KMULA_D
+  name: Bachelor of Science in Multimedia Applications Development
+  stage: 3
+  semester: 6
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Introduction to storing large volumes of structured or unstructured data
+- Emergence of NoSQL databases
+- Aggregate data models
+- Key-value databases, document databases, column family databases and graph databases
+- Data persistence, database consistency (CAP theorem, version stamps) and distribution
+  of data storage
+- Fundamentals involved in the storage of large volumes of structured data in a data
+  warehouse
+learning_outcomes:
+- Analyse a business scenario to determine a suitable big data database solution.
+- Create at least one type of NoSQL database.
+- Assess the growth and use of NoSQL in business.
+- Appraise the distribution of data on clusters.
+- Examine the issue of consistency in relation to NoSQL databases.
+- Summarise the characteristics, design and implementation of data warehouses for
+  structured data.
+learning_and_teaching_methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures.
+- The continuous assessment will require the student to apply the theory and practical
+  knowledge to a new business scenario.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 12
+- full_time: 24
+  name: Practical
+  part_time: 12
+- full_time: 87
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: 3,4,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 1,2
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- <40%:Unable to interpret and describe key concepts of Big Data database solutions.
+- 40%-49%:Be able to interpret and describe key concepts of Big Data database solutions.
+- 50%-59%:Ability to discuss key concepts of design and implementation of Big Data
+  database solutions and ability to discover and integrate related knowledge in other
+  knowledge domains.
+- 60%-69%:Be able to solve problems within the design and implementation of Big Data
+  database solutions by experimenting with the appropriate skills and tools.
+- 70%-100%:ll the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+essential_material: []
+supplementary_material:
+- '"TDWI research in the business intelligence and data warehousing industry." http://tdwi.org'
+- '"comprehensive resource on NoSQL database solutions." http://nosql-database.org'
+- 'Connolly, T. and E. Begg Connolly. _Database Systems: A practical approach to design,
+  implementation and management_. NY: Addison-Wesley, 2015.'
+- 'Sadalage, J. and M. Fowler. _NoSQL Distilled A brief guide to the emerging world
+  of polygot persistence_. New Jersey: Pearson, 2013.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -1,0 +1,103 @@
+reference: A09762
+full_title: Total Quality Management (GMP)
+short_title: Total Quality Management (GMP)
+credits: 5
+level: Introductory
+author: BWHELAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Quality, Regulatory and Compliance
+aim: 'This module covers aspects of quality management including teamwork, continuous
+  improvement, the philosophy of total quality management (TQM), the quality gurus:
+  Deming, Crosby, Juran, training and problem-solving. The student will be able to
+  identify a production-related technical problem, assist in its investigation and
+  analysis, propose solutions to the problem, and monitor its effectiveness.'
+programmes:
+- timetable: QUAL-0012
+  code: WD_SGMPT_C
+  name: Higher Certificate in Science in Good Manufacturing Practice and Technology
+  stage: 2
+  semester: 4
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- The principles of Total Quality Management; the role of the customer, both internal
+  and external; changing customer needs
+- Definition of quality in TQM terms; the philosophies of Deming, Crosby and Juran
+- Reduction in rework and scrap levels, elimination of defects in materials and products;
+  development of suggestions for improvement
+- Concepts of Lean Manufacturing; reduction in manufacturing and distribution lead
+  times; preventative maintenance
+- Reviewing the fundamental stages of the manufacturing processes via flow diagrams,
+  identification of potential causes of product defects
+- Systematic approach to problem solving and failure analysis; documenting corrective
+  action, proposing improvements and monitoring effectiveness
+- Teamwork, types of teams; cross-functional, project, self-managing; managing the
+  change from traditional to TQM cultures
+- 'The Seven Quality tools: Pareto, ishikawa, histograms, statistical process control,
+  process capability, checksheets, trending of data; problem-solving techniques'
+learning_outcomes:
+- Explain the concepts of Total Quality Management and Continuous Improvement.
+- Discuss the principles of variation in streamlining manufacturing process.
+- Review a production process and identify critical production bottlenecks.
+- Apply the appropriate techniques to problem solving in the manufacturing environment.
+learning_and_teaching_methods:
+- Lectures.
+- Case studies.
+learning_modes:
+- full_time: ''
+  name: Lecture
+  part_time: 24
+- full_time: ''
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: 1,4
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: '1'
+  main: false
+  name: Essay
+  weighting: 25
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: In-Class Assessment
+  weighting: 25
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
+  technical ability/skill and understanding to carry out practical/professional tasks.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Show some technical
+  ability/skill in carrying out and reporting on practical/professional tasks.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Logically and competently carry out practical/professional tasks.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter. Show ability to analyse
+  and logically argue in an effective and mature style. Demonstrate initiative and
+  the ability to criticise methods used and appreciation of experimental design when
+  carrying out practical/professional tasks.'
+- '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
+  and extensive understanding of the subject. Provide well focused analysis and convincing
+  argument on the subject.'
+essential_material:
+- '"The 7 Basic Quality Tools." http://www.thequalityweb.com/'
+- 'George, M.L., D. Rowlands, M. Price and J. Maxey. _Lean Six Sigma Pocket Toolbook_.
+  New York: Mc-Graw Hill, 2005.'
+- 'Juran, J.M. _Juran''s Quality Handbook_. London: Mc-Graw Hill, 2010.'
+supplementary_material:
+- 'Oakland, J.S. _Statistical Process Control_. Oxford: Butterworth Heinmann, 2005.'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

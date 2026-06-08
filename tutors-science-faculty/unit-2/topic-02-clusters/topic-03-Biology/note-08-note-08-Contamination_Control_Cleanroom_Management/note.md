@@ -136,4 +136,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09761 | Timetable Code: FDSC-0011*
+*Module Code: A09761 | Timetable Code: FDSC-0011 | Change Tracking: Enabled*

@@ -1,0 +1,134 @@
+reference: A35617
+full_title: Professional Communications & Research Methods - NUIST
+short_title: Prof Comm & Resrch Methods (NUIST)
+credits: 5
+level: Postgraduate
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Engineering Practise
+aim: The Professional Communications and Research Methods module is designed to develop
+  student knowledge, skills and competencies in professional communications and research
+  methods including, project management, research methods (quantitative and qualitative),
+  technical presentations and writing skills, health and safety and ethics in engineering.
+  The student will attain skills in critical assessment of high end technologies from
+  secondary research sources and their integration towards technology convergence.
+programmes:
+- timetable: RESA-0162
+  code: WD_CINNT_G
+  name: Postgraduate Diploma in Science in Innovative Technology Engineering
+  stage: 1
+  semester: 1
+  status: M
+- timetable: RESA-0162
+  code: WD_CINNT_R
+  name: Master of Science in Innovative Technology Engineering
+  stage: 1
+  semester: 1
+  status: M
+- timetable: RESA-0162
+  code: WD_EELEN_G
+  name: Postgraduate Diploma in Engineering in Electronic Engineering
+  stage: 1
+  semester: 1
+  status: M
+- timetable: RESA-0162
+  code: WD_EELEN_R
+  name: Master of Engineering in Electronic Engineering
+  stage: 1
+  semester: 1
+  status: M
+- timetable: ''
+  code: WD_EELEN_RI
+  name: MEng in Electronic Information Systems
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Project Management Skills: Project planning incorporating time and resource management'
+- Technical writing and Presentation Skills
+- Secondary Research Techniques including patent searching, academic journal searching
+  and Boolean search strategies
+- Quantitative and Qualitative Research Methods
+- Critical analysis of experimental data using SPSS and associated techniques
+- Introduction to Intellectual Property Rights
+learning_outcomes:
+- Write technical reports, communicating a balanced review of complex and/or controversial
+  ideas; demonstrate appropriate academic and professional standards of written communication,
+  including spelling, grammar, structure, citation, and presentation in both electronic
+  and hardcopy forms.
+- Develop an engineering project plan and to effectively manage time/resources when
+  conducting a project.
+- Conduct secondary research and critically evaluate secondary information sources.
+- Use statistical analysis software.
+- Effectively communicate to both technical and non-technical audiences.
+- Present and defend a detailed and feasible research proposal on a specific topic
+  of interest.
+- Critically evaluate the research designs and techniques identified for a research
+  project.
+learning_and_teaching_methods:
+- Statistical procedures for methodology and sampling
+- Guest Lectures on selected topics common with module themes from the programme
+- Guide to effective technical writing and academic journal submissions
+- Case studies for critical analysis
+- Communications workshops
+- Presentation skills
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,5,6
+  main: false
+  name: Reflective Journal
+  weighting: 40
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,3,4,5,7
+  main: false
+  name: Essay
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,5,6
+  main: false
+  name: Presentation
+  weighting: 30
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject; achieved
+  an excellent level of the skills required for the subject matter; demonstrated the
+  ability to carry out further investigation and problem solving associated with the
+  subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '40% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material: []
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

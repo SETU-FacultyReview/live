@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13892 | Timetable Code: TECH-0049*
+*Module Code: A13892 | Timetable Code: TECH-0049 | Change Tracking: Enabled*

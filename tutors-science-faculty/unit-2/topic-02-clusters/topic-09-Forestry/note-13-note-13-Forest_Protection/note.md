@@ -155,4 +155,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10462 | Timetable Code: FORS-0008*
+*Module Code: A10462 | Timetable Code: FORS-0008 | Change Tracking: Enabled*

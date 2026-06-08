@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11406 | Timetable Code: HEAL-0079*
+*Module Code: A11406 | Timetable Code: HEAL-0079 | Change Tracking: Enabled*

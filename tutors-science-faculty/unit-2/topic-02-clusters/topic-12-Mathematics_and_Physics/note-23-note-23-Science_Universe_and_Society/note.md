@@ -131,4 +131,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A29422 | Timetable Code: SCIE-0079*
+*Module Code: A29422 | Timetable Code: SCIE-0079 | Change Tracking: Enabled*

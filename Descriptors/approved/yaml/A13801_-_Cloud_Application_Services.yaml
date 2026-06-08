@@ -1,0 +1,98 @@
+reference: A13801
+full_title: Cloud Application Services
+short_title: Cloud Application Services
+credits: 10
+level: Postgraduate
+author: RFRISBY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Networks and Cloud
+aim: The focus of this module is on the principles and practices in the design and
+  implementation of Cloud based applications and supporting services. This module
+  will introduce modern application architectures and frameworks, RESTful services
+  and Cloud Computing Infrastructure technologies. Emerging concepts and techniques
+  in the areas of IaaS, PaaS and SaaS will be covered using the latest tools such
+  as Amazon's Web Services.
+programmes:
+- timetable: COMP-0616
+  code: WD_KCESS_R
+  name: MSc in Computer Science (Enterprise Software Systems)
+  stage: 1
+  semester: 0
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Cloud Computing Architectures and Services
+- 'Networking services: IP Addressing, DNS, DHCP, NAT'
+- Security services for Cloud Applications
+- Highly Available Applications
+- Web Services
+- Software Defined Services
+learning_outcomes:
+- Assess the properties of Cloud-based Application environments (e.g. scalability,
+  loose coupling etc.) and recognise the advantages and challenges in creating such
+  Systems.
+- Model cloud-based services that are secure, cohesive, and loosely coupled.
+- Compare and contrast common Application Architectures.
+- Develop and configure solutions for modern Cloud Application systems.
+- Critique key features and design decisions that affect a design solution.
+learning_and_teaching_methods:
+- The practical lab component will be delivered in one double lab session.
+- Combination of lectures and computer-based practical and simulation exercises.
+- Self-directed learning.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 24
+- full_time: 24
+  name: Lab
+  part_time: 24
+- full_time: 222
+  name: Independent Learning
+  part_time: 222
+assessment_methods:
+- learning_outcomes: 1,2,3,5
+  main: true
+  name: Final Written Examination
+  weighting: 50
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,5
+  main: false
+  name: Lab Report
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to interpret and describe key concepts of the specific knowledge domains
+  of SDN, Infrastructure services and automation.'
+- '40%-59%: Be able to interpret and describe key concepts of the specific knowledge
+  domains of Cloud Architectures, Infrastructures and Services. Ability to discover
+  and integrate related knowledge into cloud based application architectures.'
+- '60%-69%: Be able to solve problems within the specific knowledge domain(s) by experimenting
+  with the appropriate skills and tools.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.'
+essential_material: []
+supplementary_material:
+- '"Amazon Web Services." http://aws.amazon.com/'
+- 'Erl, T. _Cloud Computing Design Patterns_. 1st. New York: Prentice Hall, 2015.'
+- 'Newman, S. _Building Microservices_. 1st. New York: O''Reilly Media, 2015.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

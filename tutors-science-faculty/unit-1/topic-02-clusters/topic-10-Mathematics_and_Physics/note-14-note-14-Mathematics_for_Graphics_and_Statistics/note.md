@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13551 | Timetable Code: MATH-0029*
+*Module Code: A13551 | Timetable Code: MATH-0029 | Change Tracking: Enabled*

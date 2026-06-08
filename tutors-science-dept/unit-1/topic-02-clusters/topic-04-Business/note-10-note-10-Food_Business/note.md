@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07953 | Timetable Code: BUSS-0045*
+*Module Code: A07953 | Timetable Code: BUSS-0045 | Change Tracking: Enabled*

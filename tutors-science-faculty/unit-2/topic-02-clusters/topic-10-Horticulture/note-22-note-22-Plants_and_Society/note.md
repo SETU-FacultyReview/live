@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A01002 | Timetable Code: HORT-0034*
+*Module Code: A01002 | Timetable Code: HORT-0034 | Change Tracking: Enabled*

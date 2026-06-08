@@ -156,4 +156,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11664 | Timetable Code: PROJ-0005*
+*Module Code: A11664 | Timetable Code: PROJ-0005 | Change Tracking: Enabled*

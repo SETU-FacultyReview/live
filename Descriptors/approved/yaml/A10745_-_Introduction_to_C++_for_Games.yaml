@@ -1,0 +1,118 @@
+reference: A10745
+full_title: Introduction to C++ for Games
+short_title: Introduction to C++ for Games
+credits: 5
+level: Intermediate
+author: BLYNG
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Game Development
+aim: This module will introduce the student to the fundamentals of programming for
+  games using C++ and the Standard Template Library. Using procedural and object-oriented
+  techniques the student will gain confidence in designing and developing small video
+  games.
+programmes:
+- timetable: COMP-0669
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 3
+  semester: 5
+  status: E
+- timetable: COMP-0669
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 3
+  semester: 5
+  status: E
+- timetable: COMP-0669
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 3
+  semester: 5
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Types, variables and standard I/O
+- Control statements
+- The Standard Template Library (STL)
+- Functions
+- Pointers and references
+- Objected oriented programming in C++
+- Memory allocation
+- Introduction to Cocos2d-x
+learning_outcomes:
+- Develop small games using standard C++ sequence, conditional and iterative control
+  structures.
+- Create game objects and define the ways that they interact with each other through
+  object-oriented programming.
+- Employ the STL to utilise frequently used classes and functions in the development
+  of game programs.
+- Use pointers and memory allocation techniques to address, acquire and free memory
+  as game programs require.
+learning_and_teaching_methods:
+- Lectures and practical classes are used to deconstruct and analyse existing C++
+  games programmes and to plan, code and test solutions using a contemporary development
+  environment.
+- Self-directed learning activities will require students to will reflect upon the
+  module materials, diagnose their learning needs and conduct research to satisfy
+  these needs.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 48
+  name: Practical
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1, 2, 3, 4
+  main: false
+  name: Project
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to understand, describe and discuss key concepts of game development
+  using C++. Inability to apply appropriate techniques and/or tools to solve problems
+  in a C++ for games knowledge domain.'
+- '40%-49%: Ability to understand, describe and discuss key concepts of game development
+  using C++. Ability to apply appropriate techniques and/or tools to solve problems
+  in a C++ for games knowledge domain.'
+- '50%-59%: Ability to analyse and classify key concepts game development using C++.
+  Be able to employ a variety of specialised skills and pre selected tools or techniques
+  within a C++ for games knowledge domain.'
+- '60%-69%: Ability to exercise appropriate judgement in applying the key concepts
+  within game development using C++ and demonstrating an ability to be creative in
+  designing and developing solutions to problems for a C++ for games knowledge domain
+  using the appropriate skills, tools and/or techniques.'
+- '70%-100%: All the above to an excellent level. Ability to demonstrate mastery of
+  specialised skills when developing C++ games, generalise key concepts and deploy
+  solutions to a high standard for a range of complex, specialised and unforeseen
+  problems through the use and modification of advanced skills, tools and/or techniques.'
+essential_material: []
+supplementary_material:
+- 'Dawson, M. _Beginning C++ Through Game Programming_. New York: Cengage Learning
+  PTR, 2014.'
+- 'Engelbert, R. _Cocos2d-x by Example: Beginner''s Guide_. Birmingham, England: Packt
+  Publishing, 2015.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

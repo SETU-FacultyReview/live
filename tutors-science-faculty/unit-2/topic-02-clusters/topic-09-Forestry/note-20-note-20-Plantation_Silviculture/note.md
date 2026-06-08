@@ -147,4 +147,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10464 | Timetable Code: FORS-0013*
+*Module Code: A10464 | Timetable Code: FORS-0013 | Change Tracking: Enabled*

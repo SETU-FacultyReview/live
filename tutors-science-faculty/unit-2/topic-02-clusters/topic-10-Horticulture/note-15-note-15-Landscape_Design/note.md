@@ -152,4 +152,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09821 | Timetable Code: DESG-0066*
+*Module Code: A09821 | Timetable Code: DESG-0066 | Change Tracking: Enabled*

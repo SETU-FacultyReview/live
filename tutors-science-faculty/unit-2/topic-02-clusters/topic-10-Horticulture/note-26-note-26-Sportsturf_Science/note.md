@@ -148,4 +148,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A08603 | Timetable Code: SPOR-0092*
+*Module Code: A08603 | Timetable Code: SPOR-0092 | Change Tracking: Enabled*

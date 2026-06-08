@@ -144,4 +144,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13837 | Timetable Code: MOLB-0002*
+*Module Code: A13837 | Timetable Code: MOLB-0002 | Change Tracking: Enabled*

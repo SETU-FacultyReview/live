@@ -147,4 +147,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13603 | Timetable Code: PHOT-0016*
+*Module Code: A13603 | Timetable Code: PHOT-0016 | Change Tracking: Enabled*

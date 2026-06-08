@@ -134,4 +134,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09850 | Timetable Code: CADD-0002*
+*Module Code: A09850 | Timetable Code: CADD-0002 | Change Tracking: Enabled*

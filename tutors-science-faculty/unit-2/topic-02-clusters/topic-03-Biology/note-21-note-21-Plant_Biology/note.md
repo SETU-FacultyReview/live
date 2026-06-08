@@ -156,4 +156,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A08741 | Timetable Code: BIOL-0007*
+*Module Code: A08741 | Timetable Code: BIOL-0007 | Change Tracking: Enabled*

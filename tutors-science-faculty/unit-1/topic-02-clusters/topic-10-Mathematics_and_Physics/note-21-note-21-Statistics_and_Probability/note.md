@@ -150,4 +150,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13283 | Timetable Code: STAT-0017*
+*Module Code: A13283 | Timetable Code: STAT-0017 | Change Tracking: Enabled*

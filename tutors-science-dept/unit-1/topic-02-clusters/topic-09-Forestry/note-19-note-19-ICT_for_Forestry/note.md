@@ -133,4 +133,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07853 | Timetable Code: ICTS-0001*
+*Module Code: A07853 | Timetable Code: ICTS-0001 | Change Tracking: Enabled*

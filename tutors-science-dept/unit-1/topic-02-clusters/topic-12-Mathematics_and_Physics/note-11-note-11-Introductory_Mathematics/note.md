@@ -157,4 +157,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07559 | Timetable Code: MTHS-0001*
+*Module Code: A07559 | Timetable Code: MTHS-0001 | Change Tracking: Enabled*

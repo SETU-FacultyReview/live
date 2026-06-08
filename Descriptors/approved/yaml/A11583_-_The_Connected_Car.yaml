@@ -1,0 +1,107 @@
+reference: A11583
+full_title: The Connected Car
+short_title: The Connected Car
+credits: 5
+level: Advanced
+author: EREADE
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Automotive, Automation and IoT
+aim: In this module, students explore and use the technologies required to exchange
+  data between Electronic Control Units within the vehicle and with external systems
+  outside of the vehicle, such as other vehicles, diagnostic tools, recharging stations
+  and roadside infrastructure.
+programmes:
+- timetable: COMP-0575
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0575
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0575
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0575
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Vehicle network architectures
+- Event-triggered network protocols (CAN-FD; XCP; ISO 15765)
+- Time-triggered network protocols (LIN; FlexRay)
+- Infotainment network protocols (MOST; IP)
+- Measurement, Calibration and Diagnostics
+- Car2x protocols (Context Awareness; Event Notification; Topology)
+- Car2x use cases
+- Network simulation and testing
+- Network security
+learning_outcomes:
+- Distinguish the characteristics of the different network protocols.
+- Compare and contrast common automotive protocols.
+- Formulate application networking requirements.
+- Design gateway network protocols.
+- Evaluate security requirements for a connected vehicle.
+- Set up and appraise industry standard network development and testing tools.
+learning_and_teaching_methods:
+- Combination of lectures and laboratory-based practicals.
+- Self-directed learning.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,3,5
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 2,4,6
+  main: false
+  name: Assignment
+  weighting: 70
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- <40%:Inability to specify a coherent network design.
+- 40%-49%:Able to describe the basic network design concepts.
+- 50%-59%:All the above and in addition is able demonstrate a technical understanding
+  of the common automotive network protocols.
+- 60%-69%:In addition, is able to develop and test a network using two or more protocols
+  connected with a gateway.
+- 70%-100%:All of the above and able to debug network issues at a low level.
+essential_material: []
+supplementary_material:
+- 'Schaeuffele, J. and T. Zurawaka. _Automotive Software Engineering._. NY: SAE International,
+  2005.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A31641 | Timetable Code: COMP-0981*
+*Module Code: A31641 | Timetable Code: COMP-0981 | Change Tracking: Enabled*

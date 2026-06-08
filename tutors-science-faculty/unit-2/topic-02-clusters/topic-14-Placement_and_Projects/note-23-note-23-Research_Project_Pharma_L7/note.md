@@ -130,4 +130,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A37082 | Timetable Code: RESA-0220*
+*Module Code: A37082 | Timetable Code: RESA-0220 | Change Tracking: Enabled*

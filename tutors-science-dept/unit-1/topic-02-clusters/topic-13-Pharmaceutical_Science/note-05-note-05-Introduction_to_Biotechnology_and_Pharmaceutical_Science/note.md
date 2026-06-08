@@ -155,4 +155,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07549 | Timetable Code: BIPH-0001*
+*Module Code: A07549 | Timetable Code: BIPH-0001 | Change Tracking: Enabled*

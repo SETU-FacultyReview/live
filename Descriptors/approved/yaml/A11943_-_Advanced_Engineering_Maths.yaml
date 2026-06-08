@@ -1,0 +1,134 @@
+reference: A11943
+full_title: Advanced Engineering Maths
+short_title: Advanced Engineering Maths
+credits: 5
+level: Advanced
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Mathematics and Physics
+aim: To provide an introduction to the theory and techniques of partial differential
+  equations, integral transforms, and the methods needed to develop and implement
+  analytical and numerical solutions to problems arising in electronic engineering
+  applications.
+programmes:
+- timetable: ''
+  code: WD_EAUTO_B
+  name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
+  stage: 3
+  semester: 5
+  status: M
+- timetable: ''
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 3
+  semester: 5
+  status: M
+- timetable: MTHE-0032
+  code: WD_EONIC_B
+  name: Bachelor of Engineering (Honours) in Electronic Engineering
+  stage: 3
+  semester: 5
+  status: M
+- timetable: MTHE-0032
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours) in Electrical Engineering
+  stage: 3
+  semester: 5
+  status: M
+- timetable: MTHE-0032
+  code: WD_ETRIC_B
+  name: Bachelor of Engineering (Honours)
+  stage: 3
+  semester: 5
+  status: M
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 3
+  semester: 5
+  status: M
+- timetable: MTHE-0032
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 3
+  semester: 5
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Series solution to ordinary differential equations; special functions: Legendre,
+  Hermite, Bessel etc.; Sturm-Liouville problems: eigenvalue problems and expansions
+  in orthogonal functions (generalised Fourier analysis)'
+- 'Fourier Analysis: Fourier transform, DFT, FFT algorithm, convolution and correlation'
+- Discrete functions, linear and nonlinear difference equations, stability of solutions,
+  mapping from continuous to discrete systems,solution of linear equations using z-transforms
+- 'Partial Differential Equations: classification; wave, diffusion, Poissons and Maxwell''s
+  equations; canonical forms; separation of variables over rectangular, cylindrical
+  and spherical domains; transform methods'
+learning_outcomes:
+- Derive, interpret and apply properties of special functions.
+- Construct and interpret solutions of partial differential equations that arise in
+  engineering problems (see content).
+- Demonstrate knowledge of physical contexts in which various partial differential
+  equations arise and the types of boundary conditions needed for well-posedness.
+- Apply the theory covered in this module in terms of progressing from a physical
+  problem, to selecting and implementing an appropriate solution strategy, and ultimately
+  interpreting and representing the results.
+learning_and_teaching_methods:
+- Formal lectures will provide the theoretical base for the subject as well as covering
+  its practical application.
+- Tutorial examples, with subsequent discussion and explanation, together with feedback
+  from the in-class tests and suggested reading will support and direct the students
+  in their own personal study. Computer laboratory sessions will be used to demonstrate
+  implementations of methods and provide framework for feedback and assistance on
+  project work.
+- Tutorials will focus on solving problems by hand calculation and using Mathlab.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Seminar
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 15
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Practical
+  weighting: 15
+  due_weeks: []
+  comment: ''
+assessment_criteria: []
+essential_material: []
+supplementary_material:
+- '"Math Works." www.mathworks.com'
+- 'DuChateau, P. and D.G. Zachmann. _Applied Partial Differential Equations_. US:
+  Harper &Row, 2002.'
+- 'Greenberg, M. _Advanced Engineering Mathematics_. 2nd ed.. .: Prentice Hall, 1998.'
+- 'Mathews, J.H. _NUMERICAL METHODS: Using Matlab: (International Edition)_. 4th ed..
+  .: Pearson Education, 2004.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

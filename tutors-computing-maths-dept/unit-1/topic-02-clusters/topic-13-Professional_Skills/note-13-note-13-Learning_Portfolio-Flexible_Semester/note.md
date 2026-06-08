@@ -128,4 +128,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A15303 | Timetable Code: COMP-0662*
+*Module Code: A15303 | Timetable Code: COMP-0662 | Change Tracking: Enabled*

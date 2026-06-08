@@ -143,4 +143,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A36382 | Timetable Code: DISS-0096*
+*Module Code: A36382 | Timetable Code: DISS-0096 | Change Tracking: Enabled*

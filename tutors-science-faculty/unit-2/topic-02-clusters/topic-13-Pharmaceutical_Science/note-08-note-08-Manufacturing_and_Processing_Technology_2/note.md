@@ -152,4 +152,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07957 | Timetable Code: MANF-0004*
+*Module Code: A07957 | Timetable Code: MANF-0004 | Change Tracking: Enabled*

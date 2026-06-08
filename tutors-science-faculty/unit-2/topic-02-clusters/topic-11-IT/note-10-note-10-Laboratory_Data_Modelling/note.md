@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06220 | Timetable Code: SCIE-0038*
+*Module Code: A06220 | Timetable Code: SCIE-0038 | Change Tracking: Enabled*

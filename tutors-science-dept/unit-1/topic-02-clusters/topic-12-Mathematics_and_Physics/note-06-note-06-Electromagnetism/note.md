@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A29041 | Timetable Code: ELEC-0063*
+*Module Code: A29041 | Timetable Code: ELEC-0063 | Change Tracking: Enabled*

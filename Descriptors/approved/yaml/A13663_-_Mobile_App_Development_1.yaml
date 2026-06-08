@@ -1,0 +1,181 @@
+reference: A13663
+full_title: Mobile App Development 1
+short_title: Mobile App Development 1
+credits: 5
+level: Advanced
+author: EDELEASTAR
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Software and Web Development
+aim: Design, build and deploy a multi-screen mobile application incorporating an intuitive
+  and efficient navigation mechanism. Structure the implementation using accepted
+  best-practice with respect to patterns, frameworks and tools. Incorporate localised
+  persistence models + simple access to remote services. Introduce context services
+  such as location/camera and/or other sensor access.
+programmes:
+- timetable: COMP-0630
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0630
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0630
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0630
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0630
+  code: WD_KCOMC_D
+  name: Bachelor of Science in Software Systems Development
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0630
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0630
+  code: WD_KCOMP_D
+  name: BSc in Applied Computing
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0630
+  code: WD_KCRCO_B
+  name: BSc (Hons) in Creative Computing
+  stage: 4
+  semester: 8
+  status: M
+- timetable: COMP-0630
+  code: WD_KDEVP_B
+  name: BSc (Hons) in Software Systems Development
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0630
+  code: WD_KDEVP_BI
+  name: BSc (Hons) in Software Engineering
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0468
+  code: WD_KINFT_D
+  name: Bachelor of Science in Information Technology
+  stage: 2
+  semester: 4
+  status: M
+- timetable: COMP-0630
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 3
+  semester: 6
+  status: M
+- timetable: COMP-0630
+  code: WD_KMULM_B
+  name: Bachelor of Science (Honours) in Multimedia Applications Development
+  stage: 4
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Application Structure: Components; Resources; Security; General Assets'
+- 'User Experience: UX Principles, Navigation, Imagery, Fonts'
+- Simple User Interaction Patterns
+- 'Essential Application Structure Patterns: Appropriate Variations on Model/View/Controller
+  (MVVM, MVP etc\ldots)'
+- Resource access and management; Clean separation of concerns
+- 'Application Life-cycle: Startup/shutdown; Foreground/background'
+- UI State Preservation and Restoration; Concurrency
+learning_outcomes:
+- 'Decompose an application into its constituent parts, including but not limited
+  to: core application components, user experience resources, packaging.'
+- Design a coherent User Experience - using appropriate tools, practices and guidelines
+  - for a moderately sized application.
+- Produce medium sized application, based on a limited set of design patterns.
+- Manage the application lifecycle.
+- Structure persistent storage on a device and reliably save and restore application
+  state.
+learning_and_teaching_methods:
+- Lectures will introduce the general context of the curriculum, and explore specific
+  topics in depth.
+- Supervised, guided and scripted practicals will lead the student through the construction
+  of an application designed to illustrate key concepts covered in the lectures.
+- The focus is on learning by doing in a studio environment. Each practical will propose
+  a set of exercises -- to be solved in a subsequent practical.
+- Assignment One will focus ensuring the student can construct a new application equivalent
+  in style and structure to the guided practical.
+- Assessment Two will invite the student to analyse, design and implement a new application.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: 12
+- full_time: 24
+  name: Practical
+  part_time: 12
+- full_time: 87
+  name: Independent Learning
+  part_time: 111
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,5
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4,5
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to implement a basic application. Cannot grasp fundamentals of the
+  application lifecycle or operate an appropriate IDE (Integrated Development Environment).'
+- '40%-49%: Be able to implement at simple application, with 2-3 separate views/activities.'
+- '50%-59%: Understand the basic of the application lifecycle and operate an IDE at
+  a basic level. Ability to model and implement an application of moderate complexity
+  -- including > 3 views + a simple persistence mechanism.'
+- '60%-69%: Be able to use an IDE competently and degug applications. Be able to implement
+  a reasonably sophisticated application with multiple view / navigation mechanisms.
+  The application will have local persistent storage and be able to interact with
+  a remote service as a basic level (read only say).'
+- '70%-100%: All the above to an excellent level. Be able to build an application
+  that can access on device sensors / subsystems (e.g. location or camera).'
+essential_material:
+- '"Android Developer Resouces." http://developer.android.com'
+- '"Apple Developer Resources." http://developer.apple.com/ios'
+- '"Cordova Developer Resources." https://cordova.apache.org'
+supplementary_material:
+- 'Camden, R. _Apache Cordova in Action_. New York: Manning, 2015.'
+- 'Neuburg, M. _iOS 9 Programming Fundamentals with Swift: Swift, Xcode, and Cocoa
+  Basics_. New York: O''Rielly, 2015.'
+- 'Phillips, B. _Android Programming: The Big Nerd Ranch Guide_. New York: Pearson,
+  2015.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

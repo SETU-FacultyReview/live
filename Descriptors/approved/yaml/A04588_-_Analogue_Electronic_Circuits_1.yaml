@@ -1,0 +1,100 @@
+reference: A04588
+full_title: Analogue Electronic Circuits 1
+short_title: Analogue Electronic Circuits 1
+credits: 5
+level: Introductory
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Electronics
+aim: This module follows on from Analogue Electronic Devices and builds on concepts
+  introduced there. Equivalent circuit representations are used to help understanding
+  of device/circuit operation under d.c. and a.c. conditions. SCR based power control
+  circuits are developed. Operational amplifiers are introduced for linear circuit
+  applications and sine wave oscillation theory is developed.
+programmes:
+- timetable: ''
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ELTR-0013
+  code: WD_EONIC_B
+  name: Bachelor of Engineering (Honours) in Electronic Engineering
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Diode Circuit Design and Application
+- BJT Circuit Design and Application
+- BJT Circuit Models
+- FET Circuit Design and Application
+- FET Circuit Models
+- MOSFET Switching Circuits
+- Op-Amp Circuit Design and Application
+- SCR Circuit Design and Application
+- Sine Wave Oscillator Theory & Wien Bridge Circuits
+learning_outcomes:
+- Analyse typical diode circuits.
+- Demonstrate a core knowledge of BJT and FET based amplifiers and their d.c./a.c
+  equivalent circuits.
+- Differentiate between the ideal and non-ideal characteristics of operational amplifiers.
+- Develop fundamental linear operational amplifier circuit designs.
+- Analyse typical SCR based power control circuits.
+- Explain fundamental oscillator theory.
+- Perform practical tasks such as building, testing and documenting analogue circuits.
+learning_and_teaching_methods:
+- Lectures
+- Integrated Tutorials
+- Laboratory Work
+- Project Work
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5,6
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: '7'
+  main: false
+  name: Lab Report
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '7'
+  main: false
+  name: Project
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria: []
+essential_material:
+- 'Bogart, T., J.S. Beasley and G. Rico. _Electronic Devices and Circuits_. USA: Pearson,
+  2004.'
+- 'Malvino, A.P. and D. Bates. _Electronic Principles_. 8th ed. USA: McGraw Hill,
+  2015.'
+supplementary_material: []
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'ENGINEERING LAB: Electronics'
+mlo_to_po: ''
+track_changes: true
+
+
+

@@ -134,4 +134,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09766 | Timetable Code: GMPR-0002*
+*Module Code: A09766 | Timetable Code: GMPR-0002 | Change Tracking: Enabled*

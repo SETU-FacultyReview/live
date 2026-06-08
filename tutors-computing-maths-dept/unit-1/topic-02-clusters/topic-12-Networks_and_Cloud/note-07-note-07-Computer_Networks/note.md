@@ -151,4 +151,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11144 | Timetable Code: COMP-0637*
+*Module Code: A11144 | Timetable Code: COMP-0637 | Change Tracking: Enabled*

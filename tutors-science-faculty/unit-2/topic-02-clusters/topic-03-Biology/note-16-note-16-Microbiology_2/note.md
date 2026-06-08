@@ -144,4 +144,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A36021 | Timetable Code: SCIE-0045*
+*Module Code: A36021 | Timetable Code: SCIE-0045 | Change Tracking: Enabled*

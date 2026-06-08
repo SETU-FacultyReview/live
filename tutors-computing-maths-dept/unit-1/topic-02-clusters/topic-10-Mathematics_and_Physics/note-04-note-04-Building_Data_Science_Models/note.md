@@ -148,4 +148,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A33701 | Timetable Code: N/A*
+*Module Code: A33701 | Timetable Code: N/A | Change Tracking: Enabled*

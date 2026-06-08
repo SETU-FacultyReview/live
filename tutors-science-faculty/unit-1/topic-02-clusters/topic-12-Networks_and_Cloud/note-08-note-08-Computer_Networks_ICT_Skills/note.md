@@ -135,7 +135,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
+<<<<<<< HEAD
+| [WD_KCOSC_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-03-level_8/topic-11-WD_KCOSC_G) | 4 | 1 | Mandatory |
+=======
 | [WD_KCOSC_G](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | [Higher Diploma in Science in Computer Science](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KCOSC_G) | 4 | 1 | Mandatory |
+>>>>>>> main
 
 ---
 
@@ -145,4 +149,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13487 | Timetable Code: COMP-0519*
+*Module Code: A13487 | Timetable Code: COMP-0519 | Change Tracking: Enabled*

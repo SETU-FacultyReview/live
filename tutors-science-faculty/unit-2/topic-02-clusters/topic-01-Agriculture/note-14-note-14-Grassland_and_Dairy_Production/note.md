@@ -145,4 +145,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11414 | Timetable Code: AGRI-0092*
+*Module Code: A11414 | Timetable Code: AGRI-0092 | Change Tracking: Enabled*

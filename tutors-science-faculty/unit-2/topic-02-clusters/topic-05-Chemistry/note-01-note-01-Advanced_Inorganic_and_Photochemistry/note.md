@@ -150,4 +150,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07604 | Timetable Code: CHEM-0034*
+*Module Code: A07604 | Timetable Code: CHEM-0034 | Change Tracking: Enabled*

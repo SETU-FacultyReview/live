@@ -138,4 +138,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A34001 | Timetable Code: BUSS-0063*
+*Module Code: A34001 | Timetable Code: BUSS-0063 | Change Tracking: Enabled*

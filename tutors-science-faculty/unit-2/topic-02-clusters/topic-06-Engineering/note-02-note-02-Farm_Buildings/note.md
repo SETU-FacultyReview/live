@@ -138,4 +138,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14402 | Timetable Code: CONS-0016*
+*Module Code: A14402 | Timetable Code: CONS-0016 | Change Tracking: Enabled*

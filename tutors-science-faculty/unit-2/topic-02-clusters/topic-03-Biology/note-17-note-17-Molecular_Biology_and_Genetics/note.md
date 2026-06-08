@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11365 | Timetable Code: SCIE-0058*
+*Module Code: A11365 | Timetable Code: SCIE-0058 | Change Tracking: Enabled*

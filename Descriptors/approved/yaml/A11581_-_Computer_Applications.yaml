@@ -1,0 +1,96 @@
+reference: A11581
+full_title: Computer Applications
+short_title: Computer Applications
+credits: 5
+level: Introductory
+author: ADUNPHY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: IT
+aim: This key vocational skills module will enable the learner to use a personal computer,
+  and be effective and efficient in the use of standard office computer-based tools.
+  The student will able to create documents, spreadsheets and presentations for an
+  agricultural application.
+programmes:
+- timetable: COMP-0003
+  code: WD_SAGUL_D
+  name: Bachelor of Science in Agriculture
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Windows environment: Introduction to MS Office and file management'
+- 'Computer theory: history, hardware, software'
+- 'Word processing: document presentation, wizards & templates, creating columns,
+  proofreading and printing, headers & footers, tables, mail merge & labels'
+- 'Spreadsheets: introduction, uses & applications, editing & formatting & validating
+  worksheets, formulas & functions, graphs, lookup tables, printing and linking spreadsheets'
+- 'Databases: introduction to database features of Microsoft Excel, e.g. sorting,
+  filtering and validating data'
+- 'Introduction to the Internet: World Wide Web, browsers and electronic mail'
+- 'Introduction to presentations: creating a slide show, slide design, objects, clipart,
+  animations & transition, presentation techniques, importing digital images'
+learning_outcomes:
+- Use Microsoft Windows to manage and manipulate files, folders and print documents.
+- Construct attractive functional documents using a word processor.
+- Complete effective spreadsheets to analyse, calculate, evaluate and present data
+  for the agri-environment.
+- Plan and show how Microsoft PowerPoint can deliver an effective presentation on
+  an agricultural topic.
+- Explain the function of basic PC components.
+learning_and_teaching_methods:
+- Practical demonstrations.
+- Exercises.
+- Practice.
+learning_modes:
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Presentation
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 5,3
+  main: false
+  name: In-Class Assessment
+  weighting: 60
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Lacking in technical ability/skill and understanding to carry out practical
+  tasks.'
+- '40%-49%: Show some technical ability/skill in carrying out and practical tasks.'
+- '50%-59%: Logically and competently carry out practical tasks.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter.'
+- '70%-100%: Demonstrate imaginative approach, excellent technical ability, awareness
+  and aptitude in carrying out and reporting on practical tasks.'
+essential_material:
+- '"Moodle page for Computer Applications." moodle.wit.ie. https://moodle.wit.ie'
+supplementary_material:
+- '"ECDL." www.ecdl.org/index.jsp. https://www.ecdl.org'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

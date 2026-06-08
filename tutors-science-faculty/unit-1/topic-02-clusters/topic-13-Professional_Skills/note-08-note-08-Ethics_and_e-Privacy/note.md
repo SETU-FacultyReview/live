@@ -126,7 +126,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
+<<<<<<< HEAD
+| [WD_KISYP_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-02-WD_KISYP_R) | 1 | 0 | Elective |
+=======
 | [WD_KISYP_R](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | [Master of Science in Computing (Information Systems Processes)](/topic/setu-sci-faculty/unit-1/topic-01-programmes/unit-04-level_9/topic-04-WD_KISYP_R) | 1 | 0 | Elective |
+>>>>>>> main
 
 ---
 
@@ -136,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13662 | Timetable Code: ETHS-0001*
+*Module Code: A13662 | Timetable Code: ETHS-0001 | Change Tracking: Enabled*

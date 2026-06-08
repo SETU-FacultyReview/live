@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10841 | Timetable Code: MATH-0001*
+*Module Code: A10841 | Timetable Code: MATH-0001 | Change Tracking: Enabled*

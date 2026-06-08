@@ -1,0 +1,151 @@
+reference: A07262
+full_title: Sustainable and Renewable Energy
+short_title: Sustainable & Renewable Energy
+credits: 5
+level: Advanced
+author: TWOODCOCK
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Environmental Science
+aim: The module will provide students with an understanding of international and Irish
+  energy policy, the current status and future trends in Ireland's energy requirement,
+  and the roles of energy efficiency and renewable energy in securing energy supply.
+  The module will focus on illustrating opportunities for bioenergy as an alternative
+  farm or forest enterprise, and provide students with the skill set required to carry
+  out basic resource assessments. The module includes several field trips to both
+  small- and large-scale renewable energy projects (e.g. wind farm, AD plant etc.).
+programmes:
+- timetable: SUST-0002
+  code: WD_SAGRI_B
+  name: BSc (Hons) in Agricultural Science
+  stage: 4
+  semester: 8
+  status: E
+- timetable: SUST-0002
+  code: WD_SBSAG_B
+  name: Bachelor of Science (Honours) in Land Management (in Agriculture)
+  stage: 1
+  semester: 2
+  status: E
+- timetable: SUST-0002
+  code: WD_SBSFO_B
+  name: Bachelor of Science (Honours) in Land Management (in Forestry)
+  stage: 1
+  semester: 2
+  status: E
+- timetable: SUST-0002
+  code: WD_SBSHO_B
+  name: Bachelor of Science (Honours) in Land Management (in Horticulture)
+  stage: 1
+  semester: 2
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Basics of energy, forms, units, quantification, fuels, conversion and generation
+- Global, European & Irish energy supply and demand
+- Sustainable energy and the environment
+- International & Irish energy policies
+- Energy conservation
+- 'Renewable energy sources & technology: bioenergy, wind, solar, hydro, wave'
+- 'Bioenergy in Ireland: wood, energy crops, liquid biofuels and anaerobic digestion
+  case studies'
+- Resource assessment and supply chain development
+- Financial analysis of energy production from renewables
+learning_outcomes:
+- Appraise the physical and technological principles of energy generation, in particular
+  the range of bioenergy resources, conversion technologies and markets.
+- Assess the challenges involved in sustainable energy and the potential solutions
+  available through conservation, efficiency and renewables.
+- Solve basic problems relating to fuel and energy quantification, conversion and
+  financial analysis.
+- Compare the available bioenergy pathways and comment on their relative technical
+  and financial importance in an Irish context.
+- Compare Irish energy policy with that of other countries (EU & non-EU countries),
+  and recommend areas of improvement in Irish policy.
+learning_and_teaching_methods:
+- 'Lectures: will introduce basic energy principles, the technologies and energy supply
+  systems available and provide a basis for the case study and elective project element
+  of the module.'
+- 'Fieldtrips: will provide examples of best operating practice in the areas of energy
+  conservation, wind and biomass energy implementation. Case studies, based on these
+  field trips will guide the student in identifying critical parameters in developing
+  successful implementation of sustainable energy.'
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Field Trips
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,5
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4
+  main: false
+  name: Project
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 3,4
+  main: false
+  name: Presentation
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
+  technical ability/skill and understanding to carry out practical/professional tasks.
+  Failure to meet the objectives of projects. Unable to carry out or submit independent
+  study and research.'
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Show some technical
+  ability/skill in carrying out and reporting on practical/professional tasks. Attempt
+  made to meet objectives and carry out independent study and research. Final result
+  lacks balance and arguments undeveloped.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
+  subject. Logically and competently carry out practical/professional tasks. Satisfactory
+  handling and awareness in carrying out independent study and research. Reporting
+  and projects adequately structured and referenced.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter. Show ability to analyse
+  and logically argue in an effective and mature style. Demonstrate initiative and
+  the ability to criticise methods used and appreciation of experimental design when
+  carrying out practical/professional tasks. Projects and reporting coherent and soundly
+  structured illustrating wide and in depth reading on subject coupled with the proper
+  use of references.'
+- '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
+  and extensive understanding of the subject. Provide well focused analysis and convincing
+  argument on the subject. Demonstrate imaginative approach, excellent technical ability,
+  awareness, and aptitude in carrying out and reporting on practical/professional
+  tasks. Show initiative, individual thought, and enthusiasm in self study and independent
+  learning.'
+essential_material:
+- '"COFORD Wood Energy Website." www.woodenergy.ie. http://www.woodenergy.ie/'
+- '"IEA Bioenergy." www.ieabioenergy.com. http://www.ieabioenergy.com/'
+- '"Sustainable Energy Ireland." www.seai.ie. http://www.seai.ie/'
+- 'Assmann, D., U. Laumanns and D. Uh. _Renewable Energy: A Global Review of Technologies,
+  Policies and Markets_. London, UK: Earthscan, 2012.'
+- 'Bechberger, M., D.T. Reiche and P. Lang. _Handbook of Renewable Energies in the
+  European Union_. Dublin, Ireland: Earth Horizon Productions, 2005.'
+- SEAI. _Renewable Energy in Ireland 2012 February (2014 Report)_ by Howley, M., M.
+  Holland and K. O'Rourke.. Dublin. 2012.
+supplementary_material:
+- '"European Forum for Renewable Energy Resources." www.eufores.org. http://www.eufores.org/'
+- '"Irish Bioenergy Association." www.irbea.ie. http://www.irbea.ie/'
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

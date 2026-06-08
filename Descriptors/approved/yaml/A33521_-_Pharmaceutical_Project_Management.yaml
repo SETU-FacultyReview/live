@@ -1,0 +1,99 @@
+reference: A33521
+full_title: Pharmaceutical Project Management
+short_title: Pharmaceutical P M
+credits: 10
+level: Advanced
+author: UMCCARTHY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Placement and Projects
+aim: This module aims to provide the learner with the ability to develop an understanding
+  of project management and its application. It aims to demonstrate the importance
+  of the planning process in ensuring project success, to provide the student with
+  the ability to define and build project plans, to estimate project durations using
+  appropriate software tools, and to apply appropriate tools and techniques to control
+  and monitor project schedules.
+programmes:
+- timetable: PHAR-0021
+  code: WD_SGMPT_B
+  name: BSc (Hons) in Good Manufacturing Practice and Technology
+  stage: 4
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Introduction to project management
+- Project life cycle
+- 'Project design and planning: work breakdown structure, critical path network, project
+  risk management, project change management, project quality control'
+- 'Project execution: reporting, documentations required and communication etc.'
+- 'Project cost measurement and management: the concept of earned value'
+- 'Managing a project team: leadership, resource allocation, HR implications, the
+  role of the project manager'
+- Using project management tools and techniques
+learning_outcomes:
+- Evaluate the application of the principles of project management.
+- Design, build and troubleshoot project management plans.
+- Estimate project durations and Create, control, monitor project schedule using appropriate
+  software tools (Software and non software).
+- Estimate project costs, report on earned value, analyse cost variances and produce
+  estimates at completion.
+- Evaluate the project group aspects of project management - organisation, roles,
+  attributes of the project manager, the role of sponsor etc.
+learning_and_teaching_methods:
+- Class lectures
+- Online lectures
+- Case studies
+- Class discussions and presentations
+- Assigned self-learning
+learning_modes:
+- full_time: ''
+  name: Lecture
+  part_time: 24
+- full_time: ''
+  name: Lab
+  part_time: 12
+- full_time: ''
+  name: Independent Learning
+  part_time: 234
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Case Studies
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,5
+  main: false
+  name: Project
+  weighting: 50
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Very limited knowledge and understanding of the subject matter.'
+- '40%-49%: Will be able to show a good knowledge of the key learning outcomes including
+  how to develop their competencies as a professional.'
+- '50%-59%: As well as the above the student will be able to demonstrate a good understanding
+  of the key learning outcomes as well as be able to exercise judgement'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of all
+  the topics and be able to employ reflective thought as well as decision making and
+  problem solving'
+- '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
+  of all learning outcomes and be able to recognise the inter-relationship between
+  their role as a business professional and the effective operation of the organisation.'
+essential_material:
+- "xx, xx. _A Guide to the Project Management Body of Knowledge (PMBOK\xAE )_. 7th.\
+  \ xx: xx, 2021."
+supplementary_material: []
+requested_resources: []
+mlo_to_po: ''
+track_changes: true
+
+
+

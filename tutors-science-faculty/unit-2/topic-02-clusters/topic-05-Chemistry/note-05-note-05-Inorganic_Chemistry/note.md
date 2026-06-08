@@ -153,4 +153,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07821 | Timetable Code: CHEM-0028*
+*Module Code: A07821 | Timetable Code: CHEM-0028 | Change Tracking: Enabled*

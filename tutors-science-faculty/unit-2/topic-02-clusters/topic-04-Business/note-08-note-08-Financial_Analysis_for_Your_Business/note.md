@@ -138,4 +138,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A33881 | Timetable Code: FINA-0112*
+*Module Code: A33881 | Timetable Code: FINA-0112 | Change Tracking: Enabled*

@@ -133,4 +133,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A19804 | Timetable Code: COMP-0664*
+*Module Code: A19804 | Timetable Code: COMP-0664 | Change Tracking: Enabled*

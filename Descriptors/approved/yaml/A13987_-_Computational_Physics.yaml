@@ -1,0 +1,118 @@
+reference: A13987
+full_title: Computational Physics
+short_title: Computational Physics
+credits: 5
+level: Advanced
+author: KMURPHY
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: The aim of this module is to highlight the computational approach to solving
+  physics problems. The concepts and techniques covered in this module will be applicable
+  in projects or problem-solving work that contain a strong computational or data
+  analysis element. The module is designed such that a significant fraction of the
+  student's time is spent programming/solving specific physical problems, rather than
+  learning abstract techniques.
+programmes:
+- timetable: PHYI-0038
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 4
+  semester: 7
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Introduction to scientific programming: symbolic versus numeric computation, floating
+  point numbers and error analysis, machine precision, general classification of computational
+  problems'
+- 'Overview of computational problems: integration and differentiation, interpolation
+  and extrapolation, ordinary differential equations, partial differential equations,
+  matrix methods, curve fitting, Monte Carlo other simulation methods'
+- 'Scientific programming tools: Python (or an equivalent language, such as Julia,
+  Java or MATLAB/Octave), LaTeX, Markdown, etc.'
+learning_outcomes:
+- Discriminate between and apply essential methods and techniques (error analysis,
+  problem classification) for symbolic/numerical computation in physics.
+- Design and implement simulation methods, such as Monte Carlo, to solve deterministic
+  as well as probabilistic physical problems.
+- Evaluate given computational physics problems and design a suitable implementation
+  with appropriate error analysis.
+- Select and use appropriate computational software tools to obtain/collate scientific
+  data, perform analysis and generate reports.
+learning_and_teaching_methods:
+- The module is covered through a series of practical problem solving sessions and
+  directed independent learning.
+- Due to the very practical nature of the skills to be acquired in this module, these
+  practical sessions will be centred around the idea of learning by doing, whereby
+  students develop proficiency in the specified skill set through guided activities,
+  and whereby lecturers provide short formal presentations of relevant concepts and
+  technologies, as well as practical tips, feedback, and advice on best practices.
+- Active engagement with frequent practice on examples is strongly encouraged through
+  regular course work consisting of a mixture of practical activities graded from
+  guided to self-directed tasks.
+learning_modes:
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,4
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,3,4
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Demonstrate little or no evidence of understanding of the concepts outlined
+  in the syllabus content and the skills required for attaining the module learning
+  outcomes. Show very little or no ability to apply knowledge to solve problems. Organisation
+  and presentational skills are minimally effective or ineffective.'
+- '40%-49%: Demonstrate partial but limited command of knowledge and skills required
+  for attaining some of the module learning outcomes. Able to implement a rudimentary
+  solution to the given computational problems.'
+- '50%-59%: Demonstrate general but incomplete command of knowledge and skills required
+  for attaining most of the module learning outcomes. Shows evidence of some analytical
+  and critical abilities, and ability to apply knowledge to most familiar computational
+  problems.'
+- '60%-69%: Demonstrate substantial command of a broad range of knowledge and skills
+  required for attaining at least most of the module learning outcomes. Show evidence
+  of analytical and critical abilities, and ability to apply knowledge to familiar
+  and some unfamiliar computational problems. Correct use of data/results to draw
+  appropriate conclusions.'
+- '70%-100%: Demonstrate command at an advanced level of the knowledge and skills
+  required for attaining all the course learning outcomes. Show strong analytical
+  and critical abilities, with evidence of original thought, and ability to apply
+  knowledge to a wide range of complex, familiar and unfamiliar computational problems.
+  Critical use of data and results to draw appropriate and insightful conclusions.'
+essential_material: []
+supplementary_material:
+- 'Landau, R. _Computational Physics: Problem Solving with Python_. NY: Wiley, 2015.'
+- 'Newman, M. _Computational Physics with Python_. USA: CreateSpace Independent Publishing
+  Platform, 2012.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

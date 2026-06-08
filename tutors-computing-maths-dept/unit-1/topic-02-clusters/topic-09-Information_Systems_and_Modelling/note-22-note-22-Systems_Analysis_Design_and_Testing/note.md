@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13443 | Timetable Code: SYST-0023*
+*Module Code: A13443 | Timetable Code: SYST-0023 | Change Tracking: Enabled*

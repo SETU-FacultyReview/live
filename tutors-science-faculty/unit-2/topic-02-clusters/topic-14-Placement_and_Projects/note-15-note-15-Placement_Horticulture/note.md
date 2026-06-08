@@ -128,4 +128,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11526 | Timetable Code: PLAC-0150*
+*Module Code: A11526 | Timetable Code: PLAC-0150 | Change Tracking: Enabled*

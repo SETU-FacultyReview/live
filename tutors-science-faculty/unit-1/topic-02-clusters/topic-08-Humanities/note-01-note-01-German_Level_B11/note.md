@@ -150,4 +150,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: M01116 | Timetable Code: GERM-0024*
+*Module Code: M01116 | Timetable Code: GERM-0024 | Change Tracking: Enabled*

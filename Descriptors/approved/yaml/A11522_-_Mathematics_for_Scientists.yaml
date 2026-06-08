@@ -1,0 +1,164 @@
+reference: A11522
+full_title: Mathematics for Scientists
+short_title: Mathematics for Scientists
+credits: 5
+level: Introductory
+author: AVEREKER
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: This module will explore the basics of differentiation, concentrating on rates
+  of change and optimisation. It will also introduce the student to the idea of areas
+  of irregular shapes and how integration can be used to calculate these. There is
+  an emphasis throughout this module on the role of calculus in the sciences, including
+  real world applications.
+programmes:
+- timetable: MTHS-0002
+  code: WD_KPHTE_B
+  name: BSc (Hons) in Physics for Modern Technology
+  stage: 1
+  semester: 2
+  status: M
+- timetable: MTHS-0002
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 1
+  semester: 2
+  status: M
+- timetable: MTHS-0002
+  code: WD_SFDSC_D
+  name: Bachelor of Science in Food Science with Business
+  stage: 1
+  semester: 2
+  status: M
+- timetable: MTHS-0002
+  code: WD_SFSIN_B
+  name: BSc (Hons) in Food Science and Innovation
+  stage: 1
+  semester: 2
+  status: M
+- timetable: MTHS-0002
+  code: WD_SMBIO_B
+  name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
+    Science
+  stage: 1
+  semester: 2
+  status: M
+- timetable: MTHS-0002
+  code: WD_SMBIO_D
+  name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
+  stage: 1
+  semester: 2
+  status: M
+- timetable: MTHS-0002
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 1
+  semester: 2
+  status: M
+- timetable: MTHS-0002
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 1
+  semester: 2
+  status: M
+- timetable: MTHS-0002
+  code: WD_SSCCM_B
+  name: BSc (Hons) in Science (Common Entry)
+  stage: 1
+  semester: 2
+  status: M
+- timetable: MTHS-0002
+  code: WD_SSCIE_D
+  name: Bachelor of Science (Common Entry)
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Introduction to differentiation: finding the limits and slopes of polynomial, rational,
+  exponential, logarithmic and trigonometric functions through the use of first principles'
+- 'Differentiation: using appropriate methods of differentiation to find the first
+  derivative and second derivative of a range of functions'
+- 'Applications of differentiation: rates of change; critical points and optimisation'
+- 'Introduction to integration: anti-derivatives; area under a curve; area between
+  two curves; trapezoidal rule; methods of integration'
+- 'Applications of integration: calculate the total and average values of various
+  functions over a specific range of values and introduce differential equations'
+learning_outcomes:
+- Use appropriate differentiation methods to differentiate linear, polynomial, rational,
+  exponential and trigonometric functions.
+- Use differentiation to solve elementary optimisation problems.
+- Use appropriate integration methods to integrate linear, polynomial, rational, exponential
+  and trigonometric functions.
+- Calculate irregular areas using integration techniques.
+- Calculate irregular areas using numerical methods.
+- Apply differentiation and integration to solve mathematical problems.
+- Interpret results obtained from problems of an applied nature in the science environment.
+learning_and_teaching_methods:
+- Lectures.
+- Online exercises.
+- Use of technology to enhance the learning experience.
+- Self-directed learning is emphasised. Students are supported with notes, online
+  material and feedback.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 5,6,7
+  main: true
+  name: Final Written Examination
+  weighting: 70
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 30
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Tutorial/Problem Sheets
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to identify and describe key concepts of calculus.'
+- '40%-49%: Ability to identify and describe key concepts of calculus.'
+- '50%-59%: Ability to discuss key concepts of calculus clearly and interpret their
+  relative importance.'
+- '60%-69%: Ability to apply solutions to problems in a range of relevant contexts
+  by using differentiation and integration. Ability to employ a comprehensive range
+  of specialised calculus skills.'
+- '70%-100%: All the above to an excellent level, with the ability to analyse and
+  design solutions to a high standard for a range of complex or unseen problems using
+  calculus.'
+essential_material:
+- 'Croft, A. and R. Davison. _Foundation Maths_. 5th ed. England: Pearson, 2010.'
+supplementary_material:
+- 'Bird , J.O. and A.J.C. May. _Technician Mathematics 1_. 3rd ed. Malaysia: Longman,
+  1994.'
+- 'Bird, J.O. and A.J.C. May. _Technician Mathematics 2_. 3rd ed. Malaysia: Longman,
+  1994.'
+- 'Bird, J.O. and A.J.C. May. _Technician Mathematics 3_. 3rd ed. Malaysia: Longman,
+  1994.'
+- 'Thomas, G.B. and Finney. _Calculus_. 8th Edition. New Jersey: Addison Wesley, 1992.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

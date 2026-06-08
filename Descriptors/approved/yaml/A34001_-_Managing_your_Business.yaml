@@ -1,0 +1,93 @@
+reference: A34001
+full_title: Managing your Business
+short_title: Managing your Business
+credits: 5
+level: Intermediate
+author: MWAGENAAR
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Business
+aim: This module will provide students with knowledge and practical skills to prepare
+  a business plan, distinguish between forms of business ownership, and use financial
+  information for managing working capital, budgeting and decision making (cost-volume-profit,
+  pricing decisions, sourcing finance) in a small business context.
+programmes:
+- timetable: BUSS-0063
+  code: WD_SHORT_D
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 3
+  status: M
+- timetable: BUSS-0063
+  code: WD_SHORT_DX
+  name: Bachelor of Science in Horticulture
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Business plans: purpose of business plan, difference between business plan and
+  feasibility study, business plan tests, structure and content'
+- 'Forms of business ownership: sole trader, partnership, company'
+- 'Working capital: management of the elements of working capital in a small business
+  (inventory, receivables, payables, cash)'
+- 'Budgeting: budget process, conflicting roles of budgeting, preparation and monitoring
+  of cash budgets'
+- 'Decision making: cost-volume-profit (single and multi-product break-even, target
+  profit, margin of safety)'
+- 'Decision making: pricing (price taker/setter, pricing policies)'
+- 'Decision making: sourcing finance (sources, factors influencing types and sources
+  of finance)'
+learning_outcomes:
+- Differentiate the required elements of a business plan.
+- Distinguish between forms of business ownership.
+- Manage the elements of the working capital in a small business.
+- Employ the budgetary process and prepare and monitor a cash budget in a small business.
+- Use cost-volume-profit analysis, evaluate pricing options and determine appropriate
+  sources of finance for a small business.
+learning_and_teaching_methods:
+- Lectures.
+- Class and group discussions.
+- Pre-lecture preparation of readings and exercises for in-class participation.
+- Self-study of assigned readings, exercises and texts.
+learning_modes:
+- full_time: 48
+  name: Lecture
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Written Examination
+  weighting: 100
+assessment_criteria:
+- '<40%: Very little knowledge and understanding of the subject matter. Unable to
+  carry out critical thinking or practical skills.'
+- '40%-49%: Demonstrates a limited knowledge of the subject matter. May have some
+  problems with critical thinking and problem solving. Adequate practical skills.'
+- '50%-59%: Demonstrates satisfactory general knowledge of the main issues within
+  the subject. Good practical skills.'
+- '60%-69%: Demonstrates skilled and sound knowledge of the subject matter. Shows
+  ability to analyse and logically discuss in an effective way. Good critical thinking
+  and a high level of competence and efficiency in theoretical and practical areas
+  of this subject.'
+- '70%-100%: All of the above to an excellent level. Demonstrates authoritative handling
+  of complex material and a highly developed and extensive understanding of the subject.'
+essential_material:
+- 'Atrill, P. and E. McLaney. _Accounting and Finance for Non-Specialists_. Latest
+  Edition. Harlow: Pearson Education, Latest.'
+supplementary_material:
+- 'Scarborough, N.M. and J.R. Cornwall. _Essentials of Entrepreneurship and Small
+  Business Management_. Latest Edition. Harlow: Pearson Education, Latest.'
+requested_resources:
+- 'Lecture Room: Loose Seated'
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

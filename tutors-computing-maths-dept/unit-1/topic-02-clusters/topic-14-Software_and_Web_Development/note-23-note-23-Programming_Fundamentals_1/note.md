@@ -163,4 +163,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06609 | Timetable Code: COMP-0008*
+*Module Code: A06609 | Timetable Code: COMP-0008 | Change Tracking: Enabled*

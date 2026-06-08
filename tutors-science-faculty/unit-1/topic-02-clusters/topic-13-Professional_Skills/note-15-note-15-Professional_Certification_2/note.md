@@ -131,4 +131,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A19802 | Timetable Code: PROF-0049*
+*Module Code: A19802 | Timetable Code: PROF-0049 | Change Tracking: Enabled*

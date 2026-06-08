@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14065 | Timetable Code: COMP-0532*
+*Module Code: A14065 | Timetable Code: COMP-0532 | Change Tracking: Enabled*

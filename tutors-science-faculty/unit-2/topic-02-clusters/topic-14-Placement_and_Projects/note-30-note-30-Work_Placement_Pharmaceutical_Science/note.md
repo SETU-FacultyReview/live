@@ -130,4 +130,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A26641 | Timetable Code: PLAC-0173*
+*Module Code: A26641 | Timetable Code: PLAC-0173 | Change Tracking: Enabled*

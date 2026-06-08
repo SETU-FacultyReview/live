@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A32003 | Timetable Code: MARK-0192*
+*Module Code: A32003 | Timetable Code: MARK-0192 | Change Tracking: Enabled*

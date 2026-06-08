@@ -1,0 +1,138 @@
+reference: A13123
+full_title: Organic Chemistry and Biomolecules
+short_title: Organic Chem & Biomolecules
+credits: 5
+level: Introductory
+author: EMCNEELA
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Chemistry
+aim: This module covers the main categories of organic compounds and important classes
+  of biological molecules. Characterisation of synthetic organic molecules and analysis
+  of biomolecules, including structure, nomenclature and stereochemistry, is examined.
+  The laboratory element will include the techniques of synthesis, purification and
+  characterisation.
+programmes:
+- timetable: CHEM-0006
+  code: WD_SMBIO_B
+  name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
+    Science
+  stage: 2
+  semester: 3
+  status: M
+- timetable: CHEM-0006
+  code: WD_SMBIO_D
+  name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
+  stage: 2
+  semester: 3
+  status: M
+- timetable: CHEM-0006
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 2
+  semester: 3
+  status: M
+- timetable: CHEM-0006
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Stereochemistry, stereoisomerism and the nomenclature of stereoisomers
+- 'Structure, properties and stereochemistry of biomolecules: carbohydrates, lipids,
+  proteins'
+- An introduction to metabolism of important biomolecules within the body
+- Important chemical and biochemical reactions, including substitution, elimination,
+  oxidation and reduction
+- Techniques for the purification of organic compounds
+- Determination of product purity and identification using melting points, chromatography
+  and spectroscopy
+- Basic synthetic techniques and functional group tests
+- Analysis and characterisation of biomolecules
+learning_outcomes:
+- Identify the stereochemical characteristics of organic molecules.
+- Describe the chemical reactions and physical properties of a range of organic compounds,
+  classified according to their reaction type.
+- Sketch the structures of important biomolecules and recognize key functional groups
+  within these molecules.
+- Compare and contrast fundamental properties of a range of biomolecules.
+- Apply the correct procedures for synthesis, purification and characterization of
+  organic molecules.
+- Demonstrate adherence to safe laboratory procedures, including the correct disposal
+  of laboratory waste.
+learning_and_teaching_methods:
+- Lectures.
+- Tutorials.
+- Laboratory-based practicals.
+- Self-directed study.
+- Video tutorials and online animations.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 5,6
+  main: false
+  name: Practical
+  weighting: 50
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Tutorial/Problem Sheets
+  weighting: 20
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: No understanding of the basic principles of organic chemistry and biomolecules.
+  Inability to carry out associated laboratory work to a satisfactory standard.'
+- '40%-49%: Will be able to show a basic knowledge of organic chemistry and biomolecules.
+  Demonstrate the ability to carry out associated practical work to a fair standard.'
+- '50%-59%: As well as the above, the student will be able to demonstrate an understanding
+  of some of the complexities of organic chemistry and biomolecules and predict some
+  trends in reactivity and behaviour. In addition, the learner will show a consistently
+  good ability in associated practical work.'
+- '60%-69%: In addition, the student will demonstrate more detailed knowledge of organic
+  chemistry and biomolecules and demonstrate an ability to evaluate detailed knowledge
+  acquired in the module to new material. Will demonstrate very good ability in most
+  laboratory experiments.'
+- '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
+  of organic chemistry and biomolecules, predict general trends in behaviour, including
+  exceptional behaviour and show the ability to evaluate and relate topics. Will demonstrate
+  excellent laboratory skills and a consistently high ability in the analysis of results.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the theory and practical components of the module. In cases where continuous assessment
+  has a practical component attendance of at least 75% in the practicals is mandatory.
+essential_material:
+- '"Biochemistry Free and Easy." http://biochem.science.oregonstate.edu/content/biochemistry-free-and-easy'
+- 'Bruice, P.Y. _Organic Chemistry_ . 5th Edition. USA: Pearson Education, 2007.'
+- 'Voet, D. _Fundamentals of Biochemistry_. Hoboken, N.J.: Wiley, 2006.'
+supplementary_material:
+- 'McMurray, J.E. _Organic Chemistry_. 6th Edition. California: Brooks Cole, 2003.'
+requested_resources:
+- 'Room Type: Chemistry Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

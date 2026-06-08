@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A20201 | Timetable Code: SCIE-0062*
+*Module Code: A20201 | Timetable Code: SCIE-0062 | Change Tracking: Enabled*

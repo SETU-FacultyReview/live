@@ -138,4 +138,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A04921 | Timetable Code: COMP-0375*
+*Module Code: A04921 | Timetable Code: COMP-0375 | Change Tracking: Enabled*

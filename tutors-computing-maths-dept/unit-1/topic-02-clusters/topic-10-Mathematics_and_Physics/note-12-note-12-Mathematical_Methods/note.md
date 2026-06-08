@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10873 | Timetable Code: MTHS-0039*
+*Module Code: A10873 | Timetable Code: MTHS-0039 | Change Tracking: Enabled*

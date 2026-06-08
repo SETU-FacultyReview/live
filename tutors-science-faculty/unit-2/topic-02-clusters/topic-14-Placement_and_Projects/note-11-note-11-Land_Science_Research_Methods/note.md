@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A10466 | Timetable Code: SCIE-0068*
+*Module Code: A10466 | Timetable Code: SCIE-0068 | Change Tracking: Enabled*

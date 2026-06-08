@@ -149,4 +149,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A13267 | Timetable Code: COMS-0012*
+*Module Code: A13267 | Timetable Code: COMS-0012 | Change Tracking: Enabled*

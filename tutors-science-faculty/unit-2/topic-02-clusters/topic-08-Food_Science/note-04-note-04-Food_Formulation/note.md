@@ -146,4 +146,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A06335 | Timetable Code: FOOD-0021*
+*Module Code: A06335 | Timetable Code: FOOD-0021 | Change Tracking: Enabled*

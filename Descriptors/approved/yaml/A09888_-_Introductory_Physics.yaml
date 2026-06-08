@@ -1,0 +1,181 @@
+reference: A09888
+full_title: Introductory Physics
+short_title: Introductory Physics
+credits: 5
+level: Introductory
+author: CWALSH
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Mathematics and Physics
+aim: This module introduces the student to the fundamental principles of classical
+  mechanics, properties of matter and wave motion. The module contains a practical
+  component where the student can develop measurement, logical thinking, analysis
+  and report-writing skills.
+programmes:
+- timetable: PHYI-0001
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PHYI-0001
+  code: WD_SAGRI_B
+  name: Bachelor of Science (Honours) in Agricultural Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PHYI-0001
+  code: WD_SFDSC_D
+  name: Bachelor of Science in Food Science with Business
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PHYI-0001
+  code: WD_SFSIN_B
+  name: BSc (Hons) in Food Science and Innovation
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PHYI-0001
+  code: WD_SMBIO_B
+  name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
+    Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PHYI-0001
+  code: WD_SMBIO_D
+  name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PHYI-0001
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PHYI-0001
+  code: WD_SPHSC_D
+  name: Bachelor of Science in Pharmaceutical Science
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PHYI-0001
+  code: WD_SSCCM_B
+  name: BSc (Hons) in Science (Common Entry)
+  stage: 1
+  semester: 1
+  status: M
+- timetable: PHYI-0001
+  code: WD_SSCIE_D
+  name: Bachelor of Science (Common Entry)
+  stage: 1
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Introduction to physics: SI units, prefixes, scientific notation; measurement;
+  vectors and scalars'
+- 'Mechanics: motion in one dimension, Newton''s laws of motion; work, energy and
+  power; uniform circular motion; conservation laws - mechanical energy, total energy
+  and momentum'
+- 'Properties of matter: properties & structure of matter; pressure, elasticity, viscosity
+  and surface tension'
+- 'Waves and sound: wave motion and vibrations, wave classification and properties;
+  sound waves, the characteristics of sound and the Doppler effect'
+learning_outcomes:
+- Describe and explain the fundamental principles of classical mechanics.
+- Describe and explain the fundamental principles of the properties of matter.
+- Describe and explain the fundamental principles of vibrations and wave motion.
+- Complete experiments, record and analyse experimental data and present results in
+  the form of a report.
+- Apply problem-solving skills to generate solutions to problems in mechanics, properties
+  of matter and wave motion.
+learning_and_teaching_methods:
+- Lectures. The lectures will be used to present new topics and their related concepts.
+  Problem solving techniques will also be used in class to analyse physical situations
+  and find numerical solutions.
+- Tutorials. On-line tutorials linked to core text.
+- Laboratory-based practicals. Integrated practical programme designed to run in parallel
+  with lectures and allow the student to develop a range of experimental skills. The
+  importance of planning of experiments, data acquisition, and analysis will be emphasised.
+- Self-directed study.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 8
+  name: Tutorial
+  part_time: ''
+- full_time: 16
+  name: Practical
+  part_time: ''
+- full_time: 75
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,5
+  main: true
+  name: Final Written Examination
+  weighting: 40
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 60
+- learning_outcomes: '5'
+  main: false
+  name: Tutorial/Problem Sheets
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '4'
+  main: false
+  name: Practical
+  weighting: 40
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to demonstrate a basic understanding of the fundamental concepts
+  of classical mechanics, properties of matter and wave motion. Unable to carry out
+  practical skills in the physics laboratory.'
+- '40%-49%: Ability to demonstrate a basic understanding of the fundamental concepts
+  of classical mechanics, properties of matter and wave motion. Ability to provide
+  partial solutions to numerical problems. Has a basic level of competency and skills
+  in the physics laboratory.'
+- '50%-59%: Ability to clearly describe and define concepts encountered in classical
+  mechanics, properties of matter and wave motion. Ability to analyse physical situations
+  and apply suitable problem-solving techniques to find numerical solutions. Good
+  practical skills in the physics laboratory.'
+- '60%-69%: In addition to the above, demonstrates a very good understanding of classical
+  mechanics, properties of matter and wave motion, as well as the ability to apply
+  problem-solving techniques to new similar problems. Has a high level of practical
+  skills in the physics laboratory. Good clear reporting of practical work.'
+- '70%-100%: All the above to an excellent level. Demonstrates an ability to put a
+  numerical solution into a context and assess whether such solutions are meaningful.
+  Has a very high level of practical skills and efficiency in the physics laboratory.
+  Can critically assess experiments undertaken.'
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
+essential_material:
+- 'Giancoli, D. _Physics:Principles__with Applications, Global edition_. 7th ed. New
+  Jersey: Pearson, 2015.'
+supplementary_material:
+- 'Cutnell, J. and K. Johnson. _Physics_. 9th ed. United States of America: Wiley,
+  2012.'
+- 'Halliday, D., R. Resnick and J. Walker. _Fundamen__tals of Physics Extended_. 10th
+  ed. United States of America: Wiley, 2013.'
+- 'Knight, R., B. Jones and S. Field. _College Physics: A Strategic Approach Technology
+  Update_. 3rd ed. United States of America: Pearson, 2015.'
+- 'Walker, J. _Physics Technology Update_. 4th ed. New Jersey: Pearson, 2014.'
+requested_resources:
+- 'SCIENCE LAB: Physics'
+mlo_to_po: ''
+track_changes: true
+
+
+

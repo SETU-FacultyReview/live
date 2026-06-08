@@ -136,4 +136,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07802 | Timetable Code: MGTS-0023*
+*Module Code: A07802 | Timetable Code: MGTS-0023 | Change Tracking: Enabled*

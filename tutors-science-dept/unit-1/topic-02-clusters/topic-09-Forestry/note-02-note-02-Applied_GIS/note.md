@@ -141,4 +141,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07605 | Timetable Code: GISS-0001*
+*Module Code: A07605 | Timetable Code: GISS-0001 | Change Tracking: Enabled*

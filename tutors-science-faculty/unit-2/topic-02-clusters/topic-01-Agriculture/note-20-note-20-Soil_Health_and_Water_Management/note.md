@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A32361 | Timetable Code: SCIE-0080*
+*Module Code: A32361 | Timetable Code: SCIE-0080 | Change Tracking: Enabled*

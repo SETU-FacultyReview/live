@@ -160,4 +160,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A03902 | Timetable Code: COMP-0378*
+*Module Code: A03902 | Timetable Code: COMP-0378 | Change Tracking: Enabled*

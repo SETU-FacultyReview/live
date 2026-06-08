@@ -143,4 +143,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11409 | Timetable Code: MGTH-0026*
+*Module Code: A11409 | Timetable Code: MGTH-0026 | Change Tracking: Enabled*

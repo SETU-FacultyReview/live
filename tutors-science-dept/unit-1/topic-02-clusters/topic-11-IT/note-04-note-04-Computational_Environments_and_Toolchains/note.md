@@ -137,4 +137,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A02381 | Timetable Code: COMP-0580*
+*Module Code: A02381 | Timetable Code: COMP-0580 | Change Tracking: Enabled*

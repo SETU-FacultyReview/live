@@ -155,4 +155,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07601 | Timetable Code: SCIE-0026*
+*Module Code: A07601 | Timetable Code: SCIE-0026 | Change Tracking: Enabled*

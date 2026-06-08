@@ -1,0 +1,121 @@
+reference: A11846
+full_title: Digital Signal Processing Theory
+short_title: DSP Theory
+credits: 5
+level: Advanced
+author: CLAIRE.FITZPATRICK
+history_comment: ''
+school: Science and Computing
+department: Engineering Technology
+cluster: Electronics
+aim: Digital Signal Processing (DSP) techniques play a major role in many technological
+  areas. DSP is a mathematical subject which is concerned with the representation
+  and transformation of discrete-time signals using digital computation. The module
+  focuses on the fundamentals of DSP and explores speech processing as a paradigm
+  for DSP application techniques.
+programmes:
+- timetable: ''
+  code: WD_EEELC_BI
+  name: BEng (Hons) in Information Engineering (International)
+  stage: 4
+  semester: 7
+  status: M
+- timetable: ENGR-0020
+  code: WD_EELEC_B
+  name: Bachelor of Science (Honours) in Applied Electronics
+  stage: 2
+  semester: 3
+  status: M
+- timetable: ENGR-0020
+  code: WD_EONIC_B
+  name: Bachelor of Engineering (Honours) in Electronic Engineering
+  stage: 4
+  semester: 7
+  status: M
+- timetable: ''
+  code: WD_ETRIC_BI
+  name: BEng (Hons) in Electrical and Automation Engineering (International)
+  stage: 4
+  semester: 7
+  status: M
+- timetable: ENGR-0020
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 4
+  semester: 7
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Discrete-time signals and properties
+- Discrete-time LTI Systems and properties
+- 'Transforms: Z, DtFT, DFT, their relationships and use in the frequency domain analysis
+  of LTI systems'
+- Goertzel algorithm (DTMF tone detection)
+- Window functions, FIR and IIR filter design
+- Speech modelling and time domain analysis of speech signals
+- 'Frequency domain analysis of speech signals: Short-time Fourier Transform (STFT)'
+learning_outcomes:
+- Demonstrate knowledge and understanding of discrete-time signals and LTI systems.
+- Analyse discrete-time systems to determine system behaviour in the time and frequency
+  domain.
+- Formulate and manipulate equations describing systems and transforms.
+- Design digital filters (FIR and IIR) from given specifications.
+- Apply Digital Signal Processing techniques to non-stationary signals.
+- Write simulation programs to analyse, interpret and evaluate discrete-time systems
+  behaviour.
+- Communicate effectively, information of experimental nature with due regard to the
+  interpretation of results and the underpinning theory.
+learning_and_teaching_methods:
+- Lectures and tutorials
+- Computer-based laboratory work
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1, 2, 3, 4, 5
+  main: true
+  name: Final Written Examination
+  weighting: 60
+- learning_outcomes: 6, 7
+  main: true
+  name: Final Practical
+  weighting: 40
+assessment_criteria:
+- '70% - 100%: The learner has: attained the module learning outcomes at an excellent
+  level; demonstrated a comprehensive knowledge of the associated subject matter;
+  achieved an excellent level of the skills required for the subject matter; demonstrated
+  the ability to carry out further investigation and problem solving associated with
+  the subject matter.'
+- '60% - 69%: The learner has: attained the module learning outcomes at a very good
+  level; demonstrated a detailed knowledge of the associated subject matter; achieved
+  a very good level of the skills required for the subject matter.'
+- '50% - 59%: The learner has: attained the module learning outcomes at a good level;
+  demonstrated a good knowledge of the associated subject matter; achieved a good
+  level of the skills required for the subject matter.'
+- '40% - 49%: The learner has: attained the module learning outcomes at a basic level;
+  demonstrated a basic knowledge of the associated subject matter; achieved a basic
+  level of the skills required for the subject matter.'
+- '<40%: The learner has not: attained the module learning outcomes; demonstrated
+  sufficient knowledge of the associated subject matter; demonstrated a sufficient
+  level of the skills required for the subject matter.'
+essential_material:
+- 'Proakis, J.G. and D.G. Manolakis. _Digital Signal Processing: principles, algorithms,
+  and applications_. 4th ed.. New Jersey: Prentice Hall, 2006.'
+supplementary_material:
+- 'Mitra, S.K. _Digital Signal Processing: a computer based approach_. 3rd ed.. New
+  York: McGraw Hill, 2006.'
+requested_resources:
+- 'ENGINEERING LAB: Electronics'
+mlo_to_po: ''
+track_changes: true
+
+
+

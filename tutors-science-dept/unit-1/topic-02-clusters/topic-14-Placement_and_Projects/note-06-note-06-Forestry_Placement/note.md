@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09481 | Timetable Code: PLAC-0149*
+*Module Code: A09481 | Timetable Code: PLAC-0149 | Change Tracking: Enabled*

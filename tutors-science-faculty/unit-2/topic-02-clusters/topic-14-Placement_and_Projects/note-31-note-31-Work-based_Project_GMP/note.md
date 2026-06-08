@@ -123,4 +123,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09763 | Timetable Code: PROJ-0031*
+*Module Code: A09763 | Timetable Code: PROJ-0031 | Change Tracking: Enabled*

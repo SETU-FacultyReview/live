@@ -1,0 +1,114 @@
+reference: A35728
+full_title: Introduction to Artificial Intelligence
+short_title: Intro to AI
+credits: 5
+level: Introductory
+author: ADAVY
+history_comment: ''
+school: Science and Computing
+department: Computing and Mathematics
+cluster: Mathematics and Physics
+aim: This Module is an introductory Module, which focuses on inspiring students' interest
+  in artificial intelligence. It lays the foundation for students' follow-up study
+  of machine learning, neural network and deep learning, computer vision and pattern
+  recognition, game theory, and application. Through the study of this Module, students
+  will be introduced to the fundamental theories and techniques used in the field
+  of Artificial Intelligence, including searching, knowledge representation, machine
+  learning, and so on. By the end of this course, students will have clear ideas of
+  AI, and some of the major developments of AI of today, and be able to make use of
+  available development tools to explore some areas of application such as iris flowers
+  classification, handwritten digits recognition, and so on.
+programmes:
+- timetable: COMP-0677
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- 'Brief introduction to birth and history of Artificial intelligence, as well as
+  essential concepts and methods:'
+- 1. Search methods (deep first Search, broad first search, uniform cost search, greedy
+  search, A* search, graph search)
+- 2. Supervised learning (Linear/logistic regression and classification)
+- 3. Unsupervised learning (clustering and dimensionality reduction)
+- 4. Reinforcement learning (Q-learning)
+- 5. Introduction to genetic algorithms and deep learning
+- 6. Data preprocessing
+learning_outcomes:
+- Understand what constitutes ``Artificial'' Intelligence and how to identify systems
+  with Artificial Intelligence.
+- Understand the limitations of current Artificial Intelligence techniques.
+- Familiarity with Artificial Intelligence techniques, such as Searching, Neural Networks,
+  and Machine Learning.
+- Recognize how Artificial Intelligence enables capabilities that are beyond conventional
+  technology, for example, prediction and classification, self-driving cars, and robotics.
+- Ability to apply Artificial Intelligence methods and engineering techniques for
+  solving narrowly defined problems.
+learning_and_teaching_methods:
+- This module will be teaching through a variety of ways, including direct instructions,
+  discussions, and case-based practical studies.
+- The topics of Artificial Intelligence and their related concepts will be introduced
+  and explained by instructors in the direct instructions.
+- Students in this module are required to engage in discussions and class exercises,
+  thereby enhancing their participation.
+- The case-based practical studies implemented in this module will assist students
+  in gaining problem-based skills that result in significant improvement in their
+  critical thinking and active participation in the learning process
+- Self-directed learning will also be encouraged throughout the duration of the module.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 82
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: []
+  comment: ''
+- learning_outcomes: 1,3,4,5
+  main: false
+  name: Assignment
+  weighting: 70
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inability to express any knowledge/concepts of Artificial Intelligence. Inability
+  to attend to any discussion. Inability to produce an algorithm to solve a simple
+  problem.'
+- '40-49%: Understand basic concepts of certain topics of Artificial Intelligence
+  and able to explain them in their own words. Can recognize search, regression, classification
+  and clustering type of problems.'
+- '50-59%: Be able to identify potentially applicable Artificial Intelligence techniques
+  for solving problems. Can develop modeling and make theoretical analysis.'
+- '60-69%: All the above and in addition, can explain the differences between different
+  learning methods and make use of their performance measurement metrics.'
+- '70-100%: All previous to an excellent level.'
+essential_material:
+- '"Khan Academy." https://www.khanacademy.org/'
+- '"W3 Schools on-line web tutorials." https://www.w3schools.com/'
+- 'Russel, and Nerving. _Artificial Intelligence: A Modern Approach_. 4th ed.. : Pearson
+  Education, 2020.'
+supplementary_material:
+- '"Python Tutorials." http://introtopython.org'
+- '"Tensorflow." https://www.tensorflow.org/'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

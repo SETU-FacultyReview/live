@@ -139,4 +139,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11419 | Timetable Code: AGRI-0021*
+*Module Code: A11419 | Timetable Code: AGRI-0021 | Change Tracking: Enabled*

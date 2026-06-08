@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14821 | Timetable Code: PROJ-0169*
+*Module Code: A14821 | Timetable Code: PROJ-0169 | Change Tracking: Enabled*

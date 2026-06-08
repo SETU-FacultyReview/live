@@ -136,4 +136,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09762 | Timetable Code: QUAL-0012*
+*Module Code: A09762 | Timetable Code: QUAL-0012 | Change Tracking: Enabled*

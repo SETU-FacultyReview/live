@@ -142,4 +142,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A07222 | Timetable Code: SCIE-0031*
+*Module Code: A07222 | Timetable Code: SCIE-0031 | Change Tracking: Enabled*

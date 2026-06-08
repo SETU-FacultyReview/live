@@ -133,4 +133,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A09765 | Timetable Code: PROJ-0121*
+*Module Code: A09765 | Timetable Code: PROJ-0121 | Change Tracking: Enabled*

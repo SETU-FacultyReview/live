@@ -134,4 +134,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A05076 | Timetable Code: ENTR-0003*
+*Module Code: A05076 | Timetable Code: ENTR-0003 | Change Tracking: Enabled*

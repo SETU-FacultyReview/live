@@ -143,4 +143,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11812 | Timetable Code: INFO-0009*
+*Module Code: A11812 | Timetable Code: INFO-0009 | Change Tracking: Enabled*

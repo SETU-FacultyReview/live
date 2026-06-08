@@ -136,4 +136,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A12601 | Timetable Code: GAME-0007*
+*Module Code: A12601 | Timetable Code: GAME-0007 | Change Tracking: Enabled*

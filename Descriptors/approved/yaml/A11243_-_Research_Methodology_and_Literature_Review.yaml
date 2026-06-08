@@ -1,0 +1,150 @@
+reference: A11243
+full_title: Research Methodology and Literature Review
+short_title: Res Methodology & Lit Review
+credits: 5
+level: Advanced
+author: KGRENNAN
+history_comment: ''
+school: Science and Computing
+department: Science
+cluster: Placement and Projects
+aim: This module will develop techniques that are necessary in a research environment,
+  such as accessing, referencing and utilising public literature resources to prepare
+  a literature review of a specialised research topic. In addition, the module will
+  develop the skills required to design a project management plan to implement a practical
+  project related to this research topic.
+programmes:
+- timetable: RESA-0089
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 4
+  semester: 7
+  status: M
+- timetable: RESA-0089
+  code: WD_SMBIO_B
+  name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
+    Science
+  stage: 4
+  semester: 7
+  status: M
+- timetable: RESA-0089
+  code: WD_SPHSC_B
+  name: Bachelor of Science (Honours) in Pharmaceutical Science
+  stage: 4
+  semester: 7
+  status: M
+- timetable: RESA-0089
+  code: WD_SQMBI_B
+  name: Bachelor of Science (Honours) in Applied Biology with Quality Management
+  stage: 4
+  semester: 1
+  status: M
+- timetable: RESA-0089
+  code: WD_SQMCH_B
+  name: Bachelor of Science (Honours) in Applied Chemistry with Quality Management
+  stage: 4
+  semester: 1
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Search strategies and tools for searching the scientific literature, using online
+  databases, books, journals and Internet resources
+- Referencing the literature using the Harvard and Vancouver systems & dedicated reference
+  manager software
+- Critical analysis and evaluation of the literature related to a specialised research
+  topic
+- Formatting and design of a literature review document using the built-in tools of
+  MS Word
+- Formatting tables, graphs, schemes and images to a high standard for a research
+  document
+- Advanced scientific writing skills
+- Oral presentation of literature review
+- Design and present a project management plan and Chemical Safety Forms to implement
+  a practical project on a specialised research topic
+learning_outcomes:
+- Plan a literature search to search the scientific literature and databases relevant
+  to a specialised research topic.
+- Compile a review of the scientific literature information on a specialised research
+  topic using the built-in tools of MS Word.
+- Evaluate scientific literature relevant to a specialised research topic.
+- Manage referencing resources to support a literature review.
+- Produce an oral presentation of the research findings.
+- Design a project management plan for a practical project related to a specialised
+  research topic.
+learning_and_teaching_methods:
+- IT tutorials.
+- Library training.
+- Consultations with project supervisor.
+- Self-directed study.
+learning_modes:
+- full_time: 24
+  name: Tutorial
+  part_time: ''
+- full_time: 12
+  name: Other
+  part_time: ''
+- full_time: 99
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Project
+  weighting: 70
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '5'
+  main: false
+  name: Presentation
+  weighting: 20
+  due_weeks: []
+  comment: ''
+- learning_outcomes: '6'
+  main: false
+  name: Assignment
+  weighting: 10
+  due_weeks: []
+  comment: ''
+assessment_criteria:
+- '<40%: Inadequate understanding of the fundamentals of research methodologies and
+  insufficient competence in their use. Insufficient level of knowledge of chosen
+  research topic.'
+- '40%-49%: Ability to show a basic knowledge of research methodologies and basic
+  competency in their use. Basic level of knowledge of chosen research topic.'
+- '50%-59%: As well as the above, the student will be able to demonstrate an understanding
+  of some of the complexities of research methodologies and a good competency in their
+  use. Display an adequate level of knowledge of chosen research topic supplemented
+  by an ability to present this knowledge in a clear and concise manner.'
+- '60%-69%: In addition to the above, the student will demonstrate a more detailed
+  knowledge of research methodologies and a high level of competence in their use.
+  Display a high level of knowledge of chosen research topic, supplemented by an ability
+  to present this knowledge to a high technical standard.'
+- '70%-100%: All of the above to an excellent level. In addition, the student will
+  demonstrate an advanced knowledge of research methodologies, as well as excellent
+  and proficient competence in their use. Display a thorough level of knowledge of
+  chosen research topic, supplemented by an ability to critically evaluate and discuss
+  the topic in relation to a wider scientific context. The above advanced knowledge
+  of the topic will be supported by superior reporting and presentation skills.'
+essential_material:
+- '"Research Methodology & Literature Review Moodle page." http://moodle.wit.ie'
+- '"WIT library catalogue." http://library.wit.ie/'
+- '"WIT library databases." http://library.wit.ie/Resources/databases'
+supplementary_material:
+- 'Lebrun, J.L. _Scientific wri__ting 2.0: a reader''s and writer''s guide_. Hackensack,
+  NJ: New World Scientific, 2011.'
+- 'Marder , M.P. _Research methods for science_. Cambridge: Cambridge University Press,
+  2011.'
+- 'Neville, C. _Complete guide to referencing and avoiding plagiarism_. Maidenhead
+  , NY: Open University, 2010.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: ''
+track_changes: true
+
+
+

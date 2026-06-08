@@ -143,4 +143,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A29521 | Timetable Code: PHYI-0041*
+*Module Code: A29521 | Timetable Code: PHYI-0041 | Change Tracking: Enabled*

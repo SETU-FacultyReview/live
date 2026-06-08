@@ -147,7 +147,11 @@ This module is available on the following programmes:
 
 | **Programme Code** | **Programme Title** | **Stage** | **Semester** | **Status** |
 |-------------------|---------------------|-----------|--------------|------------|
+<<<<<<< HEAD
+| [WD_SANSC_G](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-03-level_8/topic-10-WD_SANSC_G) | 1 | 0 | Elective |
+=======
 | [WD_SANSC_G](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | [Postgraduate Diploma in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-03-WD_SANSC_G) | 1 | 0 | Elective |
+>>>>>>> main
 | [WD_SANSC_R](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | [Master of Science in Analytical Science with Quality Management](/topic/setu-sci-faculty/unit-2/topic-01-programmes/unit-04-level_9/topic-02-WD_SANSC_R) | 1 | 0 | Elective |
 | WD_SBIOP_MA | Certificate in Biopharmaceutical Analysis & Cell Culture | 5 | 0 | Mandatory |
 
@@ -159,4 +163,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A00841 | Timetable Code: PHAR-0014*
+*Module Code: A00841 | Timetable Code: PHAR-0014 | Change Tracking: Enabled*

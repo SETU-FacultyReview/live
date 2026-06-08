@@ -140,4 +140,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A14857 | Timetable Code: RESA-0174*
+*Module Code: A14857 | Timetable Code: RESA-0174 | Change Tracking: Enabled*

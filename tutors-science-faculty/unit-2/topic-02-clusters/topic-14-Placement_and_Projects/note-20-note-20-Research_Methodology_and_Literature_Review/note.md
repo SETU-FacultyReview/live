@@ -150,4 +150,4 @@ This module is available on the following programmes:
 
 ---
 
-*Module Code: A11243 | Timetable Code: RESA-0089*
+*Module Code: A11243 | Timetable Code: RESA-0089 | Change Tracking: Enabled*
