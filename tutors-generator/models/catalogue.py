@@ -94,7 +94,7 @@ class Catalogue:
 
     def _load_module_descriptors(self):
         """Load all YAML module descriptors"""
-        descriptors_dir = self.source_dir / "Descriptors" / "yaml"
+        descriptors_dir = self.source_dir / "Descriptors" / "approved" / "yaml"
 
         if not descriptors_dir.exists():
             print(f"Warning: Descriptors directory not found at {descriptors_dir}")
