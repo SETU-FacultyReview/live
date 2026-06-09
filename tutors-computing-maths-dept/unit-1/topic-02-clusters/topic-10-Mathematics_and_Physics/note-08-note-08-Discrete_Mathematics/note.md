@@ -142,7 +142,7 @@ This module is available on the following programmes:
 
 ## Resources Required
 
-- Room Type: Computer Lab test 7
+- Room Type: Computer Lab test 14
 
 ---
 

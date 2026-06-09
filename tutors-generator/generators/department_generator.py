@@ -481,7 +481,7 @@ class DepartmentGenerator:
             descriptor: Module descriptor
             archives_dir: Directory to copy PDF to
         """
-        pdf_dir = self.source_dir / "Descriptors" / "pdf"
+        pdf_dir = self.source_dir / "Descriptors" / "approved" / "pdf"
         module_ref = descriptor.get('reference', module_code)
 
         # Try exact match first (with full title in filename)
