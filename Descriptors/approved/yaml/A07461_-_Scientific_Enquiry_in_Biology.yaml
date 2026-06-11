@@ -1,11 +1,11 @@
 reference: A07461
 full_title: Scientific Enquiry in Biology
 short_title: Scientific Enquiry in Biology
-credits: 5
+credits: '5'
 level: Introductory
 author: KTAMBLING
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Biology
 aim: This module is comprised of a series of in-class discussions, debates and presentations
@@ -18,14 +18,14 @@ programmes:
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: SCIE-0056
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -52,27 +52,27 @@ learning_and_teaching_methods:
 - Self-directed learning.
 - In-class discussions, debates, presentations.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 45
+  weighting: '45'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 55
+  weighting: '55'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -89,6 +89,7 @@ assessment_criteria:
   and extensive understanding of the subject. Provide well focused analysis and convincing
   argument on the subject Show initiative, individual thought, and enthusiasm in self
   study and independent learning.'
+special_regulations: []
 essential_material:
 - '"Food Safety Authority of Ireland." Food Safety Authority of Ireland. www.fsai.ie'
 - '"Moodle used to provide links to useful websites." https://moodle.wit.ie/login/index.php'
@@ -100,6 +101,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

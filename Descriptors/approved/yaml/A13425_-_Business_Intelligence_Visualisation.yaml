@@ -1,11 +1,11 @@
 reference: A13425
 full_title: Business Intelligence Visualisation
 short_title: BI Visualisation
-credits: 5
+credits: '5'
 level: Advanced
 author: RBARRY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Database and Analytics
 aim: The fundamental area of Business Intelligence (BI) is the skill to effectively
@@ -20,38 +20,38 @@ programmes:
 - timetable: COMP-0652
   code: WD_18AFICT_G
   name: Higher Diploma in Science in Agi-Food ICT Systems
-  stage: 1
-  semester: 4
+  stage: '1'
+  semester: '4'
   status: M
 - timetable: COMP-0652
   code: WD_KDAAN_G
   name: HDip in Science in Data Analytics
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0652
   code: WD_KDTAN_MA
   name: Certificate in Data Analytics
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0652
   code: WD_KINTE_B
   name: Bachelor of Science (Honours) in Information Technology
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: E
 - timetable: COMP-0652
   code: WD_KITMA_B
   name: BSc (Hons) in Information Technology Management
-  stage: 1
-  semester: 8
+  stage: '1'
+  semester: '8'
   status: E
 - timetable: COMP-0652
   code: WD_SAFICT_G
   name: HDip in Science in Agri-Food ICT Systems
-  stage: 6
-  semester: 4
+  stage: '6'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -84,28 +84,28 @@ learning_and_teaching_methods:
 - In practical classes, students will engage with visualisation software and will
   work on case studies and exercises.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 4,6
-  main: false
+  main: 'false'
   name: Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -118,6 +118,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Eckerson, W. _Performance Dashboards: Measuring, Monitoring, and Managing Your
@@ -132,7 +133,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
-
 

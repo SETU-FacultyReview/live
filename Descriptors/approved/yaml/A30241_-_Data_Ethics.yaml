@@ -1,11 +1,11 @@
 reference: A30241
 full_title: Data Ethics
 short_title: Data Ethics
-credits: 5
+credits: '5'
 level: Advanced
 author: PCAREW
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Professional Skills
 aim: This module provides students with a solid grounding in applied data ethics by
@@ -15,14 +15,14 @@ programmes:
 - timetable: ''
   code: WD_KDAAN_G
   name: HDip in Science in Data Analytics
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: ''
   code: WD_KDTAN_MA
   name: Certificate in Data Analytics
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -69,28 +69,28 @@ learning_and_teaching_methods:
 - Students will develop a portfolio of work to demonstrate their learning over the
   course of the module.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 24
-- full_time: 24
+  part_time: '24'
+- full_time: '24'
   name: Practical
-  part_time: 24
-- full_time: 87
+  part_time: '24'
+- full_time: '87'
   name: Independent Learning
-  part_time: 87
+  part_time: '87'
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -110,6 +110,7 @@ assessment_criteria:
   challenges posed by complex and nuanced data analytic scenarios, demonstrate an
   excellent understanding of pertinent ethical theory and terminology, and create
   an actionable plan to mitigate ethical and legal concerns in a data analytics scenario.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Bunnik, A., A. Cawley and Mulqueen, M., Zwitter, A. , eds. _Big Data challenges:
@@ -130,6 +131,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

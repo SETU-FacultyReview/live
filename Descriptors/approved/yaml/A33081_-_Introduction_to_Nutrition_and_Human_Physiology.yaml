@@ -1,11 +1,11 @@
 reference: A33081
 full_title: Introduction to Nutrition and Human Physiology
 short_title: Intro Nutr & Human Phys
-credits: 5
+credits: '5'
 level: Introductory
 author: EDUGGAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Food Science
 aim: This module introduces the study of nutrition and the basics of human physiology.
@@ -17,14 +17,14 @@ programmes:
 - timetable: ''
   code: WD_SFDSC_D
   name: Bachelor of Science in Food Science with Business
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: SCIE-0087
   code: WD_SFSIN_B
   name: Bachelor of Science (Honours) in Food Science and Innovation
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -52,28 +52,28 @@ learning_and_teaching_methods:
 - Group discussions and presentations
 - Dietary analysis computer programmes
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 1,6
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -81,25 +81,26 @@ assessment_criteria:
   technical ability/skill and understanding to carry out practical/professional tasks.
   Failure to meet the objectives of projects. Unable to carry out or submit independent
   study and research.'
-- 40%-49% Demonstrate a limited knowledge of the subject matter. Shows some technical
-  ability/skill in carrying out and reporting on practical/professional tasks.
-- 50%-59% Demonstrate satisfactory general knowledge of the main issues within the
+- '40%-49%: Demonstrate a limited knowledge of the subject matter. Shows some technical
+  ability/skill in carrying out and reporting on practical/professional tasks.'
+- '50%-59%: Demonstrate satisfactory general knowledge of the main issues within the
   subject. Logically and competently carry out practical/professional tasks. Satisfactory
   handling and awareness in carrying out independent study and research. Reporting
-  and projects adequately structured and referenced.
-- 60%-69% Demonstrate sound knowledge of the subject matter. Show ability to analyse
+  and projects adequately structured and referenced.'
+- '60%-69%: Demonstrate sound knowledge of the subject matter. Show ability to analyse
   and logically argues in an effective and mature style. Demonstrate initiative and
   the ability to criticise methods used and appreciation of experimental design when
   carrying out practical/professional tasks. Projects and reporting coherent and soundly
   structured illustrating wide and in-depth reading on the subject coupled with the
-  proper use of references.
-- 70%-100% Demonstrate authoritative handling of complex material and a highly developed
+  proper use of references.'
+- '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
   and extensive understanding of the subject. Provide well focused analysis and convincing
-  argument on the subject.
-- 'Note: In addition to the normal regulations, a minimum of 35% must be achieved
-  in both the final exam and continuous assessment components of the module. In cases
-  where continuous assessment has a practical component attendance of at least 75%
-  in the practicals is mandatory.'
+  argument on the subject.'
+special_regulations:
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
 essential_material:
 - '"Moodle." moodle.wit.ie'
 - 'Barasi, M.E. _Human Nutrition: A healthy perspective_. 2nd ed. London: Oxford University
@@ -114,6 +115,4 @@ requested_resources:
 - 'COMPUTER LAB: Networks Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

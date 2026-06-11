@@ -1,11 +1,11 @@
 reference: A35501
 full_title: Data Analytics Project
 short_title: Data Analytics Project
-credits: 10
+credits: '10'
 level: Advanced
 author: PKIRWAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Professional Skills
 aim: The purpose of the Industry-led Project is to enable the student to apply the
@@ -20,14 +20,14 @@ programmes:
 - timetable: ''
   code: WD_KDAAN_G
   name: HDip in Science in Data Analytics
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: ''
   code: WD_KDTSC_MA
   name: Certificate in Data Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -61,17 +61,17 @@ learning_and_teaching_methods:
 - Where appropriate, an industry mentor will be provided to provide input and guidance
   from the employer's perspective.
 learning_modes:
-- full_time: 6
+- full_time: '6'
   name: Tutorial
-  part_time: 6
-- full_time: 264
+  part_time: '6'
+- full_time: '264'
   name: Independent Learning
-  part_time: 264
+  part_time: '264'
 assessment_methods:
 - learning_outcomes: 1, 2, 3, 4, 5
-  main: true
+  main: 'true'
   name: Final Project
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: Failure to incorporate feedback. Failure to competently demonstrate understanding
   of work.'
@@ -87,6 +87,7 @@ assessment_criteria:
 - '70%--100%: As above and produces an excellent, professional calibre stand-alone
   system with equally excellent documentation. Demonstrates ability to abstract ideas
   and reflect on the process.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"ASET Good Practice Guide for Work based and Placement Learning in Higher Education."
@@ -99,6 +100,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

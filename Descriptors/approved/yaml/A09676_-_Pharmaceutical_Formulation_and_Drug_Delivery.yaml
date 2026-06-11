@@ -1,11 +1,11 @@
 reference: A09676
 full_title: Pharmaceutical Formulation and Drug Delivery
 short_title: Pharm Form & Drug Delivery
-credits: 5
+credits: '5'
 level: Advanced
 author: BWHELAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Pharmaceutical Science
 aim: The module will cover the main technologies related to finished product pharmaceutical
@@ -17,14 +17,14 @@ programmes:
 - timetable: PHAR-0006
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: PHAR-0006
   code: WD_SQMCH_B
   name: Bachelor of Science (Honours) in Applied Chemistry with Quality Management
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -64,39 +64,39 @@ learning_and_teaching_methods:
 - Laboratory-based practicals.
 - Self-directed study.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 27
+- full_time: '27'
   name: Practical
   part_time: ''
-- full_time: 9
+- full_time: '9'
   name: Field Trips
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,3
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -119,6 +119,7 @@ assessment_criteria:
   formulation and drug delivery, excellent reasoning skills and well thought out arguments.
   The learner will also display advanced competence and independence with regard to
   associated laboratory skills, practices and instrumentation.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -135,6 +136,4 @@ requested_resources:
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

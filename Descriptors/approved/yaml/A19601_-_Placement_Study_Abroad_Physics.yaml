@@ -1,11 +1,11 @@
 reference: A19601
 full_title: Placement/Study Abroad (Physics)
 short_title: Study Abroad
-credits: 30
+credits: '30'
 level: Intermediate
 author: CKEARY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module will immerse students into the cultural and academic experience of
@@ -14,8 +14,8 @@ programmes:
 - timetable: PLAC-0166
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -42,35 +42,34 @@ learning_and_teaching_methods:
 - Study abroad preparatory meetings
 - Review with study abroad co-ordinator
 learning_modes:
-- full_time: 810
+- full_time: '810'
   name: Placement
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Participation
-  weighting: 67
+  weighting: '67'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 33
+  weighting: '33'
   due_weeks: []
   comment: ''
 assessment_criteria:
 - 'Fail: Candidate has failed to obtain 20 ECTS from host institute.'
 - 'Pass: Candidate has obtained 20 ECTS from host institute and has submitted placement
   portfolio.'
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

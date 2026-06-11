@@ -1,11 +1,11 @@
 reference: A15081
 full_title: Software Engineering Practice
 short_title: Software Engineering Practice
-credits: 5
+credits: '5'
 level: Introductory
 author: MFITZGERALD
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Information Systems and Modelling
 aim: The objective of this module is to provide students with the understanding of
@@ -17,32 +17,32 @@ programmes:
 - timetable: COMP-0640
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: COMP-0640
   code: WD_KACMI_B
   name: BSc (Hons) in Applied Computing (International)
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: COMP-0640
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: COMP-0640
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0640
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -76,30 +76,30 @@ learning_and_teaching_methods:
 - Students will be encouraged to enhance their lab work and assessment submissions
   using self-directed research into state-of-the-art of software engineering practices.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 2,3,4,5,6
-  main: false
+  main: 'false'
   name: Group Project
-  weighting: 60
+  weighting: '60'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,7
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -113,6 +113,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Continuous Delivery." https://www.thoughtworks.com/continuous-delivery. https://www.thoughtworks.com/continuous-delivery'
@@ -123,6 +124,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

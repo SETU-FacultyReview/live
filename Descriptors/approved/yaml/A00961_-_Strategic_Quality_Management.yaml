@@ -1,11 +1,11 @@
 reference: A00961
 full_title: Strategic Quality Management
 short_title: Strategic Quality Management
-credits: 10
+credits: '10'
 level: Postgraduate
 author: MKINSELLA
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Quality, Regulatory and Compliance
 aim: This module will provide students with advanced understanding of the theory,
@@ -20,20 +20,20 @@ programmes:
 - timetable: STAT-0051
   code: WD_SANSC_G
   name: Postgraduate Diploma in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: STAT-0051
   code: WD_SANSC_R
   name: Master of Science in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: STAT-0051
   code: WD_SQUAL_MA
   name: Certificate in Advanced Quality Methodologies
-  stage: 5
-  semester: 0
+  stage: '5'
+  semester: '0'
   status: M
 prerequisites: []
 corequisites: []
@@ -85,34 +85,34 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Lecture
-  part_time: 36
+  part_time: '36'
 - full_time: ''
   name: Tutorial
-  part_time: 12
+  part_time: '12'
 - full_time: ''
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '1'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 5,6
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -124,6 +124,7 @@ assessment_criteria:
   of evaluation and synthesis of subject area.'
 - '70%-100%: Good level of critical analysis, originality of thought and comprehensive
   knowledge of the subject area. Able to evaluate and synthesise relevant issues.'
+special_regulations: []
 essential_material:
 - 'Bhat, K. Shridhara. _Total Quality Management: text and cases_. Mumbai, India:
   Himalaya Publishing House, 2010.'
@@ -151,6 +152,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,11 +1,11 @@
 reference: A05668
 full_title: Engineering Technology Project Specification
 short_title: ET Project Specification
-credits: 5
+credits: '5'
 level: Advanced
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Business
 aim: In this module, the learner is provided with the opportunity to write project
@@ -16,50 +16,50 @@ programmes:
 - timetable: ''
   code: WD_EAUTO_B
   name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: ''
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: ''
   code: WD_EELEC_B
   name: Bachelor of Science (Honours) in Applied Electronics
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: ''
   code: WD_EMSEN_B
   name: Bachelor of Engineering (Honours) in Mechanical and Manufacturing Engineering
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: ''
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours)
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: ''
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours) in Electrical Engineering
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: ''
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: ''
   code: WD_TCAMF_B
   name: Bachelor of Science (Honours) in Manufacturing Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -88,27 +88,27 @@ learning_and_teaching_methods:
 - Independent work
 - Interaction with peers
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Lab
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 90
+  weighting: '90'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -129,12 +129,11 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
 - 'ENGINEERING LAB: Technology'
 mlo_to_po: ''
 track_changes: true
-
-
 

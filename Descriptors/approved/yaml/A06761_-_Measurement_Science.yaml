@@ -1,11 +1,11 @@
 reference: A06761
 full_title: Measurement Science
 short_title: Measurement Science
-credits: 10
+credits: '10'
 level: Introductory
 author: GGALLAGHER
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Mathematics and Physics
 aim: This is an introductory module in measurement science. Much of the content is
@@ -16,8 +16,8 @@ programmes:
 - timetable: PHYS-0018
   code: WD_SGMPT_C
   name: Higher Certificate in Science in Good Manufacturing Practice and Technology
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -49,23 +49,23 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Lecture
-  part_time: 24
+  part_time: '24'
 - full_time: ''
   name: Independent Learning
-  part_time: 246
+  part_time: '246'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 5,7
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -87,6 +87,7 @@ assessment_criteria:
   Experimental work is carried out to an high standard. Reports are clear and insightful
   with the student demonstrating an ability to reflect on the strengths and weaknesses
   of the experimental techniques used.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Johnson, K. _Physics for You_. UK: Stanley-Thornes, 2011.'
@@ -96,6 +97,4 @@ requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
 track_changes: true
-
-
 

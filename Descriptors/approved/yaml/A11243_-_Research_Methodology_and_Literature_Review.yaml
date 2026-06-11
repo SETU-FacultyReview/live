@@ -1,11 +1,11 @@
 reference: A11243
 full_title: Research Methodology and Literature Review
 short_title: Res Methodology & Lit Review
-credits: 5
+credits: '5'
 level: Advanced
 author: KGRENNAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module will develop techniques that are necessary in a research environment,
@@ -17,33 +17,33 @@ programmes:
 - timetable: RESA-0089
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: RESA-0089
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: RESA-0089
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: RESA-0089
   code: WD_SQMBI_B
   name: Bachelor of Science (Honours) in Applied Biology with Quality Management
-  stage: 4
-  semester: 1
+  stage: '4'
+  semester: '1'
   status: M
 - timetable: RESA-0089
   code: WD_SQMCH_B
   name: Bachelor of Science (Honours) in Applied Chemistry with Quality Management
-  stage: 4
-  semester: 1
+  stage: '4'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -78,36 +78,36 @@ learning_and_teaching_methods:
 - Consultations with project supervisor.
 - Self-directed study.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Tutorial
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Other
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 70
+  weighting: '70'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -130,6 +130,7 @@ assessment_criteria:
   chosen research topic, supplemented by an ability to critically evaluate and discuss
   the topic in relation to a wider scientific context. The above advanced knowledge
   of the topic will be supported by superior reporting and presentation skills.'
+special_regulations: []
 essential_material:
 - '"Research Methodology & Literature Review Moodle page." http://moodle.wit.ie'
 - '"WIT library catalogue." http://library.wit.ie/'
@@ -145,6 +146,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

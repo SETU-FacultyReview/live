@@ -1,11 +1,11 @@
 reference: A13325
 full_title: Professional Communications
 short_title: Professional Communications
-credits: 5
+credits: '5'
 level: Introductory
 author: MCLARKE
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Professional Skills
 aim: 'The goal of this module is to enable students to develop key communication and
@@ -18,26 +18,26 @@ programmes:
 - timetable: COMP-0644
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: COMP-0644
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: COMP-0644
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: COMP-0644
   code: WD_KDEVP_BI
   name: BSc (Hons) in Software Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -64,36 +64,36 @@ learning_and_teaching_methods:
 - 'Practical: exercises using PCs to write, craft and review written and speaking
   exercises.'
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Lab
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,3
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 55
+  weighting: '55'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -111,6 +111,7 @@ assessment_criteria:
   and comprehensive Technical Report on a new (and/or evolving) application or software
   tool that may be used in the ICT Industry. Be able to create an excellent Tech Review
   of a complex (and/or newer Technology).'
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
@@ -118,6 +119,4 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
-
-
 

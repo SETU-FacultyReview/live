@@ -1,11 +1,11 @@
 reference: A16862
 full_title: German Intermediate 1(B1.1)
 short_title: German B1.1
-credits: 5
+credits: '5'
 level: Introductory
 author: NDOOLEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Law and Criminal Justice Studies
 cluster: Humanities
 aim: This module aims to enable students to speak, write, listen and read German to
@@ -14,62 +14,62 @@ programmes:
 - timetable: ''
   code: WD_BBUSI_B
   name: Bachelor of Business (Honours)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: E
 - timetable: ''
   code: WD_BINTB_B
   name: Bachelor of Arts (Honours) in International Business
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: E
 - timetable: ''
   code: WD_HCULA_B
   name: Bachelor of Arts (Honours) in Culinary Arts
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: E
 - timetable: ''
   code: WD_HTOMA_B
   name: Bachelor of Arts (Honours) in Tourism Management
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: E
 - timetable: ''
   code: WD_HTOMA_B
   name: Bachelor of Arts (Honours) in Tourism Management
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 - timetable: GERM-0080
   code: WD_KCOMC_D
   name: Bachelor of Science in Software Systems Development
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: ''
   code: WD_KCSDV_B
   name: Bachelor of Science (Honours) in Software Systems Development
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 - timetable: GERM-0080
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: ''
   code: WD_OHOSM_B
   name: Bachelor of Arts (Honours) in Hospitality Management
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: E
 - timetable: ''
   code: WD_OHOSM_B
   name: Bachelor of Arts (Honours) in Hospitality Management
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 prerequisites: []
 corequisites: []
@@ -106,33 +106,33 @@ learning_and_teaching_methods:
 - The course will be characterised by a high level of student participation in both
   classroom activities and self-directed learning.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,4
-  main: false
+  main: 'false'
   name: Oral Examination
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,5
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -154,6 +154,7 @@ assessment_criteria:
   areas.'
 - 'Below 40%: The student has not demonstrated an ability to understand, produce,
   apply and manipulate the specified language areas even at a basic level.'
+special_regulations: []
 essential_material:
 - 'Guenat, G. and P. Hartmann. _Berufpraxis Deutsch B1_. "7th ed". Stuggart: Klett
   Verlag, 2018.'
@@ -170,6 +171,4 @@ requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

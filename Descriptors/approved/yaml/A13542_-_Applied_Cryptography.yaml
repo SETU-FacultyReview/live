@@ -1,11 +1,11 @@
 reference: A13542
 full_title: Applied Cryptography
 short_title: Applied Cryptography
-credits: 5
+credits: '5'
 level: Introductory
 author: JMCGIBNEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Forensics and Security
 aim: This module provides students with a detailed introduction to cryptography, including
@@ -15,38 +15,38 @@ programmes:
 - timetable: COMP-0451
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0451
   code: WD_KACMI_B
   name: BSc (Hons) in Applied Computing (International)
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0451
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0451
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0451
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0451
   code: WD_KINTT_BI
   name: BSc (Hons) in the Internet of Things (International)
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -81,28 +81,28 @@ learning_and_teaching_methods:
 - The practical element allows the student to put into practice the theoretical concepts
   covered in the lectures.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,5,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 4,5,6,7
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -120,6 +120,7 @@ assessment_criteria:
   cryptographic schemes.'
 - '70%-100%: All of the above to an excellent level. Can analyse complexity and performance
   of relevant algorithms.'
+special_regulations: []
 essential_material:
 - '"GNU Privacy Guard." https://www.gnupg.org/'
 - '"The OpenSSL project." https://www.openssl.org/'
@@ -134,6 +135,4 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

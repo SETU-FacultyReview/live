@@ -1,11 +1,11 @@
 reference: A13401
 full_title: Application Security
 short_title: Application Security
-credits: 5
+credits: '5'
 level: Advanced
 author: CLPOWER
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Forensics and Security
 aim: This module equips the student with knowledge of security vulnerabilities of
@@ -18,38 +18,38 @@ programmes:
 - timetable: COMP-0612
   code: WD_KCOMP_D
   name: BSc in Applied Computing
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: COMP-0612
   code: WD_KCSDV_B
   name: Bachelor of Science (Honours) in Software Systems Development
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 - timetable: COMP-0612
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: COMP-0612
   code: WD_KDEVP_BI
   name: BSc (Hons) in Software Engineering
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: COMP-0612
   code: WD_KINFT_D
   name: Bachelor of Science in Information Technology
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: COMP-0612
   code: WD_KSOFP_B
   name: BSc (Hons) in Software Systems Practice
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -78,36 +78,36 @@ learning_and_teaching_methods:
 - The practical element allows the student to put into practice the theoretical concepts
   covered in the lectures.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 12
-- full_time: 24
+  part_time: '12'
+- full_time: '24'
   name: Practical
-  part_time: 12
-- full_time: 87
+  part_time: '12'
+- full_time: '87'
   name: Independent Learning
-  part_time: 111
+  part_time: '111'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -128,6 +128,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level and the ability to analyse and design
   application software security solutions to a high standard for a range of security
   threats through the use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material:
 - '"Open Web Application Security Project (OWASP)." https://www.owasp.org'
 supplementary_material:
@@ -141,6 +142,4 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

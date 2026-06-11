@@ -1,12 +1,12 @@
 reference: A08624
 full_title: Animal Biology
 short_title: Animal Biology
-credits: 5
+credits: '5'
 level: Introductory
 author: VNYHAN
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Agriculture
 aim: This module is designed to equip students with a introductory understanding of
   animal physiology, including the structure and function of the animal cell, various
@@ -21,20 +21,20 @@ programmes:
 - timetable: BIOL-0019
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0019
   code: WD_SAGUL_D
   name: Bachelor of Science in Agriculture
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0019
   code: WD_SAGUL_D
   name: Bachelor of Science in Agriculture
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 prerequisites: []
 corequisites: []
@@ -70,28 +70,28 @@ learning_and_teaching_methods:
 - Laboratory demonstrations of different feed types.
 - Video/CD presentations.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: '8'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -113,6 +113,7 @@ assessment_criteria:
   nutritional disorders and show the ability to evaluate and relate topics that overlap
   all of the learning outcomes. The student will also be able to perform high quality
   experiments with animal tissues.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -134,6 +135,4 @@ requested_resources:
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,11 +1,11 @@
 reference: A02381
 full_title: Computational Environments and Toolchains
 short_title: Computational Env & Toolchains
-credits: 5
+credits: '5'
 level: Intermediate
 author: RFRISBY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: IT
 aim: This is a practical module that requires the student to build, configure and
@@ -14,8 +14,8 @@ programmes:
 - timetable: COMP-0580
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -48,30 +48,30 @@ learning_and_teaching_methods:
   hardware in the practical work.
 - This module will delivered as two double lab-based sessions.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Lab
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 60
+  weighting: '60'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -89,6 +89,7 @@ assessment_criteria:
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of material and ability to develop innovative solutions to problems that rise in
   the configuration and management of Computational environments.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"10 Simple Rules for the Care and Feeding of Scientific Data." http://arxiv.org/pdf/1401.2134v1.pdf'
@@ -103,6 +104,4 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

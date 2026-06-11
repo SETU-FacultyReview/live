@@ -1,11 +1,11 @@
 reference: A06223
 full_title: GMP 1
 short_title: GMP 1
-credits: 5
+credits: '5'
 level: Introductory
 author: BWHELAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Quality, Regulatory and Compliance
 aim: This module covers all aspects of current Good Manufacturing Practice (cGMP),
@@ -17,8 +17,8 @@ programmes:
 - timetable: GMPR-0001
   code: WD_SGMPT_C
   name: Higher Certificate in Science in Good Manufacturing Practice and Technology
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -48,25 +48,25 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Lecture
-  part_time: 12
+  part_time: '12'
 - full_time: ''
   name: Independent Learning
-  part_time: 123
+  part_time: '123'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,4
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,5
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -85,6 +85,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on practical/professional
   tasks.'
+special_regulations: []
 essential_material:
 - '"European Medicines Agency." http://www.ema.europa.eu/ema/'
 - '"Food and Drugs Administration." http://www.fda.gov/'
@@ -94,6 +95,4 @@ supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,12 +1,12 @@
 reference: A08423
 full_title: Crop Technology
 short_title: Crop Technology
-credits: 5
+credits: '5'
 level: Intermediate
 author: DFEWER
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Agriculture
 aim: This module will enable the student to acquire an in-depth knowledge of and the
   skills needed to manage high-yielding crops, whilst achieving good economic returns
@@ -15,14 +15,14 @@ programmes:
 - timetable: AGRI-0023
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: AGRI-0023
   code: WD_SAGUL_D
   name: Bachelor of Science in Agriculture
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -51,34 +51,34 @@ learning_and_teaching_methods:
 - Practical instruction.
 - Practical demonstration.
 learning_modes:
-- full_time: 30
+- full_time: '30'
   name: Lecture
   part_time: ''
-- full_time: 18
+- full_time: '18'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -94,6 +94,7 @@ assessment_criteria:
   this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -107,6 +108,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

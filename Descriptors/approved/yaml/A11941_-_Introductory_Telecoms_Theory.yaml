@@ -1,11 +1,11 @@
 reference: A11941
 full_title: Introductory Telecoms Theory
 short_title: Introductory Telecoms Theory
-credits: 5
+credits: '5'
 level: Introductory
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Data Communications
 aim: This is the first telecommunications module presented in this course. Further
@@ -27,20 +27,20 @@ programmes:
 - timetable: ''
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: TELE-0006
   code: WD_EONIC_B
   name: Bachelor of Engineering (Honours) in Electronic Engineering
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: ''
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -79,34 +79,34 @@ learning_and_teaching_methods:
 - Tutorials
 - Laboratory practicals
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 6,7
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -127,6 +127,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+special_regulations: []
 essential_material:
 - 'Carlson, B. _Communication Systems_. 4th ed.. New York: McGraw Hill, 2002.'
 - 'Couch, L. _Digital & Analogue Communication Systems_. 6th ed.. New Jersey: Prentice
@@ -144,6 +145,4 @@ requested_resources:
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
 track_changes: true
-
-
 

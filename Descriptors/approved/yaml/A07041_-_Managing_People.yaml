@@ -1,11 +1,11 @@
 reference: A07041
 full_title: Managing People
 short_title: Managing People
-credits: 5
+credits: '5'
 level: Advanced
 author: ESHANLEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: The purpose of this module is to develop students' understanding of current people
@@ -19,14 +19,14 @@ programmes:
 - timetable: PEOP-0001
   code: WD_SBSAG_B
   name: Bachelor of Science (Honours) in Land Management (in Agriculture)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: PEOP-0001
   code: WD_SBSFO_B
   name: Bachelor of Science (Honours) in Land Management (in Forestry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -70,25 +70,25 @@ learning_and_teaching_methods:
 - Journal articles.
 - Case studies.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -103,6 +103,7 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
   of all learning outcomes and be able to facilitate informed decisions when dealing
   with employees.'
+special_regulations: []
 essential_material:
 - 'Carbery, R. and C. Cross. _Human Resource Management: A Concise Introduction_.
   UK: Palgrave Macmillan, 2013.'
@@ -119,6 +120,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

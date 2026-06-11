@@ -1,11 +1,11 @@
 reference: A10865
 full_title: Introduction to 3D Game Development
 short_title: Intro to 3D Game Development
-credits: 5
+credits: '5'
 level: Introductory
 author: PFELICIA
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Game Development
 aim: This module will provide the students with the necessary skill set to develop
@@ -17,20 +17,20 @@ programmes:
 - timetable: COMP-0647
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: COMP-0647
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: COMP-0647
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 prerequisites: []
 corequisites: []
@@ -64,33 +64,33 @@ learning_and_teaching_methods:
   and whereby lecturers provide short formal presentations of relevant concepts and
   technologies, as well as practical tips, feedback, and best practices.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,5,6
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: '2'
-  main: false
+  main: 'false'
   name: In-Class Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -109,6 +109,7 @@ assessment_criteria:
   to see programs in terms of system of components.'
 - '70%-100%: All previous to an excellent level. Starts to understand the concept
   of good solutions.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Blackman, S. and J. Wang. _Unity for Absolute Beginners_. NY: Apress, 2014.'
@@ -117,6 +118,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

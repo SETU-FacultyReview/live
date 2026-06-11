@@ -1,11 +1,11 @@
 reference: A13551
 full_title: Mathematics for Graphics and Statistics
 short_title: Maths for Graphics and Stats
-credits: 5
+credits: '5'
 level: Introductory
 author: FLEONARD
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Mathematics and Physics
 aim: The module applies matrix algebra to 2D and 3D transformations - including translations,
@@ -18,14 +18,14 @@ programmes:
 - timetable: MATH-0029
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: MATH-0029
   code: WD_KMULA_D
   name: Bachelor of Science in Multimedia Applications Development
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -57,37 +57,37 @@ learning_and_teaching_methods:
   sessions. The statistical material is similarly presented with the theory in the
   class room and the practice in the labs with appropriate statistical software.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: 5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 40
+  weighting: '40'
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -101,6 +101,7 @@ assessment_criteria:
   techniques in matrix and vector algebra and statistics.'
 - '70%-100%: As above. And demonstrate excellence competence with the advanced techniques
   in matrix and vector algebra and statistics.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Statsoft Electronic Statistics Textbook." http://www.statsoft.com/Textbook'
@@ -111,6 +112,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,11 +1,11 @@
 reference: A04604
 full_title: Embedded Firmware
 short_title: Embedded Firmware
-credits: 5
+credits: '5'
 level: Advanced
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Electronics
 aim: This module builds on concepts introduced in Embedded Systems Architecture &
@@ -17,44 +17,44 @@ programmes:
 - timetable: COMP-0970
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: COME-0004
   code: WD_EONIC_B
   name: Bachelor of Engineering (Honours) in Electronic Engineering
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: COMP-0970
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: COMP-0970
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: COMP-0970
   code: WD_KCOMP_B
   name: BSc (Hons) in Applied Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: COMP-0970
   code: WD_KINTT_BI
   name: BSc (Hons) in the Internet of Things (International)
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: COMP-0970
   code: WD_KPHTE_B
   name: BSc (Hons) in Physics for Modern Technology
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 prerequisites: []
 corequisites: []
@@ -84,25 +84,26 @@ learning_and_teaching_methods:
 - Practicals
 - Mini-Project (Teamwork)
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1, 2, 3
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: 4, 5, 6, 7
-  main: true
+  main: 'true'
   name: Final Practical
-  weighting: 40
+  weighting: '40'
 assessment_criteria: []
+special_regulations: []
 essential_material:
 - 'Furber, S. B. _ARM System On Chip Architecture_. 2nd.. UK: Adison-Wesley, 2001
   (Seminal).'
@@ -113,6 +114,4 @@ requested_resources:
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
 track_changes: true
-
-
 

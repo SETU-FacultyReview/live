@@ -1,11 +1,11 @@
 reference: A29442
 full_title: Introduction to Convergent Technologies
 short_title: Int to Convergent Technologies
-credits: 5
+credits: '5'
 level: Advanced
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Engineering
 aim: This module aims to build on the students undergraduate knowledge and introduce
@@ -17,32 +17,32 @@ programmes:
 - timetable: TECH-0048
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 - timetable: TECH-0048
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 - timetable: TECH-0048
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 - timetable: TECH-0048
   code: WD_KINTT_BI
   name: BSc (Hons) in the Internet of Things (International)
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: TECH-0048
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 prerequisites: []
 corequisites: []
@@ -74,33 +74,34 @@ learning_and_teaching_methods:
 - Mini Projects
 - Presentations
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria: []
+special_regulations: []
 essential_material:
 - '"Institute of Electrical and Electronic Engineers." www.ieee.org'
 supplementary_material:
@@ -124,6 +125,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

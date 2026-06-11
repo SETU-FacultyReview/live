@@ -1,11 +1,11 @@
 reference: A13951
 full_title: Digital Media Programming
 short_title: Digital Media Programming
-credits: 5
+credits: '5'
 level: Intermediate
 author: CDUNPHY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Media Production
 aim: This module builds on strengths already gained in programming, digital media,
@@ -16,8 +16,8 @@ programmes:
 - timetable: COMP-0667
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 prerequisites: []
 corequisites: []
@@ -44,33 +44,33 @@ learning_and_teaching_methods:
   and apply them immediately using dedicated hardware and software.
 - Studio classes will be delivered in two 2-hour blocks.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -83,6 +83,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Adobe TV." http://tv.adobe.com'
@@ -93,6 +94,4 @@ requested_resources:
 - 'EQUIPMENT: MAC PCs'
 mlo_to_po: ''
 track_changes: true
-
-
 

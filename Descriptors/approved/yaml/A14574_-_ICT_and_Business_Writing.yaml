@@ -1,11 +1,11 @@
 reference: A14574
 full_title: ICT and Business Writing
 short_title: ICT and Business Writing
-credits: 5
+credits: '5'
 level: Intermediate
 author: ECLAFFEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: IT
 aim: In this module the student will learn how to write various types of professional
@@ -16,8 +16,8 @@ programmes:
 - timetable: ECTS-0001
   code: WD_SAGUL_D
   name: Bachelor of Science in Agriculture
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -45,36 +45,36 @@ learning_and_teaching_methods:
 - Tutorials, including use of ICT laboratory.
 - Presentations before various audiences.
 learning_modes:
-- full_time: 30
+- full_time: '30'
   name: Lecture
   part_time: ''
-- full_time: 6
+- full_time: '6'
   name: Tutorial
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Group Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -90,6 +90,7 @@ assessment_criteria:
   of the project and give a very good presentation of the project report.'
 - '70%-100%: The learner will be able to write excellent business and field reports
   and give an excellent presentation of the project report.'
+special_regulations: []
 essential_material:
 - 'Bowden, J. _Writing a Report: How to Prepare, Write and Present Effective Reports_.
   9th ed. USA: Boffin Books, 2011.'
@@ -112,6 +113,4 @@ requested_resources:
 - 'COMPUTER LAB: Networks Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

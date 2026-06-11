@@ -1,12 +1,12 @@
 reference: A32361
 full_title: Soil Health and Water Management
 short_title: Soil and Water Management
-credits: 10
+credits: '10'
 level: Postgraduate
 author: JGERAGHTY
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Agriculture
 aim: The module will review soil biological, chemical, and physical processes and
   provide demonstration and explanation in field assessment techniques and current
@@ -25,14 +25,14 @@ programmes:
 - timetable: SCIE-0080
   code: WD_SGRAD_XX
   name: Postgraduate Programmes in Science
-  stage: 5
-  semester: 0
+  stage: '5'
+  semester: '0'
   status: E
 - timetable: SCIE-0080
   code: WD_SOBIA_R
   name: MSc in Organic and Biological Agriculture
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -75,35 +75,35 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Tutorial
-  part_time: 12
+  part_time: '12'
 - full_time: ''
   name: Practical
-  part_time: 12
+  part_time: '12'
 - full_time: ''
   name: Online Delivery
-  part_time: 24
+  part_time: '24'
 - full_time: ''
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5,7
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -120,6 +120,7 @@ assessment_criteria:
   understanding of all learning outcomes, including an innate understanding that all
   animal and crop production is founded on the sustainable management of these primary
   resources and produce a comprehensive audit case study on soil and water resources.'
+special_regulations: []
 essential_material:
 - 'Albrecht, W.A. and C. Walters . _Albrecht on Soil Balancing_. 2nd ed.. Greeley,
   Colorado: Acres USA, 2011.'
@@ -132,6 +133,4 @@ requested_resources:
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

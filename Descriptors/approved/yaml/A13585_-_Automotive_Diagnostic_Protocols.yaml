@@ -1,11 +1,11 @@
 reference: A13585
 full_title: Automotive Diagnostic Protocols
 short_title: Auto Diagnostic Protocols
-credits: 5
+credits: '5'
 level: Advanced
 author: BJACKMAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Automotive, Automation and IoT
 aim: This module introduces the students to the most commonly used protocols and tools
@@ -15,26 +15,26 @@ programmes:
 - timetable: COMP-0223
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: COMP-0223
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: COMP-0223
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: COMP-0223
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 prerequisites: []
 corequisites: []
@@ -60,36 +60,36 @@ learning_and_teaching_methods:
 - Students will be encouraged to enhance their lab work and assessment submissions
   using self-directed research and learning into broader automotive diagnostics topics.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: '1'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: '2'
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -100,6 +100,7 @@ assessment_criteria:
 - '60%-69%: In addition, is able to interpret diagnostic data to identify vehicle
   application problems.'
 - '70%-100%: All of the above and in addition is able to design new diagnostic services.'
+special_regulations: []
 essential_material:
 - '"ASAM organisation." www.asam.net'
 supplementary_material:
@@ -109,6 +110,4 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

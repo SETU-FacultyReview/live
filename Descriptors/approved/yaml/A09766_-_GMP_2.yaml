@@ -1,11 +1,11 @@
 reference: A09766
 full_title: GMP 2
 short_title: GMP 2
-credits: 10
+credits: '10'
 level: Introductory
 author: BWHELAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Quality, Regulatory and Compliance
 aim: The aim of this module is to develop students competency in identifying, interpreting
@@ -16,8 +16,8 @@ programmes:
 - timetable: GMPR-0002
   code: WD_SGMPT_C
   name: Higher Certificate in Science in Good Manufacturing Practice and Technology
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -47,25 +47,25 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Lecture
-  part_time: 24
+  part_time: '24'
 - full_time: ''
   name: Independent Learning
-  part_time: 246
+  part_time: '246'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,5
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -85,6 +85,7 @@ assessment_criteria:
 - '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
   and extensive understanding of the subject. Provide well focused analysis and convincing
   argument on the subject.'
+special_regulations: []
 essential_material:
 - 'Ammar, G. _Analysis of Reliability and Quality Control_. New York: Wiley, 2013.'
 - 'Miller, J.M. and J.B. Crowther. _Analytical Chemistry in a GMP Environment, a practical
@@ -96,6 +97,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

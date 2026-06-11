@@ -1,12 +1,12 @@
 reference: A08681
 full_title: Applied Farm Management
 short_title: Applied Farm Management
-credits: 5
+credits: '5'
 level: Advanced
 author: SWALSH
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Agriculture
 aim: This module is designed to develop the students' understanding of important concepts
   and applications of soil science, grassland management, animal breeding and reproduction,
@@ -18,8 +18,8 @@ programmes:
 - timetable: AGRI-0108
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 prerequisites: []
 corequisites: []
@@ -44,36 +44,36 @@ learning_and_teaching_methods:
 - Guest industry speakers.
 - Farm visits.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '8'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5,6
-  main: false
+  main: 'false'
   name: Project
-  weighting: 70
+  weighting: '70'
   due_weeks: []
   comment: ''
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -91,6 +91,7 @@ assessment_criteria:
 - '70%-100%: The student will be able to demonstrate a comprehensive knowledge and
   understanding of all learning outcomes, including the ability to fully integrate
   the various components of the course.'
+special_regulations: []
 essential_material:
 - 'McDonald, P., R.A. Edwards, J.F. Greenhalgh and C.A. Morgan. _Animal Nutrition_.
   UK: Pearson, 2002.'
@@ -110,6 +111,4 @@ requested_resources:
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

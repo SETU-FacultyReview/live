@@ -1,11 +1,11 @@
 reference: A07736
 full_title: Pharmaceutical Synthesis and Characterisation
 short_title: Pharm Synth & Characterisation
-credits: 5
+credits: '5'
 level: Advanced
 author: CLENNON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Chemistry
 aim: This module will cover the role of spectroscopic methods, specifically nuclear
@@ -18,14 +18,14 @@ programmes:
 - timetable: PHAR-0017
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: CHEM-0032
   code: WD_SQMCH_B
   name: Bachelor of Science (Honours) in Applied Chemistry with Quality Management
-  stage: 4
-  semester: 1
+  stage: '4'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -62,17 +62,17 @@ learning_and_teaching_methods:
 - Lectures.
 - Self-directed study.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: Inadequate understanding of pharmaceutical synthesis and characterisation
   at even a basic level.'
@@ -88,6 +88,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of pharmaceutical synthesis and characterisation,
   predict general trends in behaviour, including exceptional behaviour and critically
   evaluate and relate topics.'
+special_regulations: []
 essential_material:
 - 'Clayden, J., N. Greeves and S. Warren. _Organic Chemistry_ . 2nd ed. : Oxford University
   Press, 2012.'
@@ -100,6 +101,4 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
-
-
 

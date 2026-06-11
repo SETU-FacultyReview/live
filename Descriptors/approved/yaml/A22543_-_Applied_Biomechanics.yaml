@@ -1,11 +1,11 @@
 reference: A22543
 full_title: Applied Biomechanics
 short_title: Applied Biomechanics
-credits: 5
+credits: '5'
 level: Advanced
 author: RBOLGER
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Sport and Exercise Science
 cluster: Sports Technology
 aim: The aim of this module is to guide students in assessing and critiquing the applications
@@ -15,14 +15,14 @@ programmes:
 - timetable: SPOR-0125
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: ''
   code: WD_T0012_X
   name: Bachelor of Science (Honours) in Sport and Exercise Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -50,37 +50,35 @@ learning_and_teaching_methods:
 - Practicals - Hands-on set-up and collection of biomechanics data. Careful attention
   paid to accuracy and reliability of collection techniques
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 4,5
-  main: false
+  main: 'false'
   name: Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
-assessment_criteria:
-- Final Examination (50%)- written paper
-- Continous assessment (50%) - Presentation of a Research project report involving
-  preparation, planning, execution and analysis of a detailed biomechanical project
+assessment_criteria: []
+special_regulations: []
 essential_material:
 - 'Robertson, D.G., G.E. Caldwell, J. Hamill, G. Kamen and S.N. Whittlesey. _Research
   Methods in Biomechanics_. 2nd ed. Champaign, IL: Human Kinetics, 2014.'
@@ -95,6 +93,4 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
-
-
 

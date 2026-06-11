@@ -1,11 +1,11 @@
 reference: A35321
 full_title: Python Programming
 short_title: Python Programming
-credits: 5
+credits: '5'
 level: Introductory
 author: ADAVY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Software and Web Development
 aim: This course focuses on the basic knowledge of Python and small project examples,
@@ -18,8 +18,8 @@ programmes:
 - timetable: COMP-0678
   code: WD_KACMI_B
   name: BSc (Hons) in Applied Computing (International)
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -62,36 +62,36 @@ learning_and_teaching_methods:
   for one assignment) approach will be adopted during the practical sessions.
 - Self-directed learning will be encouraged throughout the duration of the module.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 82
+- full_time: '82'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Project
-  weighting: 60
+  weighting: '60'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -106,6 +106,7 @@ assessment_criteria:
 - '70%-100%: Proficient with designing, developing and testing maintainable, persistent,
   robust, high-quality, elegant UI applications to solve complex problems that are
   substantially different to those studied in the module.'
+special_regulations: []
 essential_material:
 - 'Halterman, R. _Fundamentals of Python Programming_. UK: Southern Adventist University
   (2019), and Internet Archive, 2019.'
@@ -114,6 +115,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

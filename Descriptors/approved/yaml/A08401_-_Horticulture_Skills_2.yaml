@@ -1,12 +1,12 @@
 reference: A08401
 full_title: Horticulture Skills 2
 short_title: Horticulture Skills 2
-credits: 5
+credits: '5'
 level: Introductory
 author: CDOCKRELL
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Horticulture
 aim: This module will equip the student with the skill and competence to perform a
   range of horticulture skills.
@@ -14,26 +14,26 @@ programmes:
 - timetable: HORT-0039
   code: WD_SHORT_D
   name: Bachelor of Science in Horticulture
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: HORT-0039
   code: WD_SHORT_D
   name: Bachelor of Science in Horticulture
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: HORT-0039
   code: WD_SHORT_DX
   name: Bachelor of Science in Horticulture
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: HORT-0039
   code: WD_SHORT_DX
   name: Bachelor of Science in Horticulture
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 prerequisites: []
 corequisites: []
@@ -58,27 +58,27 @@ learning_outcomes:
 learning_and_teaching_methods:
 - Practical demonstrations and assignments.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5,6,8
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 80
+  weighting: '80'
   due_weeks: []
   comment: ''
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: Reflective Journal
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -92,11 +92,10 @@ assessment_criteria:
   acceptable standard and output.'
 - '70%-100%: Demonstrates sound ability to perform all of the skills to a competent
   standard and output.'
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

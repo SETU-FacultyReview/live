@@ -1,11 +1,11 @@
 reference: A09830
 full_title: Tax for Horticulture
 short_title: Tax for Horticulture
-credits: 5
+credits: '5'
 level: Intermediate
 author: LWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: This module will provide students with knowledge and practical skills to comply
@@ -17,14 +17,14 @@ programmes:
 - timetable: HORT-0045
   code: WD_SHORT_D
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: HORT-0045
   code: WD_SHORT_DX
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -48,17 +48,17 @@ learning_and_teaching_methods:
 - Pre-lecture preparation of readings and exercises for in-class discussion.
 - Self-study of assigned readings, exercises and texts.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Lecture
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1, 2, 3, 4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: Very little knowledge and understanding of the subject matter. Unable to
   carry out critical thinking or practical skills.'
@@ -72,6 +72,7 @@ assessment_criteria:
   of this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrates authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
+special_regulations: []
 essential_material:
 - '"Revenue (Irish Taxes and Customs)." www.revenue.ie'
 supplementary_material:
@@ -81,6 +82,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

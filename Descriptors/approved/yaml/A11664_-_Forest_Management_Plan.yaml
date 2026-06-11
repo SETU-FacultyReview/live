@@ -1,12 +1,12 @@
 reference: A11664
 full_title: Forest Management Plan
 short_title: Forest Management Plan
-credits: 10
+credits: '10'
 level: Intermediate
 author: MPEDINI
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Forestry
 aim: This is a 10 credit module whose final outcome is a comprehensive five-year Forest
   Management Plan for a medium-sized property. The demands on forestry as a provider
@@ -24,8 +24,8 @@ programmes:
 - timetable: PROJ-0005
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -70,34 +70,34 @@ learning_and_teaching_methods:
 - Computer practicals will be used to generate the geodatabase for the forest property
   data, and to prepare maps and cost and revenue forecasts.
 learning_modes:
-- full_time: 60
+- full_time: '60'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Field Trips
   part_time: ''
-- full_time: 174
+- full_time: '174'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 25
+  weighting: '25'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 75
+  weighting: '75'
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,5,6,7,8
-  main: false
+  main: 'false'
   name: Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -126,6 +126,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on assessments. Show initiative,
   individual thought, and enthusiasm in self-study and independent learning.'
+special_regulations: []
 essential_material:
 - COFORD. _Irish Dynamic Yield Models for Forest Management User Manual_ by Anonymous,
   A.. Dublin, Ireland. 2010.
@@ -147,6 +148,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

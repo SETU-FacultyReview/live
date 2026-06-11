@@ -1,11 +1,11 @@
 reference: A18801
 full_title: Sustainable Heat & Power Generation
 short_title: Sustainable Heat & Power Generation
-credits: 5
+credits: '5'
 level: Intermediate
 author: RGREENE
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Built Environment
 cluster: Engineering
 aim: The aim of this module is to provide a specialised knowledge of sustainable heat
@@ -20,8 +20,8 @@ programmes:
 - timetable: ''
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -50,10 +50,11 @@ learning_and_teaching_methods:
 learning_modes: []
 assessment_methods:
 - learning_outcomes: 1, 2, 3, 4, 5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 100
+  weighting: '100'
 assessment_criteria: []
+special_regulations: []
 essential_material:
 - 1. Godfrey Boyle, 2004, Renewable energy power for a sustainable future, 2nd Edition,
   Oxford University Press
@@ -69,6 +70,4 @@ supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,11 +1,11 @@
 reference: A11523
 full_title: Process Evaluation
 short_title: Process Evaluation
-credits: 5
+credits: '5'
 level: Intermediate
 author: FLEONARD
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Mathematics and Physics
 aim: This module will expose the student to further control chart constructs. It will
@@ -18,8 +18,8 @@ programmes:
 - timetable: EVAL-0003
   code: WD_SGMPT_D
   name: Bachelor of Science in Good Manufacturing Practice and Technology
-  stage: 1
-  semester: 3
+  stage: '1'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -54,17 +54,17 @@ learning_and_teaching_methods:
 - Lectures.
 - Computer-based practicals.
 learning_modes:
-- full_time: 0
+- full_time: '0'
   name: Lecture
-  part_time: 24
-- full_time: 0
+  part_time: '24'
+- full_time: '0'
   name: Independent Learning
-  part_time: 111
+  part_time: '111'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: Unable to apply experimental design techniques to simple problems or construct
   control charts.'
@@ -74,6 +74,7 @@ assessment_criteria:
   to construct a comprehensive range of control charts.'
 - '60%-69%: As above and able to do some simple manipulation with advanced designs.'
 - '70%-100%: As above and able to do extensive manipulation with advanced designs.'
+special_regulations: []
 essential_material:
 - '"WIT." WIT Moodle page. http://moodle.wit.ie/'
 supplementary_material:
@@ -86,6 +87,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,11 +1,11 @@
 reference: A13950
 full_title: Project
 short_title: Project
-credits: 10
+credits: '10'
 level: Intermediate
 author: RBIRNEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Professional Skills
 aim: The aim of this module is for students to synthesise, deepen and develop their
@@ -16,8 +16,8 @@ programmes:
 - timetable: PROJ-0149
   code: WD_BCSEC_SP
   name: Diploma in Computing with Security and Forensics
-  stage: 3
-  semester: 2
+  stage: '3'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -45,21 +45,21 @@ learning_and_teaching_methods:
 - The project will be largely self-directed; the student will be encouraged to research
   the topic to develop solutions for problems they encounter.
 learning_modes:
-- full_time: 6
+- full_time: '6'
   name: Tutorial
   part_time: ''
-- full_time: 264
+- full_time: '264'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Project
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -78,6 +78,7 @@ assessment_criteria:
 - '70%-100%: As above and produces an excellent document which clearly and precisely
   describes what needs to be done as part of the project. Demonstrates ability to
   abstract ideas and reflect on the process.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Gunderloy, M. _Coder to Developer: Tools and Strategies for Delivering Your Software_.
@@ -87,6 +88,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

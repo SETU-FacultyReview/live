@@ -1,11 +1,11 @@
 reference: A26561
 full_title: Cloud Architecture
 short_title: Cloud Architecture
-credits: 10
+credits: '10'
 level: Postgraduate
 author: RFRISBY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Networks and Cloud
 aim: This module will provide a comprehensive understanding of Cloud Architecture,
@@ -20,8 +20,8 @@ programmes:
 - timetable: COMP-0974
   code: WD_KCESS_R
   name: MSc in Computer Science (Enterprise Software Systems)
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 prerequisites: []
 corequisites: []
@@ -52,24 +52,24 @@ learning_and_teaching_methods:
 - Combination of lectures and guided practical exercises with cloud technologies.
 - Self-directed learning.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 24
-- full_time: 24
+  part_time: '24'
+- full_time: '24'
   name: Lab
-  part_time: 24
-- full_time: 222
+  part_time: '24'
+- full_time: '222'
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -83,6 +83,7 @@ assessment_criteria:
 - 70%-100%:All the above to an excellent level. Be able to propose solutions to a
   high standard for a range of both complex and unforeseen problems through the use
   and modification of appropriate skills and tools.
+special_regulations: []
 essential_material:
 - '"AWS." https://aws.amazon.com/documentation/'
 supplementary_material:
@@ -93,6 +94,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

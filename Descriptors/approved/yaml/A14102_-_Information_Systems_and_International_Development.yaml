@@ -1,11 +1,11 @@
 reference: A14102
 full_title: Information Systems and International Development
 short_title: IS & International Development
-credits: 10
+credits: '10'
 level: Postgraduate
 author: LSTAPLETON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Information Systems and Modelling
 aim: International development agencies and NGOs are growing sectors with a traditionally
@@ -28,8 +28,8 @@ programmes:
 - timetable: COMP-0289
   code: WD_KISYP_R
   name: Master of Science in Computing (Information Systems Processes)
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 prerequisites: []
 corequisites: []
@@ -69,30 +69,30 @@ learning_and_teaching_methods:
   systems and digital technologies in the work of international agencies, NGOs and
   other actors.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
-  part_time: 36
-- full_time: 12
+  part_time: '36'
+- full_time: '12'
   name: Workshop
-  part_time: 12
-- full_time: 222
+  part_time: '12'
+- full_time: '222'
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 assessment_criteria:
 - <40%:Inability to demonstrate a rudimentary understanding of basic concepts associated
   with information systems in a development context or a rudimentary assessment of
@@ -113,6 +113,7 @@ assessment_criteria:
   international development. Demonstrate a deep level of reflection on the theories
   and ideas presented in this module and ability to weigh up vaiorus approaches to
   an advanced level.
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Baskaran, A. and M. Muchie. _Bridging the Digital Divide: Innovation Systems for
@@ -129,6 +130,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,11 +1,11 @@
 reference: A14161
 full_title: Business Intelligence
 short_title: Business Intelligence
-credits: 10
+credits: '10'
 level: Postgraduate
 author: RBARRY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Database and Analytics
 aim: In this module students will learn about business intelligence (BI) concepts,
@@ -25,8 +25,8 @@ programmes:
 - timetable: BUSS-0057
   code: WD_KCESS_R
   name: MSc in Computer Science (Enterprise Software Systems)
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 prerequisites: []
 corequisites: []
@@ -59,24 +59,24 @@ learning_and_teaching_methods:
 - In practical classes, students will engage with BI software and will work on case
   studies and exercises.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 24
-- full_time: 24
+  part_time: '24'
+- full_time: '24'
   name: Lab
-  part_time: 24
-- full_time: 222
+  part_time: '24'
+- full_time: '222'
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5,6
-  main: false
+  main: 'false'
   name: Project
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -88,6 +88,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Teradata University Network." http://www.teradatauniversitynetwork.com/tun/'
@@ -102,7 +103,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
-
 

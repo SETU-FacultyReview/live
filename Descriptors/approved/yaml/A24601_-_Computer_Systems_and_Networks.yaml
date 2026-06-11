@@ -1,11 +1,11 @@
 reference: A24601
 full_title: Computer Systems and Networks
 short_title: Computer Systems and Networks
-credits: 10
+credits: '10'
 level: Advanced
 author: FWWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Networks and Cloud
 aim: This module introduces technologies and network protocols that underpin computer
@@ -19,8 +19,8 @@ programmes:
 - timetable: COMP-0975
   code: WD_KCOSC_G
   name: Higher Diploma in Science in Computer Science
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -64,36 +64,36 @@ learning_and_teaching_methods:
   use of computing devices, virtualisation and cloud-based platforms
 - Self directed learning
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Lecture
   part_time: ''
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 222
+- full_time: '222'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6,7,8,9,10,11
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 5,6,7
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 8,9,10,11
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -116,6 +116,7 @@ assessment_criteria:
   added knowledge as a result of independent learning. Be able to analyse and design
   solutions to a high standard for a range of both complex and unforeseen problems
   through the use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Association for Computing Machinery." Association for Computing Machinery. http://www.acm.org'
@@ -127,6 +128,4 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

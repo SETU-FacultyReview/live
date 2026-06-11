@@ -1,11 +1,11 @@
 reference: A36041
 full_title: The Professional Individual
 short_title: The Professional Individual
-credits: 5
+credits: '5'
 level: Intermediate
 author: KGRENNAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module seeks to provide learners with practical skills to enable them to
@@ -14,26 +14,26 @@ programmes:
 - timetable: PROF-0040
   code: WD_SFDSC_D
   name: Bachelor of Science in Food Science with Business
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: PROF-0040
   code: WD_SFSIN_B
   name: Bachelor of Science (Honours) in Food Science and Innovation
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: PROF-0040
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: PROF-0040
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -70,30 +70,30 @@ learning_and_teaching_methods:
 - Group work.
 - Lectures.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 2,4
-  main: false
+  main: 'false'
   name: Reflective Journal
-  weighting: 60
+  weighting: '60'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,3
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -106,6 +106,7 @@ assessment_criteria:
   persona; in the structure, content and format of their written work.'
 - '70%-100%: Excellent presented work; illustrates the evaluation of self as a professional
   and evaluation of professional practice through presented materials.'
+special_regulations: []
 essential_material:
 - 'Feldman, S.R. _Power Learning - Strategies for Success in College and Life_. 6th
   ed. USA: McGraw Hill Higher Education, 2013.'
@@ -119,6 +120,4 @@ requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

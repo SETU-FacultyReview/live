@@ -1,11 +1,11 @@
 reference: A07812
 full_title: Food Product Development
 short_title: Food Product Dev.
-credits: 15
+credits: '15'
 level: Advanced
 author: EDUGGAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Food Science
 aim: This module is developed to equip students with technical knowledge, practicalities
@@ -24,20 +24,20 @@ programmes:
 - timetable: ''
   code: WD_HCULA_B
   name: Bachelor of Arts (Honours) in Culinary Arts
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: SCIE-0065
   code: WD_SFDSC_B
   name: Bachelor of Science (Honours) in Food Science and Innovation
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 - timetable: SCIE-0065
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 prerequisites:
 - Food Innovation and Entrepreneurship
@@ -76,34 +76,34 @@ learning_and_teaching_methods:
 - Lab-based practical classes will enable students to perform food analysis experiments
   to determine physico-chemical properties of the developed product.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 120
+- full_time: '120'
   name: Practical
   part_time: ''
-- full_time: 249
+- full_time: '249'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 6,7,8,9
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 25
+  weighting: '25'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 75
+  weighting: '75'
 - learning_outcomes: 1,2,3,4,5,10
-  main: false
+  main: 'false'
   name: Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -119,6 +119,7 @@ assessment_criteria:
   this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -153,6 +154,4 @@ requested_resources:
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

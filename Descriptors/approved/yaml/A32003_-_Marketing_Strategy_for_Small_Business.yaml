@@ -1,11 +1,11 @@
 reference: A32003
 full_title: Marketing Strategy for Small Business
 short_title: Market Strat Small Business
-credits: 5
+credits: '5'
 level: Advanced
 author: KMURPHY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: The aim of this module is to develop the student's critical appreciation of the
@@ -14,14 +14,14 @@ programmes:
 - timetable: MARK-0192
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: MARK-0192
   code: WD_SBSFO_B
   name: Bachelor of Science (Honours) in Land Management (in Forestry)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -51,33 +51,33 @@ learning_and_teaching_methods:
 - Videos.
 - Group workshops.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,4
-  main: false
+  main: 'false'
   name: Essay
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Participation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -91,12 +91,11 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate a comprehensive knowledge and
   understanding of all learning outcomes, including the ability to fully integrate
   the various components of the course.'
+special_regulations: []
 essential_material:
 - 'Rogan, D. _Marketing for Small Business_. 4th. Dublin: Gill and Macmillan, 2011.'
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

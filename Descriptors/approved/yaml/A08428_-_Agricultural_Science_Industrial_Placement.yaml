@@ -1,11 +1,11 @@
 reference: A08428
 full_title: Agricultural Science Industrial Placement
 short_title: Agri Sci Industrial Placement
-credits: 30
+credits: '30'
 level: Intermediate
 author: SWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module will allow learners to apply and develop their skills in the agri-food
@@ -21,8 +21,8 @@ programmes:
 - timetable: AGRI-0097
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -56,16 +56,16 @@ learning_and_teaching_methods:
 - Weekly log of activity.
 - Working and relating with other co-workers and clients.
 learning_modes:
-- full_time: 810
+- full_time: '810'
   name: Placement
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: false
+  main: 'false'
   name: Portfolio
   weighting: Pass/Fail
   due_weeks: []
@@ -76,6 +76,7 @@ assessment_criteria:
 - 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisors
   Evaluation Report submitted, and assessments and documents related to the learning
   outcomes, all to an acceptable standard and submitted within deadlines.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Fanthome, C. _Work placements : a survival guide for students_ . Basingstoke :
@@ -83,6 +84,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

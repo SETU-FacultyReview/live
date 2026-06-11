@@ -1,11 +1,11 @@
 reference: A11530
 full_title: Applied Mathematics for Scientists
 short_title: Applied Maths for Scientists
-credits: 5
+credits: '5'
 level: Introductory
 author: FLEONARD
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Mathematics and Physics
 aim: This module looks at modelling a range of scientific phenomena using differential
@@ -18,26 +18,26 @@ programmes:
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: MTHE-0044
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: MTHE-0044
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: MTHE-0044
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -55,27 +55,27 @@ learning_outcomes:
 learning_and_teaching_methods:
 - Lectures.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1, 2, 3, 4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1, 2, 3
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 80
+  weighting: '80'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -88,6 +88,7 @@ assessment_criteria:
   in multiple variable calculus and in differential equations.'
 - '70%-100%: As above and have an authoritative understanding of the methods and applications
   of multiple variable calculus and in differential equations.'
+special_regulations: []
 essential_material:
 - '"Moodle." moodle.wit.ie'
 supplementary_material:
@@ -98,6 +99,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

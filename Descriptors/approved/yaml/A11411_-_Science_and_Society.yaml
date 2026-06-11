@@ -1,11 +1,11 @@
 reference: A11411
 full_title: Science and Society
 short_title: Science and Society
-credits: 5
+credits: '5'
 level: Introductory
 author: EOWENS
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Environmental Science
 aim: Science is important to all areas of human life. Understanding science, therefore,
@@ -18,44 +18,44 @@ programmes:
 - timetable: SCIE-0043
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: SCIE-0043
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: SCIE-0043
   code: WD_SMBIO_B
   name: BSc (Hons) in Molecular Biology with Biopharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: SCIE-0043
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: SCIE-0043
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: SCIE-0043
   code: WD_SSCCM_B
   name: BSc (Hons) in Science (Common Entry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: SCIE-0043
   code: WD_SSCIE_D
   name: Bachelor of Science (Common Entry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -83,36 +83,36 @@ learning_and_teaching_methods:
 - Tutorials.
 - Self-directed study.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Tutorial
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: Essay
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4,6
-  main: false
+  main: 'false'
   name: Participation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Group Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -125,6 +125,7 @@ assessment_criteria:
   and providing good reasoning and analysis skills.'
 - '70%-100%: All the above to an excellent level and demonstrate excellent reasoning
   skills and focused well thought out arguments.'
+special_regulations: []
 essential_material:
 - '"Module Moodle page." Science and Society. http://www.moodle.ie'
 supplementary_material:
@@ -135,6 +136,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

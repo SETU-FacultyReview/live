@@ -1,11 +1,11 @@
 reference: A14853
 full_title: Digital Forensics
 short_title: Digital Forensics
-credits: 5
+credits: '5'
 level: Introductory
 author: JSHEPPARD
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Forensics and Security
 aim: The aims of this module are to provide students with an understanding of digital
@@ -20,8 +20,8 @@ programmes:
 - timetable: COMP-0534
   code: WD_BCSEC_SP
   name: Diploma in Computing with Security and Forensics
-  stage: 3
-  semester: 2
+  stage: '3'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -51,30 +51,30 @@ learning_and_teaching_methods:
   covered in the lectures.
 - Practical work will include the student working with standard forensic tools.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Lab
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,5,6,7
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -89,6 +89,7 @@ assessment_criteria:
   and corroborate it with other sources of evidence.'
 - '70%-100%: All above to an excellent level. Be able to discuss their effect on forensic
   examinations.'
+special_regulations: []
 essential_material:
 - '"forensicfocus." www.forensicfocus.com'
 supplementary_material: []
@@ -96,6 +97,4 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

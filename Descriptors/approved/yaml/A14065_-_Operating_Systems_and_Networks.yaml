@@ -1,11 +1,11 @@
 reference: A14065
 full_title: Operating Systems and Networks
 short_title: Operating Systems and Networks
-credits: 5
+credits: '5'
 level: Intermediate
 author: DOHALLORAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Networks and Cloud
 aim: This module introduces the fundamental concepts of operating systems and computer
@@ -19,8 +19,8 @@ programmes:
 - timetable: COMP-0532
   code: WD_BCSEC_SP
   name: Diploma in Computing with Security and Forensics
-  stage: 3
-  semester: 2
+  stage: '3'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -51,34 +51,34 @@ learning_and_teaching_methods:
   use of virtualisation and simulation tools.
 - Self-directed learning.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 3,4,5
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4,5
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -92,6 +92,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use of appropriate skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Kurose, J. and K. Ross. _Computer Networking: A Top-Down Approach_. 6th Ed. Boston:
@@ -104,6 +105,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

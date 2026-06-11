@@ -1,11 +1,11 @@
 reference: A07896
 full_title: Cell Biology and Biochemistry
 short_title: Cell Biology and Biochemistry
-credits: 5
+credits: '5'
 level: Introductory
 author: ROMAHONY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Biology
 aim: The aim of this module is to develop an understanding of the fundamentals of
@@ -14,69 +14,69 @@ programmes:
 - timetable: BIOL-0002
   code: WD_KPHTE_B
   name: BSc (Hons) in Physics for Modern Technology
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0002
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0002
   code: WD_SAGRI_D
   name: Bachelor of Science in Agricultural Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0002
   code: WD_SFDSC_D
   name: Bachelor of Science in Food Science with Business
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0002
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0002
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0002
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0002
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0002
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0002
   code: WD_SSCCM_B
   name: BSc (Hons) in Science (Common Entry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: BIOL-0002
   code: WD_SSCIE_D
   name: Bachelor of Science (Common Entry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -110,28 +110,28 @@ learning_and_teaching_methods:
   during tutorial sessions on or off-site.
 - The entire above are delivered through Moodle using blended and e-learning.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 4,5
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -146,6 +146,7 @@ assessment_criteria:
   high level of competence and efficiency in theoretical and practical components.'
 - '70%-100%: A highly developed and extensive understanding of cell biology and biochemistry.
   Excellent technical ability in carrying out and reporting on practical tasks.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -162,6 +163,4 @@ requested_resources:
 - 'EQUIPMENT: MAC PCs'
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,11 +1,11 @@
 reference: A13728
 full_title: Creative Programming Fundamentals 2
 short_title: Creative Programming 2
-credits: 5
+credits: '5'
 level: Introductory
 author: BONEILL
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Software and Web Development
 aim: The purpose of this module is to further develop and enrich creativity by focusing
@@ -17,14 +17,14 @@ programmes:
 - timetable: COMP-0587
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0587
   code: WD_KMULA_D
   name: Bachelor of Science in Multimedia Applications Development
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -48,36 +48,36 @@ learning_and_teaching_methods:
 - Practical labs so that the students can put the theory into practice.
 - Self-directed learning.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4, 5
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -90,6 +90,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material:
 - '"Home Page of P5.js." http://p5js.org/'
 - 'Mc Carthy, L., C. Reas and B. Fry. _Getting started with P5.js_. NY: Maker Media,
@@ -101,6 +102,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

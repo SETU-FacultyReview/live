@@ -1,11 +1,11 @@
 reference: A00841
 full_title: Biopharmaceutical Analysis and Cell Culture
 short_title: Biopharma. & Cell Culture
-credits: 10
+credits: '10'
 level: Postgraduate
 author: KGRENNAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Biology
 aim: This module will provide students with an in-depth knowledge and skills in biopharmaceutical
@@ -27,20 +27,20 @@ programmes:
 - timetable: PHAR-0014
   code: WD_SANSC_G
   name: Postgraduate Diploma in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: PHAR-0014
   code: WD_SANSC_R
   name: Master of Science in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: PHAR-0014
   code: WD_SBIOP_MA
   name: Certificate in Biopharmaceutical Analysis & Cell Culture
-  stage: 5
-  semester: 0
+  stage: '5'
+  semester: '0'
   status: M
 prerequisites: []
 corequisites: []
@@ -97,40 +97,40 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Lecture
-  part_time: 30
+  part_time: '30'
 - full_time: ''
   name: Practical
-  part_time: 18
+  part_time: '18'
 - full_time: ''
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Participation
-  weighting: 5
+  weighting: '5'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -148,6 +148,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of biopharmaceutical analysis and cell
   culture-related issues. Should also have the ability to critically evaluate and
   relate topics in cell culture with biopharmaceutical production and analysis.'
+special_regulations: []
 essential_material:
 - 'Ceccherini-Nelli , L. and B. Matteoli. _Biomedical tissue culture_. Rijeka, Croatia:
   InTech, 2012.'
@@ -176,7 +177,4 @@ requested_resources:
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
 track_changes: true
-
-
-
 

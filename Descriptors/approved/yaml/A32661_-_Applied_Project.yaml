@@ -1,11 +1,11 @@
 reference: A32661
 full_title: Applied Project
 short_title: Applied Proj
-credits: 10
+credits: '10'
 level: Advanced
 author: BWHELAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: The aim of this module is to provide the quality professional with an opportunity
@@ -20,8 +20,8 @@ programmes:
 - timetable: PROJ-0205
   code: WD_SGMPT_B
   name: BSc (Hons) in Good Manufacturing Practice and Technology
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -45,31 +45,31 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Other
-  part_time: 12
+  part_time: '12'
 - full_time: ''
   name: Independent Learning
-  part_time: 258
+  part_time: '258'
 assessment_methods:
 - learning_outcomes: 1, 2, 3, 4, 5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1, 2, 4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 80
+  weighting: '80'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -90,6 +90,7 @@ assessment_criteria:
   comprehensive knowledge & understanding of all learning outcomes & be able to discuss
   the area. Will display advanced competence & independence with associated laboratory
   skills & practices.'
+special_regulations: []
 essential_material:
 - '"http://sciencedirect.com." www.wit.ie'
 - '"library@wit.ie/researcher-supports." www.wit.ie'
@@ -101,6 +102,4 @@ supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

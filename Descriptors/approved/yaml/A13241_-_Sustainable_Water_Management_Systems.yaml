@@ -1,11 +1,11 @@
 reference: A13241
 full_title: Sustainable Water Management Systems
 short_title: Sustainable Water Mgmt Systems
-credits: 5
+credits: '5'
 level: Advanced
 author: JGERAGHTY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Environmental Science
 aim: The demands of population increases, associated food requirements and the influence
@@ -21,26 +21,26 @@ programmes:
 - timetable: SCIE-0072
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: SCIE-0072
   code: WD_SBSAG_B
   name: Bachelor of Science (Honours) in Land Management (in Agriculture)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: SCIE-0072
   code: WD_SBSFO_B
   name: Bachelor of Science (Honours) in Land Management (in Forestry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: SCIE-0072
   code: WD_SBSHO_B
   name: Bachelor of Science (Honours) in Land Management (in Horticulture)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -74,37 +74,37 @@ learning_and_teaching_methods:
 - Briefings from sector professionals.
 - Webcast presentations.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: E-Learning
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Field Trips
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 40
+  weighting: '40'
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: Group Project
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -119,6 +119,7 @@ assessment_criteria:
 - '70%-100%: Demonstrate a comprehensive knowledge and understanding of all learning
   outcomes, including the ability to integrate and critically analyse the various
   components of the course.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -134,6 +135,4 @@ supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

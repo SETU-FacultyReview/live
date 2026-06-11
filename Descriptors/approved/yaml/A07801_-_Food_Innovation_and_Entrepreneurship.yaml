@@ -1,11 +1,11 @@
 reference: A07801
 full_title: Food Innovation and Entrepreneurship
 short_title: Food Innov. & Entre
-credits: 15
+credits: '15'
 level: Advanced
 author: EDUGGAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Food Science
 aim: This module is designed to uniquely bridge the knowledge gap between science,
@@ -15,20 +15,20 @@ programmes:
 - timetable: ''
   code: WD_HCULA_B
   name: Bachelor of Arts (Honours) in Culinary Arts
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 - timetable: SCIE-0063
   code: WD_SFDSC_B
   name: Bachelor of Science (Honours) in Food Science and Innovation
-  stage: 4
-  semester: 1
+  stage: '4'
+  semester: '1'
   status: M
 - timetable: SCIE-0063
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 prerequisites: []
 corequisites: []
@@ -76,45 +76,45 @@ learning_and_teaching_methods:
 - Lectures will provide the theory for varied aspects of the module.
 - Practical classes in the kitchens will enable students to learn culinary skills.
 learning_modes:
-- full_time: 108
+- full_time: '108'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 249
+- full_time: '249'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '9'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 6,7,8
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: '10'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -131,6 +131,7 @@ assessment_criteria:
   outcomes. Will display advanced competence and independence with regards to use
   of associated laboratory techniques and instrumentation and excellent laboratory
   practice.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -170,6 +171,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

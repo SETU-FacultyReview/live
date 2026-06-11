@@ -1,11 +1,11 @@
 reference: A14171
 full_title: Legal Principles of Computer Forensics
 short_title: Legal Prin of Comp Forensics
-credits: 5
+credits: '5'
 level: Introductory
 author: JSHEPPARD
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Forensics and Security
 aim: This module aims to enable students to gain a detailed knowledge and understanding
@@ -27,26 +27,26 @@ programmes:
 - timetable: LAWS-0001
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: LAWS-0001
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: LAWS-0001
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: LAWS-0001
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 prerequisites: []
 corequisites: []
@@ -85,24 +85,24 @@ learning_and_teaching_methods:
 - The practical element allows the student to put into practice the theoretical concepts
   covered in the lectures.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Tutorial
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -116,6 +116,7 @@ assessment_criteria:
   and tensions in the area in a clear and logical structure.'
 - '70%-100%: All of the above at an exceptional level meeting and excelling at all
   the criteria.'
+special_regulations: []
 essential_material:
 - '"Irish Statute Book." http://www.irishstatutebook.ie/'
 - 'Hanley, C. _An Introduction to Irish Criminal Law_. Ireland: Gill & MacMillian,
@@ -127,6 +128,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

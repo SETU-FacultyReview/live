@@ -1,11 +1,11 @@
 reference: A11564
 full_title: Advanced Spectroscopic Techniques
 short_title: Adv. Spectroscopic Techniques
-credits: 10
+credits: '10'
 level: Postgraduate
 author: KGRENNAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Analytical Science
 aim: This module will provide the student with an advanced understanding of the theory,
@@ -21,20 +21,20 @@ programmes:
 - timetable: SCIE-0051
   code: WD_SANSC_G
   name: Postgraduate Diploma in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: SCIE-0051
   code: WD_SANSC_R
   name: Master of Science in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: SCIE-0051
   code: WD_SSPEC_MA
   name: Certificate in Advanced Spectroscopic Techniques
-  stage: 5
-  semester: 0
+  stage: '5'
+  semester: '0'
   status: M
 prerequisites: []
 corequisites: []
@@ -78,28 +78,28 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Lecture
-  part_time: 24
+  part_time: '24'
 - full_time: ''
   name: Practical
-  part_time: 24
+  part_time: '24'
 - full_time: ''
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 2,3,4
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,5
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -116,6 +116,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of all learning outcomes. Will display
   advanced competence and independence with regards to associated practical and resulting
   data analysis skills.'
+special_regulations: []
 essential_material:
 - '"Advanced Spectroscopic Techniques module Moodle page." http://moodle.wit.ie'
 supplementary_material: []
@@ -124,6 +125,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

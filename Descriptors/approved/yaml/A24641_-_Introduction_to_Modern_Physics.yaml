@@ -1,11 +1,11 @@
 reference: A24641
 full_title: Introduction to Modern Physics
 short_title: Introduction to Modern Physics
-credits: 5
+credits: '5'
 level: Introductory
 author: CORAIFEARTAIGH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Mathematics and Physics
 aim: This module introduces the student to fundamental concepts in quantum theory,
@@ -22,32 +22,32 @@ programmes:
 - timetable: PHYI-0040
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: PHYI-0040
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: PHYI-0040
   code: WD_SMBIO_B
   name: BSc (Hons) in Molecular Biology with Biopharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: PHYI-0040
   code: WD_SSCCM_B
   name: BSc (Hons) in Science (Common Entry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: PHYI-0040
   code: WD_SSCIE_D
   name: Bachelor of Science (Common Entry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -75,36 +75,36 @@ learning_and_teaching_methods:
   in quantum physics and cosmology'
 - Self-directed study
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 4,5
-  main: false
+  main: 'false'
   name: Essay
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,5
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -118,6 +118,7 @@ assessment_criteria:
 - '60-69%: IAbility to demonstrate very good knowledge of the module content, and
   present arguments relating to this content.'
 - '70%: All previous to an excellent level'
+special_regulations: []
 essential_material:
 - 'Coles, P. _Cosmology: A very Short Introduction_. Oxford: Oxford University Press,
   2001.'
@@ -131,6 +132,4 @@ requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
 track_changes: true
-
-
 

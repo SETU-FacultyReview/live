@@ -1,11 +1,11 @@
 reference: A07727
 full_title: Pharmaceutical Organic Chemistry
 short_title: Pharmaceutical Organic Chem
-credits: 5
+credits: '5'
 level: Introductory
 author: CLENNON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Chemistry
 aim: This module will introduce reactions and mechanisms of key organic functional
@@ -17,14 +17,14 @@ programmes:
 - timetable: CHEM-0009
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: CHEM-0009
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -54,37 +54,37 @@ learning_and_teaching_methods:
 - Tutorials.
 - Self-directed study.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Tutorial/Problem Sheets
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,5
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -105,6 +105,7 @@ assessment_criteria:
   of pharmaceutical organic chemistry, predict general trends in behaviour, including
   exceptional behaviour and show the ability to evaluate and relate topics. Will demonstrate
   excellent laboratory skills and a consistently high ability in analysis of results.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -122,6 +123,4 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
-
-
 

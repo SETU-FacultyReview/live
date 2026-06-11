@@ -1,11 +1,11 @@
 reference: A13843
 full_title: Web Programming
 short_title: Web Programming
-credits: 5
+credits: '5'
 level: Advanced
 author: RBIRNEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Software and Web Development
 aim: This module introduces the student to the principles of web programming. The
@@ -17,14 +17,14 @@ programmes:
 - timetable: COMP-0623
   code: WD_KBUSY_G
   name: Higher Diploma in Science in Business Systems Analysis
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 - timetable: COMP-0623
   code: WD_KCOMP_D
   name: BSc in Applied Computing
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -49,24 +49,24 @@ learning_and_teaching_methods:
   in the lectures, and allow them to develop practical skills in web development.
 - Supplementary material will be accessible online.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 12
-- full_time: 24
+  part_time: '12'
+- full_time: '24'
   name: Practical
-  part_time: 12
-- full_time: 87
+  part_time: '12'
+- full_time: '87'
   name: Independent Learning
-  part_time: 111
+  part_time: '111'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -79,6 +79,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse Web Programming
   solutions to a high standard for a range of both complex and unforeseen problems
   through the use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Brinzarea, B., C. Darie and A. Hendrix. _AJAX and PHP: Building Modern Web Applications_.
@@ -89,6 +90,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

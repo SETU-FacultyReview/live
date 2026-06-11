@@ -1,11 +1,11 @@
 reference: A36588
 full_title: Mechanisation
 short_title: Mechanisation
-credits: 5
+credits: '5'
 level: Introductory
 author: TWOODCOCK
 history_comment: ''
-school: Engineering
+faculty: Engineering
 department: Land Sciences
 cluster: Engineering
 aim: This module will enable the student to acquire a comprehensive knowledge of tractor
@@ -16,8 +16,8 @@ programmes:
 - timetable: MECH-0007
   code: WD_SAGUL_D
   name: Bachelor of Science in Agriculture
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 prerequisites: []
 corequisites: []
@@ -42,28 +42,28 @@ learning_and_teaching_methods:
 - Self-directed learning
 - Practical demonstrations
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 2,3,4,6,7
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 2,3,4,6,7
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -76,10 +76,11 @@ assessment_criteria:
   acquired in the module to new material.'
 - '70%--100%: The learner will be able to demonstrate comprehensive knowledge and
   understanding of all learn'
-- 'Note: In addition to the normal regulations, a minimum of 35% must be achieved
-  in both the final exam and continuous assessment components of the module. In cases
-  where continuous assessment has a practical component attendance of at least 75%
-  in the practicals is mandatory.'
+special_regulations:
+- In addition to the normal regulations, a minimum of 35% must be achieved in both
+  the final exam and continuous assessment components of the module. In cases where
+  continuous assessment has a practical component attendance of at least 75% in the
+  practicals is mandatory.
 essential_material:
 - Teagasc. _Organic Manure Handling._ Dublin. 2020.
 - Teagasc. _Workshop skills_ Dublin. 2019.
@@ -88,6 +89,4 @@ requested_resources:
 - 'WORKSHOP: Kildalton Agricultural College Equipment and Machinery'
 mlo_to_po: ''
 track_changes: true
-
-
 

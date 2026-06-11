@@ -1,11 +1,11 @@
 reference: A06812
 full_title: Atomic, Quantum and Solid State Physics
 short_title: Atomic, Quantum & Solid State
-credits: 5
+credits: '5'
 level: Intermediate
 author: GGALLAGHER
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Mathematics and Physics
 aim: In this module the student meets formal quantum mechanics for the first time.
@@ -17,8 +17,8 @@ programmes:
 - timetable: ELEC-0039
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -51,36 +51,36 @@ learning_and_teaching_methods:
 - Lectures.
 - Tutorials.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -94,6 +94,7 @@ assessment_criteria:
 - '70%-100%: All previous to an excellent level. Demonstrates an ability to put a
   solution into the context of the course material and assess whether such solutions
   are meaningful.'
+special_regulations: []
 essential_material:
 - 'Garcia, A. and S. Damask. _Physics for Computer Scientists_. New York: Springer,
   1998.'
@@ -104,6 +105,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

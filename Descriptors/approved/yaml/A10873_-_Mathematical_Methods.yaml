@@ -1,11 +1,11 @@
 reference: A10873
 full_title: Mathematical Methods
 short_title: Mathematical Methods
-credits: 5
+credits: '5'
 level: Introductory
 author: KMURPHY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Mathematics and Physics
 aim: This module deals with the mathematical concepts and techniques needed to tackle
@@ -14,26 +14,26 @@ programmes:
 - timetable: MTHS-0039
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: MTHS-0039
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: MTHS-0016
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: MTHS-0039
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -70,30 +70,30 @@ learning_and_teaching_methods:
 - Active engagement with frequent practice on examples is strongly encouraged through
   regular course work and class tests.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 25
+  weighting: '25'
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 75
+  weighting: '75'
 assessment_criteria:
 - '<40%: Inability to demonstrate knowledge or understanding of the fundamental concepts
   and techniques in vector calculus and matrix systems as outlined in the syllabus
@@ -108,6 +108,7 @@ assessment_criteria:
   precision.'
 - '70%-100%: All the above to an excellent level. Demonstrates an ability to put a
   solution into a context and assess whether such solutions are meaningful.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Anton, H. _Elementary Linear Algebra_. NY: Prentice Hall, 2008.'
@@ -115,6 +116,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

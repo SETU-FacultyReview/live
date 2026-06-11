@@ -1,11 +1,11 @@
 reference: A05929
 full_title: Industrial Electronics
 short_title: Industrial Electronics
-credits: 5
+credits: '5'
 level: Intermediate
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Electronics
 aim: The aim of this module is to provide the student with an understanding of power
@@ -16,26 +16,26 @@ programmes:
 - timetable: ELTR-0031
   code: WD_EELCT_D
   name: Bachelor of Engineering in Electrical Engineering
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: ''
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours) in Electrical Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: ''
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours)
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: ''
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -70,40 +70,40 @@ learning_and_teaching_methods:
   for the student.
 - Self-directed learning, use of moodle, and recommended software.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 40
+  weighting: '40'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -124,6 +124,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+special_regulations: []
 essential_material:
 - 'Moham, N. _First Court on Power Electronics & Drives_. UK: Mnpere, 2003.'
 - 'Rashid, M.H. _Power Electronics Handbook_. UK: Academic Press, 2001.'
@@ -132,6 +133,4 @@ requested_resources:
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
 track_changes: true
-
-
 

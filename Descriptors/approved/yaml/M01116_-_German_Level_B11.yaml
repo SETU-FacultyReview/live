@@ -1,11 +1,11 @@
 reference: M01116
 full_title: German Level B1.1
 short_title: German Level B1.1
-credits: 5
+credits: '5'
 level: Advanced
 author: ''
 history_comment: ''
-school: Humanities
+faculty: Humanities
 department: Computing and Mathematics
 cluster: Humanities
 aim: 'This module aims to: enable the student to understand the main points of clear
@@ -20,8 +20,8 @@ programmes:
 - timetable: GERM-0024
   code: WD_KCOMC_D
   name: Bachelor of Science in Software Systems Development
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: ''
 prerequisites: []
 corequisites: []
@@ -72,26 +72,27 @@ learning_and_teaching_methods:
   by a high level of student participation in both classroom activities and self-directed
   learning activities outside the classroom.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
-- Fail (<40%).
-- Pass (40-49%).
-- Merit 2 (50-59%).
-- Merit 1 (60-69%).
-- Distinction (70 - 100%).
+- '<40%:'
+- '40%-49%:'
+- '50%-59%:'
+- '60%-69%:'
+- '70%-100%:'
+special_regulations: []
 essential_material:
 - '"(Content and Language Integrated Learning - CLIL)." www.clilconsortium.jyu.fi'
 - '"particularly Kaleidoskop, jetzt online,." www.goethe.de'
@@ -114,6 +115,4 @@ supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

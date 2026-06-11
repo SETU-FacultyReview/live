@@ -1,11 +1,11 @@
 reference: A06222
 full_title: Biochemistry
 short_title: Biochemistry
-credits: 5
+credits: '5'
 level: Introductory
 author: KTAMBLING
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Biology
 aim: This module builds on students' knowledge of basic biochemical concepts obtained
@@ -20,14 +20,14 @@ programmes:
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: BIOL-0011
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -60,28 +60,28 @@ learning_and_teaching_methods:
 - Feedback will be provided on an on-going basis to encourage reflective, critical
   and independent learning.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -95,6 +95,7 @@ assessment_criteria:
   biochemistry.'
 - '70%-100%: All of the above to an excellent level. Has the ability to describe and
   discuss theoretical and practical biochemistry.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -118,7 +119,4 @@ requested_resources:
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
 track_changes: true
-
-
-
 

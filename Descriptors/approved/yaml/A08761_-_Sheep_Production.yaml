@@ -1,12 +1,12 @@
 reference: A08761
 full_title: Sheep Production
 short_title: Sheep Production
-credits: 5
+credits: '5'
 level: Introductory
 author: JDAY
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Agriculture
 aim: This module will enable the student to acquire a detailed knowledge of production
   and management practices, and the everyday skills needed to manage a sheep flock.
@@ -15,8 +15,8 @@ programmes:
 - timetable: AGRI-0009
   code: WD_SAGUL_D
   name: Bachelor of Science in Agriculture
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 prerequisites: []
 corequisites: []
@@ -46,34 +46,34 @@ learning_and_teaching_methods:
 - 'Online resources: Sheep Ireland, Teagasc, Bord Bia.'
 - Field trips.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,6,7,8
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,8
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -88,6 +88,7 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
   of all learning outcomes, and an ability to evaluate and relate topics that overlap
   all of the learning outcomes.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -106,6 +107,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

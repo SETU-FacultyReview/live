@@ -1,11 +1,11 @@
 reference: A09892
 full_title: Measurement Systems
 short_title: Measurement Systems
-credits: 5
+credits: '5'
 level: Intermediate
 author: CWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Engineering
 aim: The emphasis of the module will be towards design, analysis and implementation
@@ -18,26 +18,26 @@ programmes:
 - timetable: COMP-0411
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: COMP-0411
   code: WD_KINTT_B
   name: BSc (Hons) in the Internet of Things
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: ''
   code: WD_KINTT_BI
   name: BSc (Hons) in the Internet of Things (International)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: COMP-0411
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -71,34 +71,34 @@ learning_and_teaching_methods:
   systems, interpret and report experimental results.'
 - Self-directed learning.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 40
+  weighting: '40'
 - learning_outcomes: '8'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 6,7
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -117,6 +117,7 @@ assessment_criteria:
   of the limitations of circuits and measurement systems and subsequent consequences.
   Assess whether solutions are meaningful. Can critically assess any experimental
   work undertaken.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -134,6 +135,4 @@ requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
 track_changes: true
-
-
 

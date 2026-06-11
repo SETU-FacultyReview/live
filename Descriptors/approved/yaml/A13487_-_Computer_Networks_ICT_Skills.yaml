@@ -1,11 +1,11 @@
 reference: A13487
 full_title: Computer Networks (ICT Skills)
 short_title: Computer Networks (ICT Skills)
-credits: 5
+credits: '5'
 level: Advanced
 author: LBWHITE
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Networks and Cloud
 aim: This module introduces data communications terminology and concepts, network
@@ -17,8 +17,8 @@ programmes:
 - timetable: COMP-0519
   code: WD_KCOSC_G
   name: Higher Diploma in Science in Computer Science
-  stage: 4
-  semester: 1
+  stage: '4'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -52,28 +52,28 @@ learning_and_teaching_methods:
 - The continuous assessment will require the student to apply the theory and practical
   knowledge to a business solution.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 3,4,5,6,7
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -89,6 +89,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Association for Computing Machinery." http://www.acm.org'
@@ -102,6 +103,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

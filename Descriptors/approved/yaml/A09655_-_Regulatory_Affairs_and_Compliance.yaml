@@ -1,11 +1,11 @@
 reference: A09655
 full_title: Regulatory Affairs and Compliance
 short_title: Reg Affairs & Compliance
-credits: 5
+credits: '5'
 level: Advanced
 author: BWHELAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Quality, Regulatory and Compliance
 aim: This module will develop the student s competency in identifying, interpreting
@@ -17,26 +17,26 @@ programmes:
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: SCIE-0028
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: QUAL-0007
   code: WD_SQMBI_B
   name: Bachelor of Science (Honours) in Applied Biology with Quality Management
-  stage: 4
-  semester: 1
+  stage: '4'
+  semester: '1'
   status: M
 - timetable: SCIE-0028
   code: WD_SQMCH_B
   name: Bachelor of Science (Honours) in Applied Chemistry with Quality Management
-  stage: 4
-  semester: 1
+  stage: '4'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -74,33 +74,33 @@ learning_and_teaching_methods:
 - Case studies.
 - Review of pharmaceutical legislation framework.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: Participation
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -116,6 +116,7 @@ assessment_criteria:
 - '70%-100%: All previous to excellent level. Be able to describe and discuss regulatory
   affairs and compliance to the legislation pertaining to the pharmaceutical, food
   and healthcare industries.'
+special_regulations: []
 essential_material:
 - '"www.ema.com; Notice to Applicants." http://www.ema.europa.eu/ema/'
 - '"www.eudralex.com." http://ec.europa.eu/health/documents/eudralex/index_en.htm'
@@ -126,6 +127,4 @@ supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

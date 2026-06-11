@@ -1,11 +1,11 @@
 reference: A13888
 full_title: Content Production
 short_title: Content Production
-credits: 5
+credits: '5'
 level: Intermediate
 author: ROCONNOR
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Media Production
 aim: Participants create high-quality media assets for simulated clients or events.
@@ -15,8 +15,8 @@ programmes:
 - timetable: COMP-0666
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 prerequisites: []
 corequisites: []
@@ -48,17 +48,17 @@ learning_and_teaching_methods:
 - Access to cameras.
 - Video/Photography Studio.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Project
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: Unable to interpret and describe key concepts of the content production domain.'
 - '40%-49%: Be able to interpret and describe key concepts of the content production
@@ -70,6 +70,7 @@ assessment_criteria:
   creative use of the appropriate skills and tools.'
 - '70%-100%: All the above to an excellent level. Ability to demonstrate mastery of
   specialised skills in writing and communication of ideas.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"BBC Media Studies Training." http://www.bbc.co.uk/learning/subjects/media_studies.shtml'
@@ -83,6 +84,4 @@ requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

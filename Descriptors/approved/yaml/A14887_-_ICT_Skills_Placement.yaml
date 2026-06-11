@@ -1,11 +1,11 @@
 reference: A14887
 full_title: ICT Skills Placement
 short_title: ICT Skills Placement
-credits: 30
+credits: '30'
 level: Advanced
 author: EDELEASTAR
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Professional Skills
 aim: Students will spend a period of not less than four months in a work experience
@@ -22,8 +22,8 @@ programmes:
 - timetable: PLAC-0128
   code: WD_KCOSC_G
   name: Higher Diploma in Science in Computer Science
-  stage: 1
-  semester: 3
+  stage: '1'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -45,20 +45,20 @@ learning_and_teaching_methods:
 - The applied learning portfolio is designed to foster self-reflection on the learning
   gained through participation in the work placement.
 learning_modes:
-- full_time: 6
+- full_time: '6'
   name: Tutorial
   part_time: ''
-- full_time: 540
+- full_time: '540'
   name: Placement
   part_time: ''
-- full_time: 264
+- full_time: '264'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Final Project
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: The student has failed to meet the criteria for a pass, but has not submitted
   a project which can demonstrate a reasonable grasp of the fundamentals of the chosen
@@ -83,6 +83,7 @@ assessment_criteria:
   as a strong demonstrator and / or portfolio highly relevant future employers in
   assessing the suitability of the student for recruitment. It can be directly incorporated
   into such a portfolio, perhaps with minor modifications.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Herbert, I. _Managing your placement: a skills-based approach_. London: Macmillian,
@@ -92,6 +93,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

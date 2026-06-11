@@ -1,11 +1,11 @@
 reference: A10466
 full_title: Land Science Research Methods
 short_title: Land Science Research Methods
-credits: 5
+credits: '5'
 level: Advanced
 author: NMCCARTHY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module will introduce techniques that are necessary in a research environment,
@@ -19,26 +19,26 @@ programmes:
 - timetable: SCIE-0068
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: SCIE-0068
   code: WD_SBSAG_B
   name: Bachelor of Science (Honours) in Land Management (in Agriculture)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: SCIE-0068
   code: WD_SBSFO_B
   name: Bachelor of Science (Honours) in Land Management (in Forestry)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: SCIE-0068
   code: WD_SBSHO_B
   name: Bachelor of Science (Honours) in Land Management (in Horticulture)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -62,21 +62,21 @@ learning_and_teaching_methods:
 - Tutorials
 - Self-directed study.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -99,6 +99,7 @@ assessment_criteria:
   chosen research topic, supplemented by an ability to critically evaluate and discuss
   the topic in relation to a wider scientific context. The above advanced knowledge
   of the topic will be supported by superior reporting and presentation skills.'
+special_regulations: []
 essential_material:
 - '"Online resources & databases." www.google.com'
 - '"ScienceDirect." www.sciencedirect.com'
@@ -112,6 +113,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

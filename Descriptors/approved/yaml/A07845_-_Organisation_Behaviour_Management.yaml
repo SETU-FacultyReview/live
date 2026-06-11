@@ -1,11 +1,11 @@
 reference: A07845
 full_title: Organisation Behaviour Management
 short_title: Organisation Behaviour Mgt
-credits: 5
+credits: '5'
 level: Advanced
 author: ESHANLEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: This module is designed to develop organisational behavioural skills and competencies
@@ -16,8 +16,8 @@ programmes:
 - timetable: MGTH-0025
   code: WD_SBSHO_B
   name: Bachelor of Science (Honours) in Land Management (in Horticulture)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -47,24 +47,24 @@ learning_and_teaching_methods:
 - Documentary.
 - Guest speakers.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Reflective Journal
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -78,6 +78,7 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate a comprehensive knowledge and
   understanding of all learning outcomes, including the ability to fully integrate
   the various components of the course.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Buchanan, D. and A. Huczynski. _Organisational Behaviour_. 7th Ed. UK: Prentice
@@ -90,6 +91,4 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
-
-
 

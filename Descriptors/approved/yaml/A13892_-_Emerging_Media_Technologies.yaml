@@ -1,11 +1,11 @@
 reference: A13892
 full_title: Emerging Media Technologies
 short_title: Emerging Media Technologies
-credits: 5
+credits: '5'
 level: Advanced
 author: ROCONNOR
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Media Production
 aim: The module explores new trends, tools and technologies in the broad digital media
@@ -17,8 +17,8 @@ programmes:
 - timetable: TECH-0049
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 prerequisites: []
 corequisites: []
@@ -45,27 +45,27 @@ learning_and_teaching_methods:
 - Access to cameras
 - Access to Video/Photography Studio
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 60
+  weighting: '60'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -80,6 +80,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Broadcasting Authority of Ireland." www.bai.ie'
@@ -90,6 +91,4 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

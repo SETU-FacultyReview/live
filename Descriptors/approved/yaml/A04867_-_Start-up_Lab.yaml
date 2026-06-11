@@ -1,11 +1,11 @@
 reference: A04867
 full_title: Start-up Lab
 short_title: Start-up Lab
-credits: 20
+credits: '20'
 level: Intermediate
 author: CGATELY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Management and Organisation
 cluster: Business
 aim: The Start-up Lab module is designed to equip students with the entrepreneurial
@@ -122,6 +122,3 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
-
-
-

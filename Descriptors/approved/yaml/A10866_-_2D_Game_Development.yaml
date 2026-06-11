@@ -1,11 +1,11 @@
 reference: A10866
 full_title: 2D Game Development
 short_title: 2D Game Development
-credits: 5
+credits: '5'
 level: Introductory
 author: PFELICIA
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Game Development
 aim: This module aims to provide students with an understanding of the development
@@ -16,20 +16,20 @@ programmes:
 - timetable: COMP-0624
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: COMP-0624
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: COMP-0624
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -61,30 +61,30 @@ learning_and_teaching_methods:
 - Assignments will allow students to demonstrate proficiency in applying practical
   skills and concepts using a 2D game engine, e.g. Unity.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,4,6
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 60
+  weighting: '60'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -100,6 +100,7 @@ assessment_criteria:
   in the lectures.'
 - '70%-100%: Excellent understanding of the presented material and displays value
   added knowledge as a result of independent learning.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Blackman, S. and J. Wang. _Unity for Absolute Beginners_. NY: Apress, 2014.'
@@ -111,6 +112,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

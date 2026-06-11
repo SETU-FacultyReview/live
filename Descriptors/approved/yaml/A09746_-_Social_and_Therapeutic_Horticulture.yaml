@@ -1,12 +1,12 @@
 reference: A09746
 full_title: Social and Therapeutic Horticulture
 short_title: Social and Therapeutic Hort
-credits: 5
+credits: '5'
 level: Intermediate
 author: LCASSIN
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Horticulture
 aim: This module will provide students with an opportunity to review current practices
   in horticultural therapy and to gain an understanding of the benefits and uses of
@@ -15,14 +15,14 @@ programmes:
 - timetable: HORT-0049
   code: WD_SHORT_D
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: HORT-0049
   code: WD_SHORT_DX
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -45,31 +45,31 @@ learning_and_teaching_methods:
 - Practical demonstrations
 - Guest speaker/Site visit
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Field Trips
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -85,6 +85,7 @@ assessment_criteria:
   of this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrates authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -101,6 +102,4 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
-
-
 

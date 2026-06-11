@@ -1,11 +1,11 @@
 reference: A14702
 full_title: Industrial Placement (Food Science)
 short_title: Industrial Placement (Food Sc)
-credits: 30
+credits: '30'
 level: Intermediate
 author: EKENT
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: Students will be placed for work experience in food processing/food business/research
@@ -19,14 +19,14 @@ programmes:
 - timetable: PLAC-0148
   code: WD_SFDSC_D
   name: Bachelor of Science in Food Science with Business
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: PLAC-0148
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 prerequisites: []
 corequisites: []
@@ -61,28 +61,28 @@ learning_and_teaching_methods:
 - Weekly log of activity.
 - Oral presentation.
 learning_modes:
-- full_time: 810
+- full_time: '810'
   name: Placement
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 3,4,5
-  main: false
+  main: 'false'
   name: Employer's Report
   weighting: Pass/Fail
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,6,7
-  main: false
+  main: 'false'
   name: Portfolio
   weighting: Pass/Fail
   due_weeks: []
   comment: ''
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: Oral Examination
   weighting: Pass/Fail
   due_weeks: []
@@ -93,12 +93,11 @@ assessment_criteria:
 - 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisor
   Evaluation Report submitted, and assessments and documents related to the learning
   outcomes, all to an acceptable standard and submitted within deadlines'
+special_regulations: []
 essential_material:
 - '"Module Moodle page." www.moodle.wit.ie'
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,12 +1,12 @@
 reference: A08623
 full_title: Agricultural Soils Management
 short_title: Agricultural Soils Management
-credits: 5
+credits: '5'
 level: Introductory
 author: VNYHAN
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Agriculture
 aim: This module is designed to equip students with a introductory understanding of
   the physical, chemical and biological properties of soil. The student will also
@@ -21,14 +21,14 @@ programmes:
 - timetable: AGRI-0102
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: AGRI-0102
   code: WD_SAGUL_D
   name: Bachelor of Science in Agriculture
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -58,34 +58,34 @@ learning_and_teaching_methods:
 - Laboratory practicals.
 - Site visits.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 6,8
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -100,6 +100,7 @@ assessment_criteria:
   knowledge of soil management and a high level of competence in the area.'
 - '70%-100%: All of the above to an excellent level. The above advanced knowledge
   of the topic will be supported by superior skills.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -125,6 +126,4 @@ requested_resources:
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

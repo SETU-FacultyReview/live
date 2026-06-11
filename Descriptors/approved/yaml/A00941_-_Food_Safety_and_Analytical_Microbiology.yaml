@@ -1,11 +1,11 @@
 reference: A00941
 full_title: Food Safety and Analytical Microbiology
 short_title: Food Safety & Analytical Micro
-credits: 10
+credits: '10'
 level: Postgraduate
 author: KGRENNAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Food Science
 aim: This module will provide the student with an advanced understanding of the theory,
@@ -25,20 +25,20 @@ programmes:
 - timetable: FOOD-0013
   code: WD_SANSC_G
   name: Postgraduate Diploma in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: FOOD-0013
   code: WD_SANSC_R
   name: Master of Science in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: FOOD-0013
   code: WD_SFOOD_MA
   name: Certificate in Food Safety & Microbiological Analysis
-  stage: 5
-  semester: 0
+  stage: '5'
+  semester: '0'
   status: M
 prerequisites: []
 corequisites: []
@@ -88,34 +88,34 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Lecture
-  part_time: 30
+  part_time: '30'
 - full_time: ''
   name: Practical
-  part_time: 18
+  part_time: '18'
 - full_time: ''
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 3,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: '2'
-  main: false
+  main: 'false'
   name: Group Project
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -133,11 +133,13 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. In addition, will be able to demonstrate
   comprehensive knowledge and understanding of the area, have an ability to critically
   evaluate and relate topics, and formulate food safety management strategies.'
+special_regulations: []
 essential_material:
 - '""Food Safety & Analytical Microbiology" module Moodle page." http://moodle.wit.ie'
 - '"Food Safety Authority of Ireland." http://www.fsai.ie/'
 - 'Madigan, Michael T., John M. Martinko, Kelly S. Bender, Daniel H. Buckley and David
-  A. Stahl. _Brock biology of microorganisms_ . 14th ed.. Upper Saddle River, NJ: Prentice Hall/Pearson Education, 2014.'
+  A. Stahl. _Brock biology of microorganisms_ . 14th ed.. Upper Saddle River, NJ:
+  Prentice Hall/Pearson Education, 2014.'
 supplementary_material:
 - '"European Food Safety Authority." http://www.efsa.europa.eu'
 - 'Bibek, Ray and Arun Bhunia. _Fundamental food microbiology_ . 4th ed.. Boca Raton,
@@ -158,6 +160,4 @@ requested_resources:
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

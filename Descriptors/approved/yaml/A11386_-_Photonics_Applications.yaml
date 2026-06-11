@@ -1,11 +1,11 @@
 reference: A11386
 full_title: Photonics Applications
 short_title: Photonics Applications
-credits: 5
+credits: '5'
 level: Advanced
 author: JHOULIHAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Mathematics and Physics
 aim: This module introduces a variety of applications in photonics.
@@ -13,8 +13,8 @@ programmes:
 - timetable: PHYI-0033
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 prerequisites: []
 corequisites: []
@@ -44,28 +44,28 @@ learning_and_teaching_methods:
 - Lectures.
 - Practicals.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 18
+- full_time: '18'
   name: Practical
   part_time: ''
-- full_time: 93
+- full_time: '93'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -79,6 +79,7 @@ assessment_criteria:
   communications and metrology.'
 - '70%-100%: All previous to an excellent level. Demonstrates an ability to comprehensively
   discuss the course material and analyse and design a range of photonic systems.'
+special_regulations: []
 essential_material:
 - 'Ghatak, A. and K. Thyagarajan. _Introduction to Fibre Optics_. Cambridge: Cambridge
   University Press, 1998.'
@@ -91,6 +92,4 @@ requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,11 +1,11 @@
 reference: A32621
 full_title: Science Professional Development
 short_title: Sci Professional Development
-credits: 30
+credits: '30'
 level: Intermediate
 author: TKENT
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: The Science Professional Development module is an elective module designed as
@@ -25,63 +25,63 @@ programmes:
 - timetable: SCIE-0085
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: SCIE-0085
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: SCIE-0085
   code: WD_SAGUL_D
   name: Bachelor of Science in Agriculture
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: SCIE-0085
   code: WD_SFDSC_D
   name: Bachelor of Science in Food Science with Business
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: SCIE-0085
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: SCIE-0085
   code: WD_SFSIN_B
   name: Bachelor of Science (Honours) in Food Science and Innovation
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: SCIE-0085
   code: WD_SHORT_D
   name: BSc in Horticulture (Waterford-Kildalton)
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: SCIE-0085
   code: WD_SHORT_DX
   name: BSc in Horticulture (Botanic Gardens)
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: SCIE-0085
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: SCIE-0085
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -126,18 +126,18 @@ learning_and_teaching_methods:
   development and evaluation of personal and professional understanding, learning
   and growth.'
 learning_modes:
-- full_time: 810
+- full_time: '810'
   name: Placement
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1, 2, 3, 4, 5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1, 2, 3, 4, 5
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -148,6 +148,7 @@ assessment_criteria:
   to a satisfactory standard with Supervisors Report, assessments and documents related
   to the learning outcomes, all submitted to an acceptable standard and submitted
   within deadlines.'
+special_regulations: []
 essential_material:
 - '"WIT Moodle: Science Professional Development folder: preparation, support and
   assessment documentation and resources.." https://www.wit.ie/. https://moodle.wit.ie/'
@@ -157,6 +158,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

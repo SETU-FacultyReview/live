@@ -1,11 +1,11 @@
 reference: A22541
 full_title: Sport & Exercise Biomechanics I
 short_title: Sport & Exe Biomech 1
-credits: 5
+credits: '5'
 level: Introductory
 author: RBOLGER
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Sport and Exercise Science
 cluster: Sports Technology
 aim: The aim of this module is to provide students with an introduction to the core
@@ -16,32 +16,32 @@ programmes:
 - timetable: SPOR-0104
   code: WD_KCOMC_D
   name: BSc in Software Systems Development
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: SPOR-0104
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: ''
   code: WD_T0010_X
   name: Bachelor of Science (Honours) in Nutrition and Exercise Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ''
   code: WD_T0011_X
   name: Bachelor of Science (Honours) in Health and Exercise Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ''
   code: WD_T0012_X
   name: Bachelor of Science (Honours) in Sport and Exercise Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -68,39 +68,38 @@ learning_and_teaching_methods:
 - Lectures
 - Practicals
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1, 2, 3
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
-assessment_criteria:
-- Final exam
-- Labs
+assessment_criteria: []
+special_regulations: []
 essential_material:
 - 'Blazevich, A. _Sports Biomechanics - The Basics: Optimising human performance._.
   London: A&C Black, 2007.'
@@ -112,6 +111,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

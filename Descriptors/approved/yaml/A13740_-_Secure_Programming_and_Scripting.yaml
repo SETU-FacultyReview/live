@@ -1,11 +1,11 @@
 reference: A13740
 full_title: Secure Programming and Scripting
 short_title: Secure Programming
-credits: 5
+credits: '5'
 level: Introductory
 author: JMCGIBNEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Forensics and Security
 aim: This module aims to equip students with the knowledge and skills to apply best
@@ -16,26 +16,26 @@ programmes:
 - timetable: PROG-0083
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: PROG-0083
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: PROG-0083
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: PROG-0083
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 prerequisites: []
 corequisites: []
@@ -65,36 +65,36 @@ learning_and_teaching_methods:
   also write/adapt their own code to demonstrate common vulnerabilities and mitigation
   techniques. They will also carry out a high-level threat modelling exercise.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,4,5
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,5
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 45
+  weighting: '45'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -109,6 +109,7 @@ assessment_criteria:
   application vulnerabilities.'
 - '70%-100%: All the above to an excellent level. Able to present and explain in detail
   various ways to address both low level and web application vulnerabilities.'
+special_regulations: []
 essential_material:
 - '"Open Web Application Security Project." https://www.owasp.org'
 supplementary_material:
@@ -121,6 +122,4 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,11 +1,11 @@
 reference: A14034
 full_title: Advanced Graphic Design
 short_title: Advanced Graphic Design
-credits: 5
+credits: '5'
 level: Advanced
 author: SORIORDAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Graphic Design and Animation
 aim: This module formulates an appreciation of graphic design through the study of
@@ -16,14 +16,14 @@ programmes:
 - timetable: COMP-0635
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: COMP-0635
   code: WD_KMULM_B
   name: Bachelor of Science (Honours) in Multimedia Applications Development
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -43,21 +43,21 @@ learning_and_teaching_methods:
 - This module will be delivered using 2 hours of computer-based lectures, along with
   2 hours of computer-based practicals each week.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -69,6 +69,7 @@ assessment_criteria:
 - '60%-69%: Be able to solve problems within advanced graphic design by experimenting
   with the appropriate skills and tools.'
 - '70%-100%: All of the above to an excellent level.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Eskilson, S.J. _Graphic Design A History_. 2nd ed. London: Laurence King, 2012.'
@@ -82,6 +83,4 @@ requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

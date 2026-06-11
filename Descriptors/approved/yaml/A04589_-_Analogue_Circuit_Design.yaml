@@ -1,11 +1,11 @@
 reference: A04589
 full_title: Analogue Circuit Design
 short_title: Analogue Circuit Design
-credits: 5
+credits: '5'
 level: Advanced
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Engineering
 aim: This module covers analogue circuit design techniques and sensor and transducer
@@ -18,20 +18,20 @@ programmes:
 - timetable: ''
   code: WD_EEELC_B
   name: Bachelor of Engineering (Honours) in Electronic Engineering
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: ANCD-0001
   code: WD_EELEC_B
   name: Bachelor of Science (Honours) in Applied Electronics
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0565
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 prerequisites: []
 corequisites: []
@@ -71,67 +71,66 @@ learning_and_teaching_methods:
   sensor system using a mixed signal hardware platform.
 - Q & A Sessions (class or web)
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,5
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 5
+  weighting: '5'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,5
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 5
+  weighting: '5'
   due_weeks: []
   comment: ''
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 assessment_criteria:
-- 'Fail (<40%): Unable to interpret and specify key concepts of sensor technology,
-  signal conditioning, or programmable sensor hardware.'
-- 'Pass (40% - 49%): Able to interpret and specify the key concepts of sensor technology,
-  signal conditioning, or programmable sensor hardware.'
-- 'Second Class Honours - Grade 2 (50% - 59%): Ability to specify key concepts of
-  sensor technology, signal conditioning circuitry and programmable sensor hardware
-  by demonstrating an ability to locate and utilise this knowledge within a broader
-  mixed signal design environment.'
-- 'Second Class Honours - Grade 1 (60% - 69%): Be able to solve sensor design problems,
-  analyse sensor technology, signal conditioning circuitry, or programmable hardware
-  and demonstrate an ability to deploy this knowledge within a broader mixed signal
-  design environment.'
-- 'First Class Honours (70% - 100%): All the above to an excellent level. Be able
-  to analyse and design solutions to a high standard for a range of both complex and
-  unforeseen problems through the use of appropriate skills and tools. An ability
-  to synthesise solutions to problems should be evident here.'
+- '<40%: Unable to interpret and specify key concepts of sensor technology, signal
+  conditioning, or programmable sensor hardware.'
+- '40%-49%: Able to interpret and specify the key concepts of sensor technology, signal
+  conditioning, or programmable sensor hardware.'
+- '50%-59%: Ability to specify key concepts of sensor technology, signal conditioning
+  circuitry and programmable sensor hardware by demonstrating an ability to locate
+  and utilise this knowledge within a broader mixed signal design environment.'
+- '60%-69%: Be able to solve sensor design problems, analyse sensor technology, signal
+  conditioning circuitry, or programmable hardware and demonstrate an ability to deploy
+  this knowledge within a broader mixed signal design environment.'
+- '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use of appropriate skills and tools. An ability to synthesise solutions to problems
+  should be evident here.'
+special_regulations: []
 essential_material:
 - 'Book. Horowitz, P. and W. Hill. _The Art of Electronics_. 3rd ed. .: Cambridge
   University Press, 2015.'
@@ -154,6 +153,4 @@ requested_resources:
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
 track_changes: true
-
-
 

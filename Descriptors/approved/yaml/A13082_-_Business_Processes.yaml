@@ -1,11 +1,11 @@
 reference: A13082
 full_title: Business Processes
 short_title: Business Processes
-credits: 5
+credits: '5'
 level: Introductory
 author: RLYNG
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Business
 aim: This module explores organisational structures and the generic business functions
@@ -16,8 +16,8 @@ programmes:
 - timetable: BUSS-0047
   code: WD_KINFT_D
   name: Bachelor of Science in Information Technology
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -46,34 +46,34 @@ learning_and_teaching_methods:
 - In practical classes, students will engage with business process mapping techniques
   and will work on case studies and exercises.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Group Project
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -93,6 +93,7 @@ assessment_criteria:
   use and modification of appropriate skills and tools. The student clearly explains
   all concepts and provides a very clear link between theory and practice utilizing
   many examples and cases.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Laudon, K. and J. Laudon. _Management Information Systems: Managing the Digital
@@ -105,7 +106,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
-
 

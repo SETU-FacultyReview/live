@@ -1,11 +1,11 @@
 reference: A09765
 full_title: Literature Review (GMP)
 short_title: Literature Review (GMP)
-credits: 10
+credits: '10'
 level: Intermediate
 author: BWHELAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: The aim of this module is for a student to source, review, summarise and discuss
@@ -14,8 +14,8 @@ programmes:
 - timetable: PROJ-0121
   code: WD_SGMPT_D
   name: Bachelor of Science in Good Manufacturing Practice and Technology
-  stage: 1
-  semester: 3
+  stage: '1'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -36,15 +36,15 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Tutorial
-  part_time: 12
+  part_time: '12'
 - full_time: ''
   name: Independent Learning
-  part_time: 258
+  part_time: '258'
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Dissertation
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
   technical ability/skill and understanding to carry out practical/professional tasks.'
@@ -59,6 +59,7 @@ assessment_criteria:
 - '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
   and extensive understanding of the subject. Provide well focused analysis and convincing
   argument on the subject.'
+special_regulations: []
 essential_material:
 - '"Introduction to Research Methods Moodle page.." http://moodle.wit.ie'
 - '"Science Direct." http://www.sciencedirect.com/'
@@ -71,6 +72,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

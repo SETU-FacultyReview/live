@@ -1,11 +1,11 @@
 reference: A10403
 full_title: Marketing for Small Business
 short_title: Marketing for Small Business
-credits: 5
+credits: '5'
 level: Intermediate
 author: RODOWD
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: The aim of this module is to develop the student's critical appreciation of the
@@ -14,8 +14,8 @@ programmes:
 - timetable: MARK-0021
   code: WD_SAGUL_D
   name: Bachelor of Science in Agriculture
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -43,27 +43,27 @@ learning_and_teaching_methods:
 - Videos
 - Group workshops
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 5,6
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -79,6 +79,7 @@ assessment_criteria:
   this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of complex material and a highly developed and extensive understanding of the subject'
+special_regulations: []
 essential_material:
 - 'Rogan, D. _Marketing - An Introduction for Students in Ireland_. 4th. Dublin: Gill
   and Macmillan, 2011.'
@@ -87,6 +88,4 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
-
-
 

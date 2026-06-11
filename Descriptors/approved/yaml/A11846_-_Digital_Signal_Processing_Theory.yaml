@@ -1,11 +1,11 @@
 reference: A11846
 full_title: Digital Signal Processing Theory
 short_title: DSP Theory
-credits: 5
+credits: '5'
 level: Advanced
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Electronics
 aim: Digital Signal Processing (DSP) techniques play a major role in many technological
@@ -17,32 +17,32 @@ programmes:
 - timetable: ''
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: ENGR-0020
   code: WD_EELEC_B
   name: Bachelor of Science (Honours) in Applied Electronics
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: ENGR-0020
   code: WD_EONIC_B
   name: Bachelor of Engineering (Honours) in Electronic Engineering
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: ''
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: ENGR-0020
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 prerequisites: []
 corequisites: []
@@ -70,24 +70,24 @@ learning_and_teaching_methods:
 - Lectures and tutorials
 - Computer-based laboratory work
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1, 2, 3, 4, 5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: 6, 7
-  main: true
+  main: 'true'
   name: Final Practical
-  weighting: 40
+  weighting: '40'
 assessment_criteria:
 - '70% - 100%: The learner has: attained the module learning outcomes at an excellent
   level; demonstrated a comprehensive knowledge of the associated subject matter;
@@ -106,6 +106,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+special_regulations: []
 essential_material:
 - 'Proakis, J.G. and D.G. Manolakis. _Digital Signal Processing: principles, algorithms,
   and applications_. 4th ed.. New Jersey: Prentice Hall, 2006.'
@@ -116,6 +117,4 @@ requested_resources:
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
 track_changes: true
-
-
 

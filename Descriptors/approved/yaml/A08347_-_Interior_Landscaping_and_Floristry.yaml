@@ -1,12 +1,12 @@
 reference: A08347
 full_title: Interior Landscaping and Floristry
 short_title: Interiors and Floristry
-credits: 5
+credits: '5'
 level: Intermediate
 author: DFLANAGAN
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Horticulture
 aim: This module covers two complimentary areas; floral design and interior plantscaping.
   The module will enable the student to identify, select and understand the use of
@@ -16,14 +16,14 @@ programmes:
 - timetable: HORT-0047
   code: WD_SHORT_D
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: HORT-0047
   code: WD_SHORT_DX
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -58,36 +58,36 @@ learning_and_teaching_methods:
 - Practical demonstrations
 - Site visits
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,6,7
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,5
-  main: false
+  main: 'false'
   name: Project
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 8,3
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -100,6 +100,7 @@ assessment_criteria:
   no spelling errors.'
 - '70%-100%: All of the above and at least 70% of plants identified correctly with
   no spelling errors.'
+special_regulations: []
 essential_material:
 - 'McHoy, P. _An Illustrated A-Z Guide to Houseplants: Everything You Need to Know
   to Identify, Choose and Care for 350 of the Most Popular Houseplants_. Erehwon:
@@ -115,6 +116,4 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
-
-
 

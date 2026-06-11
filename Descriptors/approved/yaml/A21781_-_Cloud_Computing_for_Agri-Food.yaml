@@ -1,11 +1,11 @@
 reference: A21781
 full_title: Cloud Computing for Agri-Food
 short_title: Cloud Computing for Agri-Food
-credits: 10
+credits: '10'
 level: Advanced
 author: ADUNPHY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: AgriFoodICT
 aim: This module introduces students to the capabilities of cloud computing, especially
@@ -17,14 +17,14 @@ programmes:
 - timetable: ''
   code: WD_18AFICT_G
   name: Higher Diploma in Science in Agi-Food ICT Systems
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0980
   code: WD_SAFICT_G
   name: HDip in Science in Agri-Food ICT Systems
-  stage: 5
-  semester: 2
+  stage: '5'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -68,28 +68,28 @@ learning_and_teaching_methods:
 - Strong emphasis is given to practical laboratory exercises with extensive use made
   of virtualised and cloud environments.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 60
+- full_time: '60'
   name: Practical
   part_time: ''
-- full_time: 174
+- full_time: '174'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,4,8,9
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 3,5,6,7,9
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -112,6 +112,7 @@ assessment_criteria:
 - '70%-100%: All of the above to an excellent level. Can go beyond the basic practical
   specification and demonstrate competence with other services. Can demonstrate a
   deep understanding of deployment and management of a multi-tier cloud application.'
+special_regulations: []
 essential_material:
 - '"Amazon Web Services." "Amazon Web Services." https://aws.amazon.com/'
 supplementary_material:
@@ -125,6 +126,4 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

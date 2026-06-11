@@ -1,11 +1,11 @@
 reference: A11412
 full_title: Rural Entrepreneurship
 short_title: Rural Entrepreneurship
-credits: 5
+credits: '5'
 level: Advanced
 author: RODOWD
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: The aim of this module is to develop the student's critical awareness of the
@@ -16,20 +16,20 @@ programmes:
 - timetable: ENTE-0007
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: ENTE-0007
   code: WD_SBSFO_B
   name: Bachelor of Science (Honours) in Land Management (in Forestry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: ENTE-0007
   code: WD_SBSHO_B
   name: Bachelor of Science (Honours) in Land Management (in Horticulture)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -67,33 +67,33 @@ learning_and_teaching_methods:
 - Guest speakers.
 - Site visits.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,5,6
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,3,4,7
-  main: false
+  main: 'false'
   name: Project
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,7,8
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -121,12 +121,11 @@ assessment_criteria:
   awareness, and aptitude in carrying out and reporting on practical/professional
   tasks. Show initiative, individual thought, and enthusiasm in self study and independent
   learning.'
+special_regulations: []
 essential_material:
 - 'O''Hara, B. _Entrepreneurship in Ireland_. Dublin: Gill and Macmillan, 2011.'
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

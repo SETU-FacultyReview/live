@@ -1,11 +1,11 @@
 reference: A14030
 full_title: Network Forensics
 short_title: Network Forensics
-credits: 5
+credits: '5'
 level: Intermediate
 author: JSHEPPARD
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Forensics and Security
 aim: This module aims to provide students with the skills to investigate computer
@@ -17,32 +17,32 @@ programmes:
 - timetable: COMP-0129
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: COMP-0129
   code: WD_KACMI_B
   name: BSc (Hons) in Applied Computing (International)
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: COMP-0129
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: COMP-0129
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: COMP-0129
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 prerequisites: []
 corequisites: []
@@ -64,30 +64,30 @@ learning_and_teaching_methods:
   allows the student to put into practice the theoretical concepts covered in the
   lectures.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Lab
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -107,6 +107,7 @@ assessment_criteria:
   use and modification of appropriate skills and tools. Can implement advanced attacks
   extract and interpret knowledge to recreate accuratly what occurred on the network.
   Can produce very high quality documentation to accompany the investigation.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Casey, E. _Digital Evidence and Computer Crime_. 3rd. United States: Academic Press,
@@ -127,6 +128,4 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

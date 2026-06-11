@@ -1,11 +1,11 @@
 reference: A14865
 full_title: Placement (Physics)
 short_title: Placement (Physics)
-credits: 30
+credits: '30'
 level: Intermediate
 author: CKEARY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: During the placement period students are given the opportunity to complete work
@@ -24,8 +24,8 @@ programmes:
 - timetable: PLAC-0151
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -52,28 +52,28 @@ learning_and_teaching_methods:
 - In addition, the student submits a work placement report on completion of the placement
   period.
 learning_modes:
-- full_time: 810
+- full_time: '810'
   name: Placement
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,6
-  main: false
+  main: 'false'
   name: Portfolio
   weighting: Pass/Fail
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,5
-  main: false
+  main: 'false'
   name: Reflective Journal
   weighting: Pass/Fail
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,3,4
-  main: false
+  main: 'false'
   name: Supervisor's Report
   weighting: Pass/Fail
   due_weeks: []
@@ -84,6 +84,7 @@ assessment_criteria:
 - 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisor
   Evaluation Report submitted, and assessments and documents related to the learning
   outcomes, all to an acceptable standard and submitted within deadlines'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"ASET Good Practice Guide for Work based and Placement Learning in Higher Education
@@ -93,6 +94,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

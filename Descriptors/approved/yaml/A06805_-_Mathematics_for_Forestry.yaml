@@ -1,11 +1,11 @@
 reference: A06805
 full_title: Mathematics for Forestry
 short_title: Mathematics for Forestry
-credits: 5
+credits: '5'
 level: Introductory
 author: ADALYWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Mathematics and Physics
 aim: This is an introductory course in mathematics for foresters. It is assumed that
@@ -17,8 +17,8 @@ programmes:
 - timetable: MTHS-0003
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -49,28 +49,28 @@ learning_and_teaching_methods:
 - Student learning is supported with notes, online material, use of technology and
   feedback
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,6,7
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 5,6
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -87,6 +87,7 @@ assessment_criteria:
   non-linear models. Show ability to analyse problems and logically interpret results.'
 - '70%-100%: Demonstrate the ability to analyse and design solutions to applied mathematical
   problems to a high standard, for a range of complex or unseen problems.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Croft, A. and R. Davison. _Foundations Maths (Essential Maths for Students)_. 3rd
@@ -95,6 +96,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

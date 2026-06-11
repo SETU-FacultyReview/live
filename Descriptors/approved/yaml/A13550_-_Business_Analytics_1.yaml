@@ -1,11 +1,11 @@
 reference: A13550
 full_title: Business Analytics 1
 short_title: Business Analytics 1
-credits: 5
+credits: '5'
 level: Advanced
 author: BMULLALLY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Database and Analytics
 aim: The student is introduced to the use of analytics to support the decision making
@@ -20,8 +20,8 @@ programmes:
 - timetable: COMP-0609
   code: WD_KCSDV_B
   name: Bachelor of Science (Honours) in Software Systems Development
-  stage: 4
-  semester: 1
+  stage: '4'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -51,24 +51,24 @@ learning_and_teaching_methods:
 - The continuous assessment will require the student to apply the theory and practical
   knowledge to a new business scenario.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5,6
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -82,6 +82,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Evans, J. _Statistics, Data Analysis, and Decision Modelling_. NY: Pearson, 2013.'
@@ -92,7 +93,6 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
-
+note: New name - Data Analytics Essentials.  see also Business Analytics 2 -> Data
+  Science in Practice
 

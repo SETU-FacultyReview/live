@@ -1,11 +1,11 @@
 reference: A07888
 full_title: Introductory Biology
 short_title: Introductory Biology
-credits: 5
+credits: '5'
 level: Introductory
 author: ROMAHONY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Biology
 aim: The aim of this module is to introduce the student to the fundamentals of biology.
@@ -16,69 +16,69 @@ programmes:
 - timetable: BIOL-0001
   code: WD_KPHTE_B
   name: BSc (Hons) in Physics for Modern Technology
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: BIOL-0001
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: BIOL-0001
   code: WD_SAGRI_D
   name: Bachelor of Science in Agricultural Science
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: BIOL-0001
   code: WD_SFDSC_D
   name: Bachelor of Science in Food Science with Business
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: BIOL-0001
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: BIOL-0001
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: BIOL-0001
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: BIOL-0001
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: BIOL-0001
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: BIOL-0001
   code: WD_SSCCM_B
   name: BSc (Hons) in Science (Common Entry)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: BIOL-0001
   code: WD_SSCIE_D
   name: Bachelor of Science (Common Entry)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -115,39 +115,39 @@ learning_and_teaching_methods:
   completed during tutorial session on or off-site.
 - All of the above are delivered through Moodle e-learning platform.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 8
+- full_time: '8'
   name: Tutorial
   part_time: ''
-- full_time: 16
+- full_time: '16'
   name: Practical
   part_time: ''
-- full_time: 73
+- full_time: '73'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 3,6
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,7
-  main: false
+  main: 'false'
   name: Tutorial/Problem Sheets
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,4,5
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -160,6 +160,7 @@ assessment_criteria:
 - '60%-69%: In addition to the above, shows good critical thinking skills, engages
   in debate in class and has a high level of efficiency in the microbiology lab.'
 - '70%-100%: All of the above to an excellent level.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -174,6 +175,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

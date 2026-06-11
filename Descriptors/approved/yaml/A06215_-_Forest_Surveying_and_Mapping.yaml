@@ -1,12 +1,12 @@
 reference: A06215
 full_title: Forest Surveying and Mapping
 short_title: Forest Surveying and Mapping
-credits: 5
+credits: '5'
 level: Introductory
 author: MPEDINI
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Forestry
 aim: In this module students will learn how to read a map and use it, along with a
   compass, for navigation in the landscape. Students will also learn how to survey
@@ -18,14 +18,14 @@ programmes:
 - timetable: FORS-0005
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: FORS-0005
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 prerequisites: []
 corequisites: []
@@ -63,34 +63,34 @@ learning_and_teaching_methods:
   and surveying techniques. Basic GNSS surveying. Basic land surveying techniques
   for co-ordinate calculations. GNSS surveying of a piece of land.'
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Field Trips
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,4
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 5,7,8
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -119,6 +119,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on assessments. Show initiative,
   individual thought, and enthusiasm in self-study and independent learning.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -135,6 +136,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

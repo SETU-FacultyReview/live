@@ -1,11 +1,11 @@
 reference: A14182
 full_title: Industrial Automation Systems
 short_title: Industrial Automation Systems
-credits: 5
+credits: '5'
 level: Intermediate
 author: JDALY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Automotive, Automation and IoT
 aim: Industrial Automation Systems are pervasive in the Manufacturing and Service
@@ -18,20 +18,20 @@ programmes:
 - timetable: COMP-0665
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: COMP-0665
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: COMP-0665
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 prerequisites: []
 corequisites: []
@@ -66,36 +66,36 @@ learning_and_teaching_methods:
 - Student will be encouraged to enhance their lab work and assessment submissions
   using self-directed research and learning into Industrial Automation Systems.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 2,3,4,5,6
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,4,5
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,3,4,6
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -109,12 +109,11 @@ assessment_criteria:
 - '70%-100%: In addition, combine self-directed research of Industrial Automation
   Systems in assessment work. Exhibit the ability to solve unforeseen problems through
   the use and modification of self-learned skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

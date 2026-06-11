@@ -1,11 +1,11 @@
 reference: A26962
 full_title: Environmental Monitoring
 short_title: Environmental Monitoring
-credits: 5
+credits: '5'
 level: Introductory
 author: MBREEN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Environmental Science
 aim: This module will give students a broad introduction to the major elements of
@@ -16,38 +16,38 @@ programmes:
 - timetable: SCIE-0059
   code: WD_SFDSC_D
   name: Bachelor of Science in Food Science with Business
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: SCIE-0059
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: SCIE-0059
   code: WD_SMBIO_B
   name: BSc (Hons) in Molecular Biology with Biopharmaceutical Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: SCIE-0059
   code: WD_SMBIO_D
   name: BSc in Molecular Biology with Biopharmaceutical Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: SCIE-0019
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: SCIE-0059
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -87,36 +87,36 @@ learning_and_teaching_methods:
 - Laboratory investigations plus field trips will reinforce and support theoretical
   elements of the module.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 4,7,8
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,3,6
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -129,6 +129,7 @@ assessment_criteria:
   in the subject area.'
 - '70%-100%: All previous to excellent level. Be able to describe and discuss environmental
   science.'
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -152,6 +153,4 @@ requested_resources:
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

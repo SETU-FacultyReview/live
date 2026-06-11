@@ -1,11 +1,11 @@
 reference: A19801
 full_title: Industrial Placement 2
 short_title: Industrial Placement 2
-credits: 10
+credits: '10'
 level: Intermediate
 author: PKIRWAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Professional Skills
 aim: The purpose of this work placement module is to require the student to apply
@@ -16,62 +16,62 @@ programmes:
 - timetable: PLAC-0155
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: PLAC-0155
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: PLAC-0155
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: PLAC-0155
   code: WD_KCOMC_D
   name: Bachelor of Science in Software Systems Development
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: PLAC-0155
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: PLAC-0155
   code: WD_KCOMP_D
   name: BSc in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: PLAC-0155
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: PLAC-0155
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: PLAC-0155
   code: WD_KINFT_D
   name: Bachelor of Science in Information Technology
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: PLAC-0155
   code: WD_KMULA_D
   name: Bachelor of Science in Multimedia Applications Development
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 prerequisites: []
 corequisites: []
@@ -107,29 +107,30 @@ learning_and_teaching_methods:
   mentor in the place of employment.
 - Ongoing support of the work placement co-ordinator.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Tutorial
-  part_time: 12
-- full_time: 180
+  part_time: '12'
+- full_time: '180'
   name: Placement
-  part_time: 180
-- full_time: 89
+  part_time: '180'
+- full_time: '89'
   name: Independent Learning
-  part_time: 89
+  part_time: '89'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Employer's Report
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
 - 'Fail: Candidate has not successfully completed the agreed period of work placement.'
 - 'Pass: Candidate has successfully completed the agreed period of work placement.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Herbert, I. and A. Rothwell. _``Managing your placement: a skills-based approach''''_.
@@ -139,6 +140,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

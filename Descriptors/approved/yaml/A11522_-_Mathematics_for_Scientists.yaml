@@ -1,11 +1,11 @@
 reference: A11522
 full_title: Mathematics for Scientists
 short_title: Mathematics for Scientists
-credits: 5
+credits: '5'
 level: Introductory
 author: AVEREKER
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Mathematics and Physics
 aim: This module will explore the basics of differentiation, concentrating on rates
@@ -17,63 +17,63 @@ programmes:
 - timetable: MTHS-0002
   code: WD_KPHTE_B
   name: BSc (Hons) in Physics for Modern Technology
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: MTHS-0002
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: MTHS-0002
   code: WD_SFDSC_D
   name: Bachelor of Science in Food Science with Business
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: MTHS-0002
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: MTHS-0002
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: MTHS-0002
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: MTHS-0002
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: MTHS-0002
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: MTHS-0002
   code: WD_SSCCM_B
   name: BSc (Hons) in Science (Common Entry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: MTHS-0002
   code: WD_SSCIE_D
   name: Bachelor of Science (Common Entry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -104,34 +104,34 @@ learning_and_teaching_methods:
 - Self-directed learning is emphasised. Students are supported with notes, online
   material and feedback.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 5,6,7
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Tutorial/Problem Sheets
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -145,6 +145,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level, with the ability to analyse and
   design solutions to a high standard for a range of complex or unseen problems using
   calculus.'
+special_regulations: []
 essential_material:
 - 'Croft, A. and R. Davison. _Foundation Maths_. 5th ed. England: Pearson, 2010.'
 supplementary_material:
@@ -159,6 +160,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

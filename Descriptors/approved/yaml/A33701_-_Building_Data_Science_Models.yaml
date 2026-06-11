@@ -1,11 +1,11 @@
 reference: A33701
 full_title: Building Data Science Models
 short_title: Building Data Science Models
-credits: 10
+credits: '10'
 level: Advanced
 author: KMURPHY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Mathematics and Physics
 aim: This module introduces the student to the practice of data science, where techniques
@@ -23,14 +23,14 @@ programmes:
 - timetable: ''
   code: WD_KDAAN_G
   name: HDip in Science in Data Analytics
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: ''
   code: WD_KDTSC_MA
   name: Certificate in Data Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -72,42 +72,42 @@ learning_and_teaching_methods:
 - Students will interpret and present, in context, the findings produced in the practical
   classes and continuous assessment.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Lecture
-  part_time: 48
-- full_time: 48
+  part_time: '48'
+- full_time: '48'
   name: Practical
-  part_time: 48
-- full_time: 174
+  part_time: '48'
+- full_time: '174'
   name: Independent Learning
-  part_time: 174
+  part_time: '174'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,6
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,3
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,4,5,6,7
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -120,6 +120,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Geron, A. _Hands-On Machine Learning with Scikit-Learn, Keras, and TensorFlow_.
@@ -130,7 +131,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
-
 

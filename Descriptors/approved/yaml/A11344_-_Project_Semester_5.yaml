@@ -1,11 +1,11 @@
 reference: A11344
 full_title: Project Semester 5
 short_title: Project Semester 5
-credits: 5
+credits: '5'
 level: Intermediate
 author: EREADE
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Automotive, Automation and IoT
 aim: This module will introduce the student to the basics of professional ethics and
@@ -17,20 +17,20 @@ programmes:
 - timetable: PROJ-0160
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: PROJ-0160
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: PROJ-0160
   code: WD_KINTT_BI
   name: BSc (Hons) in the Internet of Things (International)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -55,36 +55,36 @@ learning_and_teaching_methods:
 - Cooperative learning/peer tutoring.
 - Self-directed learning.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,6
-  main: false
+  main: 'false'
   name: Project
-  weighting: 60
+  weighting: '60'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 - learning_outcomes: 5,6,7
-  main: false
+  main: 'false'
   name: Project
-  weighting: 5
+  weighting: '5'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -104,12 +104,11 @@ assessment_criteria:
   models. Shows synthesis through the implementation of cross-strand innovative artifacts.
   Career plan (including CV) shows evidence of ambition, enthusiasm and maturity.
   Artifact shows evidence of market-readiness and future-proofing.
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

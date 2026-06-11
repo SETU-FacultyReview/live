@@ -1,11 +1,11 @@
 reference: A34162
 full_title: Green and Sustainable Pharmaceutical Production
 short_title: Green Sus Pharm Prodn
-credits: 10
+credits: '10'
 level: Postgraduate
 author: CLENNON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Environmental Science
 aim: This module will provide students with a detailed understanding of the legislative,
@@ -20,20 +20,20 @@ programmes:
 - timetable: PHAR-0020
   code: WD_SANSC_G
   name: Postgraduate Diploma in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: PHAR-0020
   code: WD_SANSC_R
   name: Master of Science in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: PHAR-0020
   code: WD_SGSPP_MA
   name: Certificate in Green and Sustainable Pharmaceutical Production
-  stage: 5
-  semester: 0
+  stage: '5'
+  semester: '0'
   status: M
 prerequisites: []
 corequisites: []
@@ -78,37 +78,37 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Lecture
-  part_time: 48
+  part_time: '48'
 - full_time: ''
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 2,3,4,5,6
-  main: false
+  main: 'false'
   name: Participation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,6
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -121,6 +121,7 @@ assessment_criteria:
   the learning outcomes, with critical evaluation and individuality of thought.'
 - '70%-100%: Very good level of critical analysis, originality of thought and comprehensive
   knowledge of the subject area. Able to evaluate and implement change.'
+special_regulations: []
 essential_material:
 - 'De Le Guardia, M. and S. Garrigues. _Handbook of Green Analytical Chemistry_. UK:
   John Wiley & Sons, 2012.'
@@ -148,6 +149,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

@@ -1,11 +1,11 @@
 reference: A13564
 full_title: Graphic Design 1
 short_title: Graphic Design 1
-credits: 5
+credits: '5'
 level: Introductory
 author: SORIORDAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Graphic Design and Animation
 aim: This module introduces the student to the core elements of Graphic Design, focusing
@@ -18,14 +18,14 @@ programmes:
 - timetable: COMP-0584
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0584
   code: WD_KMULA_D
   name: Bachelor of Science in Multimedia Applications Development
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -47,21 +47,21 @@ learning_and_teaching_methods:
 - This module will be delivered using two hours of computer-based lectures, along
   with two hours of computer-based practicals each week.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -74,6 +74,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Bergstrom, B. _Essentials of Visual Communication_. 1st ed. London: Laurence King,
@@ -86,6 +87,4 @@ requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 

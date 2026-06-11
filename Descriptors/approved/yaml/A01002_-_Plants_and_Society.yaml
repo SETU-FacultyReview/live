@@ -1,12 +1,12 @@
 reference: A01002
 full_title: Plants and Society
 short_title: Plants and Society
-credits: 5
+credits: '5'
 level: Intermediate
 author: CDALY
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Horticulture
 aim: This module examines the importance of plants in modern society and tackles some
   of the increasingly complex issues that surround the biotechnology of plants. It
@@ -24,14 +24,14 @@ programmes:
 - timetable: HORT-0034
   code: WD_SHORT_D
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: HORT-0034
   code: WD_SHORT_DX
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -67,36 +67,36 @@ learning_and_teaching_methods:
 - Workshops
 - Moodle-based Discussion Forums
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Workshop
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,5,6
-  main: false
+  main: 'false'
   name: Group Project
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,8
-  main: false
+  main: 'false'
   name: Participation
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -113,12 +113,11 @@ assessment_criteria:
   of modern-day plant science and demonstrates an aptitude for delivering convincing
   arguments using evidences based reasoning. Regularly directs discussions and encourages
   peer discussion.'
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
-
-
 

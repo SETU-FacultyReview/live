@@ -1,11 +1,11 @@
 reference: A26741
 full_title: Pharmaceutical and Biopharmaceutical Processing
 short_title: Pharm & Biopharm Proc
-credits: 5
+credits: '5'
 level: Introductory
 author: AHAYDEN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Pharmaceutical Science
 aim: This module describes the overall operation, unit processes, and key parameters
@@ -23,8 +23,8 @@ programmes:
 - timetable: SCIE-0078
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -54,33 +54,33 @@ learning_and_teaching_methods:
 - Field trips.
 - Group work.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,6
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 assessment_criteria:
 - '<40%: The student will have failed to attain the learning outcomes at even a basic
   level.'
@@ -91,6 +91,7 @@ assessment_criteria:
   covered, and will have the ability to interpret data.'
 - '70%-100%: The student will demonstrate a comprehensive understanding of all of
   the material covered, including calculations.'
+special_regulations: []
 essential_material:
 - 'Mollah, A.H., M. Long and M. Baseman. _Risk Management Applications in Pharmaceutical
   and Biopharmaceutical Applications_. USA: Wiley, 2013.'
@@ -106,6 +107,4 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
 

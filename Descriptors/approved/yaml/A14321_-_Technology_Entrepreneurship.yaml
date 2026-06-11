@@ -1,11 +1,11 @@
 reference: A14321
 full_title: Technology Entrepreneurship
 short_title: Technology Entrepreneurship
-credits: 5
+credits: '5'
 level: Intermediate
 author: CGATELY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Business
 aim: This module is designed to develop knowledge, skills and capabilities for the
@@ -18,14 +18,14 @@ programmes:
 - timetable: TECH-0047
   code: WD_KCOMC_D
   name: Bachelor of Science in Software Systems Development
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: TECH-0047
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -59,27 +59,27 @@ learning_and_teaching_methods:
   will also incorporate an oral presentation, pitch or exhibition to an internal and/or
   external audience.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 80
+  weighting: '80'
   due_weeks: []
   comment: ''
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -96,6 +96,7 @@ assessment_criteria:
   explains concepts relating to technology entrepreneurship and links them to practice.'
 - '70%-100%: All the above to an excellent level.Be able to analyse, design and make
   decisions to a high standard for a range of both complex and unforeseen problems.'
+special_regulations: []
 essential_material:
 - 'Ries, E. _The Lean Start-up._. UK: Penguin, 2011.'
 supplementary_material:
@@ -109,6 +110,4 @@ requested_resources:
 - 'EQUIPMENT: Blackboard'
 mlo_to_po: ''
 track_changes: true
-
-
 

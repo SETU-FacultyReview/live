@@ -1,11 +1,11 @@
 reference: A33601
 full_title: Introduction to Applied Statistics
 short_title: Intro. to Applied Statistics
-credits: 5
+credits: '5'
 level: Advanced
 author: PKIRWAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Mathematics and Physics
 aim: This module introduces the student to some fundamental statistical concepts,
@@ -15,14 +15,14 @@ programmes:
 - timetable: ''
   code: WD_KDAAN_G
   name: HDip in Science in Data Analytics
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: ''
   code: WD_KDTAN_MA
   name: Certificate in Data Analytics
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -63,42 +63,42 @@ learning_and_teaching_methods:
   material and feedback.
 - Practicals using statistical software supports the learning experience.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 24
-- full_time: 24
+  part_time: '24'
+- full_time: '24'
   name: Practical
-  part_time: 24
-- full_time: 87
+  part_time: '24'
+- full_time: '87'
   name: Independent Learning
-  part_time: 87
+  part_time: '87'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 2, 3,7
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4, 6, 7
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4, 5, 7
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1, 7
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -113,6 +113,7 @@ assessment_criteria:
   mature style.'
 - '70%-100%: Demonstrate authoritative handling of complex material and provide well
   focused analysis and convincing arguments on statistics and regression.'
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Berenson, M.L., D.M. Levine, K.A. Szabat and D.F. Stephan. _Basic Business_. 14th
@@ -126,6 +127,4 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: true
-
-
 
