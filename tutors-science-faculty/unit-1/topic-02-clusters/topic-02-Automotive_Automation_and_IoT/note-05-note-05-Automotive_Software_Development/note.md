@@ -18,7 +18,7 @@ This module introduces the student to the process of production-scale automotive
 | **Short Title** | Automotive Software Dev. |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -85,9 +85,9 @@ Students will be encouraged to enhance their lab work and assessment submissions
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - In-Class Assessment | 1,2 | 20% |
-| - Assignment | 3,6 | 50% |
-| - Assignment | 4,5 | 30% |
+| **In-Class Assessment** | 1,2 | **20%** |
+| **Assignment** | 3,6 | **50%** |
+| **Assignment** | 4,5 | **30%** |
 
 ---
 

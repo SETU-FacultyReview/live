@@ -18,7 +18,7 @@ This laboratory-based module provides a comprehensive study of model-based desig
 | **Short Title** | Model-Based Development |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | FWWALSH |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -81,8 +81,8 @@ Laboratory-based practicals will combine topics covered in lectures to build, si
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3 | 40% |
-| - Assignment | 3,4,5,6 | 60% |
+| **Assignment** | 1,2,3 | **40%** |
+| **Assignment** | 3,4,5,6 | **60%** |
 
 ---
 

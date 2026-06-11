@@ -18,7 +18,7 @@ The rate of ICT development has outpaced society?s ability to regulate responsib
 | **Short Title** | Computing Ethics |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LSTAPLETON |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -81,8 +81,8 @@ The portfolio will include a reflective learning component to test reflective ca
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **50%** |
+| **Portfolio** | 1,2,3,4 | **50%** |
 | **Final Written Examination** | 1,2,4 | **50%** |
-| - Portfolio | 1,2,3,4 | 50% |
 
 ---
 

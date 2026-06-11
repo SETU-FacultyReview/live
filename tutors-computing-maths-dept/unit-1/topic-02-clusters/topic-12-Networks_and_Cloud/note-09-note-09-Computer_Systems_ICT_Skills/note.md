@@ -18,7 +18,7 @@ The focus of this module will be on five components: computer architecture, memo
 | **Short Title** | Computer Systems (ICT Skills) |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DPOWER |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -88,8 +88,8 @@ The practicals will focus on developing the practical skills of the student usin
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,5,6 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Practical | 4,7,8 | 25% |
-| - Practical | 4,7,8 | 25% |
+| **Practical** | 4,7,8 | **25%** |
+| **Practical** | 4,7,8 | **25%** |
 
 ---
 

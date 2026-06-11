@@ -18,7 +18,7 @@ This module provides an introduction to IT security.
 | **Short Title** | Security Essentials |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
 | **Cluster** | [Forensics and Security](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -86,7 +86,7 @@ The practical element will be largely based on laboratory exercises involving th
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,3,5,6,7 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Practical | 2,4,6 | 50% |
+| **Practical** | 2,4,6 | **50%** |
 
 ---
 

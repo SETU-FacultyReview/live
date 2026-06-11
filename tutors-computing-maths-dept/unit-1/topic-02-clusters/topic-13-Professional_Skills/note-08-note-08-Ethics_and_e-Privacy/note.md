@@ -18,7 +18,7 @@ This module aims to provide students with a solid grounding in applied ethics an
 | **Short Title** | Ethics and e-Privacy |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PCAREW |
 | **Cluster** | [Professional Skills](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -81,9 +81,9 @@ Independent learning: Research for the weekly debate sessions and assigned resea
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4 | **50%** |
+| **Presentation** | 2,3 | **15%** |
+| **Case Studies** | 1,3 | **35%** |
 | **Final Written Examination** | 1,2,4 | **50%** |
-| - Presentation | 2,3 | 15% |
-| - Case Studies | 1,3 | 35% |
 
 ---
 

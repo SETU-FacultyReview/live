@@ -18,7 +18,7 @@ This module will introduce the student to the workplace from the point of view o
 | **Short Title** | Management Psychology |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MCAHILL |
 | **Cluster** | [Humanities](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-08-Humanities) |

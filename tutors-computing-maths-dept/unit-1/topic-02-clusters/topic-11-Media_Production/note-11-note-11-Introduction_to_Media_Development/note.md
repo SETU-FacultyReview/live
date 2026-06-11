@@ -18,7 +18,7 @@ This module introduces students to the concepts, tools and technologies surround
 | **Short Title** | Intro. to Media Development |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ROCONNOR |
 | **Cluster** | [Media Production](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -83,8 +83,8 @@ Access to handheld cameras.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - In-Class Assessment | 1,2 | 30% |
-| - Assignment | 3,4 | 70% |
+| **In-Class Assessment** | 1,2 | **30%** |
+| **Assignment** | 3,4 | **70%** |
 
 ---
 

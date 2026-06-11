@@ -18,7 +18,7 @@ This module approaches web application development from an apps and services per
 | **Short Title** | Web App Development 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DOCONNOR |
 | **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -84,8 +84,8 @@ Student will be encouraged to enhance their lab work and assessment submissions 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Project | 1,2,3 | 70% |
-| - Practical | 4,5 | 30% |
+| **Project** | 1,2,3 | **70%** |
+| **Practical** | 4,5 | **30%** |
 
 ---
 

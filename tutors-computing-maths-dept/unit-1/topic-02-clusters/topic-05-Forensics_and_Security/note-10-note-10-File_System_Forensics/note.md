@@ -18,7 +18,7 @@ The aims of this module are to provide students with an understanding of how com
 | **Short Title** | File System Forensics |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JSHEPPARD |
 | **Cluster** | [Forensics and Security](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -76,8 +76,8 @@ This module will be presented by a combination of lectures and practicals. The l
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3,4,5 | 50% |
-| - Assignment | 3,4,5,6 | 50% |
+| **Assignment** | 1,2,3,4,5 | **50%** |
+| **Assignment** | 3,4,5,6 | **50%** |
 
 ---
 

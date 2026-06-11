@@ -18,7 +18,7 @@ The objective of this module is to provide students with the understanding of te
 | **Short Title** | Bus Sys and S/W Eng |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RSHANAHAN |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -81,9 +81,9 @@ For online delivery, the lectures and practical's will be a combination of compr
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - Assignment | 2,3 | 25% |
-| - Assignment | 2,3,4 | 60% |
-| - In-Class Assessment | 1,2,5 | 15% |
+| **Assignment** | 2,3 | **25%** |
+| **Assignment** | 2,3,4 | **60%** |
+| **In-Class Assessment** | 1,2,5 | **15%** |
 
 ---
 

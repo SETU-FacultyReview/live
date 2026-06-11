@@ -18,7 +18,7 @@ This module will provide the student with an introduction to programming concept
 | **Short Title** | Programming Concepts |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SRWALSH |
 | **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -79,8 +79,8 @@ The practical element is intended to provide the student with the skills and con
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4 | **100%** |
-| - Practical | 1,2 | 30% |
-| - Practical | 1,2,3,4 | 70% |
+| **Practical** | 1,2 | **30%** |
+| **Practical** | 1,2,3,4 | **70%** |
 
 ---
 

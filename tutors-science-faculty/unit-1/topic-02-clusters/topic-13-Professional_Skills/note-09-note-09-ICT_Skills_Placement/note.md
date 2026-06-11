@@ -18,7 +18,7 @@ Students will spend a period of not less than four months in a work experience p
 | **Short Title** | ICT Skills Placement |
 | **Credits** | 30 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EDELEASTAR |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |

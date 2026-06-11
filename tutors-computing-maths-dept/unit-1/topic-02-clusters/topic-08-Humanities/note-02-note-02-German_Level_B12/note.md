@@ -18,7 +18,7 @@ The module aims to: enable the student to understand the main points of clear st
 | **Short Title** | German Level B1.2 |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Humanities |
+| **Faculty** | Humanities |
 | **Department** | Computing and Mathematics |
 | **Module Author** |  |
 | **Cluster** | [Humanities](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-08-Humanities) |
@@ -95,15 +95,15 @@ both classroom activities and self-directed learning activities outside the clas
 
 ## Assessment Criteria
 
-Fail (<40%).
+<40%:
 
-Pass (40-49%).
+40%-49%:
 
-Merit 2 (50-59%).
+50%-59%:
 
-Merit 1 (60-69%).
+60%-69%:
 
-Distinction (70 - 100%).
+70%-100%:
 
 ---
 

@@ -18,7 +18,7 @@ This module will introduce the student to the principles and practice of designi
 | **Short Title** | DB Design and Implementation |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
 | **Cluster** | [Database and Analytics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -81,8 +81,8 @@ For online delivery, the lectures and practicals will be a combination of compre
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - Assignment | 1,2,3,4,5 | 70% |
-| - Assignment | 1,3,6 | 30% |
+| **Assignment** | 1,2,3,4,5 | **70%** |
+| **Assignment** | 1,3,6 | **30%** |
 
 ---
 

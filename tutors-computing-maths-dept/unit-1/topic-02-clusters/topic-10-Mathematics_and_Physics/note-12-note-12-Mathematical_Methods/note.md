@@ -18,7 +18,7 @@ This module deals with the mathematical concepts and techniques needed to tackle
 | **Short Title** | Mathematical Methods |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Mathematics and Physics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -84,8 +84,8 @@ Active engagement with frequent practice on examples is strongly encouraged thro
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **25%** |
+| **Practical** | 5 | **25%** |
 | **Final Written Examination** | 1,2,3,4 | **75%** |
-| - Practical | 5 | 25% |
 
 ---
 

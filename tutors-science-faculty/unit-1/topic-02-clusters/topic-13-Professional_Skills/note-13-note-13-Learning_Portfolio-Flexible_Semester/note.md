@@ -18,7 +18,7 @@ The purpose of the learning portfolio module is to require the student to reflec
 | **Short Title** | Learning Portfolio |
 | **Credits** | 10 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -72,7 +72,7 @@ Review with the work placement co-ordinator and/or academic mentor.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Portfolio | 1,2,3,4 | 100% |
+| **Portfolio** | 1,2,3,4 | **100%** |
 
 ---
 

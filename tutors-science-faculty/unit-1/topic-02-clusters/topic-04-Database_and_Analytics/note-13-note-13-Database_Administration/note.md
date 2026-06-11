@@ -18,7 +18,7 @@ This module will provide students with the skills to be a Database Administrator
 | **Short Title** | Database Administration |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | TMCDONALD |
 | **Cluster** | [Database and Analytics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -85,8 +85,8 @@ The theory will be applied in a series of practicals that will be problem solvin
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 4,5,6 | **50%** |
+| **Assignment** | 4,5,6 | **50%** |
 | **Final Written Examination** | 1,2,3,7 | **50%** |
-| - Assignment | 4,5,6 | 50% |
 
 ---
 

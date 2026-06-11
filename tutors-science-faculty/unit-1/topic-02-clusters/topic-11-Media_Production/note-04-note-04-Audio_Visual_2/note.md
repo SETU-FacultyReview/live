@@ -18,7 +18,7 @@ This module focuses on visual media.
 | **Short Title** | Audio Visual 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ROCONNOR |
 | **Cluster** | [Media Production](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -88,9 +88,9 @@ Sample Project: Record, edit and finalise a video based on a script/storyboard.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - In-Class Assessment | 1 | 10% |
-| - Assignment | 2 | 30% |
-| - Project | 3,4 | 60% |
+| **In-Class Assessment** | 1 | **10%** |
+| **Assignment** | 2 | **30%** |
+| **Project** | 3,4 | **60%** |
 
 ---
 

@@ -18,7 +18,7 @@ This module aims to provide the student with the ability to initiate, plan, exec
 | **Short Title** | Project Management |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | FLYNCH |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -82,7 +82,7 @@ In practical classes, students will engage with project management software thro
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1, 2, 3, 4 | **50%** |
 | **Continuous Assessment** | 3, 4, 5 | **50%** |
-| - Group Project | 1,2,3, 4, 5 | 50% |
+| **Group Project** | 1,2,3, 4, 5 | **50%** |
 
 ---
 

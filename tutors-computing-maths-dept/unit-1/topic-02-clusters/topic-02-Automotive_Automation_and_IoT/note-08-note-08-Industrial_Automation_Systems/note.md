@@ -18,7 +18,7 @@ Industrial Automation Systems are pervasive in the Manufacturing and Service Ind
 | **Short Title** | Industrial Automation Systems |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JDALY |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -85,9 +85,9 @@ Student will be encouraged to enhance their lab work and assessment submissions 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - Lab Report | 2,3,4,5,6 | 30% |
-| - In-Class Assessment | 1,4,5 | 20% |
-| - Assignment | 2,3,4,6 | 50% |
+| **Lab Report** | 2,3,4,5,6 | **30%** |
+| **In-Class Assessment** | 1,4,5 | **20%** |
+| **Assignment** | 2,3,4,6 | **50%** |
 
 ---
 

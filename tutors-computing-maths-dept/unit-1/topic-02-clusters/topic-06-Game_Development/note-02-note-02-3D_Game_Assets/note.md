@@ -18,7 +18,7 @@ This module serves as an introduction to 3D modelling for game asset designers a
 | **Short Title** | 3D Game Assets |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PMCINERNEY |
 | **Cluster** | [Game Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-06-Game_Development) |
@@ -80,9 +80,9 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4 | **100%** |
-| - In-Class Assessment | 1,2 | 20% |
-| - Presentation | 3 | 30% |
-| - Project | 3,4 | 50% |
+| **In-Class Assessment** | 1,2 | **20%** |
+| **Presentation** | 3 | **30%** |
+| **Project** | 3,4 | **50%** |
 
 ---
 

@@ -18,7 +18,7 @@ This module will facilitate the student to understand the application of NoSQL d
 | **Short Title** | Adv. NoSQL |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | TMCDONALD |
 | **Cluster** | [Database and Analytics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -81,7 +81,7 @@ The continuous assessment will require the student to apply the theory and pract
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - Assignment | 1,2,3,4,5 | 100% |
+| **Assignment** | 1,2,3,4,5 | **100%** |
 
 ---
 

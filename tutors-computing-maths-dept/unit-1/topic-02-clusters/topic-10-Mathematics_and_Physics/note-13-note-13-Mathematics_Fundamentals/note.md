@@ -18,7 +18,7 @@ This module introduces students to the basic concepts in matrices, linear and no
 | **Short Title** | Mathematics Fundamentals |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADALYWALSH |
 | **Cluster** | [Mathematics and Physics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -85,8 +85,8 @@ Students will also use graphing tools to explore the properties of functions.
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 3,4,5 | **60%** |
 | **Continuous Assessment** | 1,2,6,7 | **40%** |
-| - In-Class Assessment | 1,2 | 15% |
-| - Practical | 6,7 | 25% |
+| **In-Class Assessment** | 1,2 | **15%** |
+| **Practical** | 6,7 | **25%** |
 
 ---
 

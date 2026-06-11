@@ -18,7 +18,7 @@ This module will introduce the student to the principles and practice of designi
 | **Short Title** | Relational Databases |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Database and Analytics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -81,7 +81,7 @@ The practical classes will encourage group work particularly for the relational 
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,6 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Assignment | 1,2,3,4,5 | 50% |
+| **Assignment** | 1,2,3,4,5 | **50%** |
 
 ---
 

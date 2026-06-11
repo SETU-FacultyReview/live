@@ -18,7 +18,7 @@ This module follows on from Computer Systems 1 and focuses mostly on operating s
 | **Short Title** | Computer Systems 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -76,8 +76,8 @@ There is a strong emphasis on practical, lab-based exercises.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **50%** |
+| **Assignment** | 3,4,5 | **50%** |
 | **Final Written Examination** | 1,2,4 | **50%** |
-| - Assignment | 3,4,5 | 50% |
 
 ---
 

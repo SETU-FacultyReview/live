@@ -18,7 +18,7 @@ This module will build on the students basic Computer Networks knowledge.
 | **Short Title** | Networks Infrastructure |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PKIRWAN |
 | **Cluster** | [Networks and Cloud](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -84,8 +84,8 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 3, 4, 5, 6, 8 | 40% |
-| - Practical | 1,2,7,8 | 60% |
+| **Assignment** | 3, 4, 5, 6, 8 | **40%** |
+| **Practical** | 1,2,7,8 | **60%** |
 
 ---
 

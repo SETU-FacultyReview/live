@@ -18,7 +18,7 @@ This module examines the role and techniques of project management within the co
 | **Short Title** | IS Project Management |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LDOYLE |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -86,7 +86,7 @@ The practical element is intended to provide the student with the skills needed 
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,3,4,5 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Assignment | 2,3 | 50% |
+| **Assignment** | 2,3 | **50%** |
 
 ---
 

@@ -18,7 +18,7 @@ Advanced Driver Assistance Systems (ADAS) assist and complement drivers in the s
 | **Short Title** | Adv. Driver Assistance Systems |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -85,9 +85,9 @@ Student will be encouraged to enhance their lab work and assessment submissions 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Lab Report | 2,3,4,5 | 30% |
-| - In-Class Assessment | 1,6 | 20% |
-| - Assignment | 4,5,6 | 50% |
+| **Lab Report** | 2,3,4,5 | **30%** |
+| **In-Class Assessment** | 1,6 | **20%** |
+| **Assignment** | 4,5,6 | **50%** |
 
 ---
 

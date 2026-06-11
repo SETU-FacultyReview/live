@@ -18,7 +18,7 @@ Data analytics supports critical decision making in business.
 | **Short Title** | Data Analytics |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | AKEALY |
 | **Cluster** | [Database and Analytics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -83,9 +83,9 @@ For online delivery the lectures and practicals will be a combination of compreh
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - Assignment | 1,2,3 | 25% |
-| - Assignment | 3,4 | 25% |
-| - Assignment | 1,5,6 | 50% |
+| **Assignment** | 1,2,3 | **25%** |
+| **Assignment** | 3,4 | **25%** |
+| **Assignment** | 1,5,6 | **50%** |
 
 ---
 

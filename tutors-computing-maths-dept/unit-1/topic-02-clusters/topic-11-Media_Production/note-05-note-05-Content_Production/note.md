@@ -18,7 +18,7 @@ Participants create high-quality media assets for simulated clients or events.
 | **Short Title** | Content Production |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ROCONNOR |
 | **Cluster** | [Media Production](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-11-Media_Production) |

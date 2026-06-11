@@ -18,7 +18,7 @@ This module will address Enterprise Applications that a business would use for i
 | **Short Title** | Ent App for Bus |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BMCKEOWN |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -86,9 +86,9 @@ For online delivery, the lectures and practicals will be a combination of compre
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - In-Class Assessment | 2,3,4,5,6 | 30% |
-| - Group Project | 1,2,3,6 | 30% |
-| - Essay | 2,3,4,5 | 40% |
+| **In-Class Assessment** | 2,3,4,5,6 | **30%** |
+| **Group Project** | 1,2,3,6 | **30%** |
+| **Essay** | 2,3,4,5 | **40%** |
 
 ---
 

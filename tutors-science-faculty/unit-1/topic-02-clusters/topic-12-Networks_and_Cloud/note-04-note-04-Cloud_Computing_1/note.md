@@ -18,7 +18,7 @@ This module explores key technologies in the provision of Cloud computing servic
 | **Short Title** | Cloud Computing 1 |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RFRISBY |
 | **Cluster** | [Networks and Cloud](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -80,9 +80,9 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Lab Report | 2,3,4,5 | 30% |
-| - Project | 2,3,4,5 | 30% |
-| - In-Class Assessment | 1,2,3 | 40% |
+| **Lab Report** | 2,3,4,5 | **30%** |
+| **Project** | 2,3,4,5 | **30%** |
+| **In-Class Assessment** | 1,2,3 | **40%** |
 
 ---
 

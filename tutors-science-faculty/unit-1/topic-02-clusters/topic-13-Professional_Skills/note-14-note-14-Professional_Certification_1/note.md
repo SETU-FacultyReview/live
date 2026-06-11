@@ -18,7 +18,7 @@ The purpose of the professional certification module is to require the student t
 | **Short Title** | Professional Certification 1 |
 | **Credits** | 10 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -75,7 +75,7 @@ Relevant resources, both online and in book format.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Practical | 1,2,3 | 100% |
+| **Practical** | 1,2,3 | **100%** |
 
 ---
 

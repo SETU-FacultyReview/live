@@ -1,4 +1,4 @@
-| Any Semester |  |  | Semester 3 |  |  |
+| Semester 0 |  |  | Semester 3 |  |  |
 | ----------------- | --- | --- | ----------------- | --- | --- |
 |  |  |  | [Dissertation](/note/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills/note-07-note-07-Dissertation) | 20 | M |
 | [Org. Renewal & Performance](/note/setu-science-faculty/unit-1/topic-02-clusters/topic-03-Business/note-03-note-03-Organisational_Renewal_and_Performance) | 10 | E |  |  |  |

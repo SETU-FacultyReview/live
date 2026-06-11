@@ -18,7 +18,7 @@ This module introduces students to the capabilities of cloud computing.
 | **Short Title** | Intro to Cloud Computing |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -79,7 +79,7 @@ The practical element will involve laboratory exercises using a popular applicat
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Practical | 1,2,3,4,5 | 100% |
+| **Practical** | 1,2,3,4,5 | **100%** |
 
 ---
 

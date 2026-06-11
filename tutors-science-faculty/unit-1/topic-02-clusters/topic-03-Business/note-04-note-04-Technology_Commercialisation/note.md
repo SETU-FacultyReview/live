@@ -18,7 +18,7 @@ This module will offer the student a process and tools to access the business vi
 | **Short Title** | Technology Commercialisation |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PLYNCH |
 | **Cluster** | [Business](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-03-Business) |
@@ -87,9 +87,9 @@ Guest Lectures
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Group Project | 1,2,3,4,6,7 | 60% |
-| - Presentation | 3,5 | 15% |
-| - Case Studies | 1,2,3 | 25% |
+| **Group Project** | 1,2,3,4,6,7 | **60%** |
+| **Presentation** | 3,5 | **15%** |
+| **Case Studies** | 1,2,3 | **25%** |
 
 ---
 

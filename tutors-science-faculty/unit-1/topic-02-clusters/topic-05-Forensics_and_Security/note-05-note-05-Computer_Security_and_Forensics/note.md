@@ -18,7 +18,7 @@ This module provides the essentials of computer security and forensics.
 | **Short Title** | Security and Forensics |
 | **Credits** | 10 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
 | **Cluster** | [Forensics and Security](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -93,10 +93,10 @@ The practical element allows the student to put into practice the theoretical co
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - In-Class Assessment | 1,2,3 | 25% |
-| - Assignment | 1,4,5 | 25% |
-| - Assignment | 6,10 | 25% |
-| - Assignment | 7,8,9 | 25% |
+| **In-Class Assessment** | 1,2,3 | **25%** |
+| **Assignment** | 1,4,5 | **25%** |
+| **Assignment** | 6,10 | **25%** |
+| **Assignment** | 7,8,9 | **25%** |
 
 ---
 

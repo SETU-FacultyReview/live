@@ -18,7 +18,7 @@ This module introduces the student to the creation and development of web based 
 | **Short Title** | Website Development 1 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SORIORDAN |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -76,8 +76,8 @@ The module will be delivered in one lecture and in three hours of computer-based
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - In-Class Assessment | 1,2 | 30% |
-| - Portfolio | 1,2,3,4,5 | 70% |
+| **In-Class Assessment** | 1,2 | **30%** |
+| **Portfolio** | 1,2,3,4,5 | **70%** |
 
 ---
 

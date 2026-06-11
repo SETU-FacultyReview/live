@@ -18,7 +18,7 @@ This module introduces the student to vector-based illustration software.
 | **Short Title** | Digital Graphic Design |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
 | **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
@@ -73,7 +73,7 @@ Practical classes will provide students with an opportunity to develop a range o
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Portfolio | 1,2,3,4 | 100% |
+| **Portfolio** | 1,2,3,4 | **100%** |
 
 ---
 

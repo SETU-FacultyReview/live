@@ -18,7 +18,7 @@ In this module students will learn about business intelligence (BI) concepts, me
 | **Short Title** | Business Intelligence |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBARRY |
 | **Cluster** | [Database and Analytics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -81,7 +81,7 @@ In practical classes, students will engage with BI software and will work on cas
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - Project | 1,2,3,4,5,6 | 100% |
+| **Project** | 1,2,3,4,5,6 | **100%** |
 
 ---
 

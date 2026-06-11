@@ -18,7 +18,7 @@ This module equips the student with knowledge of security vulnerabilities of app
 | **Short Title** | Application Security |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CLPOWER |
 | **Cluster** | [Forensics and Security](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -81,9 +81,9 @@ The practical element allows the student to put into practice the theoretical co
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - Assignment | 5 | 30% |
-| - Practical | 6 | 40% |
-| - In-Class Assessment | 1,2,3,4 | 30% |
+| **Assignment** | 5 | **30%** |
+| **Practical** | 6 | **40%** |
+| **In-Class Assessment** | 1,2,3,4 | **30%** |
 
 ---
 

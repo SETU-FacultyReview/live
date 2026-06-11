@@ -18,7 +18,7 @@ This module teaches the fundamentals of sound, music, sound recording and editin
 | **Short Title** | Audio Visual 1 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ROCONNOR |
 | **Cluster** | [Media Production](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -83,8 +83,8 @@ Stock AV Library subscription (e.g. AudioBlocks, VideoBlocks).
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2 | 30% |
-| - Project | 3,4 | 70% |
+| **Assignment** | 1,2 | **30%** |
+| **Project** | 3,4 | **70%** |
 
 ---
 

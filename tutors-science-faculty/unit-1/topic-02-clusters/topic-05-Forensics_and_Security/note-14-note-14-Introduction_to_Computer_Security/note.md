@@ -18,7 +18,7 @@ This module will provide an introduction to computer security.
 | **Short Title** | Intro to Computer Security |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CLPOWER |
 | **Cluster** | [Forensics and Security](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -83,8 +83,8 @@ The practical element allows the student to put into practice the theoretical co
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Lab Report | 4,5 | 20% |
-| - Practical | 4,5 | 30% |
+| **Lab Report** | 4,5 | **20%** |
+| **Practical** | 4,5 | **30%** |
 
 ---
 

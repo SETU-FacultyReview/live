@@ -18,7 +18,7 @@ This module explores the rules and principles that regulate the pre-trial and tr
 | **Short Title** | Criminal Evidence |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DGKEATING |
 | **Cluster** | [Forensics and Security](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -78,9 +78,9 @@ Lectures, private reading, seminars, research assignments.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **50%** |
+| **Project** | 4 | **20%** |
+| **Presentation** | 3 | **30%** |
 | **Final Written Examination** | 1,2 | **50%** |
-| - Project | 4 | 20% |
-| - Presentation | 3 | 30% |
 
 ---
 

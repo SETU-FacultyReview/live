@@ -18,7 +18,7 @@ This module introduces technologies and network protocols that underpin computer
 | **Short Title** | Computer Systems and Networks |
 | **Credits** | 10 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | FWWALSH |
 | **Cluster** | [Networks and Cloud](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -92,9 +92,9 @@ Self directed learning
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6,7,8,9,10,11 | **100%** |
-| - Assignment | 1,2,3,4,5 | 25% |
-| - Assignment | 5,6,7 | 25% |
-| - Assignment | 8,9,10,11 | 50% |
+| **Assignment** | 1,2,3,4,5 | **25%** |
+| **Assignment** | 5,6,7 | **25%** |
+| **Assignment** | 8,9,10,11 | **50%** |
 
 ---
 

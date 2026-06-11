@@ -18,7 +18,7 @@ This module explores organisational structures and the generic business function
 | **Short Title** | BIS and Processes |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RLYNG |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -84,8 +84,8 @@ In practical classes, students will engage with business process mapping techniq
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,6 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Group Project | 2 | 25% |
-| - In-Class Assessment | 4,5 | 25% |
+| **Group Project** | 2 | **25%** |
+| **In-Class Assessment** | 4,5 | **25%** |
 
 ---
 

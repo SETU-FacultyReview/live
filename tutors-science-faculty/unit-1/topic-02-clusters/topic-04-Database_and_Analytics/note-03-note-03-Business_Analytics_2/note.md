@@ -18,7 +18,7 @@ The purpose is to advance the students skills in conducting business analytics o
 | **Short Title** | Business Analytics 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BMULLALLY |
 | **Cluster** | [Database and Analytics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -80,8 +80,8 @@ In the continuous assessment the student will apply what they have learned in th
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - In-Class Assessment | 4,5 | 30% |
-| - Assignment | 1,2,3,4 | 70% |
+| **In-Class Assessment** | 4,5 | **30%** |
+| **Assignment** | 1,2,3,4 | **70%** |
 
 ---
 

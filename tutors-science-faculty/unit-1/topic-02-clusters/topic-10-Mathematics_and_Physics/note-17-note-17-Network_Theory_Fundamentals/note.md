@@ -18,7 +18,7 @@ This module will introduce students to the principles of graph/network models an
 | **Short Title** | Network Theory Fundamentals |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADALYWALSH |
 | **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -78,8 +78,8 @@ The practicals will help students investigate and study real world problems usin
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 2,3,4 | **60%** |
 | **Continuous Assessment** | 1,2 | **40%** |
-| - In-Class Assessment | 2 | 15% |
-| - Practical | 1 | 25% |
+| **In-Class Assessment** | 2 | **15%** |
+| **Practical** | 1 | **25%** |
 
 ---
 

@@ -18,7 +18,7 @@ This is a practical module that requires the student to build, configure and man
 | **Short Title** | Automated Cloud Services |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RFRISBY |
 | **Cluster** | [Networks and Cloud](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -83,9 +83,9 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,3 | 40% |
-| - Assignment | 1,2,3,4,5 | 40% |
-| - In-Class Assessment | 3,4,5 | 20% |
+| **Assignment** | 1,3 | **40%** |
+| **Assignment** | 1,2,3,4,5 | **40%** |
+| **In-Class Assessment** | 3,4,5 | **20%** |
 
 ---
 

@@ -18,7 +18,7 @@ Introduce the the student to the software development lifecycle via the implemen
 | **Short Title** | Web App Development |
 | **Credits** | 10 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EDELEASTAR |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -90,8 +90,8 @@ Combination of lectures and computer-based practicals.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3,4,5,6,7 | 50% |
-| - Assignment | 5,6,7,8,9,10,11 | 50% |
+| **Assignment** | 1,2,3,4,5,6,7 | **50%** |
+| **Assignment** | 5,6,7,8,9,10,11 | **50%** |
 
 ---
 

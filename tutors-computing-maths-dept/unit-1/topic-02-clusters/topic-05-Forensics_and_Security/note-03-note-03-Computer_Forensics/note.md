@@ -18,7 +18,7 @@ This module provides the essentials of computer forensics.
 | **Short Title** | Computer Forensics |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JSHEPPARD |
 | **Cluster** | [Forensics and Security](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -81,8 +81,8 @@ The practical element allows the student to put into practice the theoretical co
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,5 | 50% |
-| - Assignment | 2,3,4 | 50% |
+| **Assignment** | 1,5 | **50%** |
+| **Assignment** | 2,3,4 | **50%** |
 
 ---
 

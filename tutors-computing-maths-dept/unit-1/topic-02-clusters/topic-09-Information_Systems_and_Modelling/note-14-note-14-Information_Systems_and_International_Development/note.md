@@ -18,7 +18,7 @@ International development agencies and NGOs are growing sectors with a tradition
 | **Short Title** | IS & International Development |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LSTAPLETON |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -82,8 +82,8 @@ The course will also include debating of issues in relation to the role of infor
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **50%** |
+| **Portfolio** | 1,2,3,4 | **50%** |
 | **Final Written Examination** | 1,2,3,4,5 | **50%** |
-| - Portfolio | 1,2,3,4 | 50% |
 
 ---
 

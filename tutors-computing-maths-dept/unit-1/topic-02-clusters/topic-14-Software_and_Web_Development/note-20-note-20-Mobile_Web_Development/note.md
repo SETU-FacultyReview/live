@@ -18,7 +18,7 @@ Introduce the notations, programming languages, tools and techniques for the des
 | **Short Title** | Mobile Web Development |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DOCONNOR |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -84,8 +84,8 @@ Student will be encouraged to enhance their lab work and assessment submissions 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3,4 | 50% |
-| - Assignment | 3,4,5,6 | 50% |
+| **Assignment** | 1,2,3,4 | **50%** |
+| **Assignment** | 3,4,5,6 | **50%** |
 
 ---
 

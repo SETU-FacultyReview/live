@@ -18,7 +18,7 @@ This module introduces students to problem solving techniques using algebraic, l
 | **Short Title** | Maths for Problem Solving |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | AVEREKER |
 | **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -77,8 +77,8 @@ In tutorials students will solve problems which will be based on material covere
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,3,4 | **60%** |
 | **Continuous Assessment** | 2,5 | **40%** |
-| - In-Class Assessment | 2 | 20% |
-| - In-Class Assessment | 5 | 20% |
+| **In-Class Assessment** | 2 | **20%** |
+| **In-Class Assessment** | 5 | **20%** |
 
 ---
 

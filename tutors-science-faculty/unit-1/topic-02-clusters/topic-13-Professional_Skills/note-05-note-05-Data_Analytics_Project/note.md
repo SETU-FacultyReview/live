@@ -18,7 +18,7 @@ The purpose of the Industry-led Project is to enable the student to apply the kn
 | **Short Title** | Data Analytics Project |
 | **Credits** | 10 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PKIRWAN |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |

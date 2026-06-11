@@ -18,7 +18,7 @@ The student will be introduced to the fundamental concepts and techniques of Dat
 | **Short Title** | Data Mining |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BMULLALLY |
 | **Cluster** | [Database and Analytics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -81,10 +81,10 @@ The student will apply typical methods of Data Mining to data sets provided.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - Assignment | 1,2,3 | 20% |
-| - Assignment | 2,4,5,6 | 40% |
-| - Assignment | 2,4,5,6 | 30% |
-| - Participation | 1,2,3,4,5,6 | 10% |
+| **Assignment** | 1,2,3 | **20%** |
+| **Assignment** | 2,4,5,6 | **40%** |
+| **Assignment** | 2,4,5,6 | **30%** |
+| **Participation** | 1,2,3,4,5,6 | **10%** |
 
 ---
 

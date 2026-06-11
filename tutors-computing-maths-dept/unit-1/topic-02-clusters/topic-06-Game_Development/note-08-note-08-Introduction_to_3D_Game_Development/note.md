@@ -18,7 +18,7 @@ This module will provide the students with the necessary skill set to develop a 
 | **Short Title** | Intro to 3D Game Development |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PFELICIA |
 | **Cluster** | [Game Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-06-Game_Development) |
@@ -82,9 +82,9 @@ Due to the very practical nature of the skills to be acquired in this module, th
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,5,6 | 25% |
-| - Assignment | 1,2,3,4 | 25% |
-| - In-Class Assignment | 2 | 50% |
+| **Assignment** | 1,5,6 | **25%** |
+| **Assignment** | 1,2,3,4 | **25%** |
+| **In-Class Assignment** | 2 | **50%** |
 
 ---
 

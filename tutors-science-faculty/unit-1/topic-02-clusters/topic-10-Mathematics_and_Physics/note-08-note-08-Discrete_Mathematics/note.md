@@ -18,7 +18,7 @@ This module provides a solid foundation of selected topics in discrete mathemati
 | **Short Title** | Discrete Mathematics |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -86,8 +86,8 @@ Active engagement with frequent practise on examples is strongly encouraged thro
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **25%** |
+| **Practical** | 6 | **25%** |
 | **Final Written Examination** | 1,2,3,4,5 | **75%** |
-| - Practical | 6 | 25% |
 
 ---
 

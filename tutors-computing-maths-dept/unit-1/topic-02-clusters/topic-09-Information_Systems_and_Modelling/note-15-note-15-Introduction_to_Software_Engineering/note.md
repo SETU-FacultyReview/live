@@ -18,7 +18,7 @@ The objective of this module is to provide students with the understanding of te
 | **Short Title** | Intro to Software Eng |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MFITZGERALD |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -83,8 +83,8 @@ In practical classes students will apply these concepts and engage with project 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6,7 | **100%** |
-| - Assignment | 2,3,4,5,6,7 | 50% |
-| - Assignment | 1,3,4 | 50% |
+| **Assignment** | 2,3,4,5,6,7 | **50%** |
+| **Assignment** | 1,3,4 | **50%** |
 
 ---
 

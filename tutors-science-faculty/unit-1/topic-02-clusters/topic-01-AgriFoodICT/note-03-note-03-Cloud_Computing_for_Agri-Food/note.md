@@ -18,7 +18,7 @@ This module introduces students to the capabilities of cloud computing, especial
 | **Short Title** | Cloud Computing for Agri-Food |
 | **Credits** | 10 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADUNPHY |
 | **Cluster** | [AgriFoodICT](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-01-AgriFoodICT) |
@@ -93,7 +93,7 @@ Strong emphasis is given to practical laboratory exercises with extensive use ma
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,4,8,9 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Practical | 3,5,6,7,9 | 50% |
+| **Practical** | 3,5,6,7,9 | **50%** |
 
 ---
 

@@ -18,7 +18,7 @@ This module will introduce the student to the basics of professional ethics and 
 | **Short Title** | Project Semester 4 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -77,8 +77,8 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Project | 1,2 | 60% |
-| - Project | 2,3,4,5,6 | 40% |
+| **Project** | 1,2 | **60%** |
+| **Project** | 2,3,4,5,6 | **40%** |
 
 ---
 

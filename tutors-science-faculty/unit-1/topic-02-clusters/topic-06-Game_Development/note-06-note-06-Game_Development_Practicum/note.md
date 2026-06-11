@@ -18,7 +18,7 @@ This module will introduce the student to game-related project management skills
 | **Short Title** | Game Development Practicum |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BLYNG |
 | **Cluster** | [Game Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-06-Game_Development) |

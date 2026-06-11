@@ -18,7 +18,7 @@ This module will introduce the student to statistical techniques in data analysi
 | **Short Title** | Data Analysis 1 |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PKIRWAN |
 | **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -74,8 +74,8 @@ This module is focused on data analysis and developing good practices in dealing
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 2, 3, 4 | **50%** |
 | **Continuous Assessment** | 1,2,3,4 | **50%** |
-| - Practical | 1,2,4 | 25% |
-| - Practical | 1,3,4 | 25% |
+| **Practical** | 1,2,4 | **25%** |
+| **Practical** | 1,3,4 | **25%** |
 
 ---
 

@@ -18,7 +18,7 @@ The purpose of this module is to facilitate students in developing their employa
 | **Short Title** | Job Readiness |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
 | **Cluster** | [Professional Skills](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -76,7 +76,7 @@ The module will be delivered by a combination of lectures, group discussions, wo
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - Portfolio | 1,2,3,4,5 | 100% |
+| **Portfolio** | 1,2,3,4,5 | **100%** |
 
 ---
 

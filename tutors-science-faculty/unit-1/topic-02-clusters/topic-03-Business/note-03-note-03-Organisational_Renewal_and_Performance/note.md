@@ -18,7 +18,7 @@ The cornerstone of organisational renewal, revitalisation and performance (ORRP)
 | **Short Title** | Org. Renewal & Performance |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
 | **Cluster** | [Business](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-03-Business) |
@@ -97,7 +97,7 @@ Pre-class preparation of readings and case studies
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4,5,6,7 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Assignment | 1,2,3,4,5,6,7 | 50% |
+| **Assignment** | 1,2,3,4,5,6,7 | **50%** |
 
 ---
 

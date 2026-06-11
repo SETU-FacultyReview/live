@@ -18,7 +18,7 @@ The purpose of this work placement module is to require the student to apply the
 | **Short Title** | Industrial Placement 1 |
 | **Credits** | 10 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Professional Skills](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -79,7 +79,7 @@ Ongoing support of the work placement co-ordinator.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Employer's Report | 1,2,3,4 | 100% |
+| **Employer's Report** | 1,2,3,4 | **100%** |
 
 ---
 

@@ -18,7 +18,7 @@ This module looks at the lighting and rendering components of the 3D digital ani
 | **Short Title** | 3D Lighting and Rendering |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PMCINERNEY |
 | **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
@@ -82,8 +82,8 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - Assignment | 1,2,3 | 40% |
-| - Project | 3,4,5 | 60% |
+| **Assignment** | 1,2,3 | **40%** |
+| **Project** | 3,4,5 | **60%** |
 
 ---
 

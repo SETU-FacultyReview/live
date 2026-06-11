@@ -18,7 +18,7 @@ The study of this module enables students to systematically master the basic con
 | **Short Title** | Advanced Mathematics 1 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADAVY |
 | **Cluster** | [Mathematics and Physics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -81,9 +81,9 @@ The practical programme is designed to re-enforce the strong interconnections be
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **40%** |
+| **Assignment** | 1,2,3,4,5 | **20%** |
+| **In-Class Assessment** | 1,2,3,4,5 | **20%** |
 | **Final Written Examination** | 1,2,3,4,5,6 | **60%** |
-| - Assignment | 1,2,3,4,5 | 20% |
-| - In-Class Assessment | 1,2,3,4,5 | 20% |
 
 ---
 

@@ -18,7 +18,7 @@ This module aims to provide students with an understanding of the development of
 | **Short Title** | 2D Game Development |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PFELICIA |
 | **Cluster** | [Game Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-06-Game_Development) |
@@ -85,8 +85,8 @@ Assignments will allow students to demonstrate proficiency in applying practical
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - Assignment | 1,2,3 | 40% |
-| - Assignment | 2,4,6 | 60% |
+| **Assignment** | 1,2,3 | **40%** |
+| **Assignment** | 2,4,6 | **60%** |
 
 ---
 

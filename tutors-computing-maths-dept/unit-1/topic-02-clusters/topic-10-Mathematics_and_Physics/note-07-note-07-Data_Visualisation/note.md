@@ -18,7 +18,7 @@ This module will expose the learner to statistical and other methods that will e
 | **Short Title** | Data Visualisation |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | FLEONARD |
 | **Cluster** | [Mathematics and Physics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -77,7 +77,7 @@ Lectures will be used to present the principles and the constructs of data visua
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3 | **50%** |
 | **Continuous Assessment** | 4,5 | **50%** |
-| - Assignment | 4,5 | 50% |
+| **Assignment** | 4,5 | **50%** |
 
 ---
 

@@ -18,7 +18,7 @@ Design, build and deploy a multi-screen mobile application incorporating an intu
 | **Short Title** | Mobile App Development - ICT |
 | **Credits** | 10 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EDELEASTAR |
 | **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -97,8 +97,8 @@ Assessment Two will invite the student to analyse, design and implement a new ap
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3,4 | 40% |
-| - Assignment | 5,6,7,8,9,10 | 60% |
+| **Assignment** | 1,2,3,4 | **40%** |
+| **Assignment** | 5,6,7,8,9,10 | **60%** |
 
 ---
 

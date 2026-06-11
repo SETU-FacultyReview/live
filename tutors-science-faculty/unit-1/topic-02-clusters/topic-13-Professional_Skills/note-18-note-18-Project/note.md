@@ -18,7 +18,7 @@ The aim of this module is for students to synthesise, deepen and develop their k
 | **Short Title** | Project |
 | **Credits** | 10 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -74,7 +74,7 @@ The project will be largely self-directed; the student will be encouraged to res
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - Project | 1,2,3,4,5 | 100% |
+| **Project** | 1,2,3,4,5 | **100%** |
 
 ---
 

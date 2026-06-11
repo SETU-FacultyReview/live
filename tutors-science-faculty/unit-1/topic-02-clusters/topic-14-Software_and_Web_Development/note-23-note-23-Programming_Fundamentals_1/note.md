@@ -18,7 +18,7 @@ This module will introduce the student to fundamental programming techniques.
 | **Short Title** | Programming Fundamentals 1 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ROCONNOR |
 | **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -85,8 +85,8 @@ Self-directed learning will be encouraged throughout the duration of the module.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3,6 | 30% |
-| - Assignment | 1,2,4,5,6 | 70% |
+| **Assignment** | 1,2,3,6 | **30%** |
+| **Assignment** | 1,2,4,5,6 | **70%** |
 
 ---
 

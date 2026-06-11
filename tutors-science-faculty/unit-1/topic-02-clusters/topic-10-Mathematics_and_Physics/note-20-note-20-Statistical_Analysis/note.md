@@ -18,7 +18,7 @@ This module introduces students to data analysis techniques in statistics, regre
 | **Short Title** | Statistical Analysis |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | AHENNESSY |
 | **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -80,8 +80,8 @@ The tutorials will provide a forum through which the student will rehearse/refin
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3 | **60%** |
 | **Continuous Assessment** |  | **40%** |
-| - In-Class Assessment | 1,2 | 15% |
-| - Practical | 1,2,3,4 | 25% |
+| **In-Class Assessment** | 1,2 | **15%** |
+| **Practical** | 1,2,3,4 | **25%** |
 
 ---
 

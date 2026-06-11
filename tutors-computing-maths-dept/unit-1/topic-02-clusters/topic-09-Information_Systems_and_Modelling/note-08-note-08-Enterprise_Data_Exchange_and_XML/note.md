@@ -18,7 +18,7 @@ XML is one of the most popular industry formats for business document publishing
 | **Short Title** | Enterprise Data Exchange & XML |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LSTAPLETON |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -86,8 +86,8 @@ Case studies.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **50%** |
+| **Practical** | 2,3 | **50%** |
 | **Final Written Examination** | 1,4,5 | **50%** |
-| - Practical | 2,3 | 50% |
 
 ---
 

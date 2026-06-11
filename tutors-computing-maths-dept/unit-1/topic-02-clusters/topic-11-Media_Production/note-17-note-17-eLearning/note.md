@@ -18,7 +18,7 @@ This module is concerned with the authoring of instructionally sound, accessible
 | **Short Title** | eLearning |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CFITZPATRICK |
 | **Cluster** | [Media Production](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -78,9 +78,9 @@ The Lectures will introduce new concepts and theory relating to eLearning. The p
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1 | 20% |
-| - Assignment | 2,3 | 30% |
-| - Assignment | 4,5 | 50% |
+| **Assignment** | 1 | **20%** |
+| **Assignment** | 2,3 | **30%** |
+| **Assignment** | 4,5 | **50%** |
 
 ---
 

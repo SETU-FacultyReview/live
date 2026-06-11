@@ -18,7 +18,7 @@ The aims of this module are to provide students with an understanding of digital
 | **Short Title** | Digital Forensics |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JSHEPPARD |
 | **Cluster** | [Forensics and Security](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -83,8 +83,8 @@ Practical work will include the student working with standard forensic tools.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3 | 50% |
-| - Assignment | 4,5,6,7 | 50% |
+| **Assignment** | 1,2,3 | **50%** |
+| **Assignment** | 4,5,6,7 | **50%** |
 
 ---
 

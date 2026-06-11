@@ -18,7 +18,7 @@ This module will build on the material covered in the Cloud Computing 1 module t
 | **Short Title** | Cloud Computing 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RFRISBY |
 | **Cluster** | [Networks and Cloud](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -83,9 +83,9 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 2 | 30% |
-| - Assignment | 3,5 | 30% |
-| - Project | 1,3,4 | 40% |
+| **Assignment** | 2 | **30%** |
+| **Assignment** | 3,5 | **30%** |
+| **Project** | 1,3,4 | **40%** |
 
 ---
 

@@ -18,7 +18,7 @@ In this module, the student will develop the core technical skills necessary for
 | **Short Title** | Website Development 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MLYNG |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -80,9 +80,9 @@ The practical classes facilitate the student in implementing the theory learned 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3 | 40% |
-| - Assignment | 4,5 | 40% |
-| - Portfolio | 1,2,3,4,5 | 20% |
+| **Assignment** | 1,2,3 | **40%** |
+| **Assignment** | 4,5 | **40%** |
+| **Portfolio** | 1,2,3,4,5 | **20%** |
 
 ---
 

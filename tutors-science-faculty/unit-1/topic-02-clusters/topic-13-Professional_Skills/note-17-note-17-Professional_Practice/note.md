@@ -18,7 +18,7 @@ The aim of this module is to prepare and encourage students to capitalize on the
 | **Short Title** | Professional Practice |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MCAHILL |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -81,9 +81,9 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1, 2, 3, 4, 5, 6 | **100%** |
-| - Group Project | 1 | 40% |
-| - Presentation | 2 | 20% |
-| - Portfolio | 3, 4, 5, 6 | 40% |
+| **Group Project** | 1 | **40%** |
+| **Presentation** | 2 | **20%** |
+| **Portfolio** | 3, 4, 5, 6 | **40%** |
 
 ---
 

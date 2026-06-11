@@ -18,7 +18,7 @@ The focus of this module is on the principles and practices in the design and im
 | **Short Title** | Cloud Application Services |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RFRISBY |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -81,8 +81,8 @@ Self-directed learning.
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,5 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Assignment | 1,2,3,4 | 30% |
-| - Lab Report | 3,5 | 20% |
+| **Assignment** | 1,2,3,4 | **30%** |
+| **Lab Report** | 3,5 | **20%** |
 
 ---
 

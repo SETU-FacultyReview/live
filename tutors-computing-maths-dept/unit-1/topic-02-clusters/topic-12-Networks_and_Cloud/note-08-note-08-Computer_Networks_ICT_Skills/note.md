@@ -18,7 +18,7 @@ This module introduces data communications terminology and concepts, network pro
 | **Short Title** | Computer Networks (ICT Skills) |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LBWHITE |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -86,7 +86,7 @@ The continuous assessment will require the student to apply the theory and pract
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - In-Class Assessment | 3,4,5,6,7 | 50% |
+| **In-Class Assessment** | 3,4,5,6,7 | **50%** |
 
 ---
 

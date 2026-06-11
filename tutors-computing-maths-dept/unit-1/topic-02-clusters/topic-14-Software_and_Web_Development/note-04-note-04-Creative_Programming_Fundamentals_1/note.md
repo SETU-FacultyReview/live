@@ -18,7 +18,7 @@ This module puts a strong emphasis on the fundamental concepts of programming wh
 | **Short Title** | Creative Programming 1 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BONEILL |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -82,9 +82,9 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - In-Class Assessment | 2 | 20% |
-| - Assignment | 1,2,3,4 | 30% |
-| - In-Class Assessment | 1,4,5 | 50% |
+| **In-Class Assessment** | 2 | **20%** |
+| **Assignment** | 1,2,3,4 | **30%** |
+| **In-Class Assessment** | 1,4,5 | **50%** |
 
 ---
 

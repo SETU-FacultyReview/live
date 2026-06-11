@@ -18,7 +18,7 @@ This module will build on the student?s prior knowledge of computer networks and
 | **Short Title** | Cloud Infrastruct and Security |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RFRISBY |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -86,8 +86,8 @@ Self-directed learning.
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4,5,7 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Assignment | 1,2,3,4,5 | 30% |
-| - Lab Report | 3,4,6,7 | 20% |
+| **Assignment** | 1,2,3,4,5 | **30%** |
+| **Lab Report** | 3,4,6,7 | **20%** |
 
 ---
 

@@ -18,7 +18,7 @@ This module is a practical introduction to game design and game design concepts,
 | **Short Title** | Introduction to Game Design |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BLYNG |
 | **Cluster** | [Game Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-06-Game_Development) |
@@ -78,8 +78,8 @@ Workshops are used to apply design theory to a game concept. Students are requir
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1 | 20% |
-| - Assignment | 2,3,4 | 80% |
+| **Assignment** | 1 | **20%** |
+| **Assignment** | 2,3,4 | **80%** |
 
 ---
 

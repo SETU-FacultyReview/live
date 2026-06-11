@@ -18,7 +18,7 @@ Design and construct realistic scenes/effects requiring advanced graphics render
 | **Short Title** | Advanced Graphics for Games |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Game Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-06-Game_Development) |
@@ -76,9 +76,9 @@ Practical exercises will provide students with an opportunity to develop a range
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2 | 20% |
-| - Assignment | 3,4 | 30% |
-| - Assignment | 1,2,3 | 50% |
+| **Assignment** | 1,2 | **20%** |
+| **Assignment** | 3,4 | **30%** |
+| **Assignment** | 1,2,3 | **50%** |
 
 ---
 

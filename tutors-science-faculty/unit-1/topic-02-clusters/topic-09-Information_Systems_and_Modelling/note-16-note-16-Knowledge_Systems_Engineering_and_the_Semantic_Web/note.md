@@ -18,7 +18,7 @@ Sophisticated techniques are used to capture, model, discover and utilize knowle
 | **Short Title** | Knowledge Systems Engineering |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LSTAPLETON |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -79,8 +79,8 @@ Practical, hands on experience using systems engineering tools and code generato
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **50%** |
+| **Assignment** | 3,4,5 | **50%** |
 | **Final Written Examination** | 1,2 | **50%** |
-| - Assignment | 3,4,5 | 50% |
 
 ---
 

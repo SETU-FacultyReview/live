@@ -18,7 +18,7 @@ This module introduces students to the different aspects of digital imaging incl
 | **Short Title** | Digital Imaging |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ASTACK |
 | **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
@@ -77,8 +77,8 @@ Lectures will be delivered in the lab room to introduce new topics and their rel
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Portfolio | 2, 3, 4 | 80% |
-| - In-Class Assessment | 1 | 20% |
+| **Portfolio** | 2, 3, 4 | **80%** |
+| **In-Class Assessment** | 1 | **20%** |
 
 ---
 

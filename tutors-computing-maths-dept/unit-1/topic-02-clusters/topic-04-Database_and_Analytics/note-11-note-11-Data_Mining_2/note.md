@@ -18,7 +18,7 @@ It is assumed the student is familiar with the fundamental concepts and techniqu
 | **Short Title** | Data Mining 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Database and Analytics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -83,8 +83,8 @@ Students will interpret and present the findings produced in the practical class
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 3,4,5 | 60% |
-| - In-Class Assessment | 1,2 | 40% |
+| **Assignment** | 3,4,5 | **60%** |
+| **In-Class Assessment** | 1,2 | **40%** |
 
 ---
 

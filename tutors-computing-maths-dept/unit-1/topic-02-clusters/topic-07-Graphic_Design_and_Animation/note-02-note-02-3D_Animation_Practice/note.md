@@ -18,7 +18,7 @@ The purpose of this module is to give a student the practical knowledge to prepa
 | **Short Title** | 3D Animation Practice |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MMCMAHON |
 | **Cluster** | [Graphic Design and Animation](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
@@ -79,8 +79,8 @@ Independent learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3 | **70%** |
+| **Portfolio** | 1,2,3 | **70%** |
 | **Final Project** | 1,2,3,4,5 | **30%** |
-| - Portfolio | 1,2,3 | 70% |
 
 ---
 

@@ -18,7 +18,7 @@ This module will address the transformation of legacy approaches of enterprise a
 | **Short Title** | Digital Transformation of IS |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBARRY |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -80,8 +80,8 @@ The practical element is intended to provide the student with the skills needed 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **50%** |
+| **Practical** | 3 | **50%** |
 | **Final Written Examination** | 1,2,3,4,5 | **50%** |
-| - Practical | 3 | 50% |
 
 ---
 

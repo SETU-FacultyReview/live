@@ -18,7 +18,7 @@ This module introduces the student to the principles of good design for web inte
 | **Short Title** | HCI and Web Design |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -85,8 +85,8 @@ For online delivery the lectures and practicals will be a combination of compreh
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1 | 30% |
-| - Project | 2,3,4 | 70% |
+| **Assignment** | 1 | **30%** |
+| **Project** | 2,3,4 | **70%** |
 
 ---
 

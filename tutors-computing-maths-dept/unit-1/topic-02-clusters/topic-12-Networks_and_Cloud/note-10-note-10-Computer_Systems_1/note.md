@@ -18,7 +18,7 @@ This module will provide the student with an introduction to Computer Science an
 | **Short Title** | Computer Systems 1 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -78,8 +78,8 @@ The lab hours will be timetabled together.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - In-Class Assessment | 1,2 | 50% |
-| - Project | 3,4 | 50% |
+| **In-Class Assessment** | 1,2 | **50%** |
+| **Project** | 3,4 | **50%** |
 
 ---
 

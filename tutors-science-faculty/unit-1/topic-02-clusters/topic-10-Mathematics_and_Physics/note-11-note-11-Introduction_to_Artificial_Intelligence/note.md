@@ -18,7 +18,7 @@ This Module is an introductory Module, which focuses on inspiring students' inte
 | **Short Title** | Intro to AI |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADAVY |
 | **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -85,8 +85,8 @@ Self-directed learning will also be encouraged throughout the duration of the mo
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2 | 30% |
-| - Assignment | 1,3,4,5 | 70% |
+| **Assignment** | 1,2 | **30%** |
+| **Assignment** | 1,3,4,5 | **70%** |
 
 ---
 

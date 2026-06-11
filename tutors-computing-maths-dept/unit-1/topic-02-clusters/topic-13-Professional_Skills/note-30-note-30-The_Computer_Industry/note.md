@@ -18,7 +18,7 @@ The aim of this module is to introduce the student to the nature, structure, ope
 | **Short Title** | The Computer Industry |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BLYNG |
 | **Cluster** | [Professional Skills](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -76,8 +76,8 @@ Self-directed learning activities will require students to will reflect upon the
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Group Project | 1,2,5 | 40% |
-| - Group Project | 3,4,5 | 60% |
+| **Group Project** | 1,2,5 | **40%** |
+| **Group Project** | 3,4,5 | **60%** |
 
 ---
 

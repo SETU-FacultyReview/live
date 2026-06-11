@@ -18,7 +18,7 @@ The module is a broad, practical introduction to writing for radio and to practi
 | **Short Title** | Radio Broadcasting |
 | **Credits** | 10 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ROCONNOR |
 | **Cluster** | [Media Production](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -80,8 +80,8 @@ The programme does include a significant component of independent learning most 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - Project | 1,2,3,4 | 90% |
-| - Essay | 5 | 10% |
+| **Project** | 1,2,3,4 | **90%** |
+| **Essay** | 5 | **10%** |
 
 ---
 

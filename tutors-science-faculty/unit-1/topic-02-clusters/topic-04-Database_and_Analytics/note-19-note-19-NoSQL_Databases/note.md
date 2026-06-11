@@ -18,7 +18,7 @@ This module will introduce the student to the principles and practice of designi
 | **Short Title** | NoSQL Databases |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Database and Analytics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -82,7 +82,7 @@ The continuous assessment will require the student to apply the theory and pract
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 3,4,5,6 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Assignment | 1,2 | 50% |
+| **Assignment** | 1,2 | **50%** |
 
 ---
 

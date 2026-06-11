@@ -18,7 +18,7 @@ The aim of this module is to examine the fundamental concepts underlying current
 | **Short Title** | Wireless Communications |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DPOWER |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -86,8 +86,8 @@ The practical hours will be timetabled together as a double class.
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,3,6 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Project | 4,6 | 30% |
-| - Practical | 2,4,5 | 20% |
+| **Project** | 4,6 | **30%** |
+| **Practical** | 2,4,5 | **20%** |
 
 ---
 

@@ -18,7 +18,7 @@ The goal of this module is to enable students to develop key communication and i
 | **Short Title** | Professional Communications |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MCLARKE |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -83,9 +83,9 @@ Practical: exercises using PCs to write, craft and review written and speaking e
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - Assignment | 4 | 20% |
-| - Presentation | 2,3 | 25% |
-| - Assignment | 1,5 | 55% |
+| **Assignment** | 4 | **20%** |
+| **Presentation** | 2,3 | **25%** |
+| **Assignment** | 1,5 | **55%** |
 
 ---
 

@@ -18,7 +18,7 @@ This module aims to introduce the student to the theories and design elements in
 | **Short Title** | Graphic Design 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BONEILL |
 | **Cluster** | [Graphic Design and Animation](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
@@ -77,8 +77,8 @@ The practical block of three hours is required so that students can be re-introd
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,4 | **50%** |
 | **Continuous Assessment** | 1,2,3,4 | **50%** |
-| - Assignment | 1 | 20% |
-| - Portfolio | 2,3,4 | 30% |
+| **Assignment** | 1 | **20%** |
+| **Portfolio** | 2,3,4 | **30%** |
 
 ---
 

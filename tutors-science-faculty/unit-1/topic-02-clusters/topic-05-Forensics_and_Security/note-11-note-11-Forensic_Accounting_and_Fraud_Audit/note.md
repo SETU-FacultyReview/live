@@ -18,7 +18,7 @@ In this module students are introduced to the theoretical perspectives underpinn
 | **Short Title** | Forensic Acc & Fraud Audit |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RKELLY |
 | **Cluster** | [Forensics and Security](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -84,7 +84,7 @@ Participation in group discussions, group work and classroom debates.
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4,5,6 | **70%** |
 | **Continuous Assessment** | 1,2,3,4,5,6 | **30%** |
-| - Assignment | 1,2,3,4,5,6 | 30% |
+| **Assignment** | 1,2,3,4,5,6 | **30%** |
 
 ---
 

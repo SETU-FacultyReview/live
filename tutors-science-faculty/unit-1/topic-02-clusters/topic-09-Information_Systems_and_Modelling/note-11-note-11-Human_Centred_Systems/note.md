@@ -18,7 +18,7 @@ The key success factors associated with the effective design, development, deplo
 | **Short Title** | Human Centred Systems |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LSTAPLETON |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -86,8 +86,8 @@ Students will submit a portfolio-type report comprising the various activities c
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - Portfolio | 2,4,6 | 50% |
-| - Assignment | 1,3,5 | 50% |
+| **Portfolio** | 2,4,6 | **50%** |
+| **Assignment** | 1,3,5 | **50%** |
 
 ---
 

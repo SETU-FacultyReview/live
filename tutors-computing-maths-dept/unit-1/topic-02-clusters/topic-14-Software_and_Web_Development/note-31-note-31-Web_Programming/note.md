@@ -18,7 +18,7 @@ This module introduces the student to the principles of web programming.
 | **Short Title** | Web Programming |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -81,7 +81,7 @@ Supplementary material will be accessible online.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Project | 1,2,3,4 | 100% |
+| **Project** | 1,2,3,4 | **100%** |
 
 ---
 

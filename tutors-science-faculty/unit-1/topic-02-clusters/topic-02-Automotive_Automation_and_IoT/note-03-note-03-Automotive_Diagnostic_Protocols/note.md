@@ -18,7 +18,7 @@ This module introduces the students to the most commonly used protocols and tool
 | **Short Title** | Auto Diagnostic Protocols |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BJACKMAN |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -82,9 +82,9 @@ Students will be encouraged to enhance their lab work and assessment submissions
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - In-Class Assessment | 3 | 25% |
-| - Assignment | 1 | 50% |
-| - Lab Report | 2 | 25% |
+| **In-Class Assessment** | 3 | **25%** |
+| **Assignment** | 1 | **50%** |
+| **Lab Report** | 2 | **25%** |
 
 ---
 

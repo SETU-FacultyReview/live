@@ -18,7 +18,7 @@ This module provides students with theoretical and practical concepts for the de
 | **Short Title** | Advanced 3D Game Development |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PFELICIA |
 | **Cluster** | [Game Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-06-Game_Development) |
@@ -76,9 +76,9 @@ Due to the very practical nature of the skills to be acquired in this module, th
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - Assignment | 1,2,3 | 25% |
-| - Assignment | 4,5 | 25% |
-| - Assignment | 1,2,3 | 50% |
+| **Assignment** | 1,2,3 | **25%** |
+| **Assignment** | 4,5 | **25%** |
+| **Assignment** | 1,2,3 | **50%** |
 
 ---
 
