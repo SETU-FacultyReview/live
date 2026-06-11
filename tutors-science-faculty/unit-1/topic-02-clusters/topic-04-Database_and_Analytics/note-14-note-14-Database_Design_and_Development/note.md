@@ -18,7 +18,7 @@ This module will introduce the student to the principles and practice of designi
 | **Short Title** | DB Design and Development |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RSHANAHAN |
 | **Cluster** | [Database and Analytics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -83,9 +83,9 @@ The continuous assessment will require the student to apply the theory and pract
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6,7 | **100%** |
-| - Assignment | 2,3 | 55% |
-| - Assignment | 4,5 | 30% |
-| - In-Class Assessment | 1,6,7 | 15% |
+| **Assignment** | 2,3 | **55%** |
+| **Assignment** | 4,5 | **30%** |
+| **In-Class Assessment** | 1,6,7 | **15%** |
 
 ---
 

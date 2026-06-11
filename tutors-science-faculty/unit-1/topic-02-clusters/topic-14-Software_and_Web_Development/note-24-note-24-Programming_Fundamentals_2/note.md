@@ -18,7 +18,7 @@ The purpose of this module is to further develop the thought processes, problem 
 | **Short Title** | Programming Fundamentals 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SDROHAN |
 | **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -83,8 +83,8 @@ Self-directed learning will be encouraged throughout the duration of the module.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,4,5 | 50% |
-| - Assignment | 1,2,3,5 | 50% |
+| **Assignment** | 1,2,4,5 | **50%** |
+| **Assignment** | 1,2,3,5 | **50%** |
 
 ---
 

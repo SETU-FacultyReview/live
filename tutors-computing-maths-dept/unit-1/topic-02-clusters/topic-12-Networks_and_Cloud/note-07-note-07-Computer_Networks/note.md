@@ -18,7 +18,7 @@ This module introduces Computer Networking terminology, network protocols and mo
 | **Short Title** | Computer Networks |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -84,8 +84,8 @@ There is a strong emphasis on practical, lab-based exercises.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Practical | 3,4,5,6 | 60% |
-| - In-Class Assessment | 1,2,3,4,5,6,7 | 40% |
+| **Practical** | 3,4,5,6 | **60%** |
+| **In-Class Assessment** | 1,2,3,4,5,6,7 | **40%** |
 
 ---
 

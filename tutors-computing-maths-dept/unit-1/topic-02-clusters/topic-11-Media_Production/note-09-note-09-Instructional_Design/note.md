@@ -18,7 +18,7 @@ Instructional Design is the analysis of how people learn and the systematic deve
 | **Short Title** | Instructional Design |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Media Production](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -73,8 +73,8 @@ This module will be delivered using 2 hours of computer-based Lectures, along wi
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2 | 50% |
-| - Assignment | 3, 4 | 50% |
+| **Assignment** | 1,2 | **50%** |
+| **Assignment** | 3, 4 | **50%** |
 
 ---
 

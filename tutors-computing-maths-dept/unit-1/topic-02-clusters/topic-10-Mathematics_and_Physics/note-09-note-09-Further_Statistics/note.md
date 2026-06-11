@@ -18,7 +18,7 @@ The module is designed to consolidate understanding of fundamental statistical c
 | **Short Title** | Further Statistics |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Mathematics and Physics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -79,8 +79,8 @@ The lectures will be used to introduce new topics and their related concepts.
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4,5 | **60%** |
 | **Continuous Assessment** |  | **40%** |
-| - In-Class Assessment | 1,2,3 | 15% |
-| - Practical | 1,2,3,4,5,6 | 25% |
+| **In-Class Assessment** | 1,2,3 | **15%** |
+| **Practical** | 1,2,3,4,5,6 | **25%** |
 
 ---
 

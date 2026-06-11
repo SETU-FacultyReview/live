@@ -18,7 +18,7 @@ This module provides students with a solid grounding in applied data ethics by c
 | **Short Title** | Data Ethics |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PCAREW |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -94,7 +94,7 @@ Students will develop a portfolio of work to demonstrate their learning over the
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4 | **50%** |
 | **Continuous Assessment** | 1,2,3,4,5 | **50%** |
-| - Portfolio | 1,2,3,4,5 | 50% |
+| **Portfolio** | 1,2,3,4,5 | **50%** |
 
 ---
 

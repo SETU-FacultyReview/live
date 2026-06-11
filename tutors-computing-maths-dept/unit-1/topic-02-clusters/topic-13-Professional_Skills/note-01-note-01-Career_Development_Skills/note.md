@@ -18,7 +18,7 @@ The purpose of this module is to enable learners to evaluate their current caree
 | **Short Title** | Career Development Skills |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MCAHILL |
 | **Cluster** | [Professional Skills](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -78,7 +78,7 @@ For online delivery the lectures and practical's will be a combination of compre
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Portfolio | 1, 2, 3, 4, 5 | 100% |
+| **Portfolio** | 1, 2, 3, 4, 5 | **100%** |
 
 ---
 

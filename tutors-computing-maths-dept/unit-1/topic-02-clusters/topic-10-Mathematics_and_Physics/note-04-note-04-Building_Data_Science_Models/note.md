@@ -18,7 +18,7 @@ This module introduces the student to the practice of data science, where techni
 | **Short Title** | Building Data Science Models |
 | **Credits** | 10 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Mathematics and Physics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -89,10 +89,10 @@ Students will interpret and present, in context, the findings produced in the pr
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6,7 | **100%** |
-| - Assignment | 1,2 | 15% |
-| - Assignment | 1,2,3,4,6 | 25% |
-| - Assignment | 2,3 | 25% |
-| - Assignment | 2,4,5,6,7 | 35% |
+| **Assignment** | 1,2 | **15%** |
+| **Assignment** | 1,2,3,4,6 | **25%** |
+| **Assignment** | 2,3 | **25%** |
+| **Assignment** | 2,4,5,6,7 | **35%** |
 
 ---
 

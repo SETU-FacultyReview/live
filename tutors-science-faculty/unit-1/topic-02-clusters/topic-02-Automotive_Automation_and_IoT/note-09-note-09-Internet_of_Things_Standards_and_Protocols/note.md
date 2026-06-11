@@ -18,7 +18,7 @@ The Internet of Things(IoT) encompasses a broad range and scale of devices and a
 | **Short Title** | IoT Standards and Protocols |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -82,9 +82,9 @@ As part of the lectures, case studies will be used to illustrate real-world IoT 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Lab Report | 2,3,4 | 50% |
-| - In-Class Assessment | 4,5 | 25% |
-| - Assignment | 1,6 | 25% |
+| **Lab Report** | 2,3,4 | **50%** |
+| **In-Class Assessment** | 4,5 | **25%** |
+| **Assignment** | 1,6 | **25%** |
 
 ---
 

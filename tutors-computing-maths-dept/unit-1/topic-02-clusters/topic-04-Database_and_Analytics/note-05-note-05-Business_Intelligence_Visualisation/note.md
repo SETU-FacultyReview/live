@@ -18,7 +18,7 @@ The fundamental area of Business Intelligence (BI) is the skill to effectively c
 | **Short Title** | BI Visualisation |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBARRY |
 | **Cluster** | [Database and Analytics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -82,7 +82,7 @@ In practical classes, students will engage with visualisation software and will 
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4,5 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Project | 4,6 | 50% |
+| **Project** | 4,6 | **50%** |
 
 ---
 

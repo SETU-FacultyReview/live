@@ -18,7 +18,7 @@ Internet of Things (IoT) applications combine low-level physical world devices w
 | **Short Title** | Internet of Things Apps |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -81,8 +81,8 @@ Practicals will allow students to explore the tools and technologies used to bui
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3 | 50% |
-| - Assignment | 4,5,6 | 50% |
+| **Assignment** | 1,2,3 | **50%** |
+| **Assignment** | 4,5,6 | **50%** |
 
 ---
 

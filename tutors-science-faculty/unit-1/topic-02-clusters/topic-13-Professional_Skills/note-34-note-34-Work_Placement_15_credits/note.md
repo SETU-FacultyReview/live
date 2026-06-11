@@ -18,7 +18,7 @@ The purpose of the three-month work placement is to require the student to apply
 | **Short Title** | Work Placement (15 credits) |
 | **Credits** | 15 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -75,7 +75,7 @@ The applied learning portfolio is designed to foster self-reflection on the lear
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Portfolio | 1,2,3,4,5 | 100% |
+| **Portfolio** | 1,2,3,4,5 | **100%** |
 
 ---
 

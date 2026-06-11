@@ -18,7 +18,7 @@ This module aims to provide students with the skills to uncover information that
 | **Short Title** | Online Forensics |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JSHEPPARD |
 | **Cluster** | [Forensics and Security](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -80,8 +80,8 @@ The practical element allows the student to put into practice the theoretical co
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3 | 50% |
-| - Assignment | 4,5,6 | 50% |
+| **Assignment** | 1,2,3 | **50%** |
+| **Assignment** | 4,5,6 | **50%** |
 
 ---
 

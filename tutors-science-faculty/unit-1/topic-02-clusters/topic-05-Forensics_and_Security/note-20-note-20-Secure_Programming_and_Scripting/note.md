@@ -18,7 +18,7 @@ This module aims to equip students with the knowledge and skills to apply best s
 | **Short Title** | Secure Programming |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
 | **Cluster** | [Forensics and Security](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -82,9 +82,9 @@ The practical element involves a selection of laboratory exercises and related t
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Case Studies | 1,4,5 | 30% |
-| - Lab Report | 2,5 | 25% |
-| - Assignment | 3,5 | 45% |
+| **Case Studies** | 1,4,5 | **30%** |
+| **Lab Report** | 2,5 | **25%** |
+| **Assignment** | 3,5 | **45%** |
 
 ---
 

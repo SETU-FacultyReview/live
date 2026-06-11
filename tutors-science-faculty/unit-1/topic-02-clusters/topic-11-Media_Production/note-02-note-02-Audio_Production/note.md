@@ -18,7 +18,7 @@ This module teaches the fundamentals of sound, sound recording and multi-track s
 | **Short Title** | Audio Production |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CDUNPHY |
 | **Cluster** | [Media Production](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -86,8 +86,8 @@ Accessible, professional sound proofed recording studios with professional micro
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Portfolio | 1,2 | 60% |
-| - In-Class Assessment | 3 | 40% |
+| **Portfolio** | 1,2 | **60%** |
+| **In-Class Assessment** | 3 | **40%** |
 
 ---
 

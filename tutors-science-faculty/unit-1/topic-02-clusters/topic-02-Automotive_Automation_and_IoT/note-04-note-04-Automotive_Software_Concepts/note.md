@@ -18,7 +18,7 @@ This module introduces the student to automotive software development concepts, 
 | **Short Title** | Automotive Software Concepts |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BJACKMAN |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -81,8 +81,8 @@ Students will be encouraged to enhance their lab work and assessment submissions
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3 | **100%** |
-| - Assignment | 1,2 | 50% |
-| - Lab Report | 3 | 50% |
+| **Assignment** | 1,2 | **50%** |
+| **Lab Report** | 3 | **50%** |
 
 ---
 

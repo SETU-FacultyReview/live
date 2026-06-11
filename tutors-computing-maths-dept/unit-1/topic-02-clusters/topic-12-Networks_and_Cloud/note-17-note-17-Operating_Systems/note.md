@@ -18,7 +18,7 @@ The student will explore in detail modern operating systems in the areas of file
 | **Short Title** | Operating Systems |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LBWHITE |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -85,8 +85,8 @@ The continuous assessment will require the student to apply the theory and pract
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,4 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Practical | 2,3,5,6 | 30% |
-| - In-Class Assessment | 2,3,5,6 | 20% |
+| **Practical** | 2,3,5,6 | **30%** |
+| **In-Class Assessment** | 2,3,5,6 | **20%** |
 
 ---
 

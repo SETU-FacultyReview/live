@@ -18,7 +18,7 @@ This module provides the student with the opportunity to apply his/her knowledge
 | **Short Title** | Video Production |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BONEILL |
 | **Cluster** | [Media Production](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -80,7 +80,7 @@ Use of video editing suite; sound equipment;cameras;tripods;green screen;lightin
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - Portfolio | 1,2,3,4,5,6 | 100% |
+| **Portfolio** | 1,2,3,4,5,6 | **100%** |
 
 ---
 

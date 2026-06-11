@@ -18,7 +18,7 @@ This module will provide a well-balanced understanding of how the different IT A
 | **Short Title** | IT Architecture |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SDROHAN |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -88,7 +88,7 @@ Self-directed learning will be encouraged throughout the duration of the module.
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4,5 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Assignment | 2,3,4 | 50% |
+| **Assignment** | 2,3,4 | **50%** |
 
 ---
 

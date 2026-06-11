@@ -18,7 +18,7 @@ This module aims to help the learner understand the role of creativity, innovati
 | **Short Title** | Creative Problem Solving |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BLYNG |
 | **Cluster** | [Professional Skills](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -80,8 +80,8 @@ Group work
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Portfolio | 1, 2, 5 | 50% |
-| - Group Project | 1, 2, 3, 4 | 50% |
+| **Portfolio** | 1, 2, 5 | **50%** |
+| **Group Project** | 1, 2, 3, 4 | **50%** |
 
 ---
 

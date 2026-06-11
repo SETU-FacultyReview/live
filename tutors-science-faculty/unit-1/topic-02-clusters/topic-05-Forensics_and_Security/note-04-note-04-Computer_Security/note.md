@@ -18,7 +18,7 @@ This module provides the essentials of computer security.
 | **Short Title** | Computer Security |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CLPOWER |
 | **Cluster** | [Forensics and Security](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -81,8 +81,8 @@ The practical element allows the student to put into practice the theoretical co
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - In-Class Assessment | 1,2,3 | 50% |
-| - Assignment | 1,4,5 | 50% |
+| **In-Class Assessment** | 1,2,3 | **50%** |
+| **Assignment** | 1,4,5 | **50%** |
 
 ---
 

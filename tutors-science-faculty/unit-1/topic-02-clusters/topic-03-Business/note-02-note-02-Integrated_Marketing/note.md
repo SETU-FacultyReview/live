@@ -18,7 +18,7 @@ The aim of this module is to demonstrate how companies apply marketing concepts 
 | **Short Title** | Integrated Marketing |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BLYNG |
 | **Cluster** | [Business](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-03-Business) |
@@ -77,8 +77,8 @@ Self-directed learning activities will require students to reflect upon the modu
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Project | 1,4,5 | 60% |
-| - Project | 2,3 | 40% |
+| **Project** | 1,4,5 | **60%** |
+| **Project** | 2,3 | **40%** |
 
 ---
 

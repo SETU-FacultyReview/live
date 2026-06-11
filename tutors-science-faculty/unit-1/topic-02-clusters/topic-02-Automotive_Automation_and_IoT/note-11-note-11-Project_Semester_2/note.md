@@ -18,7 +18,7 @@ This module will introduce the student to fundamental distributed version contro
 | **Short Title** | Project Semester 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -75,8 +75,8 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Portfolio | 1,3 | 50% |
-| - Presentation | 1,2,4 | 50% |
+| **Portfolio** | 1,3 | **50%** |
+| **Presentation** | 1,2,4 | **50%** |
 
 ---
 

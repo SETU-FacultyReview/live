@@ -18,7 +18,7 @@ This module builds on strengths already gained in programming, digital media, an
 | **Short Title** | Digital Media Programming |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CDUNPHY |
 | **Cluster** | [Media Production](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -80,9 +80,9 @@ Studio classes will be delivered in two 2-hour blocks.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - In-Class Assessment | 1,2 | 20% |
-| - Project | 3 | 30% |
-| - Project | 4 | 50% |
+| **In-Class Assessment** | 1,2 | **20%** |
+| **Project** | 3 | **30%** |
+| **Project** | 4 | **50%** |
 
 ---
 

@@ -18,7 +18,7 @@ The module explores new trends, tools and technologies in the broad digital medi
 | **Short Title** | Emerging Media Technologies |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ROCONNOR |
 | **Cluster** | [Media Production](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -82,8 +82,8 @@ Access to Video/Photography Studio
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2 | 40% |
-| - Project | 3 | 60% |
+| **Assignment** | 1,2 | **40%** |
+| **Project** | 3 | **60%** |
 
 ---
 

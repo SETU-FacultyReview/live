@@ -18,7 +18,7 @@ Having examined the software development process in detail, the student is now i
 | **Short Title** | Formal Specification |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MMEAGHER |
 | **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -82,8 +82,8 @@ This will enliven his/her understanding of the notation as well as demonstrating
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4 | **50%** |
 | **Continuous Assessment** | 1,2,3,5,6 | **50%** |
-| - In-Class Assessment | 2,3 | 10% |
-| - Assignment | 1,5,6 | 40% |
+| **In-Class Assessment** | 2,3 | **10%** |
+| **Assignment** | 1,5,6 | **40%** |
 
 ---
 

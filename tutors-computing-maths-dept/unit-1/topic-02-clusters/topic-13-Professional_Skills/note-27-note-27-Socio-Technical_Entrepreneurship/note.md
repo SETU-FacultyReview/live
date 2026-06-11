@@ -18,7 +18,7 @@ This module will increase the entrepreneurial propensity of graduates.
 | **Short Title** | Socio-Tech Entrepreneurship |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MCAHILL |
 | **Cluster** | [Professional Skills](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -77,8 +77,8 @@ The course will require students to engage with material from refereed journals,
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Essay | 1, 2 | 50% |
-| - Project | 3, 4 | 50% |
+| **Essay** | 1, 2 | **50%** |
+| **Project** | 3, 4 | **50%** |
 
 ---
 

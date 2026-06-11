@@ -18,7 +18,7 @@ This module introduces the fundamental concepts of operating systems and compute
 | **Short Title** | Operating Systems and Networks |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DOHALLORAN |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -83,8 +83,8 @@ Self-directed learning.
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,5 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Practical | 3,4,5 | 30% |
-| - In-Class Assessment | 3,4,5 | 20% |
+| **Practical** | 3,4,5 | **30%** |
+| **In-Class Assessment** | 3,4,5 | **20%** |
 
 ---
 

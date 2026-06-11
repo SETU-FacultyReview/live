@@ -18,7 +18,7 @@ This subject is a formal induction into the research process.
 | **Short Title** | Res. Methods & Diss Proposal |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LSTAPLETON |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -91,8 +91,8 @@ This proposal will be assessed using a dissertation proposal assessment form whi
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6,7 | **100%** |
-| - Assignment | 2,3,4,5,6,7 | 50% |
-| - Assignment | 1,3,4 | 50% |
+| **Assignment** | 2,3,4,5,6,7 | **50%** |
+| **Assignment** | 1,3,4 | **50%** |
 
 ---
 

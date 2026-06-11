@@ -18,7 +18,7 @@ This module introduces Computer Networking terminology and concepts, and examine
 | **Short Title** | Multimedia Networks |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LBWHITE |
 | **Cluster** | [Networks and Cloud](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -84,8 +84,8 @@ The continuous assessment will require the student to apply the theory and pract
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - Practical | 4,5 | 60% |
-| - In-Class Assessment | 1,2,3,6 | 40% |
+| **Practical** | 4,5 | **60%** |
+| **In-Class Assessment** | 1,2,3,6 | **40%** |
 
 ---
 

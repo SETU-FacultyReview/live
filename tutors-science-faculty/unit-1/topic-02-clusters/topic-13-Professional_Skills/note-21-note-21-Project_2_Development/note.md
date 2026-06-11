@@ -18,7 +18,7 @@ This module gives the student experience in developing a computing-related proje
 | **Short Title** | Project 2 (Development) |
 | **Credits** | 10 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | IDOWNEY |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |

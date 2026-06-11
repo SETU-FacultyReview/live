@@ -18,7 +18,7 @@ This module extends the student?s knowledge of software engineering with a view 
 | **Short Title** | Project 1 (Development) |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | TMCDONALD |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |

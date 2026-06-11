@@ -18,7 +18,7 @@ This module is designed to develop knowledge, skills and capabilities for the fo
 | **Short Title** | Technology Entrepreneurship |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CGATELY |
 | **Cluster** | [Business](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-03-Business) |
@@ -87,8 +87,8 @@ Individual or group-based technology start-up assignment. Continuous assessment 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3,4,5 | 80% |
-| - Presentation | 6 | 20% |
+| **Assignment** | 1,2,3,4,5 | **80%** |
+| **Presentation** | 6 | **20%** |
 
 ---
 

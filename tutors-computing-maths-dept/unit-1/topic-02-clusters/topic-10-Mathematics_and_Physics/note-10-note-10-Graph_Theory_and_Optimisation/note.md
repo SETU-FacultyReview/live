@@ -18,7 +18,7 @@ The module introduces the students to the fundamental concepts and techniques in
 | **Short Title** | Graph Theory and Optimisation |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Mathematics and Physics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -88,8 +88,8 @@ Given the level of mathematical notation and concepts used in the module, it is 
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3 | **50%** |
 | **Continuous Assessment** | 4,5 | **50%** |
-| - Assignment | 4 | 20% |
-| - Assignment | 5 | 30% |
+| **Assignment** | 4 | **20%** |
+| **Assignment** | 5 | **30%** |
 
 ---
 

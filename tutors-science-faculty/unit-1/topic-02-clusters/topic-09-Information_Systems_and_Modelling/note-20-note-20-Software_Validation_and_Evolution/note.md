@@ -18,7 +18,7 @@ This module aims to provide students with fundamental knowledge and skills relat
 | **Short Title** | SW Validation and Evolution |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BMCKEOWN |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -85,9 +85,9 @@ For online delivery the lectures and practicals will be a combination of compreh
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 4 | 25% |
-| - Assignment | 1,3 | 25% |
-| - In-Class Assessment | 1,2 | 50% |
+| **Assignment** | 4 | **25%** |
+| **Assignment** | 1,3 | **25%** |
+| **In-Class Assessment** | 1,2 | **50%** |
 
 ---
 

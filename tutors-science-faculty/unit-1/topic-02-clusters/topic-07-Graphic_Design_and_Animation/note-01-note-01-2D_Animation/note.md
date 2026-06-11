@@ -18,7 +18,7 @@ The student?s drawing skills will be developed, with an awareness of traditional
 | **Short Title** | 2D Animation |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SORIORDAN |
 | **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
@@ -78,8 +78,8 @@ Classes should be delivered in two two-hour blocks.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Portfolio | 1,2,3,4 | 70% |
-| - Project | 1,4,5 | 30% |
+| **Portfolio** | 1,2,3,4 | **70%** |
+| **Project** | 1,4,5 | **30%** |
 
 ---
 

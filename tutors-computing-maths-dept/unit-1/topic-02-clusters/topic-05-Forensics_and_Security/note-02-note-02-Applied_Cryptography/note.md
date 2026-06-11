@@ -18,7 +18,7 @@ This module provides students with a detailed introduction to cryptography, incl
 | **Short Title** | Applied Cryptography |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
 | **Cluster** | [Forensics and Security](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -85,7 +85,7 @@ The practical element allows the student to put into practice the theoretical co
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,5,6 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Practical | 4,5,6,7 | 50% |
+| **Practical** | 4,5,6,7 | **50%** |
 
 ---
 

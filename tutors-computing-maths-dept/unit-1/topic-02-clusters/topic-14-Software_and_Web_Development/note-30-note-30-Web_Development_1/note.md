@@ -18,7 +18,7 @@ Introduces the student to the fundamental building blocks of the visual aspect o
 | **Short Title** | Web Development 1 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -85,8 +85,8 @@ Attention will be paid to the effective use of appropriate tools.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,4 | 50% |
-| - Assignment | 3,4,5,6 | 50% |
+| **Assignment** | 1,2,4 | **50%** |
+| **Assignment** | 3,4,5,6 | **50%** |
 
 ---
 

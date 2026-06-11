@@ -18,7 +18,7 @@ This module will introduce the student to the functional programming paradigm.
 | **Short Title** | Functional Programming |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MMEAGHER |
 | **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -83,8 +83,8 @@ The material will be delivered using lectures and practicals. The lectures will 
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4,5,6 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Tutorial/Problem Sheets | 1,4,5,6,7 | 10% |
-| - Project | 1,5,6,8 | 40% |
+| **Tutorial/Problem Sheets** | 1,4,5,6,7 | **10%** |
+| **Project** | 1,5,6,8 | **40%** |
 
 ---
 

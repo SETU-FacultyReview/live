@@ -18,7 +18,7 @@ This module serves as an introduction to 3D modelling and comprises an emphasis 
 | **Short Title** | 3D Modelling Fundamentals |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PMCINERNEY |
 | **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
@@ -80,8 +80,8 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4 | **100%** |
-| - Assignment | 1 | 30% |
-| - Project | 2,3,4 | 70% |
+| **Assignment** | 1 | **30%** |
+| **Project** | 2,3,4 | **70%** |
 
 ---
 

@@ -18,7 +18,7 @@ This module gives the student experience in developing a computing-related proje
 | **Short Title** | Project 2 IT (Prototyping) |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | TMCDONALD |
 | **Cluster** | [Professional Skills](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills) |

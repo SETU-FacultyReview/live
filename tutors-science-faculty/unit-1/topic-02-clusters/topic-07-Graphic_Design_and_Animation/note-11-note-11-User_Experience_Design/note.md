@@ -18,7 +18,7 @@ User Experience (UX) is a concept that has many dimensions, and it includes a va
 | **Short Title** | User Experience Design |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | AGANNON |
 | **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
@@ -82,8 +82,8 @@ Students will use MS Office and Adobe Creative Cloud.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - In-Class Assessment | 1,2 | 35% |
-| - Assignment | 3, 4, 5 | 65% |
+| **In-Class Assessment** | 1,2 | **35%** |
+| **Assignment** | 3, 4, 5 | **65%** |
 
 ---
 

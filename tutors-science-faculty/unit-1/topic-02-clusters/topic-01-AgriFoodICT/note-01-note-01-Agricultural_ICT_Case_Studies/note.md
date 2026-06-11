@@ -18,7 +18,7 @@ This module aims to provide students with an understanding of state of the art t
 | **Short Title** | AG Case Studies |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | UMCCARTHY |
 | **Cluster** | [AgriFoodICT](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-01-AgriFoodICT) |
@@ -81,9 +81,9 @@ The student will be encouraged to participate in class discussions ask questions
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6,7 | **100%** |
-| - Project | 1,2,4,6 | 50% |
-| - Assignment | 4,6,7 | 20% |
-| - In-Class Assessment | 1,2,3,5,7 | 30% |
+| **Project** | 1,2,4,6 | **50%** |
+| **Assignment** | 4,6,7 | **20%** |
+| **In-Class Assessment** | 1,2,3,5,7 | **30%** |
 
 ---
 

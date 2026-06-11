@@ -18,7 +18,7 @@ The objective of this module is to equip students with the necessary skills to e
 | **Short Title** | Network and System Security |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
 | **Cluster** | [Forensics and Security](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -83,8 +83,8 @@ The practical element allows the student to put into practice the theoretical co
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Practical | 4,5,6 | 50% |
-| - Assessment | 1,2,3,4,7 | 50% |
+| **Practical** | 4,5,6 | **50%** |
+| **Assessment** | 1,2,3,4,7 | **50%** |
 
 ---
 

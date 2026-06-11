@@ -18,7 +18,7 @@ The objective of this module is to provide students with the understanding of te
 | **Short Title** | Software Engineering Practice |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MFITZGERALD |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -86,8 +86,8 @@ Students will be encouraged to enhance their lab work and assessment submissions
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Group Project | 2,3,4,5,6 | 60% |
-| - In-Class Assessment | 1,2,3,7 | 40% |
+| **Group Project** | 2,3,4,5,6 | **60%** |
+| **In-Class Assessment** | 1,2,3,7 | **40%** |
 
 ---
 

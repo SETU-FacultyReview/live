@@ -18,7 +18,7 @@ The purpose of this module is to study and evaluate the wider economic environme
 | **Short Title** | Ag Policy and Markets |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADUNPHY |
 | **Cluster** | [AgriFoodICT](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-01-AgriFoodICT) |
@@ -82,8 +82,8 @@ Practical work will also allow for independent research, presentations, peer lea
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **50%** |
+| **In-Class Assessment** | 1,3,5 | **50%** |
 | **Final Written Examination** | 1,2,3,4 | **50%** |
-| - In-Class Assessment | 1,3,5 | 50% |
 
 ---
 

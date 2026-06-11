@@ -18,7 +18,7 @@ This module will introduce the student to the principles and practice of designi
 | **Short Title** | Multimedia Databases |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JWOODS-OBRIEN |
 | **Cluster** | [Database and Analytics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -80,7 +80,7 @@ The practical classes facilitate the student in implementing the theory learned 
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1, 2, 3, 4, 5 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Project | 2, 6 | 50% |
+| **Project** | 2, 6 | **50%** |
 
 ---
 

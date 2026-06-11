@@ -18,7 +18,7 @@ This module examines the agile processes and tools used to deliver software appl
 | **Short Title** | DevOps Practice |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | FWWALSH |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -86,8 +86,8 @@ Student will be encouraged to enhance their lab work and assessment submissions 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3 | 50% |
-| - Assignment | 4,5,6 | 50% |
+| **Assignment** | 1,2,3 | **50%** |
+| **Assignment** | 4,5,6 | **50%** |
 
 ---
 

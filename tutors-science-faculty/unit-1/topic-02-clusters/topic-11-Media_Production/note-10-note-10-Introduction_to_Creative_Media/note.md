@@ -18,7 +18,7 @@ This module is designed to introduce students to the history, development and in
 | **Short Title** | Introduction to Creative Media |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MMCMAHON |
 | **Cluster** | [Media Production](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -78,8 +78,8 @@ Independent learning : Students must be proactive, manage their own time and dev
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,4 | **50%** |
 | **Continuous Assessment** | 2,3,4 | **50%** |
-| - Practical | 2,3 | 20% |
-| - Group Project | 3,4 | 30% |
+| **Practical** | 2,3 | **20%** |
+| **Group Project** | 3,4 | **30%** |
 
 ---
 

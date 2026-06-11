@@ -18,7 +18,7 @@ This module introduces students to the main topics of Systems Analysis, Design a
 | **Short Title** | SAD & Testing |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ADUNPHY |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -86,8 +86,8 @@ In practical classes the student will be presented with problems similar to thos
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,3,5,7 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - In-Class Assessment | 5,6,7 | 20% |
-| - Project | 2,3,4,6 | 30% |
+| **In-Class Assessment** | 5,6,7 | **20%** |
+| **Project** | 2,3,4,6 | **30%** |
 
 ---
 

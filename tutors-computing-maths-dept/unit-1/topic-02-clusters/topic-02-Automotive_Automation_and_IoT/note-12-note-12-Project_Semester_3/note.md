@@ -18,7 +18,7 @@ This module will introduce the student to project management and time management
 | **Short Title** | Project Semester 3 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -78,8 +78,8 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Project | 1,2,3 | 80% |
-| - Project | 3,4,5 | 20% |
+| **Project** | 1,2,3 | **80%** |
+| **Project** | 3,4,5 | **20%** |
 
 ---
 

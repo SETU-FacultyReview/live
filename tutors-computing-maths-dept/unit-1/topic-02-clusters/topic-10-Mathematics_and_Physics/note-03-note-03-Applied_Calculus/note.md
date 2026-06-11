@@ -18,7 +18,7 @@ This module is intended to provide the student with a review of univariate calcu
 | **Short Title** | Applied Calculus |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Mathematics and Physics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -85,8 +85,8 @@ The practical programme is designed to re-enforce the strong interconnections be
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 6 | **25%** |
+| **Practical** | 6 | **25%** |
 | **Final Written Examination** | 1,2,3,4,5 | **75%** |
-| - Practical | 6 | 25% |
 
 ---
 

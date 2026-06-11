@@ -18,7 +18,7 @@ XML is one of the most popular industry formats for business document publishing
 | **Short Title** | EDI |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BONEILL |
 | **Cluster** | [Information Systems and Modelling](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-09-Information_Systems_and_Modelling) |
@@ -86,9 +86,9 @@ For online delivery the lectures and practicals will be a combination of compreh
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - In-Class Assessment | 2 | 25% |
-| - In-Class Assessment | 4 | 25% |
-| - In-Class Assessment | 1,3,5 | 50% |
+| **In-Class Assessment** | 2 | **25%** |
+| **In-Class Assessment** | 4 | **25%** |
+| **In-Class Assessment** | 1,3,5 | **50%** |
 
 ---
 

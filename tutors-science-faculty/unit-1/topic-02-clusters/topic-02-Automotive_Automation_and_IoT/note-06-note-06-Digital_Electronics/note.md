@@ -18,7 +18,7 @@ The logical outputs of digital circuits are determined by the logical function b
 | **Short Title** | Digital Electronics |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -82,7 +82,7 @@ Integrated demonstrations and examples.
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,4,7 | **60%** |
 | **Continuous Assessment** |  | **40%** |
-| - Practical | 3,5,6 | 40% |
+| **Practical** | 3,5,6 | **40%** |
 
 ---
 

@@ -18,7 +18,7 @@ The module applies matrix algebra to 2D and 3D transformations - including trans
 | **Short Title** | Maths for Graphics and Stats |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | FLEONARD |
 | **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -79,8 +79,8 @@ The mathematical constructs underpinning computer graphics are presented in lect
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4 | **60%** |
 | **Continuous Assessment** | 5,6 | **40%** |
-| - Assignment | 5 | 30% |
-| - Assignment | 6 | 10% |
+| **Assignment** | 5 | **30%** |
+| **Assignment** | 6 | **10%** |
 
 ---
 

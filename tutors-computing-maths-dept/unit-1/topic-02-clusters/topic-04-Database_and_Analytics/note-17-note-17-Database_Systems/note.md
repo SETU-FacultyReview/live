@@ -18,7 +18,7 @@ This module concentrates on the physical design and implementation of a database
 | **Short Title** | Database Systems |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MLYNG |
 | **Cluster** | [Database and Analytics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-04-Database_and_Analytics) |
@@ -80,9 +80,9 @@ The practical element is fundamental. The aim is to provide the student with the
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - In-Class Assessment | 1,2,3,4 | 40% |
-| - Project | 5,6 | 30% |
-| - In-Class Practical | 5,6 | 30% |
+| **In-Class Assessment** | 1,2,3,4 | **40%** |
+| **Project** | 5,6 | **30%** |
+| **In-Class Practical** | 5,6 | **30%** |
 
 ---
 

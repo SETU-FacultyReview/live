@@ -18,7 +18,7 @@ The purpose of the work placement is to require the student to apply the knowled
 | **Short Title** | Work Placement (10 credits) |
 | **Credits** | 10 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RBIRNEY |
 | **Cluster** | [Professional Skills](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -75,7 +75,7 @@ The applied learning portfolio is designed to foster self-reflection on the lear
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Portfolio | 1,2,3,4,5 | 100% |
+| **Portfolio** | 1,2,3,4,5 | **100%** |
 
 ---
 

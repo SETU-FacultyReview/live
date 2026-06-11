@@ -18,7 +18,7 @@ This module focuses on the Web Design and Development Process, from User Experie
 | **Short Title** | Web Design and Development |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | CFITZPATRICK |
 | **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
@@ -78,9 +78,9 @@ The Lectures will introduce new concepts and theory relating to the web developm
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - Assignment | 1 | 10% |
-| - Assignment | 2 | 20% |
-| - Assignment | 3,4,5 | 70% |
+| **Assignment** | 1 | **10%** |
+| **Assignment** | 2 | **20%** |
+| **Assignment** | 3,4,5 | **70%** |
 
 ---
 

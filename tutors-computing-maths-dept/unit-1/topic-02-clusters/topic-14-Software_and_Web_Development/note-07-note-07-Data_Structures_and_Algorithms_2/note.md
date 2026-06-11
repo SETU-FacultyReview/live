@@ -18,7 +18,7 @@ Implement, from first principles, advanced general purpose and custom data struc
 | **Short Title** | Data Structures & Algorithms 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PCAREW |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -81,8 +81,8 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - In-Class Assessment | 1,2,3,4 | 30% |
-| - Portfolio | 1,2,4,5 | 70% |
+| **In-Class Assessment** | 1,2,3,4 | **30%** |
+| **Portfolio** | 1,2,4,5 | **70%** |
 
 ---
 

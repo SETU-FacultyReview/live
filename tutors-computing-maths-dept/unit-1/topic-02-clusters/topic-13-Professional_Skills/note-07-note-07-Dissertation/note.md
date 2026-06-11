@@ -18,7 +18,7 @@ The Masters program culminates in the dissertation, an extended project that all
 | **Short Title** | Dissertation |
 | **Credits** | 20 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | LSTAPLETON |
 | **Cluster** | [Professional Skills](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills) |

@@ -18,7 +18,7 @@ This module will introduce students to the fundamental principles of narrative c
 | **Short Title** | Narrative Construction |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | ROCONNOR |
 | **Cluster** | [Media Production](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -77,9 +77,9 @@ Requested accessible space with audio/visual equipment for playback.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2 | 25% |
-| - Presentation | 3 | 25% |
-| - Assignment | 1,2,4,5 | 50% |
+| **Assignment** | 1,2 | **25%** |
+| **Presentation** | 3 | **25%** |
+| **Assignment** | 1,2,4,5 | **50%** |
 
 ---
 

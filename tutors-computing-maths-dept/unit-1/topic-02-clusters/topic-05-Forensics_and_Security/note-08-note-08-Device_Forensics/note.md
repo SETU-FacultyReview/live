@@ -18,7 +18,7 @@ This module aims to provide students with the skills to uncover information that
 | **Short Title** | Device Forensics |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JSHEPPARD |
 | **Cluster** | [Forensics and Security](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -74,8 +74,8 @@ This module will be presented by a combination of lectures and practicals. The l
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3 | 50% |
-| - Assignment | 4 | 50% |
+| **Assignment** | 1,2,3 | **50%** |
+| **Assignment** | 4 | **50%** |
 
 ---
 

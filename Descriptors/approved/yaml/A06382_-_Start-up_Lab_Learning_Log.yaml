@@ -19,26 +19,26 @@ programmes:
 - timetable: ''
   code: WD_BBUSI_B
   name: Bachelor of Business (Honours)
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: PROF-0040
   code: WD_KPHTE_B
   name: BSc (Hons) in Physics for Modern Technology
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: PROF-0040
   code: WD_SMBIO_B
   name: BSc (Hons) in Molecular Biology with Biopharmaceutical Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: PROF-0040
   code: WD_SPHSC_B
   name: BSc (Hons) in Pharmaceutical Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites:

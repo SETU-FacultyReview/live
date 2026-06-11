@@ -18,7 +18,7 @@ This module provides the students with an introduction to the practical processe
 | **Short Title** | Pipeline Design Concepts |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SORIORDAN |
 | **Cluster** | [Media Production](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -82,7 +82,7 @@ The practical element allows the student to put into practice the theoretical co
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Portfolio | 2,3,4 | 50% |
+| **Portfolio** | 2,3,4 | **50%** |
 
 ---
 

@@ -18,7 +18,7 @@ This module provides the student with the opportunity to apply his/her knowledge
 | **Short Title** | Advanced Media Productions |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PKIRWAN |
 | **Cluster** | [Media Production](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-11-Media_Production) |
@@ -96,9 +96,9 @@ Invitation to guest industry expert(s) to give talk(s) to class.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - Assignment | 1,2 | 30% |
-| - In-Class Assessment | 2 | 20% |
-| - Project | 1,2,3,4,5 | 50% |
+| **Assignment** | 1,2 | **30%** |
+| **In-Class Assessment** | 2 | **20%** |
+| **Project** | 1,2,3,4,5 | **50%** |
 
 ---
 

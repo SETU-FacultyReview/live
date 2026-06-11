@@ -1,4 +1,4 @@
-| Any Semester |  |  | Semester 3 |  |  |
+| Semester 0 |  |  | Semester 3 |  |  |
 | ----------------- | --- | --- | ----------------- | --- | --- |
 |  |  |  | [Dissertation](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills/note-07-note-07-Dissertation) | 20 | M |
 | [Data Mining](/note/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-04-Database_and_Analytics/note-09-note-09-Data_Mining) | 10 | E |  |  |  |

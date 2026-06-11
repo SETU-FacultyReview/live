@@ -18,7 +18,7 @@ This module introduces the student to the core elements of Graphic Design, focus
 | **Short Title** | Graphic Design 1 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SORIORDAN |
 | **Cluster** | [Graphic Design and Animation](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-07-Graphic_Design_and_Animation) |
@@ -76,7 +76,7 @@ This module will be delivered using two hours of computer-based lectures, along 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Portfolio | 1,2,3,4,5 | 100% |
+| **Portfolio** | 1,2,3,4,5 | **100%** |
 
 ---
 

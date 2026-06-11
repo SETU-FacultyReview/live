@@ -18,7 +18,7 @@ This module is designed to introduce the student to additional fundamental physi
 | **Short Title** | Physics 2 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Mathematics and Physics](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -86,7 +86,7 @@ Self-directed learning
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4 | **60%** |
 | **Continuous Assessment** | 5,6 | **40%** |
-| - Assignment | 5,6 | 40% |
+| **Assignment** | 5,6 | **40%** |
 
 ---
 

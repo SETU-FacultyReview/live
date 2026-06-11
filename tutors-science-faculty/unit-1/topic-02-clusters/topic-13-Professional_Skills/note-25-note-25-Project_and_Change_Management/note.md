@@ -18,7 +18,7 @@ This module aims to provide students with an understanding of project management
 | **Short Title** | Project and Change Management |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BMCKEOWN |
 | **Cluster** | [Professional Skills](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -82,7 +82,7 @@ For online delivery, the lectures and practical's will be a combination of compr
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Project | 1,2,3,4,5 | 100% |
+| **Project** | 1,2,3,4,5 | **100%** |
 
 ---
 

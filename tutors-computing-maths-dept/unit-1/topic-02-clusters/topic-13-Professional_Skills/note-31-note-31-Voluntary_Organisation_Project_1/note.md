@@ -18,7 +18,7 @@ This module aims to allow students to experience a particular area of volunteeri
 | **Short Title** | Voluntary Organisation Proj 1 |
 | **Credits** | 10 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | MCAHILL |
 | **Cluster** | [Professional Skills](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-13-Professional_Skills) |
@@ -75,8 +75,8 @@ Review with college mentor.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1, 2, 3, 4 | **100%** |
-| - Employer's Report | 1,2,3 | 60% |
-| - Presentation | 4 | 40% |
+| **Employer's Report** | 1,2,3 | **60%** |
+| **Presentation** | 4 | **40%** |
 
 ---
 

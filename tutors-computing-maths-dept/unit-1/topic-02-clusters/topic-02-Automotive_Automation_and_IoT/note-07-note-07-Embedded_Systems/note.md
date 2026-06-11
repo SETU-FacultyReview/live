@@ -18,7 +18,7 @@ In this module students will learn how to develop embedded real-time software ap
 | **Short Title** | Embedded Systems |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BJACKMAN |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -83,8 +83,8 @@ Students will be encouraged to enhance their lab work and assessment submissions
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2 | **50%** |
 | **Continuous Assessment** | 2,3,4 | **50%** |
-| - Assignment | 2,3,4 | 25% |
-| - Assignment | 2,3,4 | 25% |
+| **Assignment** | 2,3,4 | **25%** |
+| **Assignment** | 2,3,4 | **25%** |
 
 ---
 

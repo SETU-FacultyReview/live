@@ -18,7 +18,7 @@ The purpose of this module is to introduce the student to the fundamental concep
 | **Short Title** | Artificial Intelligence |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | PCAREW |
 | **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |

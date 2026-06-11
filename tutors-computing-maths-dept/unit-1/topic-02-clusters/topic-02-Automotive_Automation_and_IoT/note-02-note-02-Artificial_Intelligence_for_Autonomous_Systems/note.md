@@ -18,7 +18,7 @@ This module will build on the student s prior knowledge of computer algorithms a
 | **Short Title** | AI Auton Syst |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | POLEARY |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -84,8 +84,8 @@ Self-directed learning
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6,7 | **100%** |
-| - Assignment | 1,2,3,4,5,6,7 | 50% |
-| - Lab Report | 3,4,6,7 | 50% |
+| **Assignment** | 1,2,3,4,5,6,7 | **50%** |
+| **Lab Report** | 3,4,6,7 | **50%** |
 
 ---
 

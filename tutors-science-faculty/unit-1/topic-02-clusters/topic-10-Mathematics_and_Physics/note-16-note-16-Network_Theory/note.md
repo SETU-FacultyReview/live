@@ -18,7 +18,7 @@ The aim of this module is to introduce the fundamental concepts in information t
 | **Short Title** | Network Theory |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -82,8 +82,8 @@ Active engagement with frequent practice on examples is strongly encouraged thro
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,3,4,5 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Assignment | 1,2 | 20% |
-| - Assignment | 4,6 | 30% |
+| **Assignment** | 1,2 | **20%** |
+| **Assignment** | 4,6 | **30%** |
 
 ---
 

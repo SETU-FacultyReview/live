@@ -18,7 +18,7 @@ In this module, students explore and use the technologies required to exchange d
 | **Short Title** | The Connected Car |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | EREADE |
 | **Cluster** | [Automotive, Automation and IoT](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-02-Automotive_Automation_and_IoT) |
@@ -82,8 +82,8 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,3,5 | 30% |
-| - Assignment | 2,4,6 | 70% |
+| **Assignment** | 1,3,5 | **30%** |
+| **Assignment** | 2,4,6 | **70%** |
 
 ---
 

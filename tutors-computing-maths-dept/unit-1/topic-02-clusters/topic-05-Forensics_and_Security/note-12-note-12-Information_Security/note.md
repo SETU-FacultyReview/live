@@ -18,7 +18,7 @@ This module provides students with a solid grounding in the area of computer and
 | **Short Title** | Info Security |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | JMCGIBNEY |
 | **Cluster** | [Forensics and Security](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-05-Forensics_and_Security) |
@@ -80,9 +80,9 @@ Self-directed learning.
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4,6 | **50%** |
 | **Continuous Assessment** | 1,2,3,4,5,6 | **50%** |
-| - Assignment | 1,2,3 | 20% |
-| - Assignment | 4,5 | 20% |
-| - Assignment | 6 | 10% |
+| **Assignment** | 1,2,3 | **20%** |
+| **Assignment** | 4,5 | **20%** |
+| **Assignment** | 6 | **10%** |
 
 ---
 

@@ -18,7 +18,7 @@ To enhance the student?s existing IT knowledge and experience with the skills-se
 | **Short Title** | Enterprise Web Development |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DOCONNOR |
 | **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -84,8 +84,8 @@ Student will be encouraged to enhance their lab work and assessment submissions 
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Project | 1,3,5 | 60% |
-| - Project | 2,3,4 | 40% |
+| **Project** | 1,3,5 | **60%** |
+| **Project** | 2,3,4 | **40%** |
 
 ---
 

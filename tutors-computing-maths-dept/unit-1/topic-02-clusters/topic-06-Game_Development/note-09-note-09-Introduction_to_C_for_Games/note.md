@@ -18,7 +18,7 @@ This module will introduce the student to the fundamentals of programming for ga
 | **Short Title** | Introduction to C++ for Games |
 | **Credits** | 5 ECTS |
 | **Level** | Intermediate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | BLYNG |
 | **Cluster** | [Game Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-06-Game_Development) |
@@ -79,8 +79,8 @@ Self-directed learning activities will require students to will reflect upon the
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Project | 1, 2, 3, 4 | 50% |
-| - Practical | 1,2,3 | 50% |
+| **Project** | 1, 2, 3, 4 | **50%** |
+| **Practical** | 1,2,3 | **50%** |
 
 ---
 

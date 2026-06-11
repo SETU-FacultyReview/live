@@ -18,7 +18,7 @@ This module will provide a comprehensive understanding of Cloud Architecture, in
 | **Short Title** | Cloud Architecture |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RFRISBY |
 | **Cluster** | [Networks and Cloud](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-12-Networks_and_Cloud) |
@@ -80,7 +80,7 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **100%** |
-| - Assignment | 1,2,3,4,5 | 100% |
+| **Assignment** | 1,2,3,4,5 | **100%** |
 
 ---
 

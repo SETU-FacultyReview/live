@@ -18,7 +18,7 @@ The aim of the module is to provide students with an understanding of the main c
 | **Short Title** | Mobile Game Development |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Game Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-06-Game_Development) |
@@ -75,9 +75,9 @@ Practical exercises will provide students with an opportunity to develop a range
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2 | 30% |
-| - Assignment | 1,3 | 40% |
-| - Assignment | 3,4 | 30% |
+| **Assignment** | 1,2 | **30%** |
+| **Assignment** | 1,3 | **40%** |
+| **Assignment** | 3,4 | **30%** |
 
 ---
 

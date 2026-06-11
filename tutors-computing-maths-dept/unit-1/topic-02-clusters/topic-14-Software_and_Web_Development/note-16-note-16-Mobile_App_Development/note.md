@@ -18,7 +18,7 @@ The aim of this module is to enable the understanding and critical evaluation of
 | **Short Title** | Mobile App Development |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DDROHAN |
 | **Cluster** | [Software and Web Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -76,7 +76,7 @@ The Project will invite the student to analyse, design and implement a new appli
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Project | 1,2,3,4,5 | 100% |
+| **Project** | 1,2,3,4,5 | **100%** |
 
 ---
 

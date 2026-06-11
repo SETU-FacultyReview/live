@@ -18,7 +18,7 @@ This module covers topics in introductory statistics including descriptive stati
 | **Short Title** | Statistics and Probability |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | KMURPHY |
 | **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -86,8 +86,8 @@ Extensive use of computers will be employed to perform statistical calculations 
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4,5 | **60%** |
 | **Continuous Assessment** |  | **40%** |
-| - In-Class Assessment | 1,2 | 15% |
-| - Practical | 3,6,7 | 25% |
+| **In-Class Assessment** | 1,2 | **15%** |
+| **Practical** | 3,6,7 | **25%** |
 
 ---
 

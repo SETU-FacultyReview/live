@@ -18,7 +18,7 @@ This module explores organisational structures and the generic business function
 | **Short Title** | Business Processes |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | RLYNG |
 | **Cluster** | [Business](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-03-Business) |
@@ -83,8 +83,8 @@ In practical classes, students will engage with business process mapping techniq
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 1,2,3,4,6 | **50%** |
 | **Continuous Assessment** |  | **50%** |
-| - Group Project | 3,4 | 25% |
-| - In-Class Assessment | 5 | 25% |
+| **Group Project** | 3,4 | **25%** |
+| **In-Class Assessment** | 5 | **25%** |
 
 ---
 

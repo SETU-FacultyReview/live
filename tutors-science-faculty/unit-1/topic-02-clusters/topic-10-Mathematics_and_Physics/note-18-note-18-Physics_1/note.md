@@ -18,7 +18,7 @@ This module is designed to introduce the computing student to the mechanics, ele
 | **Short Title** | Physics 1 |
 | **Credits** | 5 ECTS |
 | **Level** | Introductory |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | GGALLAGHER |
 | **Cluster** | [Mathematics and Physics](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-10-Mathematics_and_Physics) |
@@ -78,8 +78,8 @@ Live and video-based demonstrations
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5 | **40%** |
+| **Lab Report** | 1,2,3,4,5 | **40%** |
 | **Final Written Examination** | 1,2,3 | **60%** |
-| - Lab Report | 1,2,3,4,5 | 40% |
 
 ---
 

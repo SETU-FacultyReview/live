@@ -18,7 +18,7 @@ This module will address a subset of the tools and technologies required to supp
 | **Short Title** | Agile Software Development |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SDROHAN |
 | **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -80,8 +80,8 @@ Self-directed learning will be encouraged throughout the duration of the module.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** |  | **100%** |
-| - Assignment | 1,2,3 | 40% |
-| - Assignment | 2,3,4,5 | 60% |
+| **Assignment** | 1,2,3 | **40%** |
+| **Assignment** | 2,3,4,5 | **60%** |
 
 ---
 

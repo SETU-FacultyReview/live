@@ -18,7 +18,7 @@ This module deepens the students knowledge of game development techniques in C++
 | **Short Title** | Game Development in C++ |
 | **Credits** | 5 ECTS |
 | **Level** | Advanced |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | DFLYNN |
 | **Cluster** | [Game Development](/topic/setu-computing-maths-dept/unit-1/topic-02-clusters/topic-06-Game_Development) |
@@ -79,9 +79,9 @@ Self-directed learning.
 | **Assessment Type** | **Learning Outcomes** | **Weighting** |
 |---------------------|----------------------|---------------|
 | **Continuous Assessment** | 1,2,3,4,5,6 | **100%** |
-| - Assignment | 2,3 | 20% |
-| - Assignment | 3,4 | 20% |
-| - Assignment | 1,5,6 | 60% |
+| **Assignment** | 2,3 | **20%** |
+| **Assignment** | 3,4 | **20%** |
+| **Assignment** | 1,5,6 | **60%** |
 
 ---
 

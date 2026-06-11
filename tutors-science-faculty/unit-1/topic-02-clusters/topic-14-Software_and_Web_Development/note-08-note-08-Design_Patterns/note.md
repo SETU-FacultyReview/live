@@ -18,7 +18,7 @@ This module builds on an undergraduate-level software development knowledge base
 | **Short Title** | Design Patterns |
 | **Credits** | 10 ECTS |
 | **Level** | Postgraduate |
-| **School** | Science and Computing |
+| **Faculty** | Science and Computing |
 | **Department** | Computing and Mathematics |
 | **Module Author** | SDROHAN |
 | **Cluster** | [Software and Web Development](/topic/setu-science-faculty/unit-1/topic-02-clusters/topic-14-Software_and_Web_Development) |
@@ -85,7 +85,7 @@ Self-directed learning will be encouraged throughout the duration of the module.
 |---------------------|----------------------|---------------|
 | **Final Written Examination** | 3,4,5 | **50%** |
 | **Continuous Assessment** | 1,2,3 | **50%** |
-| - Assignment | 1,2,3 | 50% |
+| **Assignment** | 1,2,3 | **50%** |
 
 ---
 
