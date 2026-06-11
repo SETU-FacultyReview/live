@@ -119,7 +119,7 @@ assessment_criteria:
 - '60%-69%: All of the above and writes elegant and clear functional code.'
 - 70%-100%:All of the above to an excellent level and demonstrates an enthusiasm for
   the functional approach.
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Java Software." https://www.oracle.com/java/index.html. https://www.oracle.com/java/index.html'
@@ -128,5 +128,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

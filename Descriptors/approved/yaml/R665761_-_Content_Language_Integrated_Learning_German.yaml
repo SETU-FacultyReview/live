@@ -27,10 +27,10 @@ learning_modes:
   part_time: ''
 assessment_methods: []
 assessment_criteria: []
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

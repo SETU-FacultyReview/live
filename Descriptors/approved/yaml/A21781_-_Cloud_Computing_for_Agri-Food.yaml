@@ -112,7 +112,7 @@ assessment_criteria:
 - '70%-100%: All of the above to an excellent level. Can go beyond the basic practical
   specification and demonstrate competence with other services. Can demonstrate a
   deep understanding of deployment and management of a multi-tier cloud application.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Amazon Web Services." "Amazon Web Services." https://aws.amazon.com/'
 supplementary_material:
@@ -125,5 +125,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

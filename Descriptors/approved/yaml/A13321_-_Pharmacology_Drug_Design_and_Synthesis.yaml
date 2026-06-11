@@ -95,7 +95,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of pharmacology, drug design and synthesis,
   predict general trends in behaviour, including exceptional behaviour and critically
   evaluate and relate topics that overlap all of the topics.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Aitken, R.A. and S.N. Kilenyi. _Asymmetic Synthesis_. 2nd ed. London: Blackie Academic,
   2000.'
@@ -106,5 +106,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

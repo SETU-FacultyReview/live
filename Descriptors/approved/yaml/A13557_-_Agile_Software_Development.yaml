@@ -100,7 +100,7 @@ assessment_criteria:
   of agile development techniques to excellently support and seamlessly manage medium
   scale software development projects. Ability to implement a very complex application
   using RESTful APIs and automate the testing using superior TDD approaches.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Bloch, J. _Effective Java_. NJ: Addison-Wesley, 2008.'
@@ -120,5 +120,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

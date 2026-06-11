@@ -88,12 +88,12 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of problems through the use and modification of appropriate
   skills and tools of the 3D production software.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Palamar, T. _Mastering Autodesk Maya 2016_. New York: Sybex, 2015.'
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

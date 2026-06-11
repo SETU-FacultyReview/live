@@ -162,7 +162,7 @@ assessment_criteria:
   a numerical solution into a context and assess whether such solutions are meaningful.
   Has a very high level of efficiency in the physics laboratory. Can critically assess
   experiments undertaken.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -180,5 +180,5 @@ supplementary_material:
 requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

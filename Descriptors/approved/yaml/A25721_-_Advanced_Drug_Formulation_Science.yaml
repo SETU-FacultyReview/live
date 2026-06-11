@@ -117,7 +117,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of all learning outcomes. Will display
   advanced competence and independence with regards to associated practical development
   strategies.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Allen, L.V., N.G. Popovich and H.C. Ansel. _Ansel. Pharmaceutical Dosage forms
   and Drug Delivery Systems_. 9th ed. London: Lippincott, Williams & Wilkins, 2011.'
@@ -133,5 +133,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

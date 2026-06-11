@@ -106,7 +106,7 @@ assessment_criteria:
 - '60%-69%: Presents implemented solutions to medium-sized problems that demonstrate
   a good understanding of the main patterns and practices of web app design.'
 - '70%-100%: All the above to an excellent level.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Holmes, S. _Getting MEAN with Mongo, Express, Angular, and Node_. New York: Manning,
@@ -115,5 +115,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -69,7 +69,7 @@ assessment_criteria:
 - '60%-69%: Be able to solve problems within advanced graphic design by experimenting
   with the appropriate skills and tools.'
 - '70%-100%: All of the above to an excellent level.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Eskilson, S.J. _Graphic Design A History_. 2nd ed. London: Laurence King, 2012.'
@@ -82,5 +82,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

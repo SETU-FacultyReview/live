@@ -99,7 +99,7 @@ assessment_criteria:
   in the lectures.'
 - '70%-100%: Excellent understanding of the presented material and displays value
   added knowledge as a result of independent learning.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Association for Computing Machinery." http:/www.acm.org'
@@ -115,5 +115,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

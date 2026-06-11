@@ -92,7 +92,7 @@ assessment_criteria:
 - '50%-59%:'
 - '60%-69%:'
 - '70%-100%:'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"(Content and Language Integrated Learning - CLIL)." www.clilconsortium.jyu.fi'
 - '"particularly Kaleidoskop, jetzt online,." www.goethe.de'
@@ -114,5 +114,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

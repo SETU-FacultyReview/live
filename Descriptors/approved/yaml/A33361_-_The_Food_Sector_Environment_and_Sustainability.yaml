@@ -82,7 +82,7 @@ assessment_criteria:
   and efficiency in subject area.'
 - '70%-100%: All previous to excellent level. Be able to describe and discuss in detail
   environmental aspects of food production, processing and food security.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Arvanitoyannis, I.S. _Waste Management for the Food Industries_. London: Elsevier
   Academic Press, 2008.'
@@ -96,5 +96,5 @@ supplementary_material:
   Wiley-Blackwell, 2013.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

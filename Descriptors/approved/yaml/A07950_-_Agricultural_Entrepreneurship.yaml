@@ -92,12 +92,12 @@ assessment_criteria:
   a high level of competence and efficiency in theoretical areas of this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'O''Hara, B. _Entrepreneurship in Ireland_. 1st ed.. Dublin: Gill and Macmillan,
   2011.'
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

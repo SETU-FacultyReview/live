@@ -102,11 +102,11 @@ assessment_criteria:
   models. Shows synthesis through the implementation of cross-strand innovative artifacts.
   Moving towards a general framework for check-listing legal and ethical issues for
   such artifacts.
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

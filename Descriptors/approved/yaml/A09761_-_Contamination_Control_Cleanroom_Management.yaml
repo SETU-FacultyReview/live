@@ -82,7 +82,7 @@ assessment_criteria:
 - '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
   and extensive understanding of the subject. Provide well focused analysis and convincing
   argument on the subject.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Parenteral Drug Association." https://www.pda.org/'
 - 'Midcalf, B., W.M. Philips, J.S. Neiger and T.J. Coles. _Pharmaceutical Isolators:
@@ -96,5 +96,5 @@ supplementary_material:
 - '"Pharmaceutical Inspection Scheme." http://www.picscheme.org/'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

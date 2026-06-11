@@ -99,7 +99,7 @@ assessment_criteria:
   An ability to employ a comprehensive range of specialised skills.'
 - '70%-100%: All of the above to an excellent level, with the ability to analyse and
   design solutions to a high standard for a range of complex or unseen problems.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Technology, Entertainment and Design." www.ted.com'
@@ -108,5 +108,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -90,7 +90,7 @@ assessment_criteria:
   in the subject area.'
 - '70%-100%: All previous to excellent level. Be able to describe and discuss inorganic
   molecules and photochemical properties of complexes.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Crabtree, R.H. _The organometallic Chemistry of the Transition Metals_. 5th ed.
   Signapore: Wiley Publishing, 2009.'
@@ -106,5 +106,5 @@ supplementary_material:
   UK: Spektrum, 2013.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

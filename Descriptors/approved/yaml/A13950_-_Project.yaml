@@ -78,7 +78,7 @@ assessment_criteria:
 - '70%-100%: As above and produces an excellent document which clearly and precisely
   describes what needs to be done as part of the project. Demonstrates ability to
   abstract ideas and reflect on the process.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Gunderloy, M. _Coder to Developer: Tools and Strategies for Delivering Your Software_.
@@ -87,5 +87,5 @@ supplementary_material:
   2009.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

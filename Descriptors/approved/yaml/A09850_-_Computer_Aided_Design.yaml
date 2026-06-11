@@ -78,7 +78,7 @@ assessment_criteria:
   carries out the practical/professional task.'
 - '70%-100%: Demonstrate a very good knowledge of the subject matter. Shows good technical
   ability/skill in carrying out the task, and can print plan to scale.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Autodesk Official Press, A. _Mastering AutoCAD 2016 and AutoCAD LT 2016_. London:
@@ -86,5 +86,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

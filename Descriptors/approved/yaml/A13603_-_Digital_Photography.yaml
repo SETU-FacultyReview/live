@@ -102,7 +102,7 @@ assessment_criteria:
   minimise technical image problems such as sensor noise and optical lens aberrations.'
 - '70%-100%: All the above to an excellent level. Ability to assemble a strong set
   of images as a photo essay to examine a specific subject or topic.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Cambridge in Colour." www.cambridgeincolour.com'
 - '"Creative Live." www.creativelive.com'
@@ -115,5 +115,5 @@ supplementary_material:
 requested_resources:
 - 'CREATIVE AND PERFORMING: Photography'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

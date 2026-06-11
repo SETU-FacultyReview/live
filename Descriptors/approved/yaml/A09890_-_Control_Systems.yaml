@@ -94,7 +94,7 @@ assessment_criteria:
   problems in the area of control system modelling analysis and design.'
 - '70%-100%: Excellent knowledge of the subject area. Excellent reasoning skills and
   focused well thought out arguments.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Dorf, R. and R. Bishop. _Modern Control Systems_. 12th ed. United States of America:
@@ -112,5 +112,5 @@ supplementary_material:
 requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

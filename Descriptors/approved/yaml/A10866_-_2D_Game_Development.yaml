@@ -100,7 +100,7 @@ assessment_criteria:
   in the lectures.'
 - '70%-100%: Excellent understanding of the presented material and displays value
   added knowledge as a result of independent learning.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Blackman, S. and J. Wang. _Unity for Absolute Beginners_. NY: Apress, 2014.'
@@ -111,5 +111,5 @@ requested_resources:
 - 'EQUIPMENT: MAC PCs'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

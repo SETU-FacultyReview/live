@@ -94,7 +94,7 @@ assessment_criteria:
   app design.'
 - '70%-100%: All of the above to an excellent standard, and incorporates self-directed
   investigation into state-of-the-art enterprise web technology.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Richardson, L. and M. Amundsen. _RESTful Web APIs_. O''Reilly Media: O''Reilly
@@ -102,5 +102,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

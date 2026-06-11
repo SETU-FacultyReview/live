@@ -103,7 +103,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on assessments. Show initiative,
   individual thought, and enthusiasm in self-study and independent learning.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Forest Service, F.S. _Code of best practice_. Dublin, Ireland: Dept. of Agriculture,
   Food & Fisheries, 2000.'
@@ -128,5 +128,5 @@ supplementary_material:
   Joensu, Finland: European Forest Institute, 2014.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

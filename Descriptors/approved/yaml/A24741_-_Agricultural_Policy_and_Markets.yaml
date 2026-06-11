@@ -110,7 +110,7 @@ assessment_criteria:
   of all learning outcomes, including the current and future trends in Irish, EU and
   competitor trading blocks. The student will be able to source key data and present
   it in a convincing manner in the assignment and in the exam.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Dept Agriculture Food and the Marine - Compendium of Agricultural Statistics."
   Dept Agriculture Food and the Marine. www.irlgov.ie'
@@ -130,5 +130,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

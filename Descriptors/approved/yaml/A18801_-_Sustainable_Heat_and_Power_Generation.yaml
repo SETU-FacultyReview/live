@@ -54,7 +54,7 @@ assessment_methods:
   name: Final Written Examination
   weighting: '100'
 assessment_criteria: []
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 1. Godfrey Boyle, 2004, Renewable energy power for a sustainable future, 2nd Edition,
   Oxford University Press
@@ -69,5 +69,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

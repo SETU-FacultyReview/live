@@ -83,7 +83,7 @@ assessment_criteria:
 - 70%-100%:All the above to an excellent level. Be able to propose solutions to a
   high standard for a range of both complex and unforeseen problems through the use
   and modification of appropriate skills and tools.
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"AWS." https://aws.amazon.com/documentation/'
 supplementary_material:
@@ -93,5 +93,5 @@ supplementary_material:
   New York: Wiley, 2017.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

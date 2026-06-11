@@ -124,7 +124,7 @@ assessment_criteria:
 - '70%-100%: Demonstrates the ability to create a Workshop on an advanced technical
   topic that is digitally recorded is uploaded to YouTube. Delivers a well-structured
   oral presentation using one or more props.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Euson, B. _C21: Communicating in the 21st Century, 4th edition_. 3rd ed. NY: Wiley,
@@ -133,5 +133,5 @@ requested_resources:
 - 'Room Type: Computer Lab'
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

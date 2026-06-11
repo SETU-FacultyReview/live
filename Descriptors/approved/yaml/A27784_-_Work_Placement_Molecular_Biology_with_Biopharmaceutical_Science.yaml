@@ -77,10 +77,10 @@ assessment_criteria:
 - 'Pass: Minimum period of at least 15 weeks of work placement completed, satisfactory
   Employer Evaluation Report submitted, satisfactory report and reflective work log
   submitted within the appropriate deadlines.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

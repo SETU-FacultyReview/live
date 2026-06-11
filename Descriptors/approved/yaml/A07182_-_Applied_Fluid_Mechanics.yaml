@@ -77,7 +77,7 @@ assessment_methods:
   due_weeks: []
   comment: ''
 assessment_criteria: []
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Cengel, Y. and J.M. Cimbala. _Fluid Mechanics: Fundamentals and Applications_.
@@ -89,5 +89,5 @@ supplementary_material:
   2011.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

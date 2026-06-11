@@ -105,7 +105,7 @@ assessment_criteria:
 - '70%-100%: Proficient with designing, developing and testing maintainable, persistent,
   robust, high-quality, elegant UX applications to solve complex problems that are
   substantially different to those studied in the module.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Kolling, M. _Objects first with Java-A Practical Introduction using BlueJ. 5th
@@ -115,5 +115,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

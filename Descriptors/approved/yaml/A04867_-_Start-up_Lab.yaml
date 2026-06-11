@@ -1,7 +1,7 @@
 reference: A04867
 full_title: Start-up Lab
 short_title: Start-up Lab
-credits: 20
+credits: '20'
 level: Intermediate
 author: CGATELY
 history_comment: ''
@@ -122,7 +122,3 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
-
-
-
-

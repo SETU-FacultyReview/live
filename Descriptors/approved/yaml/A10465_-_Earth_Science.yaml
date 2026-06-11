@@ -119,7 +119,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on assessments. Show initiative,
   individual thought, and enthusiasm in self study and independent learning.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Aalen, F.H.A., K. Whelan and M. Stout. _Atlas of the Irish rural landscape_. 2nd
   ed.. Ireland: Cork University Press, 1997.'
@@ -136,5 +136,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

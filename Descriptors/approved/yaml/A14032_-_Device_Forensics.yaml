@@ -95,7 +95,7 @@ assessment_criteria:
   technologies.'
 - '70%-100%: All above to an excellent level. Be able to critically review new and
   emerging technologies and tools. Be able to discuss their effect on forensic examinations.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Hoog, A. _Android Forensics_. 21 July: Syngress, 2011.'
 supplementary_material:
@@ -112,5 +112,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

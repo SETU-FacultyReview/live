@@ -105,7 +105,7 @@ assessment_criteria:
   of how XML applications and related-standards interplay with other aspects of web
   systems, including those not explicitly stated in the course materials or a reworking
   of course material references in new way(s).
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"W3 Schools Tutorials: Introduction to XML." https://www.w3schools.com/xml/xml_whatis.asp'
 - '"W3 Schools Tutorials: What is JSON?." https://www.w3schools.com/whatis/whatis_json.asp'
@@ -115,5 +115,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -125,7 +125,7 @@ assessment_criteria:
   nature of nanotechnology, the horizontal affects that nanotechnology is having modern
   industry and the disruptive nature of nanotechnology and/or failed to demonstrate
   a professional approach to submitting all assignments on time.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Hornyak, G.L. _Introduction to Nanoscience_. .: CRC Press, 2008.'
 - 'Rubahhn, H.G. _Basics of Nanotechnology_. USA: Wiley, 2008.'
@@ -137,5 +137,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

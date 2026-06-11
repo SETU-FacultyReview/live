@@ -127,7 +127,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. In addition, demonstrate a deep
   understanding of the building, deployment and management of a Multi-tier web application
   infrastructure.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"The Python Wiki." https://wiki.python.org/'
@@ -142,5 +142,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

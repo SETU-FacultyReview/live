@@ -122,7 +122,7 @@ assessment_methods:
   name: Continuous Assessment
   weighting: '100'
 assessment_criteria: []
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"websites."'
 - '"websites." www.french.about.com'
@@ -144,5 +144,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -80,7 +80,7 @@ assessment_criteria:
   a range of both complex and unforeseen problems through the use and modification
   of appropriate asset management skills and tools.'
 - '70%-100%: All the above to an excellent level.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Gould, D. _Complete Maya Programming: An Extensive Guide to MEL and C++ API_. 1st
   ed.. US: Morgan Kaufmann, 2003.'
@@ -88,5 +88,5 @@ supplementary_material: []
 requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

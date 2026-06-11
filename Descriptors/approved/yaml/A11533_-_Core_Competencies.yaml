@@ -83,7 +83,7 @@ assessment_criteria:
   this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Covey, S.R. _The 7 habits of highly effective people_. London: Simon & Schuster
   UK, 2004.'
@@ -95,5 +95,5 @@ supplementary_material:
 - 'Covey, S.R. _Principle-centred leadership_. London: Simon & Schuster UK, 1999.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

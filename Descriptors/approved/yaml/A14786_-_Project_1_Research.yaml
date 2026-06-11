@@ -140,12 +140,12 @@ assessment_criteria:
   review, critique research methodologies and appraise other options.'
 - '70%-100%: All the above to an excellent level in terms of robustness, thoroughness
   and completeness.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Cresswell, J.S. _Research Methods:Qualitative, Quantitaive and Mixed Methods Approaches_.
   New York: Sage, 2002.'
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

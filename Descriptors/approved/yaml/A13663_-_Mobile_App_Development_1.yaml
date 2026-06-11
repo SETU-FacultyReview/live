@@ -162,7 +162,7 @@ assessment_criteria:
   a remote service as a basic level (read only say).'
 - '70%-100%: All the above to an excellent level. Be able to build an application
   that can access on device sensors / subsystems (e.g. location or camera).'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Android Developer Resouces." http://developer.android.com'
 - '"Apple Developer Resources." http://developer.apple.com/ios'
@@ -176,5 +176,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

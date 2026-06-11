@@ -92,12 +92,12 @@ assessment_criteria:
   of research output. Excellent standard and knowledge of research topic evident through
   superior report writing and oral presentation skills, supplemented by an ability
   to present this knowledge to a very high technical standard.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"WIT." www.sciencedirect.com. www.wit.ie/library/dbs/scidbs.asp'
 supplementary_material: []
 requested_resources:
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

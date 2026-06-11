@@ -104,11 +104,11 @@ assessment_criteria:
   models. Shows synthesis through the implementation of cross-strand innovative artifacts.
   Career plan (including CV) shows evidence of ambition, enthusiasm and maturity.
   Artifact shows evidence of market-readiness and future-proofing.
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

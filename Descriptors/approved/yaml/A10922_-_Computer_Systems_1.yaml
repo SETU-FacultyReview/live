@@ -171,7 +171,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Demonstrate a deep understanding
   of trade-offs of computer power, speed and storage. Demonstrates knowledge of advanced
   OS operations and application building.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Association of Computer Machinery (ACM)." http://www.acm.org'
@@ -185,5 +185,5 @@ requested_resources:
 - 'Room Type: Computer Lab'
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

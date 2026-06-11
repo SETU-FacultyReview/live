@@ -82,7 +82,7 @@ assessment_criteria:
 - '70%-100%: All of the above to an excellent level. In addition the applications
   should demonstrate a more sophisticated interaction with external services, and
   may leverage on device sensors and subsystems.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Android Developer site." http://developer.android.com'
 - '"Apache Cordova site." https://cordova.apache.org'
@@ -96,5 +96,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

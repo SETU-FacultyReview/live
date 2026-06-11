@@ -125,7 +125,7 @@ assessment_criteria:
   context. Be able to assess trends in the field of information systems development
   and how HCS approaches address these trends. Demonstrate a deep level of critical
   refelction on the theories, methods and praxis presented in this module.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Checkland, P. _Systems Thinking, Systems Practice_. New York: Wiley, 1999.'
@@ -145,5 +145,5 @@ supplementary_material:
   England: Palgrave Macmillan, 2011.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

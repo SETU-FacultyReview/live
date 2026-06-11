@@ -83,11 +83,11 @@ assessment_criteria:
   a high level of competence and efficiency in theoretical areas of this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Module Food Business." WIT Moodle. https://moodle.wit'
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

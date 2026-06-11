@@ -89,7 +89,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on practical/professional
   tasks.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Food and Drugs Administration." http://www.fda.gov/'
 - 'Nash, R.A. and A.H. Wachter. _Pharmaceutical Process Validation_. 3rd. New York:
@@ -99,5 +99,5 @@ supplementary_material:
 - '"Journal of Validation Technology." http://www.ivtnetwork.com/jvt-journal'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

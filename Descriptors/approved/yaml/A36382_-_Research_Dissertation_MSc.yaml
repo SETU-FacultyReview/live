@@ -87,7 +87,7 @@ assessment_criteria:
 - '70%-100%: Good level of critical analysis, originality of thought and a comprehensive
   knowledge base. Good critical evaluation and synthesis of relevant issues, showing
   an ability to integrate theory and practice.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Academic Search Complete database - WIT library databases." http://library.wit.ie/Resources/databases'
 - '"Emerald database - WIT library databases." http://library.wit.ie/Resources/databases'
@@ -106,5 +106,5 @@ supplementary_material:
   NY: Open University Press, 2010.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

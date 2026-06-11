@@ -126,7 +126,7 @@ assessment_criteria:
 - 70%-100%:All the previous to an excellent level including capacity to solve ethical
   problems and creatively engage in ethical discourse and the identification of appropriate
   potential solutions.
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Baase, S. _A Gift of Fire: Social, Legal and Ethical Issues for Computers and the
@@ -135,5 +135,5 @@ supplementary_material:
   Stability_. 1st ed.. London: Springer-Verlag, 2015.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

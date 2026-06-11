@@ -99,7 +99,7 @@ assessment_criteria:
   chosen research topic, supplemented by an ability to critically evaluate and discuss
   the topic in relation to a wider scientific context. The above advanced knowledge
   of the topic will be supported by superior reporting and presentation skills.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Online resources & databases." www.google.com'
 - '"ScienceDirect." www.sciencedirect.com'
@@ -112,5 +112,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

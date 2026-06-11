@@ -88,7 +88,7 @@ assessment_criteria:
   in multiple variable calculus and in differential equations.'
 - '70%-100%: As above and have an authoritative understanding of the methods and applications
   of multiple variable calculus and in differential equations.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Moodle." moodle.wit.ie'
 supplementary_material:
@@ -98,5 +98,5 @@ supplementary_material:
 - 'Stroud, K.A. _Engineering Mathematics_. 6. China: Palgrave Macmillan, 2007.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

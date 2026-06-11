@@ -135,7 +135,7 @@ assessment_criteria:
   analysis and originality of thought; excellent critical evaluation and synthesis
   of relevant issues, showing an ability to integrate and apply theory in a precise
   manner.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Bergin, C.C. and D.A. Bergin. _...Child and Adolescent Development_ . 2nd. Australia:
   Cengage, 2015.'
@@ -154,5 +154,5 @@ supplementary_material:
   Macmillan, 2011.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

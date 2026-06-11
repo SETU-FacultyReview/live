@@ -106,7 +106,7 @@ assessment_criteria:
 - '70%--100%: Good level of critical data and information analysis, originality of
   thought and a comprehensive knowledge base. Good critical evaluation and synthesis
   of relevant issues, showing an ability to integrate theory and practice.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Academic Search Complete - WIT library databases." https://library.wit.ie/databases/'
 - '"Science Direct database - WIT library databases." https://library.wit.ie/databases/'
@@ -121,5 +121,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

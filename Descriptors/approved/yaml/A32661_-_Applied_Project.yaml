@@ -90,7 +90,7 @@ assessment_criteria:
   comprehensive knowledge & understanding of all learning outcomes & be able to discuss
   the area. Will display advanced competence & independence with associated laboratory
   skills & practices.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"http://sciencedirect.com." www.wit.ie'
 - '"library@wit.ie/researcher-supports." www.wit.ie'
@@ -101,5 +101,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

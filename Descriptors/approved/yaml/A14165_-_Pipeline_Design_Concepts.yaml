@@ -86,7 +86,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Dunlop, R. _Production Pipeline Fundamentals for Film and Games_. 1st ed. London:
@@ -99,5 +99,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -1,7 +1,7 @@
 reference: A06382
 full_title: Start-up Lab Learning Log
 short_title: Start-up Learning Log
-credits: 10
+credits: '10'
 level: Intermediate
 author: CGATELY
 history_comment: ''
@@ -94,7 +94,3 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
-
-
-
-

@@ -121,7 +121,7 @@ assessment_criteria:
 - '70%-100%: All of the above to an excellent level. Be able to describe a variety
   of new developments in security. Demonstrate an understanding of some the trade-offs
   involved in providing security.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"The SANS Institute." http://www.sans.org/'
 supplementary_material:
@@ -133,5 +133,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

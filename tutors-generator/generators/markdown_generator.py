@@ -99,7 +99,7 @@ class MarkdownGenerator:
         md.append(f"| **Short Title** | {descriptor.get('short_title', 'N/A')} |")
         md.append(f"| **Credits** | {descriptor.get('credits', 'N/A')} ECTS |")
         md.append(f"| **Level** | {descriptor.get('level', 'N/A')} |")
-        md.append(f"| **School** | {descriptor.get('school', 'N/A')} |")
+        md.append(f"| **Faculty** | {descriptor.get('faculty', 'N/A')} |")
         md.append(f"| **Department** | {descriptor.get('department', 'N/A')} |")
         md.append(f"| **Module Author** | {descriptor.get('author', 'N/A')} |")
         md.append(f"| **Cluster** | {cluster_link} |")

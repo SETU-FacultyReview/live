@@ -70,7 +70,7 @@ assessment_criteria:
   creative use of the appropriate skills and tools.'
 - '70%-100%: All the above to an excellent level. Ability to demonstrate mastery of
   specialised skills in writing and communication of ideas.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"BBC Media Studies Training." http://www.bbc.co.uk/learning/subjects/media_studies.shtml'
@@ -83,5 +83,5 @@ requested_resources:
 - 'EQUIPMENT: MAC PCs'
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

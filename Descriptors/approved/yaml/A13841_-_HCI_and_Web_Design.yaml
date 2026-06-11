@@ -89,7 +89,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse HCI and Web Design
   solutions to a high standard for a range of both complex and unforeseen problems
   through the use and modification of appropriate skills and tools.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"CSS Tutorial." W3Schools. http://www.w3schools.com/css/'
 - '"HTML Tutorial." W3Schools. http://www.w3schools.com/html/'
@@ -100,5 +100,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

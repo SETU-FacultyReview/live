@@ -112,7 +112,7 @@ assessment_criteria:
 - '60%-69%: In addition can integrate networking services and troubleshoot network
   problems.'
 - '70%-100%: All the above to an excellent level.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Cisco Network Academy." https://www.netacad.com/. https://www.netacad.com/'
 supplementary_material:
@@ -125,5 +125,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: Networks Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

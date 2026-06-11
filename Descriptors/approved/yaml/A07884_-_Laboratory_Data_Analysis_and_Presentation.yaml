@@ -124,7 +124,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of all learning outcomes. Will display
   advanced competence and independence with regards to associated laboratory data
   analysis and presentation skills.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -138,5 +138,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

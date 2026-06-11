@@ -93,11 +93,11 @@ assessment_criteria:
 - 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisor
   Evaluation Report submitted, and assessments and documents related to the learning
   outcomes, all to an acceptable standard and submitted within deadlines'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Module Moodle page." www.moodle.wit.ie'
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

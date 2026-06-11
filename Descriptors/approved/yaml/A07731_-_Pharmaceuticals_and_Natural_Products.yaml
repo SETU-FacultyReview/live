@@ -100,7 +100,7 @@ assessment_criteria:
   and natural products, as well as being able to predict general trends, evaluate
   and relate topics. Will display advanced competence and independence with regard
   to associated laboratory skills and practices.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -121,5 +121,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

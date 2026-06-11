@@ -104,7 +104,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on practical/professional
   tasks.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -123,5 +123,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

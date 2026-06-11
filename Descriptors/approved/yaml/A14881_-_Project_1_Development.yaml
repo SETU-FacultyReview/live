@@ -158,7 +158,7 @@ assessment_criteria:
 - '70%-100%: As above and produces an excellent document which clearly and precisely
   describes what needs to be done as part of the project. Demonstrates ability to
   abstract ideas and reflect on the process.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Lacey, M. _The Scrum Field Guide: Practical advice for the first year_. New York:
@@ -166,5 +166,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

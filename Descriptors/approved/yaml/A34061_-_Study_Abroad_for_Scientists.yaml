@@ -119,7 +119,7 @@ assessment_criteria:
   submitted within the appropriate deadlines.'
 - 'Fail: Student fails to obtain 20 ECTS from host institute and/or does not submit
   an adequate portfolio.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Study Abroad for Scientists module page on Moodle.." www.setu.ie. https://moodle.wit.ie/'
 supplementary_material:
@@ -129,5 +129,5 @@ supplementary_material:
   New York: The Institute of International Education, 2013.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

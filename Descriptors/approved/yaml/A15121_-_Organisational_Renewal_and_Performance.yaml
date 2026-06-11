@@ -91,7 +91,7 @@ assessment_criteria:
   issues, of theory to practice integration and of reflection from practice.'
 - '70%-100%: Good level of critical analysis, originality of thought, comprehensive
   knowledge base showing an ability to integrate theory and practice.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Bovey, W.H. and A. Hede. "Resistance to organisational change: the role of defence
   mechanisms." _Journal of Managerial Psychology_ 16, 7. (2001): 543-548.'
@@ -114,5 +114,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

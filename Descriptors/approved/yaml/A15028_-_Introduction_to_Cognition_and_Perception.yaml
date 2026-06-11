@@ -105,7 +105,7 @@ assessment_criteria:
   analysis and originality of thought; Excellent critical evaluation and synthesis
   of relevant issues, showing an ability to integrate and apply theory in a precise
   manner.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Eysenck, M. and M. Keane. _Cognitive Psychology: A Student''s Handbook_. 7th ed.
   East Essex: Psychology Press, 2015.'
@@ -114,5 +114,5 @@ supplementary_material:
   2013.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -86,7 +86,7 @@ assessment_criteria:
   comprehensive knowledge & understanding of all learning outcomes & be able to discuss
   the area. Will display advanced competence & independence with associated laboratory
   skills & practices.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Burnes, B. _Managing Change: a strategic approach to organisational dynamics_.
   7th. XX: Pearson, 2017.'
@@ -98,5 +98,5 @@ supplementary_material:
 - 'Schein, E. _Organisational Culture & Leadership_. 5th. XX: Wiley & Sons, 2017.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

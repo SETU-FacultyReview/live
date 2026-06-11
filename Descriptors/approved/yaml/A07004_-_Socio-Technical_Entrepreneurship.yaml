@@ -80,7 +80,7 @@ assessment_criteria:
 - '60%-69%: Be able to analyse the entrepreneurial process and differentiate between
   alternative viewpoints and strategies.'
 - '70%-100%: All the above to an excellent level, showing evaluation and synthesis.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Bilton, C. _Management and Creativity_. Oxford, UK: Blackwell, 2007.'
 - 'Cooney, T.M. _Irish Cases in Entrepreneurship,_. Dublin, Ireland: Blackwell, 2005.'
@@ -90,5 +90,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

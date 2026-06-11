@@ -81,7 +81,7 @@ assessment_criteria:
   of the nucleus and of the standard model of particle physics.'
 - '60%-69%: Able to apply given problem-solving techniques to new similar problems.'
 - '70%-100%: All the previous to an excellent level.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Brandon, D. and W. Kaplan. _Microstructural Characterization of Materials_. 2nd
@@ -97,5 +97,5 @@ supplementary_material:
 requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

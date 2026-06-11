@@ -102,7 +102,7 @@ assessment_criteria:
   including exceptional behaviour and critically evaluate and relate topics. Will
   display advanced competence and independence with regard to associated laboratory
   skills, practices and instrumentation.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -119,5 +119,5 @@ requested_resources:
 - 'Room Type: Chemistry Lab'
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

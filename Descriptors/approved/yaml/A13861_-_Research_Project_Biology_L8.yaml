@@ -70,7 +70,7 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
   of all learning outcomes, predict general trends in behaviour including exceptional
   behaviour, and critically evaluate and relate topics.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"United Nations Sustainable Development Goals (SDGs)." https://sdgs.un.org/goals'
 - 'Jones, A., R. Reed and J. Weyers. _Practical skills in Biology_. 5th Edition. UK:
@@ -80,5 +80,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

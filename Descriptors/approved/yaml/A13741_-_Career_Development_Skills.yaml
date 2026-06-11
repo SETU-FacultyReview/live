@@ -91,7 +91,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to demonstrate through the
   portfolio delivered a high level of evaluation regarding their career development.
   Excellent performance in the practice interview.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"gradireland." gradireland.com. https://gradireland.com/'
 supplementary_material:
@@ -100,5 +100,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

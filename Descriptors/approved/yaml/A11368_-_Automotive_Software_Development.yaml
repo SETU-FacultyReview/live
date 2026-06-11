@@ -105,7 +105,7 @@ assessment_criteria:
   to the AUTOSAR specification.
 - 70%-100%:All of the above and able to demonstrate a deep understanding of how quality
   assurance can be incorporated in to the development process.
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"AUTOSAR Organisation." www.autosar.org'
 supplementary_material:
@@ -114,5 +114,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -193,7 +193,7 @@ assessment_criteria:
   evident across the skills areas.'
 - 'Below 40%: The student has not demonstrated the ability to understand, produce,
   apply or manipulate the language at even a basic level in the skills areas.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Latham-Koenig, C. and C. Oxenden. _English File Upper Intermediate_. 3rd ed.. England:
   OXford University Press, 2014.'
@@ -223,5 +223,5 @@ supplementary_material:
   Oxford University Press, 2011.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

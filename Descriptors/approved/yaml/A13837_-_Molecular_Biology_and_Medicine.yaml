@@ -83,7 +83,7 @@ assessment_criteria:
 - '60%-69%: A good understanding of module content and good critical thinking and
   problem solving skills.'
 - '70%-100%: Excellent in all areas.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Cox, T. and J. Sinclair. _Molecular Biology in Medicine_. 2nd ed. UK: Blackwell
@@ -97,5 +97,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

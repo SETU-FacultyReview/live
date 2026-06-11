@@ -90,11 +90,11 @@ assessment_criteria:
 - '70%--100%: The learner will be able to demonstrate comprehensive knowledge and
   understanding of all learning outcomes, predict general trends in behaviour including
   exceptional behaviour, and critically evaluate and relate topics.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

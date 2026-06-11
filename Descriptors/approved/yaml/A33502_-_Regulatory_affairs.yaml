@@ -93,7 +93,7 @@ assessment_criteria:
 - '70%-100%: All previous to excellent level. Be able to describe and discuss regulatory
   affairs and compliance to the legislation pertaining to the pharmaceutical and healthcare
   industries.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"www.ema.com Notice to Applicants." http://www.ema.europa.eu/ema/'
 - '"www.fda.com." http://www.fda.gov/'
@@ -104,5 +104,5 @@ supplementary_material:
 - '"www.fda.com." http://www.fda.gov/Food/'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

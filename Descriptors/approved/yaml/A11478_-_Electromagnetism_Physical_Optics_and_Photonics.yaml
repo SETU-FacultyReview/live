@@ -89,7 +89,7 @@ assessment_criteria:
   situations involving electromagnetic waves.'
 - '70%-100%: All previous to an excellent level. Demonstrates an ability to comprehensively
   discuss the course material and analyse novel electromagnetic wave situations.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Graham Smith, F. and T.A. King. _Optics and Photonics_. New York: Wiley, 2002.'
 - 'Hecht, E. _Optics_. New York: Addison Wesley Longman, 2000.'
@@ -100,5 +100,5 @@ supplementary_material: []
 requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

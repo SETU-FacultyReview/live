@@ -108,12 +108,12 @@ assessment_criteria:
   precision.'
 - '70%-100%: All the above to an excellent level. Demonstrates an ability to put a
   solution into a context and assess whether such solutions are meaningful.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Anton, H. _Elementary Linear Algebra_. NY: Prentice Hall, 2008.'
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

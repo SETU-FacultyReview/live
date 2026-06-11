@@ -154,7 +154,7 @@ assessment_criteria:
   areas.'
 - 'Below 40%: The student has not demonstrated an ability to understand, produce,
   apply and manipulate the specified language areas even at a basic level.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Guenat, G. and P. Hartmann. _Berufpraxis Deutsch B1_. "7th ed". Stuggart: Klett
   Verlag, 2018.'
@@ -170,5 +170,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -113,7 +113,7 @@ assessment_criteria:
   awareness, and aptitude in carrying out and reporting on practical/professional
   tasks. Show initiative, individual thought, and enthusiasm in self study and independent
   learning.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Gaston, K.J. and J.I. Spicer. _Biodiversity: An Introduction_. 2nd ed. UK: Blackwell
   Science, 2003.'
@@ -126,5 +126,5 @@ supplementary_material: []
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

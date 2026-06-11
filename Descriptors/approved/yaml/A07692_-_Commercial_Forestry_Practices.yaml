@@ -89,7 +89,7 @@ assessment_criteria:
   coupled with the proper use of references.'
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Forest Service, Anon. _Code of Best Forest Practice_. Ireland: Department of Agriculture
   & Food, 2000.'
@@ -104,5 +104,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

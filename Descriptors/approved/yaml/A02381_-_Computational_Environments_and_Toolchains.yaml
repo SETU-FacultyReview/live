@@ -89,7 +89,7 @@ assessment_criteria:
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of material and ability to develop innovative solutions to problems that rise in
   the configuration and management of Computational environments.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"10 Simple Rules for the Care and Feeding of Scientific Data." http://arxiv.org/pdf/1401.2134v1.pdf'
@@ -103,5 +103,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

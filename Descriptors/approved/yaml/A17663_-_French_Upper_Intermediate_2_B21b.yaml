@@ -145,7 +145,7 @@ assessment_criteria:
   evident across the skills areas.'
 - '< 40%: The student has not demonstrated the ability to understand, produce, apply
   or manipulate the language at even a basic level in the skills areas.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Parlons français, c''est facile." http://parlons-francais.tv5monde.com/webdocumentaires-pour-apprendre-le-francais/p-1-lg0-Accueil.htm'
 - '"websites." www.figaro.fr'
@@ -165,5 +165,5 @@ supplementary_material:
 - '"TV5 Monde." http://www.tv5monde.com/'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

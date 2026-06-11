@@ -131,7 +131,7 @@ assessment_criteria:
 - 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisor
   Evaluation Report submitted, and assessments and documents related to the learning
   outcomes, all to an acceptable standard and submitted within deadlines.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"WIT Moodle: Forestry Placement folder: preparation, employment and assessment
   documentation and resources." https://moodle.wit.ie/login/index.php. https://moodle.wit.ie/login/index.php'
@@ -139,5 +139,5 @@ supplementary_material: []
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

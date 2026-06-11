@@ -87,12 +87,12 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
   of all learning outcomes and be able to recognise the inter-relationship between
   their role as a business professional and the effective operation of the organisation.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'xx, xx. _A Guide to the Project Management Body of Knowledge (PMBOK® )_. 7th. xx:
   xx, 2021.'
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

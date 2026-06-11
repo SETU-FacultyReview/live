@@ -148,7 +148,7 @@ assessment_criteria:
   to a satisfactory standard with Supervisors Report, assessments and documents related
   to the learning outcomes, all submitted to an acceptable standard and submitted
   within deadlines.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"WIT Moodle: Science Professional Development folder: preparation, support and
   assessment documentation and resources.." https://www.wit.ie/. https://moodle.wit.ie/'
@@ -157,5 +157,5 @@ supplementary_material:
   https://careersportal.ie/careerplanning/self_assessment.php?parent=11&ed_sub_cat_id=13&menu_parent_id='
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

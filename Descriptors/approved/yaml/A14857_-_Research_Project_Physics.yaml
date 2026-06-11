@@ -107,7 +107,7 @@ assessment_criteria:
   present the knowledge to a high technical standard'
 - '70%-100%: All previous to an excellent level. Shows initiative and demonstrates
   an ability to abstract ideas and reflect on the process.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Alley , M. _The Craft of Scientific Presentations: Critical Steps to Succeed and
@@ -118,5 +118,5 @@ supplementary_material:
 requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -108,7 +108,7 @@ assessment_criteria:
 - '60%-69%: In addition, can deploy a complex application to a popular cloud platform.'
 - '70%-100%: All of the above to an excellent level. Can go beyond the basic practical
   specification and demonstrate competence with other services.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"IBM Bluemix." http://www.ibm.com/cloud-computing/bluemix/'
 supplementary_material:
@@ -117,5 +117,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

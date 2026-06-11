@@ -107,7 +107,7 @@ assessment_criteria:
   and extensive comprehension of the subject manner. Shows ability to evaluate, debate
   and relate topics and shows evidence of extensive independent learning and knowledge
   of current literature and recent developments in the area.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Meibohm, B. _Pharmacokinetics and Pharmacodynamics of Biotech Drugs: Principles
   and Case Studies in Drug Development_. United States: Wiley-Blackwell, 2006.'
@@ -123,5 +123,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

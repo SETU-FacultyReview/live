@@ -103,7 +103,7 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
   of all learning outcomes and be able to facilitate informed decisions when dealing
   with employees.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Carbery, R. and C. Cross. _Human Resource Management: A Concise Introduction_.
   UK: Palgrave Macmillan, 2013.'
@@ -119,5 +119,5 @@ supplementary_material:
   Oxford, 2012.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

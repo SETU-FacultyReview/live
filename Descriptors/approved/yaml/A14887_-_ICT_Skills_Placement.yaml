@@ -83,7 +83,7 @@ assessment_criteria:
   as a strong demonstrator and / or portfolio highly relevant future employers in
   assessing the suitability of the student for recruitment. It can be directly incorporated
   into such a portfolio, perhaps with minor modifications.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Herbert, I. _Managing your placement: a skills-based approach_. London: Macmillian,
@@ -92,5 +92,5 @@ supplementary_material:
   in third-level._. Cork: CIT Press, 2004.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

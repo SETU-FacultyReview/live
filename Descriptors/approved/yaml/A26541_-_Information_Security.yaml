@@ -100,7 +100,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to propose solutions to
   a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Open Web Application Security Project (OWASP)." https://www.owasp.org/'
 - '"The SANS Institute." https://www.sans.org/'
@@ -110,5 +110,5 @@ supplementary_material:
   Harlow: Pearson, 2018.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

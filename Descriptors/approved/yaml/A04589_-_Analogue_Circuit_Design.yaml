@@ -130,7 +130,7 @@ assessment_criteria:
   to a high standard for a range of both complex and unforeseen problems through the
   use of appropriate skills and tools. An ability to synthesise solutions to problems
   should be evident here.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Book. Horowitz, P. and W. Hill. _The Art of Electronics_. 3rd ed. .: Cambridge
   University Press, 2015.'
@@ -152,5 +152,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -95,7 +95,7 @@ assessment_criteria:
   specialised skills within game design, generalise key concepts and deploy solutions
   to a high standard for a range of complex, specialised and unforeseen problems through
   the use and modification of advanced skills, tools and/or techniques.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Game Balance Concepts." 08/09/2010. https://gamebalanceconcepts.wordpress.com/'
@@ -107,5 +107,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

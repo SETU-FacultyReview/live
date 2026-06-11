@@ -88,7 +88,7 @@ assessment_criteria:
 - '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
   and extensive understanding of the subject. Provide well focused analysis and convincing
   argument on the subject.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"The 7 Basic Quality Tools." http://www.thequalityweb.com/'
 - 'George, M.L., D. Rowlands, M. Price and J. Maxey. _Lean Six Sigma Pocket Toolbook_.
@@ -98,5 +98,5 @@ supplementary_material:
 - 'Oakland, J.S. _Statistical Process Control_. Oxford: Butterworth Heinmann, 2005.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

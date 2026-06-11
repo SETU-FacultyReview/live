@@ -128,7 +128,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level and the ability to analyse and design
   application software security solutions to a high standard for a range of security
   threats through the use and modification of appropriate skills and tools.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Open Web Application Security Project (OWASP)." https://www.owasp.org'
 supplementary_material:
@@ -141,5 +141,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

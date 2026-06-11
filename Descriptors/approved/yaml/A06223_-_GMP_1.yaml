@@ -85,7 +85,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on practical/professional
   tasks.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"European Medicines Agency." http://www.ema.europa.eu/ema/'
 - '"Food and Drugs Administration." http://www.fda.gov/'
@@ -94,5 +94,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

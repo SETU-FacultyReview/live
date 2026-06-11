@@ -131,7 +131,7 @@ assessment_criteria:
   outcomes. Will display advanced competence and independence with regards to use
   of associated laboratory techniques and instrumentation and excellent laboratory
   practice.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -170,5 +170,5 @@ requested_resources:
 - 'HOSPITALITY: Kitchen'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

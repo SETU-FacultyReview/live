@@ -109,7 +109,7 @@ assessment_criteria:
   portfolio of drawings complete, design meets needs of clients, fully exploits site
   opportunities and ameliorates site difficulties. Demonstrates a highly developed
   and extensive understanding of the subject.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -126,5 +126,5 @@ supplementary_material:
   2000.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

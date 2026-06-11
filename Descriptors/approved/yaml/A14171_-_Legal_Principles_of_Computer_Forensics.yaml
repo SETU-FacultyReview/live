@@ -116,7 +116,7 @@ assessment_criteria:
   and tensions in the area in a clear and logical structure.'
 - '70%-100%: All of the above at an exceptional level meeting and excelling at all
   the criteria.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Irish Statute Book." http://www.irishstatutebook.ie/'
 - 'Hanley, C. _An Introduction to Irish Criminal Law_. Ireland: Gill & MacMillian,
@@ -127,5 +127,5 @@ supplementary_material:
 - 'Llyod, I. _Information Technology Law_. London : Oxford, 2014.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

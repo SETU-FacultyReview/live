@@ -100,7 +100,7 @@ assessment_criteria:
 - '60%-69%: In addition, is able to interpret diagnostic data to identify vehicle
   application problems.'
 - '70%-100%: All of the above and in addition is able to design new diagnostic services.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"ASAM organisation." www.asam.net'
 supplementary_material:
@@ -109,5 +109,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

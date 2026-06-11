@@ -114,7 +114,7 @@ assessment_criteria:
   understanding of all learning outcomes, including the vital role of nutrition in
   human health and diseases associated with poor nutrition and write and present a
   related high quality case study.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Smith, J., S. Gropper and T. Carr. _Advanced Nutrition and Human Metabolism_. 8th
   ed.. Belmont, CA, USA: Wadsworth Publishing Co Inc, 2021.'
@@ -123,5 +123,5 @@ supplementary_material:
 - '"Food Safety Authority of Ireland." https://www.fsai.ie/'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

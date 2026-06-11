@@ -120,7 +120,7 @@ assessment_criteria:
   cryptographic schemes.'
 - '70%-100%: All of the above to an excellent level. Can analyse complexity and performance
   of relevant algorithms.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"GNU Privacy Guard." https://www.gnupg.org/'
 - '"The OpenSSL project." https://www.openssl.org/'
@@ -134,5 +134,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -122,7 +122,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Harlow, J.H. _Electrical Power Transformer Engineering_. 3rd ed. US: CRC Press,
   May 2012.'
@@ -134,5 +134,5 @@ supplementary_material:
   CRC Press, May 2010.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -100,7 +100,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Bicheno, J. and M. Holweg. _The Lean Toolbox: A handbook for lean transformation_.
   5th Ed.. .: Picsie Books, 2016.'
@@ -112,5 +112,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -138,7 +138,7 @@ assessment_criteria:
 - '70%-100%: As above and produces an excellent, professional calibre stand-alone
   system with equally excellent documentation. Demonstrates ability to abstract ideas
   and reflect on the process.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Beck, K. _Test-driven development: by example_. Boston: Addison-Wesley, 2003.'
@@ -148,5 +148,5 @@ supplementary_material:
   Addison-Wesley, 2012.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

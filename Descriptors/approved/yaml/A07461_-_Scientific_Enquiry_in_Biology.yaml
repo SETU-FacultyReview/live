@@ -89,7 +89,7 @@ assessment_criteria:
   and extensive understanding of the subject. Provide well focused analysis and convincing
   argument on the subject Show initiative, individual thought, and enthusiasm in self
   study and independent learning.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Food Safety Authority of Ireland." Food Safety Authority of Ireland. www.fsai.ie'
 - '"Moodle used to provide links to useful websites." https://moodle.wit.ie/login/index.php'
@@ -100,5 +100,5 @@ supplementary_material: []
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

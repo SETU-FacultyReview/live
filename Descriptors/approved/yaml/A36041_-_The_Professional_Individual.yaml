@@ -106,7 +106,7 @@ assessment_criteria:
   persona; in the structure, content and format of their written work.'
 - '70%-100%: Excellent presented work; illustrates the evaluation of self as a professional
   and evaluation of professional practice through presented materials.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Feldman, S.R. _Power Learning - Strategies for Success in College and Life_. 6th
   ed. USA: McGraw Hill Higher Education, 2013.'
@@ -119,5 +119,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

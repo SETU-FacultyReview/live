@@ -79,7 +79,7 @@ assessment_criteria:
   present arguments and debate issues relating to this content. Very good writing
   and presentation skills.'
 - '70%-100%: All the previous to an excellent level.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Close, F. _Particle Physics: A Very Short Introduction_. Oxford: Oxford University
   Press, 2004.'
@@ -90,5 +90,5 @@ supplementary_material:
 - 'Resnik, D.B. _The Ethics of Science_. New York: Routledge, 1998.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

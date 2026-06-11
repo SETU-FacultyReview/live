@@ -140,7 +140,7 @@ assessment_criteria:
   level of the skills required for the subject matter, and demonstrated the ability
   to carry out further investigation and problem solving associated with the subject
   matter.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Boyce, W.E. and R.C. DiPrima. _Elementary Differential Equations and Boundary Value
@@ -151,5 +151,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

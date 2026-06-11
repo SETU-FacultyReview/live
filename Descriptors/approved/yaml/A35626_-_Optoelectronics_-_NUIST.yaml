@@ -106,7 +106,7 @@ assessment_criteria:
 - '<40%: The student has failed to demonstrate a basic understanding of the applications
   of optoelectronic devices and systems and their ability to construct functional
   optoelectronic systems for applications in diagnostics and communications.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Smith, F.G. and T.A. King. _Optics and Photonics: An Introduction_. U.K.: Wiley,
   2004.'
@@ -117,5 +117,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -97,7 +97,7 @@ assessment_criteria:
 - '60%-69%: Able to explain, choose and apply AI techniques for solving complex problems.'
 - '70%-100%: Able to critically choose, adapt and apply complex AI techniques for
   solving complex problems.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Luger, G. _Artificial Intelligence: Structures and Strategies for Complex Problem
@@ -109,5 +109,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

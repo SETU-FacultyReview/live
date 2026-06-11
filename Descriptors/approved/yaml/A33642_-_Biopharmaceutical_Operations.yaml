@@ -84,7 +84,7 @@ assessment_criteria:
   be able to demonstrate comprehensive of all aspects of Biopharmaceutical Operations,
   critical processing parameters and effects on product quality as well as product
   testing and sterile manufacturing capabilities.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Franks, F. _Freeze-Drying of Pharmaceuticals and Biopharmaceuticals: Principles
   and Practice._ . 1st. Cambridge U.K..: Royal Society of Chemistry, 2007.'
@@ -96,5 +96,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

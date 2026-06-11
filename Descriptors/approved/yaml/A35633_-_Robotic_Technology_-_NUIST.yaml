@@ -92,7 +92,7 @@ assessment_criteria:
   to design drone cascade control system with VIO navigation and verify it in ROS.'
 - '70%-100%: All the above to an excellent level. Demonstrates an ability to put a
   solution into a context and assess whether such solutions are meaningful.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"PX4." www.px4.io'
@@ -100,5 +100,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: Networks Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

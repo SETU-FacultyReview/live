@@ -160,7 +160,7 @@ assessment_criteria:
 - '60%-69%: In addition to the above, shows good critical thinking skills, engages
   in debate in class and has a high level of efficiency in the microbiology lab.'
 - '70%-100%: All of the above to an excellent level.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -174,5 +174,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

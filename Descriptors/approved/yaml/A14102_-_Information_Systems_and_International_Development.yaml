@@ -113,7 +113,7 @@ assessment_criteria:
   international development. Demonstrate a deep level of reflection on the theories
   and ideas presented in this module and ability to weigh up vaiorus approaches to
   an advanced level.
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Baskaran, A. and M. Muchie. _Bridging the Digital Divide: Innovation Systems for
@@ -129,5 +129,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

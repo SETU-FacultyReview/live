@@ -82,7 +82,7 @@ assessment_criteria:
   with appropriate skills and tools.'
 - '70%-100%: All the above to an excellent level with the ability to analyse and design
   solutions to a high standard for a range of complex or unseen problems.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Adobe Press, T. _Adobe Classroom in a Book Series_. Creative Cloud. USA: Adobe
   Press, 2015.'
@@ -94,5 +94,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

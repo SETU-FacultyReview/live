@@ -84,7 +84,7 @@ assessment_criteria:
 - 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisor
   Evaluation Report submitted, and assessments and documents related to the learning
   outcomes, all to an acceptable standard and submitted within deadlines'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"ASET Good Practice Guide for Work based and Placement Learning in Higher Education
@@ -93,5 +93,5 @@ supplementary_material:
   Guide (2009)." https://www.heacademy.ac.uk/sites/default/files/effective_practice_in_industrial_work_placement.pdf'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

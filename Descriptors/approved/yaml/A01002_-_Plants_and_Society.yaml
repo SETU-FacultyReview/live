@@ -113,11 +113,11 @@ assessment_criteria:
   of modern-day plant science and demonstrates an aptitude for delivering convincing
   arguments using evidences based reasoning. Regularly directs discussions and encourages
   peer discussion.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

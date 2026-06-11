@@ -109,7 +109,7 @@ assessment_criteria:
   application vulnerabilities.'
 - '70%-100%: All the above to an excellent level. Able to present and explain in detail
   various ways to address both low level and web application vulnerabilities.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Open Web Application Security Project." https://www.owasp.org'
 supplementary_material:
@@ -121,5 +121,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

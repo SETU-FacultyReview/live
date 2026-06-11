@@ -124,7 +124,7 @@ assessment_criteria:
   of some the trade-offs involved in providing security. Able to demonstrate in detail
   how to address web application vulnerabilities. Can evaluate the appropriateness
   of different forensic tools and approaches.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Open Web Application Security Project." https://www.owasp.org'
 - '"The OpenSSL project." https://www.openssl.org'
@@ -143,5 +143,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

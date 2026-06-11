@@ -91,7 +91,7 @@ assessment_criteria:
 - '70%-100%: The student will be able to demonstrate a comprehensive knowledge and
   understanding of all learning outcomes, including the ability to fully integrate
   the various components of the course.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'McDonald, P., R.A. Edwards, J.F. Greenhalgh and C.A. Morgan. _Animal Nutrition_.
   UK: Pearson, 2002.'
@@ -110,5 +110,5 @@ requested_resources:
 - 'Room Type: Computer Lab'
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

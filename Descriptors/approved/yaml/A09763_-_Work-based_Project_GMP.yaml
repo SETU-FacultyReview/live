@@ -66,10 +66,10 @@ assessment_criteria:
 - '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
   and extensive understanding of the subject. Provide well focused analysis and convincing
   argument on the subject.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

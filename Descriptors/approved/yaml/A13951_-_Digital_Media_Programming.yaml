@@ -83,7 +83,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Adobe TV." http://tv.adobe.com'
@@ -93,5 +93,5 @@ requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 - 'EQUIPMENT: MAC PCs'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

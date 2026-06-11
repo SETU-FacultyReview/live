@@ -120,7 +120,7 @@ assessment_criteria:
   understanding of all learning outcomes, including the vital role of animal nutrition
   in livestock health and diseases. Write and present a related high quality case
   study on livestock management, production and welfare.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'McDonald, P., R.A. Edwards, J.F.D. Greenhalgh, C.A. Morgan, L.A. Sinclair and R.G.
   Wilkinson. _Animal Nutrition_. 7th ed.. UK: Pearson, 2010.'
@@ -131,5 +131,5 @@ supplementary_material:
   Austin, Texas: Acres USA, 2005.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

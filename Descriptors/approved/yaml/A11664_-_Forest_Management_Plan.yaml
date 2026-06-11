@@ -126,7 +126,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on assessments. Show initiative,
   individual thought, and enthusiasm in self-study and independent learning.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - COFORD. _Irish Dynamic Yield Models for Forest Management User Manual_ by Anonymous,
   A.. Dublin, Ireland. 2010.
@@ -147,5 +147,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

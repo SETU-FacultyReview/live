@@ -89,7 +89,7 @@ assessment_criteria:
   be able to demonstrate a comprehensive knowledge and understanding of advanced topics
   in physical chemistry, as well as excellent reasoning skills and focused well thought
   out arguments.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Online resources & databases." Various'
 - '"WIT." wos.heanet.ie. www.wit.ie/library/dbs/scidbs.asp'
@@ -106,5 +106,5 @@ supplementary_material:
 - 'Rosen, M. _Surface and Interfacial Chemistry_. 4th ed. New York: Wiley, 2012.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

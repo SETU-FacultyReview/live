@@ -133,7 +133,7 @@ assessment_criteria:
 - '70%-100%: Demonstrates excellent technical ability, awareness, and aptitude for
   working with cultured plant cells. Delivers insightful scientific writing. Develops
   high competency in practical areas.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -149,5 +149,5 @@ requested_resources:
 - 'Room Type: Biology Lab'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

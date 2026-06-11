@@ -110,12 +110,12 @@ assessment_criteria:
   learning into state of the art in agile software practices. Demonstrates a comprehensive,
   maintainable software solution from design to delivery using agile practices and
   tools.
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Thoughtworks - Continuous Delivery." https://www.thoughtworks.com/continuous-delivery'
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -114,12 +114,12 @@ assessment_criteria:
   of assignments.'
 - 'Pass: Candidate has successfully completed and submitted the required portfolio
   of assignments.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Reflective Writing: Principles and Practice. In Teaching Portfolio Practice in
   Ireland: A Handbook." http://www.tcd.ie/CAPSL/assets/pdf/Teaching_Portfolio_Practice_in_Ireland.pdf'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

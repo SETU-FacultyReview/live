@@ -81,7 +81,7 @@ assessment_criteria:
 - '50%-59%: Demonstrate satisfactory knowledge of the main issues of the subject matter.'
 - '60%-69%: Demonstrate good knowledge of the subject matter.'
 - '70%-100%: Demonstrate knowledge and understanding of the subject matter.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Lee, S. and G. Robinson. _Process development:fine chemicals from grams to kilograms_.
   1st ed.. Oxford: Oxford University Press, 1995.'
@@ -91,5 +91,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -105,7 +105,7 @@ assessment_criteria:
   well.'
 - '70%-100%: All previous to an excellent level. Starts to extend game and framework
   with features such as resource caching, goal-based behaviour, etc.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Rollings, A. and D. Morris. _Games Architecture and Design: A New edition_. Boston:
@@ -117,5 +117,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

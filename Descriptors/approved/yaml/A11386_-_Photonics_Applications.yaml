@@ -79,7 +79,7 @@ assessment_criteria:
   communications and metrology.'
 - '70%-100%: All previous to an excellent level. Demonstrates an ability to comprehensively
   discuss the course material and analyse and design a range of photonic systems.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Ghatak, A. and K. Thyagarajan. _Introduction to Fibre Optics_. Cambridge: Cambridge
   University Press, 1998.'
@@ -91,5 +91,5 @@ supplementary_material: []
 requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

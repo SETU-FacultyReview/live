@@ -114,7 +114,7 @@ assessment_criteria:
   understanding of all learning outcomes, including the vital role of agro-forestry
   and biodiversity in climate resilient farm enterprises and create a high quality
   plan for agro-forestry and biodiverse habitat development for an existing farm.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"National Biodiversity Data Centre." www.biodiversityireland.ie/resources'
 - '"Woodland Improvement Scheme." https://www.gov.ie/en/service/d54212-woodland-improvement-scheme/'
@@ -124,5 +124,5 @@ supplementary_material:
   USA: John Wiley & Sons, 2021.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

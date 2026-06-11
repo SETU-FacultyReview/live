@@ -110,7 +110,7 @@ assessment_criteria:
 - '70%-100%: Demonstrates authoritative handling of complex material and a highly
   developed and extensive understanding of the subject. Provides well focused analysis
   and convincing argument on the subject.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Keenan, A. _Essentials of Irish Business Law_. 6th ed. Dublin: Gill & MacMilan,
   2012.'
@@ -122,5 +122,5 @@ supplementary_material:
 - 'Pearce, R.A and J Mee. _Land Law_. 3rd ed. Dublin : Roundhall, 2011.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

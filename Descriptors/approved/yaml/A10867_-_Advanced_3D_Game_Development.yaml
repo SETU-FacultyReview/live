@@ -101,7 +101,7 @@ assessment_criteria:
   to see programs in terms of system of components.'
 - '70%-100%: All previous to an excellent level. Starts to understand the concept
   of good solutions.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Nystrom, R. _Game Programming Patterns_. NY: Genever Benning, 2014.'
@@ -110,5 +110,5 @@ requested_resources:
 - 'EQUIPMENT: MAC PCs'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

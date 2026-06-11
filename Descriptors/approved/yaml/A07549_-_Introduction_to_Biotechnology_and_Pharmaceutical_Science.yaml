@@ -130,7 +130,7 @@ assessment_criteria:
   to class debate with independent thoughts.'
 - '70%-100%: All the above to an excellent level. Show initiative, individual thought
   and enthusiasm in self-directed study and independent learning.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Roy, J. _An Introduction to Pharmaceutical Sciences_. New York: Biohealthcare Publishing,
@@ -142,5 +142,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

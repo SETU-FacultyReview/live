@@ -113,7 +113,7 @@ assessment_criteria:
   working as a researcher. Delivers insightful scientific writing and presents data
   with impact. Develops high competency in data analysis and shows leadership qualities
   during group work.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Bell, J. and S. Waters. _Doing Your Research Project: A Guide for First-Time Researchers
   in Education, Health and Social Science_. 6th ed. Berkshire, UK: Open University
@@ -127,5 +127,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

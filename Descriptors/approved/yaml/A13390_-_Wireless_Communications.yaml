@@ -109,7 +109,7 @@ assessment_criteria:
 - '60%-69%: All of the above. Demonstrate the ability to troubleshoot WLANs and design
   complex WLAN solutions.'
 - '70%-100%: All above to an excellent level.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Ciampa, M. _CWNA Guide to Wireless LANs_. 3rd ed. US: Cengage Learning, 2013.'
@@ -121,5 +121,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: Networks Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

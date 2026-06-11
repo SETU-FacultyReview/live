@@ -86,7 +86,7 @@ assessment_criteria:
   and corroborate it with other sources of evidence.'
 - '70%-100%: All of the above to an excellent level. Can evaluate the appropriateness
   of different forensic tools and approaches.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Willams, D. _ACPO Good Practice Guide for Digital Evidence_. United Kingdom: ACPO,
   2012.'
@@ -101,5 +101,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

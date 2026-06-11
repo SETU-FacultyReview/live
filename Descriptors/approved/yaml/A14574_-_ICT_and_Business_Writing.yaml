@@ -90,7 +90,7 @@ assessment_criteria:
   of the project and give a very good presentation of the project report.'
 - '70%-100%: The learner will be able to write excellent business and field reports
   and give an excellent presentation of the project report.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Bowden, J. _Writing a Report: How to Prepare, Write and Present Effective Reports_.
   9th ed. USA: Boffin Books, 2011.'
@@ -112,5 +112,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: Networks Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

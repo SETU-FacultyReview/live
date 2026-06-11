@@ -84,7 +84,7 @@ assessment_criteria:
 - '70%-100%: Demonstrate an excellent understanding of ethical theory, and the ability
   to critically analyse, research, debate and choose appropriate professional action
   for complex ethical issues.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Baase, S. _A Gift of Fire: Social, Legal, and Ethical Issues for Computing and
   the Internet_. 4th ed. NJ: Prentice Hall, 2012.'
@@ -94,5 +94,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -77,10 +77,10 @@ assessment_criteria:
   acceptable standard and output.'
 - '70%-100%: Demonstrates sound ability to perform all of the skills to an competent
   standard and output.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

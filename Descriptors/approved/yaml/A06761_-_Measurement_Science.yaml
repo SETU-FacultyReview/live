@@ -87,7 +87,7 @@ assessment_criteria:
   Experimental work is carried out to an high standard. Reports are clear and insightful
   with the student demonstrating an ability to reflect on the strengths and weaknesses
   of the experimental techniques used.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Johnson, K. _Physics for You_. UK: Stanley-Thornes, 2011.'
@@ -96,5 +96,5 @@ supplementary_material:
 requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -114,12 +114,12 @@ assessment_criteria:
   to solve a complex problem.'
 - '70%-100%: Able to critically choose, analyse and implement custom advanced data
   structures and efficient algorithms to solve complex and unseen problems.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Sedgewick, R. and K. Wayne. _Algorithms_. 4th ed.. NY: Addison-Wesley, 2011.'
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -88,7 +88,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of all learning outcomes. Displays advanced
   competence and independence with regards to associated data analysis skills and
   statistics.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Wei, W.W.S. _Multivariate Time Series Analysis and Applications_. 1st ed.. New
   York: Wiley, 2019.'
@@ -101,5 +101,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

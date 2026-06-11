@@ -109,7 +109,7 @@ assessment_criteria:
 - '70%-100%: All previous to an excellent level. Able to reflect on the structure
   of a consistent specification and write a clearer, more elegant specification with
   the same functionality.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - W.I.T.. _Student's Final Year Project Preliminary Report_ W.I.T.. curr academic
   year.
@@ -117,5 +117,5 @@ supplementary_material:
 - '"http://formalmethods.wikia.com/wiki/Z_notation." Formal Methods Wiki. http://formalmethods.wikia.com/wiki/Z_notation'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

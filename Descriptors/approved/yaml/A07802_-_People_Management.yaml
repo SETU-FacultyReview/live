@@ -79,7 +79,7 @@ assessment_criteria:
 - '70%-100%: Demonstrates authoritative handling of complex material and has a highly
   developed and extensive understanding of the subject. Provides well focused analysis
   and convincing argument on the subject.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Gunnigle, P., N. Heraty and M. Morley. _Human Resource Management in Ireland_.
   4th. Dublin: Gill and MacMillan, 2011.'
@@ -96,5 +96,5 @@ supplementary_material:
   London: CIPD, 2008.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

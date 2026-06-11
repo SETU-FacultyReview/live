@@ -99,7 +99,7 @@ assessment_methods:
   due_weeks: []
   comment: ''
 assessment_criteria: []
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Blazevich, A. _Sports Biomechanics - The Basics: Optimising human performance._.
   London: A&C Black, 2007.'
@@ -110,5 +110,5 @@ supplementary_material:
   Baltimore : Lippincott Williams & Wilkins, 2008.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

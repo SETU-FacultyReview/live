@@ -86,7 +86,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Fundamental Principles of Great UX Design: How to Deliver Great UX Design." http://www.uxmatters.com/mt/archives/2014/11/fundamental-principles-of-great-ux-design-how-to-deliver-great-ux-design.php\#sthash.a4jgbhYc.dpuf'
 - '"Interaction Design." http://www.id-book.com/index.php'
@@ -111,5 +111,5 @@ requested_resources:
 - 'Room Type: Computer Lab'
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

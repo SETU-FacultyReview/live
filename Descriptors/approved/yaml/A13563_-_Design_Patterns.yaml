@@ -95,7 +95,7 @@ assessment_criteria:
   from multiple sources.'
 - '70%-100%: All of the above to an excellent level. Demonstrates advanced utilisation
   of patterns and architectural thinking.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Gamma, E., R. Helm, R. Johnson and J. Vlissides. _Design Patterns_. New York: Addison-Wesley,
@@ -112,5 +112,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

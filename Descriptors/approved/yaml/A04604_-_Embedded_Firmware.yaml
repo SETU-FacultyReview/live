@@ -103,7 +103,7 @@ assessment_methods:
   name: Final Practical
   weighting: '40'
 assessment_criteria: []
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Furber, S. B. _ARM System On Chip Architecture_. 2nd.. UK: Adison-Wesley, 2001
   (Seminal).'
@@ -113,5 +113,5 @@ supplementary_material:
 requested_resources:
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -78,7 +78,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Fridsma, L. and B. Gyncild. _Adobe After Effects CC Classroom in a Book_. 1st ed.
@@ -90,5 +90,5 @@ requested_resources:
 - 'EQUIPMENT: MAC PCs'
 - 'EQUIPMENT: Blackboard'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

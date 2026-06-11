@@ -127,7 +127,7 @@ assessment_criteria:
 - 'Pass: Candidate has satisfactorily completed the work placement and passed their
   employer''s report. The candidate has meaningfully reflected upon their placement
   experience, evidenced through their presentation.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Reflective Writing: Principles and Practice. In Teaching Portfolio Practice in
@@ -136,5 +136,5 @@ supplementary_material:
   http://www.activelink.ie/'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -107,7 +107,7 @@ assessment_criteria:
   use and modification of appropriate skills and tools. Can implement advanced attacks
   extract and interpret knowledge to recreate accuratly what occurred on the network.
   Can produce very high quality documentation to accompany the investigation.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Casey, E. _Digital Evidence and Computer Crime_. 3rd. United States: Academic Press,
@@ -127,5 +127,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

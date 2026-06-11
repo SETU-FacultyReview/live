@@ -78,7 +78,7 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate a comprehensive knowledge and
   understanding of all learning outcomes, including the ability to fully integrate
   the various components of the course.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Buchanan, D. and A. Huczynski. _Organisational Behaviour_. 7th Ed. UK: Prentice
@@ -90,5 +90,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

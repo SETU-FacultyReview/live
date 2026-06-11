@@ -127,7 +127,7 @@ assessment_criteria:
 - '70%-100%: All the previous to an excellent level. Demonstrates an ability to put
   a numerical solution into a context and assess whether such solutions are meaningful.
   Can critically assess experiments undertaken.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Giancoli, G.C. _Physics, Principles with Applications_. UK: Prentice Hall, 2016.'
@@ -136,5 +136,5 @@ supplementary_material:
 requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

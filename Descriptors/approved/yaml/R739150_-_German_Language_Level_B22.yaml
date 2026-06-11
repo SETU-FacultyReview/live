@@ -37,10 +37,10 @@ assessment_methods:
   due_weeks: []
   comment: ''
 assessment_criteria: []
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -74,7 +74,7 @@ assessment_criteria:
 - '50%-59%: As above, incorporating creative approaches to artefacts and tool use.'
 - '60%-69%: As above and be able to problem-solve in a ``live'''' setting.'
 - '70%-100%: All the above to an excellent level.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Create Digital Music." http://createdigitalmusic.com/'
@@ -85,5 +85,5 @@ requested_resources:
 - 'CREATIVE AND PERFORMING: Special Purpose Area'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -119,7 +119,7 @@ assessment_criteria:
   formulation and drug delivery, excellent reasoning skills and well thought out arguments.
   The learner will also display advanced competence and independence with regard to
   associated laboratory skills, practices and instrumentation.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -135,5 +135,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

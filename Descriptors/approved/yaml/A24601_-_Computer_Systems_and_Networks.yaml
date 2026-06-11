@@ -116,7 +116,7 @@ assessment_criteria:
   added knowledge as a result of independent learning. Be able to analyse and design
   solutions to a high standard for a range of both complex and unforeseen problems
   through the use and modification of appropriate skills and tools.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Association for Computing Machinery." Association for Computing Machinery. http://www.acm.org'
@@ -127,5 +127,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

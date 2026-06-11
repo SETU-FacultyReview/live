@@ -99,7 +99,7 @@ assessment_criteria:
   covered, and will have the ability to interpret data.'
 - '70%-100%: The student will demonstrate a comprehensive understanding of all of
   the material covered, including calculations.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Mollah, A.H., M. Long and M. Baseman. _Risk Management Applications in Pharmaceutical
   and Biopharmaceutical Applications_. USA: Wiley, 2013.'
@@ -118,5 +118,5 @@ supplementary_material:
   New York: John Wiley & Sons, 2001.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

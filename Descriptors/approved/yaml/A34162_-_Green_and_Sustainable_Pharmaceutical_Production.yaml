@@ -121,7 +121,7 @@ assessment_criteria:
   the learning outcomes, with critical evaluation and individuality of thought.'
 - '70%-100%: Very good level of critical analysis, originality of thought and comprehensive
   knowledge of the subject area. Able to evaluate and implement change.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'De Le Guardia, M. and S. Garrigues. _Handbook of Green Analytical Chemistry_. UK:
   John Wiley & Sons, 2012.'
@@ -148,5 +148,5 @@ supplementary_material:
   Sons, 2017.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

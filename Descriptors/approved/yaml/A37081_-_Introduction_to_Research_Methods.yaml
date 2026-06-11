@@ -117,7 +117,7 @@ assessment_criteria:
   by an ability to critically evaluate and discuss the topic in relation to a wider
   scientific context. The above advanced knowledge of the topic will be supported
   by superior reporting and presentation skills.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Introduction to Research Methods Moodle page." http://moodle.wit.ie'
 - '"SETU Waterford Library Catalogue." https://librarywaterford.setu.ie/'
@@ -132,5 +132,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

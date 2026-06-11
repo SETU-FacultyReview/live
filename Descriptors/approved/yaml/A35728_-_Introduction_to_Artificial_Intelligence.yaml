@@ -97,7 +97,7 @@ assessment_criteria:
 - '60-69%: All the above and in addition, can explain the differences between different
   learning methods and make use of their performance measurement metrics.'
 - '70-100%: All previous to an excellent level.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Khan Academy." https://www.khanacademy.org/'
 - '"W3 Schools on-line web tutorials." https://www.w3schools.com/'
@@ -109,5 +109,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

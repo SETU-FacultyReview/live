@@ -90,7 +90,7 @@ assessment_criteria:
   in microbiology.'
 - '70%-100%: Student demonstrates a high level of understanding of microbiology plus
   is able to critically evaluate and discuss the significance of the module.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -105,5 +105,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

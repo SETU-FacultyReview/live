@@ -90,7 +90,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate mathematical problem solving techniques.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Mathematics for Problem Solving." Waterford Institute of Technology. http://moodle.wit.ie'
@@ -98,5 +98,5 @@ supplementary_material:
 - 'Strang, G. _Calculus_. 2nd ed. Wellesley MA USA: Wellesley, 2010.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

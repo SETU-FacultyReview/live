@@ -92,7 +92,7 @@ assessment_criteria:
 - 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Clark, R. and R. Mayer. _e-Learning and the Science of Instruction: Proven Guidelines
   for Consumers and Designers of Multimedia Learning_. 3rd ed.. United Stated of America:
@@ -103,5 +103,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -66,10 +66,10 @@ assessment_criteria:
 - 'Fail: Candidate has failed to obtain 20 ECTS from host institute.'
 - 'Pass: Candidate has obtained 20 ECTS from host institute and has submitted placement
   portfolio.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

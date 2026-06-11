@@ -131,7 +131,7 @@ assessment_criteria:
   publishable potential in a computing-related field. Clearly stated and well-worked
   theory with some appreciation of how to test this theory to a relatively advanced
   level.
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Creswell, J. _Research Design: Quantitative, Qualitative and Mixed Methods Approaches_.
@@ -148,5 +148,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

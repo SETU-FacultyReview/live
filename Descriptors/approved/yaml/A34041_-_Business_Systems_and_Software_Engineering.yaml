@@ -87,7 +87,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex systems and unforeseen problems through
   the use and modification of appropriate skills and tools.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Dennis, A, B Wixom and D Tegarden. _Systems Analysis and Design_. 6th . New York:
@@ -100,5 +100,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -88,7 +88,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of pharmaceutical synthesis and characterisation,
   predict general trends in behaviour, including exceptional behaviour and critically
   evaluate and relate topics.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Clayden, J., N. Greeves and S. Warren. _Organic Chemistry_ . 2nd ed. : Oxford University
   Press, 2012.'
@@ -100,5 +100,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

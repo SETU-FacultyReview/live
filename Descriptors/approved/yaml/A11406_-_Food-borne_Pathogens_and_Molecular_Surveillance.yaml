@@ -94,7 +94,7 @@ assessment_criteria:
 - '60%-69%: Can critically evaluate modern diagnostic tools for tracing food pathogens.'
 - '70%-100%: Can perform all the previous assessment criteria. Can apply that knowledge
   in a global context, and evaluate the relevance from a public health perspective.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - '"Department of Agriculture Food & the Marine ." www.agriculture.gov.ie'
@@ -105,5 +105,5 @@ requested_resources:
 - 'EQUIPMENT: Blackboard'
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

@@ -150,7 +150,7 @@ assessment_criteria:
 - 60%-69%:In addition, can carry out more advanced configuration and scripting tasks.
 - '70%-100%: All the above to an excellent level. In addition can research and execute
   previously unseen configuration and scripting tasks independently.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Forouzan, B. _Foundations of Computer Science_. New York: Cengage Learning, 2013.'
@@ -162,5 +162,5 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

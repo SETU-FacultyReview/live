@@ -107,7 +107,7 @@ assessment_criteria:
   analysis, originality of thought and comprehensive knowledge base. Good critical
   evaluation and synthesis of relevant issues, showing an ability to integrate theory
   to practice.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"www.acfe." www.acfe.com'
 - '"www.iia.org.uk." www.iia.org.uk'
@@ -120,5 +120,5 @@ supplementary_material:
   John Wiley and Sons Inc., 2011.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

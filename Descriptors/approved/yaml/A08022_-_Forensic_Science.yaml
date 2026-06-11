@@ -124,7 +124,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of all learning outcomes. Will display
   advanced competence and independence with regards to an understanding of the basic
   practices of forensic science.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"Forensic Science module Moodle page." http://moodle.wit.ie'
 - 'Jackson, A.R.W. _Forensic Science_. Harlow: Pearson Prentice Hall, 2008.'
@@ -137,5 +137,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

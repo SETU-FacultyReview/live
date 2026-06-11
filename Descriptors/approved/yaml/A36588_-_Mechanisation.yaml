@@ -76,7 +76,7 @@ assessment_criteria:
   acquired in the module to new material.'
 - '70%--100%: The learner will be able to demonstrate comprehensive knowledge and
   understanding of all learn'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -88,5 +88,5 @@ supplementary_material: []
 requested_resources:
 - 'WORKSHOP: Kildalton Agricultural College Equipment and Machinery'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

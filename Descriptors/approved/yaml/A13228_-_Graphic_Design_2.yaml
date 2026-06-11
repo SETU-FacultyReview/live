@@ -90,7 +90,7 @@ assessment_criteria:
   with the appropriate skills and tools.'
 - '70%-100%: All the above to an excellent level. Be able to analyse, interpret and
   use creative tools to come up with a high quality asset.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Gombrich, E.H. _The Story of Art_. 16th ed. NY: Phaidon Press, 2007.'
@@ -100,5 +100,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'EQUIPMENT: Blackboard'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

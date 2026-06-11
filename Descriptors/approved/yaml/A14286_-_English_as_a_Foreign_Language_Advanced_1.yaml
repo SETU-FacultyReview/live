@@ -183,7 +183,7 @@ assessment_criteria:
   evident across the skills areas.'
 - '< 40%: The student has not demonstrated the ability to understand, produce, apply
   or manipulate the language at even a basic level in the skills areas.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Latham-Koenig, C., C. Oxenden, J. Lambert and K. Chomacki. _New English File Advanced
   Student''s Book_ . 4th ed. England: Oxford University Press, 2020.'
@@ -214,5 +214,5 @@ supplementary_material:
   2019.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

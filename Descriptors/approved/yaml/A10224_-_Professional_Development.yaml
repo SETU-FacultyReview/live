@@ -101,7 +101,7 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
   of all learning outcomes and be able to recognise the inter-relationship between
   their role as a business professional and the effective operation of the organisation.'
-speccial_regulations: []
+special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Caproni, P. _Management Skills for Everyday Life The Practical Coach_ . 3rd ed.
@@ -111,5 +111,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

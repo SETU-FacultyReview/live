@@ -100,7 +100,7 @@ assessment_criteria:
 - '60%-69%: Demonstrates sound knowledge of the subject matter.'
 - '70%-100%: Demonstrates imaginative approach, excellent technical ability, awareness,
   and aptitude in carrying out and reporting on practical tasks.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -121,5 +121,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

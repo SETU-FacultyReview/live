@@ -130,7 +130,7 @@ assessment_criteria:
   awareness, and aptitude in carrying out and reporting on practical/professional
   tasks. Show initiative, individual thought, and enthusiasm in self study and independent
   learning.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - '"COFORD Wood Energy Website." www.woodenergy.ie. http://www.woodenergy.ie/'
 - '"IEA Bioenergy." www.ieabioenergy.com. http://www.ieabioenergy.com/'
@@ -146,5 +146,5 @@ supplementary_material:
 - '"Irish Bioenergy Association." www.irbea.ie. http://www.irbea.ie/'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

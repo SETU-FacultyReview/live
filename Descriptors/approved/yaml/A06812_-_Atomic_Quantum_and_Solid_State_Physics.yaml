@@ -94,7 +94,7 @@ assessment_criteria:
 - '70%-100%: All previous to an excellent level. Demonstrates an ability to put a
   solution into the context of the course material and assess whether such solutions
   are meaningful.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Garcia, A. and S. Damask. _Physics for Computer Scientists_. New York: Springer,
   1998.'
@@ -104,5 +104,5 @@ supplementary_material:
 - 'Griffiths, D.J. _Introduction to Quantum Mechanics_. 2nd ed. UK: Pearson, 2014.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

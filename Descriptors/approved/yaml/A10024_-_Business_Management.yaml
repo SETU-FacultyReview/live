@@ -75,7 +75,7 @@ assessment_criteria:
   this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Atrill, P. and E. McLaney. _Accounting and Finance for Non-Specialists_. Latest
   Edition. Harlow: Pearson Education, Latest.'
@@ -87,5 +87,5 @@ requested_resources:
 - 'EQUIPMENT: Blackboard'
 - 'EQUIPMENT: MAC PCs'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

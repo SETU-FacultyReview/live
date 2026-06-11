@@ -102,7 +102,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on assessments. Show initiative,
   individual thought, and enthusiasm in self-study and independent learning.'
-speccial_regulations:
+special_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -127,5 +127,5 @@ supplementary_material:
 - 'Vaucher, H. _Tree Bark: A colour guide_. UK: Timber Press, 2003.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

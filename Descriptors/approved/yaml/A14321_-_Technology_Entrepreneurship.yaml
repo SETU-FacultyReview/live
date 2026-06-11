@@ -96,7 +96,7 @@ assessment_criteria:
   explains concepts relating to technology entrepreneurship and links them to practice.'
 - '70%-100%: All the above to an excellent level.Be able to analyse, design and make
   decisions to a high standard for a range of both complex and unforeseen problems.'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Ries, E. _The Lean Start-up._. UK: Penguin, 2011.'
 supplementary_material:
@@ -109,5 +109,5 @@ supplementary_material:
 requested_resources:
 - 'EQUIPMENT: Blackboard'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 

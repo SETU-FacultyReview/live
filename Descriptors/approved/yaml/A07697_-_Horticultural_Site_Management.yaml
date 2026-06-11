@@ -85,7 +85,7 @@ assessment_criteria:
   improvements, can write a detailed standard operating protocol, can identify all
   of the problems and make appropriate and innovative suggestions for improvement
   to work practices'
-speccial_regulations: []
+special_regulations: []
 essential_material:
 - 'Hartman, B. _The Lean Farm_. Vermont USA: Chelsea Green Publishing, 2015.'
 supplementary_material:
@@ -98,5 +98,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: 'true'
+track_changes: true
 
