@@ -1,11 +1,11 @@
 reference: A09762
 full_title: Total Quality Management (GMP)
 short_title: Total Quality Management (GMP)
-credits: 5
+credits: '5'
 level: Introductory
 author: BWHELAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Quality, Regulatory and Compliance
 aim: 'This module covers aspects of quality management including teamwork, continuous
@@ -17,8 +17,8 @@ programmes:
 - timetable: QUAL-0012
   code: WD_SGMPT_C
   name: Higher Certificate in Science in Good Manufacturing Practice and Technology
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -49,29 +49,29 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Lecture
-  part_time: 24
+  part_time: '24'
 - full_time: ''
   name: Independent Learning
-  part_time: 111
+  part_time: '111'
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: '1'
-  main: false
+  main: 'false'
   name: Essay
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -88,6 +88,7 @@ assessment_criteria:
 - '70%-100%: Demonstrate authoritative handling of complex material and a highly developed
   and extensive understanding of the subject. Provide well focused analysis and convincing
   argument on the subject.'
+speccial_regulations: []
 essential_material:
 - '"The 7 Basic Quality Tools." http://www.thequalityweb.com/'
 - 'George, M.L., D. Rowlands, M. Price and J. Maxey. _Lean Six Sigma Pocket Toolbook_.
@@ -97,7 +98,5 @@ supplementary_material:
 - 'Oakland, J.S. _Statistical Process Control_. Oxford: Butterworth Heinmann, 2005.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

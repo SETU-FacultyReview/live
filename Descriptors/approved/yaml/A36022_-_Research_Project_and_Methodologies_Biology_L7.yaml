@@ -1,11 +1,11 @@
 reference: A36022
 full_title: Research Project and Methodologies (Biology L7)
 short_title: Res Project & Meth (Biol L7)
-credits: 5
+credits: '5'
 level: Intermediate
 author: NKENNEDY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module consists of a research and development project, which will give students
@@ -17,8 +17,8 @@ programmes:
 - timetable: RESA-0219
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -47,20 +47,20 @@ learning_and_teaching_methods:
 - Consultations with project supervisor.
 - Self-directed training on sustainability.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Final Project
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: Inadequate achievement of the learning outcomes (insufficient level of research
   work performed and/or poor report writing and oral presentation skills suggesting
@@ -82,6 +82,7 @@ assessment_criteria:
   evaluate and relate topics to scientific literature, demonstrated through an excellent
   standard of research work performed supplemented with a superior standard of report
   writing and presentation skills.'
+speccial_regulations: []
 essential_material:
 - '"Ebrary." http://site.ebrary.com/lib/waterfordit/home.action'
 - '"Moodle will be used to link students to websites, background details and submission
@@ -94,7 +95,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

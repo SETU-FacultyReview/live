@@ -1,11 +1,11 @@
 reference: A05926
 full_title: Electrical Machines
 short_title: Electrical Machines
-credits: 5
+credits: '5'
 level: Introductory
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Electrical Engineering
 aim: The aim of this module is to cover the principles of electrical machine operation.
@@ -16,32 +16,32 @@ programmes:
 - timetable: ELEC-0032
   code: WD_EELCT_C
   name: Higher Certificate in Engineering in Electrical Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: ELEC-0032
   code: WD_EELCT_D
   name: Bachelor of Engineering in Electrical Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: ''
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours) in Electrical Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: ''
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours)
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: ''
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -76,37 +76,37 @@ learning_and_teaching_methods:
 - Tutorials using typical classroom resources and Moodle and other on-line resources.
   Learning Outcome 1 to 4
 learning_modes:
-- full_time: 30
+- full_time: '30'
   name: Lecture
   part_time: ''
-- full_time: 6
+- full_time: '6'
   name: Tutorial
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 40
+  weighting: '40'
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -127,6 +127,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+speccial_regulations: []
 essential_material:
 - 'Hughes, D. _Electrical and Electronic Technology_. 9th ed.. UK: Pearson Education,
   2005.'
@@ -139,7 +140,5 @@ supplementary_material:
 requested_resources:
 - 'ENGINEERING LAB: Electrical'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

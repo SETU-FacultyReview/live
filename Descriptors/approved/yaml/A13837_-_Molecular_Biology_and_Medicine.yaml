@@ -1,11 +1,11 @@
 reference: A13837
 full_title: Molecular Biology and Medicine
 short_title: Molecular Biology and Medicine
-credits: 5
+credits: '5'
 level: Advanced
 author: ROMAHONY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Biology
 aim: This module describes the impact of molecular biology on our understanding of
@@ -16,14 +16,14 @@ programmes:
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: MOLB-0002
   code: WD_SQMBI_B
   name: Bachelor of Science (Honours) in Applied Biology with Quality Management
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -59,20 +59,20 @@ learning_and_teaching_methods:
   of mindmaps and concept maps.
 - Moodle is the platform through which such activities are delivered.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: No understanding of basic module content. Unable to carry out critical thinking
   and analysis.'
@@ -83,6 +83,7 @@ assessment_criteria:
 - '60%-69%: A good understanding of module content and good critical thinking and
   problem solving skills.'
 - '70%-100%: Excellent in all areas.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Cox, T. and J. Sinclair. _Molecular Biology in Medicine_. 2nd ed. UK: Blackwell
@@ -96,7 +97,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,11 +1,11 @@
 reference: A11943
 full_title: Advanced Engineering Maths
 short_title: Advanced Engineering Maths
-credits: 5
+credits: '5'
 level: Advanced
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Mathematics and Physics
 aim: To provide an introduction to the theory and techniques of partial differential
@@ -16,44 +16,44 @@ programmes:
 - timetable: ''
   code: WD_EAUTO_B
   name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: ''
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: MTHE-0032
   code: WD_EONIC_B
   name: Bachelor of Engineering (Honours) in Electronic Engineering
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: MTHE-0032
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours) in Electrical Engineering
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: MTHE-0032
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: ''
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: MTHE-0032
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -86,37 +86,38 @@ learning_and_teaching_methods:
   project work.
 - Tutorials will focus on solving problems by hand calculation and using Mathlab.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Seminar
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 assessment_criteria: []
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"Math Works." www.mathworks.com'
@@ -128,7 +129,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

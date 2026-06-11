@@ -1,11 +1,11 @@
 reference: A13641
 full_title: Web App Development 1
 short_title: Web App Development 1
-credits: 5
+credits: '5'
 level: Introductory
 author: EDELEASTAR
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Software and Web Development
 aim: Introduce the the student to the software development lifecycle via the implementation
@@ -16,80 +16,80 @@ programmes:
 - timetable: COMP-0597
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: COMP-0597
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0597
   code: WD_KACMI_B
   name: BSc (Hons) in Applied Computing (International)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: COMP-0597
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0597
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0597
   code: WD_KCOMC_D
   name: Bachelor of Science in Software Systems Development
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0597
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0597
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0597
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0597
   code: WD_KDEVP_BI
   name: BSc (Hons) in Software Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0597
   code: WD_KINFT_D
   name: Bachelor of Science in Information Technology
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0597
   code: WD_KINTT_BI
   name: BSc (Hons) in the Internet of Things (International)
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: COMP-0597
   code: WD_KMULA_D
   name: Bachelor of Science in Multimedia Applications Development
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -120,30 +120,30 @@ learning_and_teaching_methods:
 - Assessment Two will invite the student to analyse, design and implement a basic
   but functional new application.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -156,6 +156,7 @@ assessment_criteria:
 - '60%-69%: All of the above including a simple model of the application structure.'
 - '70%-100%: All the above to an excellent level. Incorporate Unit Tests for a specific
   subset of an application.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Henderson, M. _Instant CakePHP Starter_. New York: Packt Publishing, 2013.'
@@ -164,7 +165,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

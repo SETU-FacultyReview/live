@@ -1,11 +1,11 @@
 reference: A13384
 full_title: User Experience and Design
 short_title: User Experience and Design
-credits: 10
+credits: '10'
 level: Postgraduate
 author: AGANNON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Graphic Design and Animation
 aim: User Experience (UX) is a concept that has many dimensions, and it includes a
@@ -18,14 +18,14 @@ programmes:
 - timetable: COMP-0619
   code: WD_KCESS_R
   name: MSc in Computer Science (Enterprise Software Systems)
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: COMP-0619
   code: WD_KISYP_R
   name: Master of Science in Computing (Information Systems Processes)
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 prerequisites: []
 corequisites: []
@@ -50,30 +50,30 @@ learning_and_teaching_methods:
   introduced and discussed during lectures.
 - Students will use Microsoft Office and Adobe Creative Cloud.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 24
-- full_time: 24
+  part_time: '24'
+- full_time: '24'
   name: Practical
-  part_time: 24
-- full_time: 222
+  part_time: '24'
+- full_time: '222'
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 80
+  weighting: '80'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -86,6 +86,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+speccial_regulations: []
 essential_material:
 - '"Fundamental Principles of Great UX Design: How to Deliver Great UX Design." http://www.uxmatters.com/mt/archives/2014/11/fundamental-principles-of-great-ux-design-how-to-deliver-great-ux-design.php\#sthash.a4jgbhYc.dpuf'
 - '"Interaction Design." http://www.id-book.com/index.php'
@@ -110,7 +111,5 @@ requested_resources:
 - 'Room Type: Computer Lab'
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

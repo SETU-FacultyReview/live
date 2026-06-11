@@ -1,11 +1,11 @@
 reference: A15028
 full_title: Introduction to Cognition and Perception
 short_title: Intro to Cog & Per
-credits: 5
+credits: '5'
 level: Introductory
 author: DDELANY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Applied Arts
 cluster: Humanities
 aim: 'This module aims to: Develop an understanding of the basic principles and areas
@@ -15,32 +15,32 @@ programmes:
 - timetable: PSYC-0066
   code: WD_HARTS_B
   name: Bachelor of Arts (Honours)
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: PSYC-0105
   code: WD_HPSYC_B
   name: Bachelor of Arts (Honours) in Psychology
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: PSYC-0105
   code: WD_HPSYI_B
   name: Bachelor of Arts (Honours) in Psychology with Arts (International)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: PSYC-0066
   code: WD_KCSDV_B
   name: Bachelor of Science (Honours) in Software Systems Development
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 - timetable: PSYC-0105
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 prerequisites: []
 corequisites: []
@@ -71,40 +71,41 @@ learning_and_teaching_methods:
 - Tutorials are used to reinforce the lecture lessons in the context of practicing
   building coherent exam essay outlines
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
-- 0-39% (Fail) Fails to address the question, key issues, and concepts; poor writing
-  and organisation; Evidence that basic material is misunderstood.
-- 40-49% (Pass) Limited consideration of main points and concepts addressed; Direct
-  attempt at the question but some context lacking; Some understanding of how to structure
-  and presentation of ideas; Limited evidence of the relevant texts and literature.
-- 50-59% (2.2) A satisfactory answer but without the range of reading and interpretation
+- '<40%: Fails to address the question, key issues, and concepts; poor writing and
+  organisation; Evidence that basic material is misunderstood.'
+- '40-49%: Limited consideration of main points and concepts addressed; Direct attempt
+  at the question but some context lacking; Some understanding of how to structure
+  and presentation of ideas; Limited evidence of the relevant texts and literature.'
+- '50-59%: A satisfactory answer but without the range of reading and interpretation
   deserving of a higher honours mark; Sparse or highly selective coverage of the relevant
   material; Assertions not suitably supported by argument or evidence; Limited discussion
-  and reflection, but showing knowledge of the underpinning principles.
-- 60-69% (2.1) A well-organised, well-written answer, demonstrating that the material
+  and reflection, but showing knowledge of the underpinning principles.'
+- '60-69%: A well-organised, well-written answer, demonstrating that the material
   is critically analysed; Evidence of reading beyond essential course material; Addressing
   and analysing the main points and showing evidence of a good grasp of the underpinning
-  knowledge; Some evidence of evaluation and synthesis of the relevant issues.
-- 70%+ (1.1) Excellent answer that combines an exceptional degree of independent reading
+  knowledge; Some evidence of evaluation and synthesis of the relevant issues.'
+- '70%-100%: Excellent answer that combines an exceptional degree of independent reading
   and thinking with a high degree of integration; A depth of insight into theoretical
   issues, demonstrating a concise and clear analytical style; Excellent level of critical
   analysis and originality of thought; Excellent critical evaluation and synthesis
   of relevant issues, showing an ability to integrate and apply theory in a precise
-  manner.
+  manner.'
+speccial_regulations: []
 essential_material:
 - 'Eysenck, M. and M. Keane. _Cognitive Psychology: A Student''s Handbook_. 7th ed.
   East Essex: Psychology Press, 2015.'
@@ -113,7 +114,5 @@ supplementary_material:
   2013.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,11 +1,11 @@
 reference: A14028
 full_title: Multimedia Databases
 short_title: Multimedia Databases
-credits: 5
+credits: '5'
 level: Advanced
 author: JWOODS-OBRIEN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Database and Analytics
 aim: This module will introduce the student to the principles and practice of designing
@@ -17,14 +17,14 @@ programmes:
 - timetable: COMP-0633
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: COMP-0633
   code: WD_KMULM_B
   name: Bachelor of Science (Honours) in Multimedia Applications Development
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -53,28 +53,28 @@ learning_and_teaching_methods:
 - The practical classes facilitate the student in implementing the theory learned
   in the lectures which in turn will form the continuous assessment.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1, 2, 3, 4, 5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 2, 6
-  main: false
+  main: 'false'
   name: Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -90,6 +90,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Connolly, T. and C. Begg. _Database Systems: A Practical Approach to Design, Implementation
@@ -99,7 +100,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

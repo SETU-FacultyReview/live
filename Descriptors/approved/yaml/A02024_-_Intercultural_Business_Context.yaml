@@ -1,11 +1,11 @@
 reference: A02024
 full_title: Intercultural Business Context
 short_title: Intercultural Bus Context
-credits: 5
+credits: '5'
 level: Advanced
 author: MOGRIOFA
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Adult Continuing Education
 cluster: Humanities
 aim: This module will give learners an understanding of their and others' cultural
@@ -24,14 +24,14 @@ programmes:
 - timetable: MGTB-0062
   code: WD_KCOMC_D
   name: BSc in Software Systems Development
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: MGTB-0062
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -67,32 +67,32 @@ learning_and_teaching_methods:
 - Workshop on cultural diversity
 - Video material and DVD training material will be used in conjunction with lectures.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Other
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
-- 'Below 40% = Fail: Inability to display a knowledge or understanding of the topics
+- '<40%: Inability to display a knowledge or understanding of the topics covered.'
+- '40%-54%: demonstrates a basic level of understanding and analysis of the topics
   covered.'
-- 40% - 54% demonstrates a basic level of understanding and analysis of the topics
-  covered.
-- 55% - 62% demonstrates an ability to understand and critique the topics covered.
-- 63% - 69% demonstrates the ability to answers the question he or she attempts very
+- '55%-62%: demonstrates an ability to understand and critique the topics covered.'
+- '63%-69%: demonstrates the ability to answers the question he or she attempts very
   well, giving some detailed analysis, drawing conclusions and where appropriate,
   making suggestions that go beyond the material covered in lectures.$\bullet$ reveals
   a good level of thought and reflection.$\bullet$ organises the information well
-  into a good structure.$\bullet$ gives evidence and examples to support arguments.
-- 70% + will be awarded for work that includes all of the above features at an excellent
-  level and in addition reveals a good understanding of why the topic is significant
-  and where and why there might be controversy.$\bullet$ reveals an understanding
-  of how the topic relates to broader issues beyond the confines of the subject area.
+  into a good structure.$\bullet$ gives evidence and examples to support arguments.'
+- '70%-100%: will be awarded for work that includes all of the above features at an
+  excellent level and in addition reveals a good understanding of why the topic is
+  significant and where and why there might be controversy.$\bullet$ reveals an understanding
+  of how the topic relates to broader issues beyond the confines of the subject area.'
+speccial_regulations: []
 essential_material:
 - 'Lustig , Myron and Jolene Koester. _...Intercultural Competence: Interpersonal
   Communication across cultures_. Boston MA. USA: Allyn & Bacon, 2002.'
@@ -110,7 +110,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,11 +1,11 @@
 reference: A14863
 full_title: Food Shelf Life Control
 short_title: Food Shelf Life Control
-credits: 5
+credits: '5'
 level: Advanced
 author: ROMAHONY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Food Science
 aim: The aim of this module is to cover the theoretical aspects surrounding the shelf
@@ -17,14 +17,14 @@ programmes:
 - timetable: FOOD-0005
   code: WD_SFDSC_B
   name: Bachelor of Science (Honours) in Food Science and Innovation
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 - timetable: FOOD-0005
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 prerequisites: []
 corequisites: []
@@ -57,36 +57,36 @@ learning_and_teaching_methods:
 - Discussion forums designed so that students can reflect on their contributions thus
   promoting reflective practice.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 3,5
-  main: false
+  main: 'false'
   name: Group Project
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -102,6 +102,7 @@ assessment_criteria:
   this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
+speccial_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -114,7 +115,5 @@ requested_resources:
 - 'Room Type: Biology Lab'
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,11 +1,11 @@
 reference: A11961
 full_title: Embedded Systems Scripting
 short_title: Embedded Systems Scripting
-credits: 5
+credits: '5'
 level: Advanced
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Software and Web Development
 aim: Embedded Systems Scripting module introduces the learner to the Linux operating
@@ -16,50 +16,50 @@ programmes:
 - timetable: ''
   code: WD_EAUTO_B
   name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: EMBS-0002
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: DASA-0001
   code: WD_EONIC_B
   name: Bachelor of Engineering (Honours) in Electronic Engineering
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: EMBS-0002
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: EMBS-0002
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: EMBS-0002
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: EMBS-0002
   code: WD_KCOMP_B
   name: BSc (Hons) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: EMBS-0002
   code: WD_KINTT_BI
   name: BSc (Hons) in the Internet of Things (International)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -94,30 +94,30 @@ learning_and_teaching_methods:
   and in small class groups using problem based worksheets during the practical sessions
 - Self-directed learning will be encouraged throughout the duration of the module
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 80
+  weighting: '80'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -138,6 +138,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+speccial_regulations: []
 essential_material:
 - 'Lutz, M. _Learning Python_. 5th. Sebastopol, CA: O''Reilly Media, 2013.'
 - 'McGrath, M. _Linux in easy steps_. 5th. England: In Easy Steps, 2010.'
@@ -148,7 +149,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

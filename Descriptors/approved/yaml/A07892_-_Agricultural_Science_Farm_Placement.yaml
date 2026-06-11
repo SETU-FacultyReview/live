@@ -1,11 +1,11 @@
 reference: A07892
 full_title: Agricultural Science Farm Placement
 short_title: Agri Science Farm Placement
-credits: 30
+credits: '30'
 level: Intermediate
 author: SWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module is designed to give the student experience of practical farming on
@@ -20,8 +20,8 @@ programmes:
 - timetable: AGRI-0096
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -58,16 +58,16 @@ learning_and_teaching_methods:
 - Practical learning experience of health and safety on a farm.
 - Maintain a daily diary.
 learning_modes:
-- full_time: 810
+- full_time: '810'
   name: Placement
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5,6,7,
-  main: false
+  main: 'false'
   name: Portfolio
   weighting: Pass/Fail
   due_weeks: []
@@ -78,6 +78,7 @@ assessment_criteria:
 - 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisors
   Evaluation Report submitted, and assessments and documents related to the learning
   outcomes, all to an acceptable standard and submitted within deadlines.'
+speccial_regulations: []
 essential_material:
 - 'Teagasc, T. _Notebook and Daily Diary for Farm Placement_. Ireland: Teagasc, 2014.'
 supplementary_material:
@@ -85,7 +86,5 @@ supplementary_material:
   Palgrave Macmillan, 2004.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

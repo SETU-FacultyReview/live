@@ -1,11 +1,11 @@
 reference: A14048
 full_title: Computing Ethics
 short_title: Computing Ethics
-credits: 5
+credits: '5'
 level: Advanced
 author: LSTAPLETON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Professional Skills
 aim: The rate of ICT development has outpaced society?s ability to regulate responsible
@@ -22,26 +22,26 @@ programmes:
 - timetable: COMP-0674
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: COMP-0674
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: COMP-0674
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: COMP-0674
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 prerequisites: []
 corequisites: []
@@ -82,30 +82,30 @@ learning_and_teaching_methods:
   and critical thinking skills. Templates will be provided to guide students in completing
   these.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Workshop
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 assessment_criteria:
 - <40%:Unable to demonstrate rudimentary understanding of the concepts and issues
   described in the indicative content. Failing to demonstrate satisfactory ability
@@ -126,6 +126,7 @@ assessment_criteria:
 - 70%-100%:All the previous to an excellent level including capacity to solve ethical
   problems and creatively engage in ethical discourse and the identification of appropriate
   potential solutions.
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Baase, S. _A Gift of Fire: Social, Legal and Ethical Issues for Computers and the
@@ -134,7 +135,5 @@ supplementary_material:
   Stability_. 1st ed.. London: Springer-Verlag, 2015.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

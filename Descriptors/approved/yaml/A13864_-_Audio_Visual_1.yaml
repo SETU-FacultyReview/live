@@ -1,11 +1,11 @@
 reference: A13864
 full_title: Audio Visual 1
 short_title: Audio Visual 1
-credits: 5
+credits: '5'
 level: Introductory
 author: ROCONNOR
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Media Production
 aim: This module teaches the fundamentals of sound, music, sound recording and editing
@@ -14,8 +14,8 @@ programmes:
 - timetable: COMP-0642
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 prerequisites: []
 corequisites: []
@@ -46,27 +46,27 @@ learning_and_teaching_methods:
   and audio workstations (Vibe FM studios).
 - Stock AV Library subscription (e.g. AudioBlocks, VideoBlocks).
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Workshop
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 70
+  weighting: '70'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -81,6 +81,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   creative use and modification of appropriate audio/visual skills and tools.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"Ableton Live Youtube Channel." https://www.youtube.com/user/AbletonInc'
@@ -99,7 +100,5 @@ requested_resources:
 - 'EQUIPMENT: MAC PCs'
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

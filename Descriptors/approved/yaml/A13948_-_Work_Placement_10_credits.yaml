@@ -1,11 +1,11 @@
 reference: A13948
 full_title: Work Placement (10 credits)
 short_title: Work Placement (10 credits)
-credits: 10
+credits: '10'
 level: Intermediate
 author: RBIRNEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Professional Skills
 aim: The purpose of the work placement is to require the student to apply the knowledge,
@@ -17,8 +17,8 @@ programmes:
 - timetable: PLAC-0138
   code: WD_BCSEC_SP
   name: Diploma in Computing with Security and Forensics
-  stage: 3
-  semester: 3
+  stage: '3'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -47,21 +47,21 @@ learning_and_teaching_methods:
 - The applied learning portfolio is designed to foster self-reflection on the learning
   gained through participation in the work placement.
 learning_modes:
-- full_time: 6
+- full_time: '6'
   name: Tutorial
   part_time: ''
-- full_time: 264
+- full_time: '264'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -76,6 +76,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+speccial_regulations: []
 essential_material:
 - REAP (Roadmap for Employment - Academic Partnerships). _Work placement in third-level
   programmes_ Cork. 2011.
@@ -84,7 +85,5 @@ supplementary_material:
   1st ed. London: Palgrave Macmillan, 2004.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,11 +1,11 @@
 reference: A07802
 full_title: People Management
 short_title: People Management
-credits: 5
+credits: '5'
 level: Intermediate
 author: MROCK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: This module will develop student understanding of the practical and theoretical
@@ -16,14 +16,14 @@ programmes:
 - timetable: MGTS-0023
   code: WD_SHORT_D
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: MGTS-0023
   code: WD_SHORT_DX
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -52,17 +52,17 @@ learning_and_teaching_methods:
 - Case studies and class discussion.
 - Role play
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: Very limited knowledge and understanding of the subject matter. Lacking in
   technical ability/skill and understanding to carry out practical/professional tasks.'
@@ -79,6 +79,7 @@ assessment_criteria:
 - '70%-100%: Demonstrates authoritative handling of complex material and has a highly
   developed and extensive understanding of the subject. Provides well focused analysis
   and convincing argument on the subject.'
+speccial_regulations: []
 essential_material:
 - 'Gunnigle, P., N. Heraty and M. Morley. _Human Resource Management in Ireland_.
   4th. Dublin: Gill and MacMillan, 2011.'
@@ -95,7 +96,5 @@ supplementary_material:
   London: CIPD, 2008.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,11 +1,11 @@
 reference: A13744
 full_title: Computer Security and Forensics
 short_title: Security and Forensics
-credits: 10
+credits: '10'
 level: Advanced
 author: JMCGIBNEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Forensics and Security
 aim: This module provides the essentials of computer security and forensics. Topics
@@ -19,8 +19,8 @@ programmes:
 - timetable: COMP-0620
   code: WD_KCOSC_G
   name: Higher Diploma in Science in Computer Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -63,42 +63,42 @@ learning_and_teaching_methods:
 - The practical element allows the student to put into practice the theoretical concepts
   covered in the lectures.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Lecture
   part_time: ''
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 174
+- full_time: '174'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 6,10
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 7,8,9
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -124,6 +124,7 @@ assessment_criteria:
   of some the trade-offs involved in providing security. Able to demonstrate in detail
   how to address web application vulnerabilities. Can evaluate the appropriateness
   of different forensic tools and approaches.'
+speccial_regulations: []
 essential_material:
 - '"Open Web Application Security Project." https://www.owasp.org'
 - '"The OpenSSL project." https://www.openssl.org'
@@ -142,7 +143,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

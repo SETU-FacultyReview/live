@@ -1,11 +1,11 @@
 reference: A11884
 full_title: Maths Ordinary Differential Equations
 short_title: Maths ODE
-credits: 5
+credits: '5'
 level: Introductory
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Mathematics and Physics
 aim: This module gives an introduction to methods (analytical and numerical) for the
@@ -16,38 +16,38 @@ programmes:
 - timetable: ''
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: MTHE-0030
   code: WD_EONIC_B
   name: Bachelor of Engineering (Honours) in Electronic Engineering
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: MTHE-0030
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours)
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: MTHE-0030
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours) in Electrical Engineering
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: ''
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: MTHE-0030
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -89,7 +89,7 @@ learning_and_teaching_methods:
   the concepts covered during the lectures using mathematical software such as OCTAVE/MATLAB
   or Python (or similar language).
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Lecture
   part_time: ''
 - full_time: ''
@@ -98,28 +98,28 @@ learning_modes:
 - full_time: ''
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,4,5,6
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -140,6 +140,7 @@ assessment_criteria:
   level of the skills required for the subject matter, and demonstrated the ability
   to carry out further investigation and problem solving associated with the subject
   matter.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Boyce, W.E. and R.C. DiPrima. _Elementary Differential Equations and Boundary Value
@@ -150,7 +151,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

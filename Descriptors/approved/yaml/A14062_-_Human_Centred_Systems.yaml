@@ -1,11 +1,11 @@
 reference: A14062
 full_title: Human Centred Systems
 short_title: Human Centred Systems
-credits: 10
+credits: '10'
 level: Postgraduate
 author: LSTAPLETON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Information Systems and Modelling
 aim: The key success factors associated with the effective design, development, deployment
@@ -27,14 +27,14 @@ programmes:
 - timetable: COMP-0618
   code: WD_KCESS_R
   name: MSc in Computer Science (Enterprise Software Systems)
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: COMP-0618
   code: WD_KISYP_R
   name: Master of Science in Computing (Information Systems Processes)
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 prerequisites: []
 corequisites: []
@@ -79,30 +79,30 @@ learning_and_teaching_methods:
 - Students will submit a portfolio-type report comprising the various activities completed
   during the course for continuous assessment.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
-  part_time: 36
-- full_time: 12
+  part_time: '36'
+- full_time: '12'
   name: Workshop
-  part_time: 12
-- full_time: 222
+  part_time: '12'
+- full_time: '222'
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 2,4,6
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,3,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -125,6 +125,7 @@ assessment_criteria:
   context. Be able to assess trends in the field of information systems development
   and how HCS approaches address these trends. Demonstrate a deep level of critical
   refelction on the theories, methods and praxis presented in this module.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Checkland, P. _Systems Thinking, Systems Practice_. New York: Wiley, 1999.'
@@ -144,7 +145,5 @@ supplementary_material:
   England: Palgrave Macmillan, 2011.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

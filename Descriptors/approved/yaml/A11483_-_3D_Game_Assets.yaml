@@ -1,11 +1,11 @@
 reference: A11483
 full_title: 3D Game Assets
 short_title: 3D Game Assets
-credits: 5
+credits: '5'
 level: Introductory
 author: PMCINERNEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Game Development
 aim: This module serves as an introduction to 3D modelling for game asset designers
@@ -16,20 +16,20 @@ programmes:
 - timetable: COMP-0645
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: COMP-0645
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: COMP-0645
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 prerequisites: []
 corequisites: []
@@ -54,36 +54,36 @@ learning_and_teaching_methods:
 - Problem-based learning activities.
 - Self-directed learning.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -100,6 +100,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of problems through the use and modification of appropriate
   skills and tools of the 3D production software.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Lanier, L. _Advanced Maya Texturing and Lighting_. 3rd ed. New York: Sybex, 2015.'
@@ -107,7 +108,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

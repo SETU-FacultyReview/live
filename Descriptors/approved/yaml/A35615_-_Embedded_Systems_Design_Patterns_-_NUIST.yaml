@@ -1,11 +1,11 @@
 reference: A35615
 full_title: Embedded Systems Design Patterns - NUIST
 short_title: Embed Systems Design Patterns (NUIST)
-credits: 5
+credits: '5'
 level: Postgraduate
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Discipline Specific Technologies
 aim: This module will cover the design and programming of embedded systems. The student
@@ -15,20 +15,20 @@ programmes:
 - timetable: EMBS-0001
   code: WD_EELEN_G
   name: Postgraduate Diploma in Engineering in Electronic Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: EMBS-0001
   code: WD_EELEN_R
   name: Master of Engineering in Electronic Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: ''
   code: WD_EELEN_RI
   name: MEng in Electronic Information Systems
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -55,30 +55,30 @@ learning_and_teaching_methods:
 - Project Based Learning
 - Case Studies
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 6
+- full_time: '6'
   name: Tutorial
   part_time: ''
-- full_time: 105
+- full_time: '105'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,4,5,6
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,5,6
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -96,6 +96,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+speccial_regulations: []
 essential_material:
 - '"mbed." https://developer.mbed.org/'
 - 'CCS, CCS. _CCS C Compiler Manual._. www: CCS, July 2016.'
@@ -103,7 +104,5 @@ supplementary_material: []
 requested_resources:
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,12 +1,12 @@
 reference: A11622
 full_title: Forest Inventory
 short_title: Forest Inventory
-credits: 10
+credits: '10'
 level: Intermediate
 author: MPEDINI
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Forestry
 aim: In this (10 credit) module students will carry out a wide range of forest inventory
   work in a medium-sized forest property over a number of days. Students will plan
@@ -21,8 +21,8 @@ programmes:
 - timetable: FORS-0011
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -66,45 +66,45 @@ learning_and_teaching_methods:
 - 'Technology: students will use statistical software to generate mean, standard deviation,
   standard error and confidence intervals of stands.'
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 48
+- full_time: '48'
   name: Field Trips
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Lab
   part_time: ''
-- full_time: 174
+- full_time: '174'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,8
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 5,6
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 6,7,8,
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -133,6 +133,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on assessments. Show initiative,
   individual thought, and enthusiasm in self-study and independent learning.'
+speccial_regulations: []
 essential_material:
 - 'Mathews, R.W. and E.D. Mackey. _Forest Mensuration. A Handbook for Practitioners_.
   Edinburgh, UK: Forestry Commission, 2006.'
@@ -154,7 +155,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

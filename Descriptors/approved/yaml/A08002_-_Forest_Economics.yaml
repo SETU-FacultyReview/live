@@ -1,12 +1,12 @@
 reference: A08002
 full_title: Forest Economics
 short_title: Forest Economics
-credits: 5
+credits: '5'
 level: Intermediate
 author: MSOTTOCORNOLA
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Forestry
 aim: This module will explore the role of economics in shaping forest management.
   The module will focus on developing financial appraisal techniques to aid sound
@@ -17,8 +17,8 @@ programmes:
 - timetable: ECOS-0001
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -57,28 +57,28 @@ learning_and_teaching_methods:
   of key parameters, such as discount rate, time, forest productivity etc. on the
   decision support tool.'
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -107,6 +107,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on assessments. Show initiative,
   individual thought, and enthusiasm in self study and independent learning.'
+speccial_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -134,7 +135,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

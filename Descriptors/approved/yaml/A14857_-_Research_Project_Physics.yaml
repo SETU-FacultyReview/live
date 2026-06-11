@@ -1,11 +1,11 @@
 reference: A14857
 full_title: Research Project (Physics)
 short_title: Research Project (Physics)
-credits: 10
+credits: '10'
 level: Advanced
 author: CWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module provides the student with the experience of working on an extended
@@ -23,8 +23,8 @@ programmes:
 - timetable: RESA-0174
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 prerequisites: []
 corequisites: []
@@ -53,33 +53,33 @@ learning_and_teaching_methods:
 - Oral presentation.
 - Self-directed learning.
 learning_modes:
-- full_time: 84
+- full_time: '84'
   name: Practical
   part_time: ''
-- full_time: 186
+- full_time: '186'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Supervisor's Report
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Dissertation
-  weighting: 70
+  weighting: '70'
 assessment_criteria:
 - '<40%: Poor understanding of the scientific principles behind the research project,
   inadequate level of research work performed in terms of quality and quantity of
@@ -107,6 +107,7 @@ assessment_criteria:
   present the knowledge to a high technical standard'
 - '70%-100%: All previous to an excellent level. Shows initiative and demonstrates
   an ability to abstract ideas and reflect on the process.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Alley , M. _The Craft of Scientific Presentations: Critical Steps to Succeed and
@@ -117,7 +118,5 @@ supplementary_material:
 requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

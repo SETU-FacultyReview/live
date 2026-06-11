@@ -1,11 +1,11 @@
 reference: A26541
 full_title: Information Security
 short_title: Info Security
-credits: 10
+credits: '10'
 level: Postgraduate
 author: JMCGIBNEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Forensics and Security
 aim: This module provides students with a solid grounding in the area of computer
@@ -20,8 +20,8 @@ programmes:
 - timetable: COMP-0973
   code: WD_KCESS_R
   name: MSc in Computer Science (Enterprise Software Systems)
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 prerequisites: []
 corequisites: []
@@ -53,40 +53,40 @@ learning_and_teaching_methods:
 - Combination of lectures and guided computer-based practical exercises.
 - Self-directed learning.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 24
-- full_time: 24
+  part_time: '24'
+- full_time: '24'
   name: Practical
-  part_time: 24
-- full_time: 222
+  part_time: '24'
+- full_time: '222'
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -100,6 +100,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to propose solutions to
   a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+speccial_regulations: []
 essential_material:
 - '"Open Web Application Security Project (OWASP)." https://www.owasp.org/'
 - '"The SANS Institute." https://www.sans.org/'
@@ -109,7 +110,5 @@ supplementary_material:
   Harlow: Pearson, 2018.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

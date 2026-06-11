@@ -1,11 +1,11 @@
 reference: A09941
 full_title: Introduction to Psychology
 short_title: Intro to Psychology
-credits: 5
+credits: '5'
 level: Introductory
 author: JBDORAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Applied Arts
 cluster: Humanities
 aim: 'This module aims to: Develop an appreciation of how psychology can be used to
@@ -16,62 +16,62 @@ programmes:
 - timetable: PSYC-0103
   code: WD_HARTI_B
   name: Bachelor of Arts (Honours) International
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: PSYC-0103
   code: WD_HARTS_B
   name: Bachelor of Arts (Honours)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: PSYC-0121
   code: WD_HCRJU_B
   name: Bachelor of Arts (Honours) in Criminal Justice Studies
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: PSYC-0118
   code: WD_HECHS_B
   name: Bachelor of Arts (Honours) in Early Childhood Studies
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: PSYC-0103
   code: WD_HPSYC_B
   name: Bachelor of Arts (Honours) in Psychology
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: PSYC-0103
   code: WD_HPSYI_B
   name: Bachelor of Arts (Honours) in Psychology with Arts (International)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: PSYC-0127
   code: WD_HSOSC_B
   name: Bachelor of Arts (Honours) in Social Science
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: PSYC-0103
   code: WD_KCOMC_D
   name: BSc in Software Systems Development
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: PSYC-0065
   code: WD_KCSDV_B
   name: Bachelor of Science (Honours) in Software Systems Development
-  stage: 2
-  semester: 1
+  stage: '2'
+  semester: '1'
   status: E
 - timetable: PSYC-0103
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 prerequisites: []
 corequisites: []
@@ -107,40 +107,41 @@ learning_and_teaching_methods:
   both online and off line.
 - Tutorials introduce students to the academic environment and basic research skills.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
-- Fail (0-39) Fails to address the question, key issues, and concepts. Poor writing
-  and organisation; Evidence that basic material is misunderstood.
-- Pass (40-49) Limited consideration of main points and concepts addressed; Direct
-  attempt at the question but some context lacking. Some understanding of how to structure
-  and presentation of ideas; Limited evidence of the relevant texts and literature.
-- 50--59 (2.2) A satisfactory answer but without the range of reading and interpretation
+- '<40%: Fails to address the question, key issues, and concepts. Poor writing and
+  organisation; Evidence that basic material is misunderstood.'
+- '40-49%: Limited consideration of main points and concepts addressed; Direct attempt
+  at the question but some context lacking. Some understanding of how to structure
+  and presentation of ideas; Limited evidence of the relevant texts and literature.'
+- '50-59%: A satisfactory answer but without the range of reading and interpretation
   deserving of a higher honours mark; Sparse or highly selective coverage of the relevant
   material. Assertions not suitably supported by argument or evidence; Limited discussion
-  and reflection, but showing knowledge of the underpinning principles.
-- 60-69 (2.1) A well-organised, well-written answer, demonstrating that the material
+  and reflection, but showing knowledge of the underpinning principles.'
+- '60-69%: A well-organised, well-written answer, demonstrating that the material
   is critically analysed; Evidence of reading beyond essential course material. Addressing
   and analysing the main points and showing evidence of a good grasp of the underpinning
-  knowledge; some evidence of evaluation and synthesis of the relevant issues.
-- 70% and over (1.1) Excellent answer that combines an exceptional degree of independent
-  reading and thinking with a high degree of integration; A depth of insight into
-  theoretical issues, demonstrating a concise and clear analytical style. Excellent
-  level of critical analysis and originality of thought; excellent critical evaluation
-  and synthesis of relevant issues, showing an ability to integrate and apply theory
-  in a precise manner.
+  knowledge; some evidence of evaluation and synthesis of the relevant issues.'
+- '70%-100%: Excellent answer that combines an exceptional degree of independent reading
+  and thinking with a high degree of integration; A depth of insight into theoretical
+  issues, demonstrating a concise and clear analytical style. Excellent level of critical
+  analysis and originality of thought; excellent critical evaluation and synthesis
+  of relevant issues, showing an ability to integrate and apply theory in a precise
+  manner.'
+speccial_regulations: []
 essential_material:
 - 'Burns, T. and S. Sinfield. _Essential Study Skills : The complete guide to Success
   at University_. 4th ed.. London: Sage, 2016.'
@@ -156,7 +157,5 @@ supplementary_material:
   . Houndsmills: Palgrave MacMillan, 2012.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,11 +1,11 @@
 reference: A14029
 full_title: Enterprise Data Exchange and XML
 short_title: Enterprise Data Exchange & XML
-credits: 5
+credits: '5'
 level: Intermediate
 author: LSTAPLETON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Information Systems and Modelling
 aim: XML is one of the most popular industry formats for business document publishing,
@@ -26,8 +26,8 @@ programmes:
 - timetable: COMP-0969
   code: WD_KINFT_D
   name: Bachelor of Science in Information Technology
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -67,30 +67,30 @@ learning_and_teaching_methods:
   techniques.
 - Case studies.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 2,3
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 assessment_criteria:
 - <40%:Unable to interpret and describe key concepts related to XML and its applications.
 - 40%-49%:Ability to interpret and describe key concepts of XML and its applications.
@@ -108,6 +108,7 @@ assessment_criteria:
   systems, including those not explicitly stated in the course materials or a reworking
   of course material references in new way(s). Reflective learning demonstrating a
   deep understanding of the course materials.
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Fawcett, J., D. Ayers and L.R.E. Quin. _Beginning XML_. New York: Wiley, 2012.'
@@ -116,7 +117,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

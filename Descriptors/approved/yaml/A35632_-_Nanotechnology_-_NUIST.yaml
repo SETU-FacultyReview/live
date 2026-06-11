@@ -1,11 +1,11 @@
 reference: A35632
 full_title: Nanotechnology - NUIST
 short_title: Nanotechnology (NUIST)
-credits: 5
+credits: '5'
 level: Postgraduate
 author: KOMAHONEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Discipline Specific Technologies
 aim: This module provides an engineering perspective on the interdisciplinary advances
@@ -23,38 +23,38 @@ programmes:
 - timetable: ''
   code: WD_CBIOM_MA
   name: Certificate in Biomedical Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: ENGR-0039
   code: WD_CINNT_G
   name: Postgraduate Diploma in Science in Innovative Technology Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: E
 - timetable: ENGR-0039
   code: WD_CINNT_R
   name: Master of Science in Innovative Technology Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: E
 - timetable: NANO-0001
   code: WD_EELEN_G
   name: Postgraduate Diploma in Engineering in Electronic Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: E
 - timetable: NANO-0001
   code: WD_EELEN_R
   name: Master of Engineering in Electronic Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: E
 - timetable: ''
   code: WD_EELEN_RI
   name: MEng in Electronic Information Systems
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: E
 prerequisites: []
 corequisites: []
@@ -83,48 +83,49 @@ learning_and_teaching_methods:
 - Lecture and Demonstration
 - Mini Project
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
 - full_time: ''
   name: Practical
   part_time: ''
-- full_time: 111
+- full_time: '111'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,5,6,7
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 70
+  weighting: '70'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
-- '>70% In addition to the criteria set out below: The student will have shown exceptional
-  ability in the interpretation and evaluation of nanotechnology innovations and their
-  application in a societally aware context.'
-- '>60% <70% In addition to the criteria set out below: Through a demonstrated ability
+- '70%-100%: In addition to the criteria set out below: The student will have shown
+  exceptional ability in the interpretation and evaluation of nanotechnology innovations
+  and their application in a societally aware context.'
+- '60%-69%: In addition to the criteria set out below: Through a demonstrated ability
   to interpret and evaluate some nanotechnology concepts the student will have demonstrated
   a capacity for research informed learning and the development of life-long learning
   skills.'
-- '>40% <60% The student will have demonstrated a basic understanding of the interdisciplinary
+- '40%-60%: The student will have demonstrated a basic understanding of the interdisciplinary
   nature of nanotechnology, the horizontal affects that nanotechnology is having modern
   industry and the disruptive nature of nanotechnology. They will also have demonstrated
   a highly professional approach to submitting all assignments on time.'
-- <40% The student has failed to demonstrate a basic understanding of the interdisciplinary
+- '<40%: The student has failed to demonstrate a basic understanding of the interdisciplinary
   nature of nanotechnology, the horizontal affects that nanotechnology is having modern
   industry and the disruptive nature of nanotechnology and/or failed to demonstrate
-  a professional approach to submitting all assignments on time.
+  a professional approach to submitting all assignments on time.'
+speccial_regulations: []
 essential_material:
 - 'Hornyak, G.L. _Introduction to Nanoscience_. .: CRC Press, 2008.'
 - 'Rubahhn, H.G. _Basics of Nanotechnology_. USA: Wiley, 2008.'
@@ -136,7 +137,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

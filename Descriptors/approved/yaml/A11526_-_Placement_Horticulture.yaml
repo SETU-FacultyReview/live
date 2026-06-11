@@ -1,11 +1,11 @@
 reference: A11526
 full_title: Placement (Horticulture)
 short_title: Placement (Horticulture)
-credits: 30
+credits: '30'
 level: Intermediate
 author: CPWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: The module introduces the student to work in their chosen specialism with a 15
@@ -18,14 +18,14 @@ programmes:
 - timetable: PLAC-0150
   code: WD_SHORT_D
   name: Bachelor of Science in Horticulture
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: PLAC-0150
   code: WD_SHORT_DX
   name: Bachelor of Science in Horticulture
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 prerequisites: []
 corequisites: []
@@ -56,28 +56,28 @@ learning_and_teaching_methods:
 - Practical demonstrations.
 - Supervised practice.
 learning_modes:
-- full_time: 810
+- full_time: '810'
   name: Placement
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 6,7
-  main: false
+  main: 'false'
   name: Reflective Journal
   weighting: Pass/Fail
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4,5
-  main: false
+  main: 'false'
   name: Supervisor's Report
   weighting: Pass/Fail
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,8
-  main: false
+  main: 'false'
   name: Portfolio
   weighting: Pass/Fail
   due_weeks: []
@@ -88,13 +88,12 @@ assessment_criteria:
 - 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisor
   Evaluation Report submitted, and assessments and documents related to the learning
   outcomes, all to an acceptable standard submitted within deadlines'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Harman, D. _The Digital Photography Handbook: An Illustrated Step-by-step Guide_.
   London, UK. : Quercus, 2014.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

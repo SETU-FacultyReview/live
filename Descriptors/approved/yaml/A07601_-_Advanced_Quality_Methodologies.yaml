@@ -1,11 +1,11 @@
 reference: A07601
 full_title: Advanced Quality Methodologies
 short_title: Advanced Quality Methodologies
-credits: 5
+credits: '5'
 level: Advanced
 author: HHUGHES
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Quality, Regulatory and Compliance
 aim: This module covers aspects of quality management, including advanced quality
@@ -17,45 +17,45 @@ programmes:
 - timetable: ''
   code: WD_18AFICT_G
   name: Higher Diploma in Science in Agi-Food ICT Systems
-  stage: 1
-  semester: 3
+  stage: '1'
+  semester: '3'
   status: M
 - timetable: SCIE-0026
   code: WD_SFDSC_B
   name: Bachelor of Science (Honours) in Food Science and Innovation
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 - timetable: SCIE-0026
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: SCIE-0026
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: SCIE-0026
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: SCIE-0026
   code: WD_SQMBI_B
   name: Bachelor of Science (Honours) in Applied Biology with Quality Management
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 - timetable: SCIE-0026
   code: WD_SQMCH_B
   name: Bachelor of Science (Honours) in Applied Chemistry with Quality Management
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -82,28 +82,28 @@ learning_and_teaching_methods:
 - Mini project.
 - Discussion.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 40
+  weighting: '40'
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -117,6 +117,7 @@ assessment_criteria:
   Shows a high level of competence and efficiency in the quality management techniques.'
 - '70%-100%: All previous to excellent level. Be able to describe and discuss quality
   management in a production environment and show initiative.'
+speccial_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -142,7 +143,5 @@ supplementary_material:
   to operational excellence_. 2nd ed. Ohio, USA: McGraw-Hill, 2012.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

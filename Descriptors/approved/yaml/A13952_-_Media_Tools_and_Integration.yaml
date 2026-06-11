@@ -1,11 +1,11 @@
 reference: A13952
 full_title: Media Tools and Integration
 short_title: Media Tools and Integration
-credits: 10
+credits: '10'
 level: Advanced
 author: CDUNPHY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Media Production
 aim: This module builds on the student's existing knowledge of audio/visual recording
@@ -16,8 +16,8 @@ programmes:
 - timetable: COMP-0670
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: E
 prerequisites: []
 corequisites: []
@@ -55,17 +55,17 @@ learning_and_teaching_methods:
 - Sound System PA
 - Data Projectors
 learning_modes:
-- full_time: 96
+- full_time: '96'
   name: Practical
   part_time: ''
-- full_time: 174
+- full_time: '174'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Project
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: Unable to propose, conceptualise, plan, develop, create and integrate using
   digital mixed media tools.'
@@ -74,6 +74,7 @@ assessment_criteria:
 - '50%-59%: As above, incorporating creative approaches to artefacts and tool use.'
 - '60%-69%: As above and be able to problem-solve in a ``live'''' setting.'
 - '70%-100%: All the above to an excellent level.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"Create Digital Music." http://createdigitalmusic.com/'
@@ -84,7 +85,5 @@ requested_resources:
 - 'CREATIVE AND PERFORMING: Special Purpose Area'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,12 +1,12 @@
 reference: A07853
 full_title: ICT for Forestry
 short_title: ICT for Forestry
-credits: 5
+credits: '5'
 level: Introductory
 author: CCAHILL
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Forestry
 aim: This module aims to provide the student with skills to expand their written and
   oral communications skills in an academic and professional manner, for both the
@@ -17,14 +17,14 @@ programmes:
 - timetable: ICTS-0001
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ICTS-0001
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 prerequisites: []
 corequisites: []
@@ -48,33 +48,33 @@ learning_and_teaching_methods:
 - 'Computer-based practicals: to provide the student with the skills and confidence
   to be able to perform applications tasks in a computing environment.'
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 65
+  weighting: '65'
   due_weeks: []
   comment: ''
 - learning_outcomes: '2'
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -86,6 +86,7 @@ assessment_criteria:
   and technical skills.'
 - '70%-100%: Excellent communication of material supported by the use of correct conventions
   and excellent use of technology.'
+speccial_regulations: []
 essential_material:
 - '"WIT Online Learning Platform." moodle.wit.ie'
 supplementary_material:
@@ -98,7 +99,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

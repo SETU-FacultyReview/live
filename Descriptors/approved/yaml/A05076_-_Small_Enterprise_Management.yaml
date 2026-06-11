@@ -1,11 +1,11 @@
 reference: A05076
 full_title: Small Enterprise Management
 short_title: Small Enterprise Management
-credits: 5
+credits: '5'
 level: Intermediate
 author: TGRANT
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: To familiarise students with the key concepts and business theories relating
@@ -14,8 +14,8 @@ programmes:
 - timetable: ENTR-0003
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -43,27 +43,27 @@ learning_and_teaching_methods:
 - Class discussion on lecture content.
 - Case study analysis and discussion.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Lecture
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 3,
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,4,5,6.
-  main: false
+  main: 'false'
   name: Project
-  weighting: 70
+  weighting: '70'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -91,13 +91,12 @@ assessment_criteria:
   awareness, and aptitude in carrying out and reporting on practical/professional
   tasks. Show initiative, individual thought, and enthusiasm in self study and independent
   learning.'
+speccial_regulations: []
 essential_material:
 - 'O''Hara, B. . _Entrepreneurship in Ireland_. 1st ed.. Ireland: Gill and Macmillan
   Ltd, 2011.'
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

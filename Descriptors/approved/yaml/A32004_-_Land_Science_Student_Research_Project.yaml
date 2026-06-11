@@ -1,11 +1,11 @@
 reference: A32004
 full_title: Land Science Student Research Project
 short_title: Land Science Research Project
-credits: 10
+credits: '10'
 level: Advanced
 author: KMURPHY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module consists of a research and development project, which aims to give
@@ -22,26 +22,26 @@ programmes:
 - timetable: SCIE-0071
   code: WD_SAGRI_B
   name: Bachelor of Science (Honours) in Agricultural Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: SCIE-0071
   code: WD_SBSAG_B
   name: Bachelor of Science (Honours) in Land Management (in Agriculture)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: SCIE-0071
   code: WD_SBSFO_B
   name: Bachelor of Science (Honours) in Land Management (in Forestry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: SCIE-0071
   code: WD_SBSHO_B
   name: Bachelor of Science (Honours) in Land Management (in Horticulture)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites:
 - Land Science Research Methods
@@ -66,30 +66,30 @@ learning_and_teaching_methods:
 - Thesis.
 - Oral presentations.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 108
+- full_time: '108'
   name: Practical
   part_time: ''
-- full_time: 150
+- full_time: '150'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Project
-  weighting: 80
+  weighting: '80'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -114,6 +114,7 @@ assessment_criteria:
   of research output. Excellent standard and knowledge of research topic evident through
   superior report writing and oral presentation skills, supplemented by an ability
   to present this knowledge to a very high technical standard.'
+speccial_regulations: []
 essential_material:
 - 'Bell, J. and S. Walters. _Doing Your Research Project; A guide for first-time researchers_.
   6th ed. UK: Open University, 2014.'
@@ -126,7 +127,5 @@ requested_resources:
 - 'Room Type: Chemistry Lab'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

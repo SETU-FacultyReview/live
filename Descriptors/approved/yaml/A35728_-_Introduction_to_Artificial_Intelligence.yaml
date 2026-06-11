@@ -1,11 +1,11 @@
 reference: A35728
 full_title: Introduction to Artificial Intelligence
 short_title: Intro to AI
-credits: 5
+credits: '5'
 level: Introductory
 author: ADAVY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Mathematics and Physics
 aim: This Module is an introductory Module, which focuses on inspiring students' interest
@@ -22,8 +22,8 @@ programmes:
 - timetable: COMP-0677
   code: WD_KACMI_B
   name: BSc (Hons) in Applied Computing (International)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -59,30 +59,30 @@ learning_and_teaching_methods:
   critical thinking and active participation in the learning process
 - Self-directed learning will also be encouraged throughout the duration of the module.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 82
+- full_time: '82'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 70
+  weighting: '70'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -97,6 +97,7 @@ assessment_criteria:
 - '60-69%: All the above and in addition, can explain the differences between different
   learning methods and make use of their performance measurement metrics.'
 - '70-100%: All previous to an excellent level.'
+speccial_regulations: []
 essential_material:
 - '"Khan Academy." https://www.khanacademy.org/'
 - '"W3 Schools on-line web tutorials." https://www.w3schools.com/'
@@ -108,7 +109,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

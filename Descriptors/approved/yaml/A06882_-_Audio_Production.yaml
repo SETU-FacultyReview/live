@@ -1,11 +1,11 @@
 reference: A06882
 full_title: Audio Production
 short_title: Audio Production
-credits: 5
+credits: '5'
 level: Intermediate
 author: CDUNPHY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Media Production
 aim: This module teaches the fundamentals of sound, sound recording and multi-track
@@ -16,14 +16,14 @@ programmes:
 - timetable: COMP-0592
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: COMP-0592
   code: WD_KMULA_D
   name: Bachelor of Science in Multimedia Applications Development
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -61,27 +61,27 @@ learning_and_teaching_methods:
 - Accessible, professional sound proofed recording studios with professional microphones
   and audio workstations (Vibe FM studios).
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Workshop
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 60
+  weighting: '60'
   due_weeks: []
   comment: ''
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -95,6 +95,7 @@ assessment_criteria:
   An ability to employ a comprehensive range of specialised skills.'
 - '70%-100%: All the above to an excellent level with the ability to analyse and design
   solutions to a high standard for a range of complex or unseen problems.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"Ableton Live Youtube Channel." https://www.youtube.com/user/AbletonInc'
@@ -108,7 +109,5 @@ requested_resources:
 - 'EQUIPMENT: MAC PCs'
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

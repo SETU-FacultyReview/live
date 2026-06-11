@@ -1,11 +1,11 @@
 reference: A11149
 full_title: Project Semester 4
 short_title: Project Semester 4
-credits: 5
+credits: '5'
 level: Introductory
 author: EREADE
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Automotive, Automation and IoT
 aim: This module will introduce the student to the basics of professional ethics and
@@ -17,20 +17,20 @@ programmes:
 - timetable: PROJ-0159
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: PROJ-0159
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: PROJ-0159
   code: WD_KINTT_BI
   name: BSc (Hons) in the Internet of Things (International)
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -59,30 +59,30 @@ learning_and_teaching_methods:
 - Cooperative learning/peer tutoring.
 - Self-directed learning.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: Project
-  weighting: 60
+  weighting: '60'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,3,4,5,6
-  main: false
+  main: 'false'
   name: Project
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -102,12 +102,11 @@ assessment_criteria:
   models. Shows synthesis through the implementation of cross-strand innovative artifacts.
   Moving towards a general framework for check-listing legal and ethical issues for
   such artifacts.
+speccial_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

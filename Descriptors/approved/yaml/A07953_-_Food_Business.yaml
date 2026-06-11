@@ -1,11 +1,11 @@
 reference: A07953
 full_title: Food Business
 short_title: Food Business
-credits: 5
+credits: '5'
 level: Intermediate
 author: EDUGGAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: This course aims to introduce the student to the strategy of food business in
@@ -16,14 +16,14 @@ programmes:
 - timetable: BUSS-0045
   code: WD_SFDSC_D
   name: Bachelor of Science in Food Science with Business
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: BUSS-0045
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -48,27 +48,27 @@ learning_and_teaching_methods:
 - Self study of assigned readings and texts.
 - Pre-class preparation of readings and case-studies for in-class discussion.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 70
+  weighting: '70'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -83,12 +83,11 @@ assessment_criteria:
   a high level of competence and efficiency in theoretical areas of this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
+speccial_regulations: []
 essential_material:
 - '"Module Food Business." WIT Moodle. https://moodle.wit'
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

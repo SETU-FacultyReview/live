@@ -1,11 +1,11 @@
 reference: A12201
 full_title: Criminal Evidence
 short_title: Criminal Evidence
-credits: 5
+credits: '5'
 level: Advanced
 author: DGKEATING
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Forensics and Security
 aim: This module explores the rules and principles that regulate the pre-trial and
@@ -14,26 +14,26 @@ programmes:
 - timetable: CRIM-0008
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: CRIM-0008
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: CRIM-0008
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: CRIM-0008
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 prerequisites: []
 corequisites: []
@@ -64,33 +64,33 @@ learning_outcomes:
 learning_and_teaching_methods:
 - Lectures, private reading, seminars, research assignments.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Lecture
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 assessment_criteria:
 - '<40%: The student does not meet any of the requisite learning outcomes of the module.'
 - '40%-49%: The student shows limited consideration of main points and concepts which
@@ -105,6 +105,7 @@ assessment_criteria:
 - '70%-100%: The student demonstrates an excellent level of critical analysis, originality
   of thought and a comprehensive knowledge base. The student engages in excellent
   levels of critical evaluation and synthesis of the relevant issues.'
+speccial_regulations: []
 essential_material:
 - 'Heffernan, L and U Ni Raifeartaigh. _Evidence in Criminal Trials_. Dublin: Bloomsbury
   Professional, 2014.'
@@ -116,7 +117,5 @@ supplementary_material:
 - 'McGrath, D. _Evidence_. Dublin: Round Hall Brehon, 2014.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

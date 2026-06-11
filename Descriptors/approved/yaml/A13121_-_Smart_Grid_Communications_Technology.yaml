@@ -1,11 +1,11 @@
 reference: A13121
 full_title: Smart Grid Communications Technology
 short_title: Smart Grid Comms Technology
-credits: 5
+credits: '5'
 level: Intermediate
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Data Communications
 aim: The aim of this module is to direct the student towards a professional level
@@ -17,32 +17,32 @@ programmes:
 - timetable: ''
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: ELEC-0042
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours) in Electrical Engineering
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: ELEC-0042
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: ''
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: ''
   code: WD_KINTT_BI
   name: BSc (Hons) in the Internet of Things (International)
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -73,36 +73,36 @@ learning_and_teaching_methods:
 - Data transmission and retrieval QoS (theory and practical)
 - Self-directed learning, tutorials, moodle and recommended software
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 6,7
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,5,7
-  main: false
+  main: 'false'
   name: Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -123,6 +123,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+speccial_regulations: []
 essential_material:
 - 'Huntington, J. _Show Networks and Control Systems_. .: Zircon Designs Press, 2013.'
 - 'Mitzner, K. _Complete PCB Design Using OrCAD Capture and PCB Editor_. .: Elsevier
@@ -132,7 +133,5 @@ supplementary_material:
 - 'Self, D. _The Design of Act__ive Crossovers_. .: Elsevier Inc., 2011.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

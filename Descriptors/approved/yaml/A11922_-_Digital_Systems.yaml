@@ -1,11 +1,11 @@
 reference: A11922
 full_title: Digital Systems
 short_title: Digital Systems
-credits: 5
+credits: '5'
 level: Intermediate
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Electronics
 aim: This module follows on from the module called Finite State Machines and builds
@@ -21,14 +21,14 @@ programmes:
 - timetable: ''
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: DSYS-0001
   code: WD_EONIC_B
   name: Bachelor of Engineering (Honours) in Electronic Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -57,34 +57,34 @@ learning_and_teaching_methods:
 - Practicals /Project
 - Integrated demonstrations and examples
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,5,6
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -105,6 +105,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+speccial_regulations: []
 essential_material:
 - 'Floyd, T. _Digital Fundamentals_. 11th ed.. New Jersey: Pearson Education, 2015.'
 - 'Lewin, D. and D. Protheroe. _Design of Logic Systems_. 2nd ed.. London: Chapman
@@ -121,7 +122,5 @@ supplementary_material:
 requested_resources:
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

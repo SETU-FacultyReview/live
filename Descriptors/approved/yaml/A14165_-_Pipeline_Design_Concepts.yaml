@@ -1,11 +1,11 @@
 reference: A14165
 full_title: Pipeline Design Concepts
 short_title: Pipeline Design Concepts
-credits: 5
+credits: '5'
 level: Introductory
 author: SORIORDAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Media Production
 aim: This module provides the students with an introduction to the practical processes
@@ -18,14 +18,14 @@ programmes:
 - timetable: COMP-0589
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0589
   code: WD_KMULA_D
   name: Bachelor of Science in Multimedia Applications Development
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -52,28 +52,28 @@ learning_and_teaching_methods:
 - The practical element allows the student to put into practice the theoretical concepts
   covered in the lectures.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: '1'
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 2,3,4
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -86,6 +86,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Dunlop, R. _Production Pipeline Fundamentals for Film and Games_. 1st ed. London:
@@ -98,7 +99,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

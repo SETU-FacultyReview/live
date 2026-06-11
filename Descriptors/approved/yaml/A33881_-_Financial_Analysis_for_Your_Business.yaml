@@ -1,11 +1,11 @@
 reference: A33881
 full_title: Financial Analysis for Your Business
 short_title: Financial Analysis for Bus.
-credits: 5
+credits: '5'
 level: Intermediate
 author: MWAGENAAR
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: This module aims to provide students with a basic knowledge of accounting in
@@ -16,14 +16,14 @@ programmes:
 - timetable: FINA-0112
   code: WD_SHORT_D
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: FINA-0112
   code: WD_SHORT_DX
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -46,27 +46,27 @@ learning_and_teaching_methods:
 - Self study of assigned readings, exercises, and texts.
 - Pre-class preparation of readings and exercises for class discussion.
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Lecture
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,3
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,3
-  main: false
+  main: 'false'
   name: Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -83,6 +83,7 @@ assessment_criteria:
   areas of this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrates authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
+speccial_regulations: []
 essential_material:
 - 'Atrill, P. and E. McLaney. _Accounting and Finance for Non-Specialists_. Latest.
   Harlow, UK: Pearson, 2022.'
@@ -95,7 +96,5 @@ requested_resources:
 - 'Room Type: Computer Lab'
 - 'EQUIPMENT: Blackboard'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

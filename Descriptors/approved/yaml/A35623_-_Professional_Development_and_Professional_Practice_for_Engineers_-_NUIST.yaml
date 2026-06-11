@@ -1,11 +1,11 @@
 reference: A35623
 full_title: Professional Development and Professional Practice for Engineers - NUIST
 short_title: Prof Dev & Prof Prac for Eng (NUIST)
-credits: 5
+credits: '5'
 level: Postgraduate
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Engineering Practise
 aim: The professional development and Professional Practice for Engineers module is
@@ -16,50 +16,50 @@ programmes:
 - timetable: ''
   code: WD_CINNT_G
   name: Postgraduate Diploma in Science in Innovative Technology Engineering
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ''
   code: WD_CINNT_R
   name: Master of Science in Innovative Technology Engineering
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ''
   code: WD_EELEN_G
   name: Postgraduate Diploma in Engineering in Electronic Engineering
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ''
   code: WD_EELEN_R
   name: Master of Engineering in Electronic Engineering
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ''
   code: WD_EELEN_RI
   name: MEng in Electronic Information Systems
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: ''
   code: WD_EELEN_RI
   name: MEng in Electronic Information Systems
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: ''
   code: WD_EELEN_RI
   name: MEng in Electronic Information Systems
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: ''
   code: WD_EELEN_RI
   name: MEng in Electronic Information Systems
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -89,36 +89,36 @@ learning_and_teaching_methods:
 - Reflective Logbook of activities
 - Presentation skills
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Essay
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -136,6 +136,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '., X. "This module is based on guest lectures, discussion forums, academic papers
@@ -143,7 +144,5 @@ supplementary_material:
   _._. (.): ..'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

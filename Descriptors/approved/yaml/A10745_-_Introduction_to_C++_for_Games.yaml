@@ -1,11 +1,11 @@
 reference: A10745
 full_title: Introduction to C++ for Games
 short_title: Introduction to C++ for Games
-credits: 5
+credits: '5'
 level: Intermediate
 author: BLYNG
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Game Development
 aim: This module will introduce the student to the fundamentals of programming for
@@ -16,20 +16,20 @@ programmes:
 - timetable: COMP-0669
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: COMP-0669
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: COMP-0669
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 prerequisites: []
 corequisites: []
@@ -59,30 +59,30 @@ learning_and_teaching_methods:
   module materials, diagnose their learning needs and conduct research to satisfy
   these needs.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 48
+- full_time: '48'
   name: Practical
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1, 2, 3, 4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -103,6 +103,7 @@ assessment_criteria:
   specialised skills when developing C++ games, generalise key concepts and deploy
   solutions to a high standard for a range of complex, specialised and unforeseen
   problems through the use and modification of advanced skills, tools and/or techniques.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Dawson, M. _Beginning C++ Through Game Programming_. New York: Cengage Learning
@@ -112,7 +113,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

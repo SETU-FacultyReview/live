@@ -1,11 +1,11 @@
 reference: A09481
 full_title: Forestry Placement
 short_title: Forestry Placement
-credits: 30
+credits: '30'
 level: Introductory
 author: TKENT
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: The BSc in Forestry values experience-based learning opportunities for students,
@@ -28,8 +28,8 @@ programmes:
 - timetable: PLAC-0149
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 prerequisites: []
 corequisites: []
@@ -99,28 +99,28 @@ learning_and_teaching_methods:
 - Working within a structured work environment, following policies, procedures and
   best practice.
 learning_modes:
-- full_time: 810
+- full_time: '810'
   name: Placement
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,6,7
-  main: false
+  main: 'false'
   name: Portfolio
   weighting: Pass/Fail
   due_weeks: []
   comment: ''
 - learning_outcomes: '8'
-  main: false
+  main: 'false'
   name: Presentation
   weighting: Pass/Fail
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4,5
-  main: false
+  main: 'false'
   name: Supervisor's Report
   weighting: Pass/Fail
   due_weeks: []
@@ -131,6 +131,7 @@ assessment_criteria:
 - 'Pass: Minimum period of at least 15 weeks placement completed, satisfactory Supervisor
   Evaluation Report submitted, and assessments and documents related to the learning
   outcomes, all to an acceptable standard and submitted within deadlines.'
+speccial_regulations: []
 essential_material:
 - '"WIT Moodle: Forestry Placement folder: preparation, employment and assessment
   documentation and resources." https://moodle.wit.ie/login/index.php. https://moodle.wit.ie/login/index.php'
@@ -138,7 +139,5 @@ supplementary_material: []
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

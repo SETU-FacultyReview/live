@@ -1,11 +1,11 @@
 reference: A13321
 full_title: Pharmacology, Drug Design and Synthesis
 short_title: Pharmacol, Drug Design & Synth
-credits: 5
+credits: '5'
 level: Advanced
 author: AHAYDEN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Pharmaceutical Science
 aim: This module covers an overview of pharmacology, with an emphasis on the relationship
@@ -16,14 +16,14 @@ programmes:
 - timetable: PHAR-0007
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: PHAR-0007
   code: WD_SQMCH_B
   name: Bachelor of Science (Honours) in Applied Chemistry with Quality Management
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -69,17 +69,17 @@ learning_and_teaching_methods:
 - Seminars.
 - Self-directed study.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
-  part_time: 36
-- full_time: 99
+  part_time: '36'
+- full_time: '99'
   name: Independent Learning
-  part_time: 99
+  part_time: '99'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: No understanding of the basic principles of pharmacology, drug design and
   synthesis.'
@@ -95,6 +95,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of pharmacology, drug design and synthesis,
   predict general trends in behaviour, including exceptional behaviour and critically
   evaluate and relate topics that overlap all of the topics.'
+speccial_regulations: []
 essential_material:
 - 'Aitken, R.A. and S.N. Kilenyi. _Asymmetic Synthesis_. 2nd ed. London: Blackie Academic,
   2000.'
@@ -105,7 +106,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

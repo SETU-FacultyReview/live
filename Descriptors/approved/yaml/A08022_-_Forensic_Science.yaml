@@ -1,11 +1,11 @@
 reference: A08022
 full_title: Forensic Science
 short_title: Forensic Science
-credits: 5
+credits: '5'
 level: Introductory
 author: KGRENNAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Analytical Science
 aim: This module will introduce the student to the world of the forensic scientist.
@@ -23,26 +23,26 @@ programmes:
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: FORS-0017
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: FORS-0017
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: FORS-0017
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -81,30 +81,30 @@ learning_and_teaching_methods:
 - Hands-on practical activities.
 - Additional e-learning resources provided via Moodle.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Tutorial/Problem Sheets
-  weighting: 70
+  weighting: '70'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -124,6 +124,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of all learning outcomes. Will display
   advanced competence and independence with regards to an understanding of the basic
   practices of forensic science.'
+speccial_regulations: []
 essential_material:
 - '"Forensic Science module Moodle page." http://moodle.wit.ie'
 - 'Jackson, A.R.W. _Forensic Science_. Harlow: Pearson Prentice Hall, 2008.'
@@ -136,7 +137,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

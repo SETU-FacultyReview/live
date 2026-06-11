@@ -1,11 +1,11 @@
 reference: A17762
 full_title: French Language Level B1.3
 short_title: French Language Level B1.3
-credits: 5
+credits: '5'
 level: Advanced
 author: CODOWDSMYTH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Arts
 cluster: Humanities
 aim: 'Aim: The module aims to: give the student an understanding of the main points
@@ -21,32 +21,32 @@ programmes:
 - timetable: FREN-0001
   code: WD_BBFRN_B
   name: Bachelor of Business (Honours) with French
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: ''
 - timetable: FREN-0003
   code: WD_BINTB_B
   name: Bachelor of Arts (Honours) in International Business
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: ''
 - timetable: FREN-0017
   code: WD_HARTS_B
   name: Bachelor of Arts (Honours)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: ''
 - timetable: FREN-0017
   code: WD_HPSYC_B
   name: Bachelor of Arts (Honours) in Psychology
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: ''
 - timetable: FREN-0017
   code: WD_KCOMC_D
   name: Bachelor of Science in Software Systems Development
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: ''
 prerequisites: []
 corequisites: []
@@ -109,10 +109,11 @@ learning_and_teaching_methods:
 learning_modes: []
 assessment_methods:
 - learning_outcomes: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 assessment_criteria: []
+speccial_regulations: []
 essential_material:
 - '"websites."'
 - '"websites." www.afp.com/francais'
@@ -137,7 +138,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

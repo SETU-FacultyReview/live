@@ -1,11 +1,11 @@
 reference: A37082
 full_title: Research Project (Pharma L7)
 short_title: Research Project (Pharma L7)
-credits: 5
+credits: '5'
 level: Intermediate
 author: ''
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module consists of a research and development project, which will give students
@@ -15,8 +15,8 @@ programmes:
 - timetable: RESA-0220
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -34,36 +34,36 @@ learning_and_teaching_methods:
 - Project work.
 - Training in green and sustainable laboratory practices.
 learning_modes:
-- full_time: 10
+- full_time: '10'
   name: Tutorial
   part_time: ''
-- full_time: 50
+- full_time: '50'
   name: Practical
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Final Project
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,5
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 45
+  weighting: '45'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -77,6 +77,7 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
   of all learning outcomes, predict general trends in behaviour including exceptional
   behaviour, and critically evaluate and relate topics.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"My Green Lab Ambassador Programme." https://www.mygreenlab.org/ambassador-program.html'
@@ -84,7 +85,5 @@ requested_resources:
 - 'Room Type: Chemistry Lab'
 - IT Lab:Computer
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

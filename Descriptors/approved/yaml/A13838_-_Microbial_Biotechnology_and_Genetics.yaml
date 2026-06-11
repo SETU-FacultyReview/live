@@ -1,11 +1,11 @@
 reference: A13838
 full_title: Microbial Biotechnology and Genetics
 short_title: Microbial Biotech. & Genetics
-credits: 5
+credits: '5'
 level: Introductory
 author: ROMAHONY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Biology
 aim: The aim of this module is to introduce the principles of microbial molecular
@@ -17,14 +17,14 @@ programmes:
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: MBIO-0006
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -61,28 +61,28 @@ learning_and_teaching_methods:
 - Students participate in online MCQ quizzes after reviewing each virtual storyboard.
 - Student reflection is conducted using group forum discussions.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 6,7
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -95,6 +95,7 @@ assessment_criteria:
 - '60%-69%: In addition, good critical thinking skills and showing a high level of
   competence and efficiency in theoretical and practical microbial biotechnology.'
 - '70%-100%: All of the above to an excellent level.'
+speccial_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -115,7 +116,5 @@ requested_resources:
 - 'EQUIPMENT: Blackboard'
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

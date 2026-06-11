@@ -1,11 +1,11 @@
 reference: A17698
 full_title: A.C. Circuit Theory
 short_title: A.C. Circuit Theory
-credits: 5
+credits: '5'
 level: Introductory
 author: PJCREGG
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Electrical Engineering
 aim: This module follows on from D.C. Circuit Theory. From RC & RL step response,
@@ -18,26 +18,26 @@ programmes:
 - timetable: ''
   code: WD_EAUTO_B
   name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: ''
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: ELTR-0015
   code: WD_EONIC_B
   name: Bachelor of Engineering (Honours) in Electronic Engineering
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: ''
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -55,34 +55,34 @@ learning_and_teaching_methods:
 - Lecture / Lectorial
 - Laboratory
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: '5'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -103,6 +103,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+speccial_regulations: []
 essential_material:
 - 'Hughes, E. _Electrical and Electronic Technology_. 12th ed.. .: Pearson, 2016.'
 supplementary_material:
@@ -111,7 +112,5 @@ supplementary_material:
 requested_resources:
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

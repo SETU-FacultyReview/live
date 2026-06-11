@@ -1,11 +1,11 @@
 reference: A07542
 full_title: Agriculture Project
 short_title: Agriculture Project
-credits: 5
+credits: '5'
 level: Intermediate
 author: TWOODCOCK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: The module is designed to equip students with the skills necessary to organise
@@ -20,8 +20,8 @@ programmes:
 - timetable: PROJ-0015
   code: WD_SAGUL_D
   name: Bachelor of Science in Agriculture
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -52,49 +52,49 @@ learning_and_teaching_methods:
 - Tutorial and assignments relating to data analysis and formatting.
 - Training in communication skills including presentation skills.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,3,4
-  main: true
+  main: 'true'
   name: Final Project
-  weighting: 35
+  weighting: '35'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 65
+  weighting: '65'
 - learning_outcomes: 5,6,7
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 - learning_outcomes: '2'
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 5,6,7
-  main: false
+  main: 'false'
   name: Supervisor's Report
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 5,6,7
-  main: false
+  main: 'false'
   name: Participation
-  weighting: 5
+  weighting: '5'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -111,6 +111,7 @@ assessment_criteria:
 - '70%-100%: The learner will be able to make detailed recommendations based on analysis
   of results, compose an excellent report of the project and give an excellent presentation
   of the final project report.'
+speccial_regulations: []
 essential_material:
 - 'Bell, J. _Doing Your Research Project_. Milton Keynes, UK: Open University Press
   (McGraw-Hill Education), 2010.'
@@ -120,7 +121,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

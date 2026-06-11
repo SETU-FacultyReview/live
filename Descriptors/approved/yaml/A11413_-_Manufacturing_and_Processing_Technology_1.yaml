@@ -1,11 +1,11 @@
 reference: A11413
 full_title: Manufacturing and Processing Technology 1
 short_title: Manufac & Process Technology 1
-credits: 10
+credits: '10'
 level: Introductory
 author: EOWENS
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Pharmaceutical Science
 aim: This module provides an introduction to the processes, equipment and unit operations
@@ -16,8 +16,8 @@ programmes:
 - timetable: MANU-0001
   code: WD_SGMPT_C
   name: Higher Certificate in Science in Good Manufacturing Practice and Technology
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -51,28 +51,28 @@ learning_outcomes:
 learning_and_teaching_methods:
 - Lectures.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
-  part_time: 12
-- full_time: 12
+  part_time: '12'
+- full_time: '12'
   name: Practical
-  part_time: 12
-- full_time: 99
+  part_time: '12'
+- full_time: '99'
   name: Independent Learning
-  part_time: 99
+  part_time: '99'
 assessment_methods:
 - learning_outcomes: 5,6,7,8
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -81,6 +81,7 @@ assessment_criteria:
 - '50%-59%: Demonstrate satisfactory knowledge of the main issues of the subject matter.'
 - '60%-69%: Demonstrate good knowledge of the subject matter.'
 - '70%-100%: Demonstrate knowledge and understanding of the subject matter.'
+speccial_regulations: []
 essential_material:
 - 'Lee, S. and G. Robinson. _Process development:fine chemicals from grams to kilograms_.
   1st ed.. Oxford: Oxford University Press, 1995.'
@@ -90,7 +91,5 @@ essential_material:
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

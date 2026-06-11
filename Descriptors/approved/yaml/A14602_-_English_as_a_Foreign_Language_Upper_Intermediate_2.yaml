@@ -1,11 +1,11 @@
 reference: A14602
 full_title: 'English as a Foreign Language: Upper Intermediate 2'
 short_title: 'EFL: Upper Intermediate 2'
-credits: 5
+credits: '5'
 level: Introductory
 author: UCUMMINS
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Arts
 cluster: English Language
 aim: This module aims to facilitate language learning for non-native speakers of English
@@ -15,8 +15,8 @@ programmes:
 - timetable: ''
   code: WD_BINTM_B
   name: Bachelor of Arts (Honours) in International Management
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: ''
   code: WD_CARCH_B
@@ -39,80 +39,80 @@ programmes:
 - timetable: ''
   code: WD_CCONM_B
   name: Bachelor of Science (Honours) in Construction Management and Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: ''
   code: WD_CQTSU_B
   name: Bachelor of Science (Honours) in Quantity Surveying
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: ''
   code: WD_ECIEN_D
   name: Bachelor of Engineering in Civil Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: ''
   code: WD_ECIVE_D
   name: Bachelor of Engineering in Civil Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: ENGL-0085
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ENGL-0085
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ''
   code: WD_FTOUR_C
   name: Higher Certificate in Business in (Tourism)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: ''
   code: WD_HTOMA_B
   name: Bachelor of Arts (Honours) in Tourism Management
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: ENGL-0085
   code: WD_KACMI_B
   name: BSc (Hons) in Applied Computing (International)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ENGL-0085
   code: WD_KDEVP_BI
   name: BSc (Hons) in Software Engineering
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ENGL-0085
   code: WD_KINTT_BI
   name: BSc (Hons) in the Internet of Things (International)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ''
   code: WD_OHOSM_B
   name: Bachelor of Arts (Honours) in Hospitality Management
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: ''
   code: WD_OHOSP_C
   name: Higher Certificate in Arts in (Hospitality Studies)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -148,33 +148,33 @@ learning_and_teaching_methods:
   and foster a variety of learning and teaching styles and/or promote learner motivation
   may be employed.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
-  part_time: 36
-- full_time: 99
+  part_time: '36'
+- full_time: '99'
   name: Independent Learning
-  part_time: 99
+  part_time: '99'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,5
-  main: false
+  main: 'false'
   name: Oral Examination
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,3,4,5
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -195,6 +195,7 @@ assessment_criteria:
   evident across the skills areas.'
 - 'Below 40%: The student has not demonstrated the ability to understand, produce,
   apply or manipulate the language at even a basic level in the skills areas.'
+speccial_regulations: []
 essential_material:
 - 'Latham-Koenig, C. and C. Oxenden. _English File Upper Intermediate Student''s Book_.
   3rd ed.. England: Oxford University Press, 2014.'
@@ -224,7 +225,5 @@ supplementary_material:
   Oxford University Press, 20XX.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

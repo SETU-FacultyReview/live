@@ -1,12 +1,12 @@
 reference: A10022
 full_title: Biodiversity Management
 short_title: Biodiversity Management
-credits: 5
+credits: '5'
 level: Advanced
 author: NMCCARTHY
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Horticulture
 aim: This module is a general introduction to the management and conservation of biological
   diversity. The module is divided into four parts. (1) This part provides an outline
@@ -24,20 +24,20 @@ programmes:
 - timetable: MGTH-0015
   code: WD_SBSAG_B
   name: Bachelor of Science (Honours) in Land Management (in Agriculture)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: MGTH-0015
   code: WD_SBSFO_B
   name: Bachelor of Science (Honours) in Land Management (in Forestry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: MGTH-0015
   code: WD_SBSHO_B
   name: Bachelor of Science (Honours) in Land Management (in Horticulture)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -62,30 +62,30 @@ learning_and_teaching_methods:
 - Independent learning.
 - Field trips.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: Project
-  weighting: 70
+  weighting: '70'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5,6
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -113,6 +113,7 @@ assessment_criteria:
   awareness, and aptitude in carrying out and reporting on practical/professional
   tasks. Show initiative, individual thought, and enthusiasm in self study and independent
   learning.'
+speccial_regulations: []
 essential_material:
 - 'Gaston, K.J. and J.I. Spicer. _Biodiversity: An Introduction_. 2nd ed. UK: Blackwell
   Science, 2003.'
@@ -125,8 +126,5 @@ supplementary_material: []
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
-
+track_changes: 'true'
 

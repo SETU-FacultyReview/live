@@ -1,11 +1,11 @@
 reference: A14173
 full_title: ICT Skills Studio
 short_title: ICT Skills Studio
-credits: 5
+credits: '5'
 level: Intermediate
 author: EDELEASTAR
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Software and Web Development
 aim: Continue to develop the students' programming skills with a particular focus
@@ -17,8 +17,8 @@ programmes:
 - timetable: COMP-0521
   code: WD_KCOSC_G
   name: Higher Diploma in Science in Computer Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -40,24 +40,24 @@ learning_and_teaching_methods:
 - Worked Laboratory Exercises.
 - Short Lectures to outline specific concepts.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -70,6 +70,7 @@ assessment_criteria:
 - '60%-69%: All of the above including a simple model of the application structure.'
 - '70%-100%: All the above to an excellent level. Incorporate Unit Tests for a specific
   subset of an application.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Richard-Foy, J. _Play Framework Essentials_. New York: Packt Publishing, 2014.'
@@ -77,7 +78,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

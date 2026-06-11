@@ -1,11 +1,11 @@
 reference: A06609
 full_title: Programming Fundamentals 1
 short_title: Programming Fundamentals 1
-credits: 5
+credits: '5'
 level: Introductory
 author: ROCONNOR
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Software and Web Development
 aim: This module will introduce the student to fundamental programming techniques.
@@ -17,92 +17,92 @@ programmes:
 - timetable: COMP-0008
   code: WD_BCSEC_SP
   name: Diploma in Computing with Security and Forensics
-  stage: 3
-  semester: 1
+  stage: '3'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_KACMI_B
   name: BSc (Hons) in Applied Computing (International)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_KCOMC_D
   name: Bachelor of Science in Software Systems Development
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_KCOMP_D
   name: BSc in Applied Computing
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0008
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_KDEVP_BI
   name: BSc (Hons) in Software Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_KINFT_D
   name: Bachelor of Science in Information Technology
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0008
   code: WD_KINTT_BI
   name: BSc (Hons) in the Internet of Things (International)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0008
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -133,30 +133,30 @@ learning_and_teaching_methods:
   approach will be adopted during the practical sessions.
 - Self-directed learning will be encouraged throughout the duration of the module.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 12
-- full_time: 36
+  part_time: '12'
+- full_time: '36'
   name: Practical
-  part_time: 12
-- full_time: 75
+  part_time: '12'
+- full_time: '75'
   name: Independent Learning
-  part_time: 111
+  part_time: '111'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,6
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,4,5,6
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 70
+  weighting: '70'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -173,6 +173,7 @@ assessment_criteria:
   new capabilities. Starts to see applications in terms of systems of components.'
 - '70%-100%: All previous to an excellent level. Starts to understand the concept
   of effective solutions.'
+speccial_regulations: []
 essential_material:
 - '"Code Academy." http://www.codecademy.com/'
 - '"Khan Academy." https://www.khanacademy.org/'
@@ -192,7 +193,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

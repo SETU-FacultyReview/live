@@ -1,11 +1,11 @@
 reference: A13662
 full_title: Ethics and e-Privacy
 short_title: Ethics and e-Privacy
-credits: 10
+credits: '10'
 level: Postgraduate
 author: PCAREW
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Professional Skills
 aim: This module aims to provide students with a solid grounding in applied ethics
@@ -16,8 +16,8 @@ programmes:
 - timetable: ETHS-0001
   code: WD_KISYP_R
   name: Master of Science in Computing (Information Systems Processes)
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 prerequisites: []
 corequisites: []
@@ -44,36 +44,36 @@ learning_and_teaching_methods:
 - 'Independent learning: Research for the weekly debate sessions and assigned research
   paper/presentation.'
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 24
-- full_time: 24
+  part_time: '24'
+- full_time: '24'
   name: Practical
-  part_time: 24
-- full_time: 222
+  part_time: '24'
+- full_time: '222'
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 2,3
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,3
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 assessment_criteria:
 - '<40%: Unable to demonstrate an understanding of basic ethical theory or the ability
   to cogently analyse typical ethical issues.'
@@ -84,6 +84,7 @@ assessment_criteria:
 - '70%-100%: Demonstrate an excellent understanding of ethical theory, and the ability
   to critically analyse, research, debate and choose appropriate professional action
   for complex ethical issues.'
+speccial_regulations: []
 essential_material:
 - 'Baase, S. _A Gift of Fire: Social, Legal, and Ethical Issues for Computing and
   the Internet_. 4th ed. NJ: Prentice Hall, 2012.'
@@ -93,7 +94,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

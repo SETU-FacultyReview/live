@@ -1,11 +1,11 @@
 reference: A10025
 full_title: Financial Management Systems
 short_title: Financial Management Systems
-credits: 5
+credits: '5'
 level: Intermediate
 author: LWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: To provide students with knowledge and practical skills to use financial information
@@ -16,8 +16,8 @@ programmes:
 - timetable: MGTS-0006
   code: WD_SAGUL_D
   name: Bachelor of Science in Agriculture
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -42,17 +42,17 @@ learning_and_teaching_methods:
 - Pre-lecture preparation of readings and exercises for in-class discussion.
 - Self-study of assigned readings, exercises and texts.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: Very little knowledge and understanding of the subject matter. Unable to
   carry out critical thinking or practical skills.'
@@ -66,6 +66,7 @@ assessment_criteria:
   this subject.'
 - '70%-100%: All of the above to an excellent level. Demonstrate authoritative handling
   of complex material and a highly developed and extensive understanding of the subject.'
+speccial_regulations: []
 essential_material:
 - 'Atrill, P. and E. McLaney. _Accounting and Finance for Non-Specialists_. Latest
   Edition. Harlow: Pearson Education, Latest.'
@@ -76,7 +77,5 @@ requested_resources:
 - 'EQUIPMENT: Blackboard'
 - 'EQUIPMENT: MAC PCs'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

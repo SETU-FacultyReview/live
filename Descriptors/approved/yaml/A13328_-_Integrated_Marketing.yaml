@@ -1,11 +1,11 @@
 reference: A13328
 full_title: Integrated Marketing
 short_title: Integrated Marketing
-credits: 5
+credits: '5'
 level: Intermediate
 author: BLYNG
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Business
 aim: The aim of this module is to demonstrate how companies apply marketing concepts
@@ -14,26 +14,26 @@ programmes:
 - timetable: MARK-0193
   code: WD_KCOMC_D
   name: Bachelor of Science in Software Systems Development
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: MARK-0193
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: MARK-0193
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: MARK-0193
   code: WD_KMULM_B
   name: Bachelor of Science (Honours) in Multimedia Applications Development
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -57,30 +57,30 @@ learning_and_teaching_methods:
 - Self-directed learning activities will require students to reflect upon the module
   materials, diagnose their learning needs and conduct research to satisfy these needs.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,4,5
-  main: false
+  main: 'false'
   name: Project
-  weighting: 60
+  weighting: '60'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,3
-  main: false
+  main: 'false'
   name: Project
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -94,6 +94,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Arthur, C. _Digital Wars: Apple, Google, Microsoft and the Battle for the Internet_.
@@ -108,7 +109,5 @@ requested_resources:
 - 'Room Type: Computer Lab'
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

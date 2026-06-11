@@ -1,11 +1,11 @@
 reference: A01062
 full_title: International Regulatory Affairs
 short_title: Intl. Regulatory Affairs
-credits: 10
+credits: '10'
 level: Postgraduate
 author: MKINSELLA
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Quality, Regulatory and Compliance
 aim: This module will provide the student with an advanced understanding of the procedures
@@ -20,26 +20,26 @@ programmes:
 - timetable: INTR-0017
   code: WD_SANSC_G
   name: Postgraduate Diploma in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: INTR-0017
   code: WD_SANSC_R
   name: Master of Science in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: INTR-0017
   code: WD_SGRAD_XX
   name: Postgraduate Programmes in Science
-  stage: 5
-  semester: 0
+  stage: '5'
+  semester: '0'
   status: E
 - timetable: INTR-0017
   code: WD_SINTR_MA
   name: Certificate in International Regulatory Affairs
-  stage: 5
-  semester: 0
+  stage: '5'
+  semester: '0'
   status: M
 prerequisites: []
 corequisites: []
@@ -82,34 +82,34 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Lecture
-  part_time: 40
+  part_time: '40'
 - full_time: ''
   name: Tutorial
-  part_time: 8
+  part_time: '8'
 - full_time: ''
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: 5,6
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -122,6 +122,7 @@ assessment_criteria:
   affairs in industrial setting.'
 - '70%-100%: Excellent level of critical analysis, originality of thought and comprehensive
   knowledge of the subject area. Able to evaluate and synthesise relevant issues.'
+speccial_regulations: []
 essential_material:
 - '"European Medicines Agency." http://www.ema.europa.eu'
 - '"ICH Guidelines." http://www.ich.org'
@@ -130,7 +131,5 @@ supplementary_material:
 - '"Food and drugs Administration ." www.fda.gov'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

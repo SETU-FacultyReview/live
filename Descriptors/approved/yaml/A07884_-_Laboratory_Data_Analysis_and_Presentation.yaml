@@ -1,11 +1,11 @@
 reference: A07884
 full_title: Laboratory Data Analysis and Presentation
 short_title: Lab Data Analysis & Pres
-credits: 5
+credits: '5'
 level: Introductory
 author: KGRENNAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: IT
 aim: In this module students will develop skills in the use of spreadsheets to visualise,
@@ -20,39 +20,39 @@ programmes:
 - timetable: SCIE-0017
   code: WD_SFDSC_D
   name: Bachelor of Science in Food Science with Business
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: SCIE-0017
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: SCIE-0017
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: SCIE-0017
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: SCIE-0017
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: SCIE-0017
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -84,27 +84,27 @@ learning_and_teaching_methods:
 - Additional tutorial videos based on key skills learned during practicals available
   via e-learning.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 3,4,5,7
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,6
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -124,6 +124,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of all learning outcomes. Will display
   advanced competence and independence with regards to associated laboratory data
   analysis and presentation skills.'
+speccial_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the theory and practical components of the module. In cases where continuous assessment
   has a practical component attendance of at least 75% in the practicals is mandatory.
@@ -137,7 +138,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

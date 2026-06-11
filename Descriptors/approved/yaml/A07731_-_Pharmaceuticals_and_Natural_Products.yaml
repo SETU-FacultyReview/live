@@ -1,11 +1,11 @@
 reference: A07731
 full_title: Pharmaceuticals and Natural Products
 short_title: Pharmaceuticals & Nat Products
-credits: 5
+credits: '5'
 level: Intermediate
 author: CLENNON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Pharmaceutical Science
 aim: This module gives an insight into the structure and synthesis of some natural
@@ -15,14 +15,14 @@ programmes:
 - timetable: PHAR-0005
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: PHAR-0005
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -49,37 +49,37 @@ learning_and_teaching_methods:
 - Laboratory-based practicals.
 - Self-directed study.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 9
+- full_time: '9'
   name: Tutorial
   part_time: ''
-- full_time: 27
+- full_time: '27'
   name: Lab
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Tutorial/Problem Sheets
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -100,6 +100,7 @@ assessment_criteria:
   and natural products, as well as being able to predict general trends, evaluate
   and relate topics. Will display advanced competence and independence with regard
   to associated laboratory skills and practices.'
+speccial_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -120,7 +121,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

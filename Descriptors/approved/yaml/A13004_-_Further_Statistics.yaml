@@ -1,11 +1,11 @@
 reference: A13004
 full_title: Further Statistics
 short_title: Further Statistics
-credits: 5
+credits: '5'
 level: Intermediate
 author: EREADE
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Mathematics and Physics
 aim: The module is designed to consolidate understanding of fundamental statistical
@@ -16,26 +16,26 @@ programmes:
 - timetable: STAT-0054
   code: WD_KCOMC_D
   name: Bachelor of Science in Software Systems Development
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: STAT-0054
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: STAT-0054
   code: WD_KDEVP_BI
   name: BSc (Hons) in Software Engineering
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: COMP-0659
   code: WD_KINFT_D
   name: Bachelor of Science in Information Technology
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -62,34 +62,34 @@ learning_and_teaching_methods:
   for modelling real world problems.
 - The lectures will be used to introduce new topics and their related concepts.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 40
+  weighting: '40'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5,6
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -101,6 +101,7 @@ assessment_criteria:
 - '70%-100%: Be able to analyse and design solutions to a high standard for a range
   of both complex and unforeseen problems through the use and modification of statistical
   skills and tools.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"Further Statistics moodle page." https://moodle.wit.ie'
@@ -111,7 +112,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

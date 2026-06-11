@@ -1,11 +1,11 @@
 reference: A11406
 full_title: Food-borne Pathogens and Molecular Surveillance
 short_title: Food-borne Pathogen & Mol Surv
-credits: 5
+credits: '5'
 level: Intermediate
 author: ROMAHONY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Food Science
 aim: Students will gain a good knowledge of current and emerging food-borne pathogens,
@@ -16,20 +16,20 @@ programmes:
 - timetable: HEAL-0079
   code: WD_HHPRM_B
   name: Bachelor of Arts (Honours) in Health Promotion
-  stage: 4
-  semester: 7
+  stage: '4'
+  semester: '7'
   status: M
 - timetable: FOOD-0022
   code: WD_SFDSC_D
   name: Bachelor of Science in Food Science with Business
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: FOOD-0022
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 prerequisites: []
 corequisites: []
@@ -62,28 +62,28 @@ learning_and_teaching_methods:
 - In-class presentations.
 - Self-study of assigned reading.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 2,3,4,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 40
+  weighting: '40'
 - learning_outcomes: 1,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -94,6 +94,7 @@ assessment_criteria:
 - '60%-69%: Can critically evaluate modern diagnostic tools for tracing food pathogens.'
 - '70%-100%: Can perform all the previous assessment criteria. Can apply that knowledge
   in a global context, and evaluate the relevance from a public health perspective.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"Department of Agriculture Food & the Marine ." www.agriculture.gov.ie'
@@ -104,7 +105,5 @@ requested_resources:
 - 'EQUIPMENT: Blackboard'
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

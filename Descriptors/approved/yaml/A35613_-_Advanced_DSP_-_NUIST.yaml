@@ -1,11 +1,11 @@
 reference: A35613
 full_title: Advanced DSP - NUIST
 short_title: Advanced DSP (NUIST)
-credits: 5
+credits: '5'
 level: Postgraduate
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Science and Mathematics
 aim: The aim of this course is to build a deep understanding of DSP through the medium
@@ -20,20 +20,20 @@ programmes:
 - timetable: ADSP-0001
   code: WD_EELEN_G
   name: Postgraduate Diploma in Engineering in Electronic Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: ADSP-0001
   code: WD_EELEN_R
   name: Master of Engineering in Electronic Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: ''
   code: WD_EELEN_RI
   name: MEng in Electronic Information Systems
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -59,24 +59,24 @@ learning_and_teaching_methods:
   tasks, integrate knowledge (acquired/self-acquired), evaluate and interpret results
 - Virtual Learning Environment support (Moodle)
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 6
+- full_time: '6'
   name: Tutorial
   part_time: ''
-- full_time: 105
+- full_time: '105'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,5,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: '4'
-  main: true
+  main: 'true'
   name: Final Project
-  weighting: 40
+  weighting: '40'
 assessment_criteria:
 - '70% - 100%: The learner has: attained the module learning outcomes at an excellent
   level; demonstrated a comprehensive knowledge of the associated subject; achieved
@@ -92,6 +92,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+speccial_regulations: []
 essential_material:
 - 'Leis, J.W. _Digital Signal Processing Using MATLAB for Students and Researchers_.
   UK: Wiley, 2011.'
@@ -104,7 +105,5 @@ supplementary_material:
   Press, 1999.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

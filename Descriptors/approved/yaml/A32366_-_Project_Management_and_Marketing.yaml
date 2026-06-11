@@ -1,11 +1,11 @@
 reference: A32366
 full_title: Project Management and Marketing
 short_title: Management and Marketing
-credits: 10
+credits: '10'
 level: Postgraduate
 author: JGERAGHTY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: The module will equip participants with methodologies to undertake project planning
@@ -23,14 +23,14 @@ programmes:
 - timetable: PROJ-0204
   code: WD_SGRAD_XX
   name: Postgraduate Programmes in Science
-  stage: 5
-  semester: 0
+  stage: '5'
+  semester: '0'
   status: E
 - timetable: PROJ-0204
   code: WD_SOBIA_R
   name: MSc in Organic and Biological Agriculture
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -69,35 +69,35 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Tutorial
-  part_time: 12
+  part_time: '12'
 - full_time: ''
   name: Field Trips
-  part_time: 12
+  part_time: '12'
 - full_time: ''
   name: Online Delivery
-  part_time: 24
+  part_time: '24'
 - full_time: ''
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4,6,7
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,5,6,7
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -115,6 +115,7 @@ assessment_criteria:
   understanding of all learning outcomes, including project cost measurement, market
   research, and the marketing mix. The student will write and present a related high
   quality case study on project management and a marketing plan for an agri-business.'
+speccial_regulations: []
 essential_material:
 - '"ProjectLibre - Project Management Software." https://www.projectlibre.com/'
 - 'Institute, P.M. _PMBOK - A Guide to the Project Management Body of Knowledge_.
@@ -124,7 +125,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

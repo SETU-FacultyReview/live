@@ -1,11 +1,11 @@
 reference: A29283
 full_title: Spectroscopic Techniques
 short_title: Spectroscopic Techniques
-credits: 5
+credits: '5'
 level: Introductory
 author: CWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Analytical Science
 aim: This module introduces the learner to a variety of spectroscopic techniques encountered
@@ -20,33 +20,33 @@ programmes:
 - timetable: SCIE-0040
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: SCIE-0040
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: SCIE-0040
   code: WD_SMBIO_D
   name: Bachelor of Science in Molecular Biology with Biopharmaceutical Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: SCIE-0040
   code: WD_SPHSC_B
   name: Bachelor of Science (Honours) in Pharmaceutical Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: SCIE-0040
   code: WD_SPHSC_D
   name: Bachelor of Science in Pharmaceutical Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -84,28 +84,28 @@ learning_and_teaching_methods:
 - Lectures.
 - Practicals.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 75
+- full_time: '75'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 5,6,7
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -128,6 +128,7 @@ assessment_criteria:
   advanced competence and independence with regards to associated laboratory skills,
   use of instrumentation and data analysis, combined with an excellent level of good
   laboratory practice.'
+speccial_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -145,7 +146,5 @@ requested_resources:
 - 'Room Type: Chemistry Lab'
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

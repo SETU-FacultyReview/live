@@ -1,11 +1,11 @@
 reference: A07182
 full_title: Applied Fluid Mechanics
 short_title: Applied Fluid Mechanics
-credits: 5
+credits: '5'
 level: Advanced
 author: GGALLAGHER
 history_comment: ''
-school: Engineering
+faculty: Engineering
 department: Engineering Technology
 cluster: Engineering
 aim: This module builds on the fundamentals of fluids established in the Fluid Mechanics
@@ -16,14 +16,14 @@ programmes:
 - timetable: FPOW-0005
   code: WD_EMSEN_B
   name: Bachelor of Engineering (Honours) in Mechanical and Manufacturing Engineering
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: FPOW-0005
   code: WD_KPHTE_B
   name: BSc (Hons) in Physics for Modern Technology
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 prerequisites: []
 corequisites: []
@@ -49,34 +49,35 @@ learning_and_teaching_methods:
 - 2. Assignments
 - 3. Laboratories
 learning_modes:
-- full_time: 48
+- full_time: '48'
   name: Lecture
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 1,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 assessment_criteria: []
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Cengel, Y. and J.M. Cimbala. _Fluid Mechanics: Fundamentals and Applications_.
@@ -88,7 +89,5 @@ supplementary_material:
   2011.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

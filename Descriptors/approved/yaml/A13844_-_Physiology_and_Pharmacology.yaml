@@ -1,11 +1,11 @@
 reference: A13844
 full_title: Physiology and Pharmacology
 short_title: Physiology and Pharmacology
-credits: 5
+credits: '5'
 level: Advanced
 author: EMCNEELA
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Biology
 aim: This module aims to provide students with an overview of human anatomy and physiology
@@ -21,14 +21,14 @@ programmes:
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: PHAR-0018
   code: WD_SQMBI_B
   name: Bachelor of Science (Honours) in Applied Biology with Quality Management
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -59,7 +59,8 @@ learning_outcomes:
   in vivo.
 - Select new and emerging biopharmaceuticals and debate their pharmacological strengths
   and weaknesses.
-- Present findings on research into the pharmacological properties of novel pharmaceutical drugs.
+- Present findings on research into the pharmacological properties of novel pharmaceutical
+  drugs.
 learning_and_teaching_methods:
 - This module will use a blended learning approach combining face-to-face lectures
   with e-learning available through the platform Moodle.
@@ -69,28 +70,28 @@ learning_and_teaching_methods:
 - A learning and teaching strategy appropriate to level 8 will be adopted throughout
   with opportunities for formative assessment to encourage reflective, critical thinking.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Tutorial
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: 1,2,5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 1,2,5,6'
-  main: false
+  main: 'false'
   name: Assessment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -106,6 +107,7 @@ assessment_criteria:
   and extensive comprehension of the subject manner. Shows ability to evaluate, debate
   and relate topics and shows evidence of extensive independent learning and knowledge
   of current literature and recent developments in the area.'
+speccial_regulations: []
 essential_material:
 - 'Meibohm, B. _Pharmacokinetics and Pharmacodynamics of Biotech Drugs: Principles
   and Case Studies in Drug Development_. United States: Wiley-Blackwell, 2006.'
@@ -121,7 +123,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,11 +1,11 @@
 reference: A13861
 full_title: Research Project (Biology L8)
 short_title: Research Project (Biology L8)
-credits: 10
+credits: '10'
 level: Advanced
 author: ROMAHONY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module consists of a research and development project, which will give students
@@ -16,14 +16,14 @@ programmes:
   code: WD_SMBIO_B
   name: Bachelor of Science (Honours) in Molecular Biology with Biopharmaceutical
     Science
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: PROJ-0017
   code: WD_SQMBI_B
   name: Bachelor of Science (Honours) in Applied Biology with Quality Management
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -48,17 +48,17 @@ learning_and_teaching_methods:
 - Project work - practical laboratory and online based.
 - Workshop on green and sustainable practices in research
 learning_modes:
-- full_time: 120
+- full_time: '120'
   name: Practical
   part_time: ''
-- full_time: 150
+- full_time: '150'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Final Project
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - '<40%: Inadequate achievement of the learning outcomes.'
 - '40%-49%: Will be able to show a basic level of achievement in relation to the key
@@ -70,6 +70,7 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
   of all learning outcomes, predict general trends in behaviour including exceptional
   behaviour, and critically evaluate and relate topics.'
+speccial_regulations: []
 essential_material:
 - '"United Nations Sustainable Development Goals (SDGs)." https://sdgs.un.org/goals'
 - 'Jones, A., R. Reed and J. Weyers. _Practical skills in Biology_. 5th Edition. UK:
@@ -79,7 +80,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

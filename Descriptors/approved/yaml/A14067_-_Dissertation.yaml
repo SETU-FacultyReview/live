@@ -1,11 +1,11 @@
 reference: A14067
 full_title: Dissertation
 short_title: Dissertation
-credits: 20
+credits: '20'
 level: Postgraduate
 author: LSTAPLETON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Professional Skills
 aim: 'The Masters program culminates in the dissertation, an extended project that
@@ -35,14 +35,14 @@ programmes:
 - timetable: DISS-0010
   code: WD_KCESS_R
   name: MSc in Computer Science (Enterprise Software Systems)
-  stage: 1
-  semester: 3
+  stage: '1'
+  semester: '3'
   status: M
 - timetable: DISS-0010
   code: WD_KISYP_R
   name: Master of Science in Computing (Information Systems Processes)
-  stage: 1
-  semester: 3
+  stage: '1'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -76,17 +76,17 @@ learning_and_teaching_methods:
 - This module involves self-directed and self-paced research effort under the guidance
   of an assigned supervisor.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Tutorial
-  part_time: 24
-- full_time: 516
+  part_time: '24'
+- full_time: '516'
   name: Independent Learning
-  part_time: 516
+  part_time: '516'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Dissertation
-  weighting: 100
+  weighting: '100'
 assessment_criteria:
 - <40%:The student has demonstrated a poor grasp of the fundamentals of the chosen
   research area and has either failed to complete the thesis or the thesis is so rudimentary
@@ -106,12 +106,11 @@ assessment_criteria:
   implementation and deployment are exemplary and key aspects likely to be publishable
   as an academic paper. Student has demonstrated outstanding analytical skills and
   deemed very suitable for a research career.
+speccial_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

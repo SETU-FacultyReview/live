@@ -1,11 +1,11 @@
 reference: A13602
 full_title: Automotive Software Concepts
 short_title: Automotive Software Concepts
-credits: 5
+credits: '5'
 level: Introductory
 author: BJACKMAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Automotive, Automation and IoT
 aim: This module introduces the student to automotive software development concepts,
@@ -18,20 +18,20 @@ programmes:
 - timetable: COMP-0407
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: COMP-0407
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 - timetable: COMP-0407
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -60,30 +60,30 @@ learning_and_teaching_methods:
   using self-directed research and learning into the broader automotive industry topics
   and current issues.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -97,6 +97,7 @@ assessment_criteria:
 - '70%-100%: All of the above to an excellent level. Be able to analyse and design
   solutions to a high standard, using appropriate skills and tools to analyse the
   quality and performance of specific solutions.'
+speccial_regulations: []
 essential_material:
 - '"AUTOSAR Organisation." www.autosar.org'
 - '"Automotive News Europe." www.automotivenewseurope.com'
@@ -108,7 +109,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

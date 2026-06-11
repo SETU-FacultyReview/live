@@ -1,11 +1,11 @@
 reference: A35617
 full_title: Professional Communications & Research Methods - NUIST
 short_title: Prof Comm & Resrch Methods (NUIST)
-credits: 5
+credits: '5'
 level: Postgraduate
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Engineering Practise
 aim: The Professional Communications and Research Methods module is designed to develop
@@ -18,32 +18,32 @@ programmes:
 - timetable: RESA-0162
   code: WD_CINNT_G
   name: Postgraduate Diploma in Science in Innovative Technology Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: RESA-0162
   code: WD_CINNT_R
   name: Master of Science in Innovative Technology Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: RESA-0162
   code: WD_EELEN_G
   name: Postgraduate Diploma in Engineering in Electronic Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: RESA-0162
   code: WD_EELEN_R
   name: Master of Engineering in Electronic Engineering
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: ''
   code: WD_EELEN_RI
   name: MEng in Electronic Information Systems
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -77,36 +77,36 @@ learning_and_teaching_methods:
 - Communications workshops
 - Presentation skills
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 99
+- full_time: '99'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,5,6
-  main: false
+  main: 'false'
   name: Reflective Journal
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,3,4,5,7
-  main: false
+  main: 'false'
   name: Essay
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,5,6
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -124,11 +124,10 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+speccial_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

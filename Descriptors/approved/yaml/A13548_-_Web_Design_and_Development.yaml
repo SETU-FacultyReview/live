@@ -1,11 +1,11 @@
 reference: A13548
 full_title: Web Design and Development
 short_title: Web Design and Development
-credits: 5
+credits: '5'
 level: Intermediate
 author: CFITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Graphic Design and Animation
 aim: This module focuses on the Web Design and Development Process, from User Experience
@@ -16,26 +16,26 @@ programmes:
 - timetable: COMP-0598
   code: WD_KCOMP_D
   name: BSc in Applied Computing
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0598
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0598
   code: WD_KINFT_D
   name: Bachelor of Science in Information Technology
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: COMP-0598
   code: WD_KMULA_D
   name: Bachelor of Science in Multimedia Applications Development
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -64,36 +64,36 @@ learning_and_teaching_methods:
   process. The practicals will allow the students to design and develop websites using
   industry standard web authoring software.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 12
-- full_time: 24
+  part_time: '12'
+- full_time: '24'
   name: Practical
-  part_time: 12
-- full_time: 87
+  part_time: '12'
+- full_time: '87'
   name: Independent Learning
-  part_time: 111
+  part_time: '111'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '1'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 - learning_outcomes: '2'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 70
+  weighting: '70'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -107,6 +107,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"Adobe Dreamweaver CC Tutorials." https://helpx.adobe.com/dreamweaver/tutorials.html'
@@ -119,7 +120,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

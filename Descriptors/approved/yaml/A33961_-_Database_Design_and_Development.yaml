@@ -1,11 +1,11 @@
 reference: A33961
 full_title: Database Design and Development
 short_title: DB Design and Development
-credits: 5
+credits: '5'
 level: Advanced
 author: RSHANAHAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Database and Analytics
 aim: This module will introduce the student to the principles and practice of designing
@@ -18,8 +18,8 @@ programmes:
 - timetable: DATA-0018
   code: WD_KBUSY_G
   name: Higher Diploma in Science in Business Systems Analysis
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -51,36 +51,36 @@ learning_and_teaching_methods:
 - The continuous assessment will require the student to apply the theory and practical
   knowledge to a new business scenario.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 24
-- full_time: 24
+  part_time: '24'
+- full_time: '24'
   name: Practical
-  part_time: 24
-- full_time: 87
+  part_time: '24'
+- full_time: '87'
   name: Independent Learning
-  part_time: 87
+  part_time: '87'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 2,3
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 55
+  weighting: '55'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,6,7
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -100,6 +100,7 @@ assessment_criteria:
 - '0%-100%: All the above to an excellent level. Be able to analyse, design and implement
   solutions to a high standard for a range of both complex and unforeseen problems
   through the use and modification of appropriate skills and tools.'
+speccial_regulations: []
 essential_material:
 - 'Connolly, T. and C. Begg. _Database Systems: A Practical Approach to Design Implementation
   and Management._. 6th. NY: Adison Wesley, 2019.'
@@ -109,7 +110,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

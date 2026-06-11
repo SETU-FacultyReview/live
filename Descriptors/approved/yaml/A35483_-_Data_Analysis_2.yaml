@@ -1,11 +1,11 @@
 reference: A35483
 full_title: Data Analysis 2
 short_title: Data Analysis 2
-credits: 5
+credits: '5'
 level: Advanced
 author: PKIRWAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Mathematics and Physics
 aim: This module will build on statistical modelling techniques introduced in Data
@@ -16,14 +16,14 @@ programmes:
 - timetable: ''
   code: WD_KDAAN_G
   name: HDip in Science in Data Analytics
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: ''
   code: WD_KDTSC_MA
   name: Certificate in Data Science
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -48,30 +48,30 @@ learning_and_teaching_methods:
   values, outliers, etc. Building on the Data Analysis 1 module, students will learn
   how to model and analyse real data.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 24
-- full_time: 24
+  part_time: '24'
+- full_time: '24'
   name: Practical
-  part_time: 24
-- full_time: 87
+  part_time: '24'
+- full_time: '87'
   name: Independent Learning
-  part_time: 87
+  part_time: '87'
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,4
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,3,4
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -88,6 +88,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of all learning outcomes. Displays advanced
   competence and independence with regards to associated data analysis skills and
   statistics.'
+speccial_regulations: []
 essential_material:
 - 'Wei, W.W.S. _Multivariate Time Series Analysis and Applications_. 1st ed.. New
   York: Wiley, 2019.'
@@ -100,7 +101,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

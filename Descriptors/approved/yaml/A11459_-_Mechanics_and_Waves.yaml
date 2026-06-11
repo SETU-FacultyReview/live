@@ -1,11 +1,11 @@
 reference: A11459
 full_title: Mechanics and Waves
 short_title: Mechanics and Waves
-credits: 5
+credits: '5'
 level: Introductory
 author: EMOLLOY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Mathematics and Physics
 aim: This module is a calculus-based module. It introduces the differential and integral
@@ -15,14 +15,14 @@ programmes:
 - timetable: PHYI-0009
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: PHYI-0009
   code: WD_SSCIE_D
   name: Bachelor of Science (Common Entry)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: E
 prerequisites: []
 corequisites: []
@@ -54,39 +54,39 @@ learning_and_teaching_methods:
 - Practical/computer labs.
 - Additional reading material.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 6
+- full_time: '6'
   name: Tutorial
   part_time: ''
-- full_time: 18
+- full_time: '18'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: '4'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -99,6 +99,7 @@ assessment_criteria:
   problems in this area.'
 - '70%-100%: Excellent knowledge of the subject area. Excellent reasoning skills and
   focused well thought out arguments.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Gregory, D.R. _Class Mechanics_. 1st ed. UK: Cambridge University Press, 2006.'
@@ -107,7 +108,5 @@ supplementary_material:
 requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

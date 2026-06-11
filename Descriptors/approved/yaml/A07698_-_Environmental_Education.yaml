@@ -1,12 +1,12 @@
 reference: A07698
 full_title: Environmental Education
 short_title: Environmental Education
-credits: 5
+credits: '5'
 level: Advanced
 author: UMCDERMOTT
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Horticulture
 aim: This module will provide students with the necessary skills to teach people about
   the natural environment using interactive, informal learning activities and materials.
@@ -16,8 +16,8 @@ programmes:
 - timetable: EDUC-0023
   code: WD_SBSHO_B
   name: Bachelor of Science (Honours) in Land Management (in Horticulture)
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -38,30 +38,30 @@ learning_and_teaching_methods:
 - Site visits.
 - Problem-based scenarios.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Field Trips
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '3'
-  main: false
+  main: 'false'
   name: Group Project
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 80
+  weighting: '80'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -80,6 +80,7 @@ assessment_criteria:
   excellent evaluation skills recognising subtleties of different approaches and has
   developed self critical awareness. Has good planning skills and can develop and
   select appropriate evaluation methods.
+speccial_regulations: []
 essential_material:
 - 'Ham, S.H. _Interpretation-Making a Difference on Purpose_. US: Fulcrum, 2013.'
 supplementary_material:
@@ -92,7 +93,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

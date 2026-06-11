@@ -1,11 +1,11 @@
 reference: A11481
 full_title: Project Management for Land Sciences
 short_title: Project Management (Land Sc)
-credits: 5
+credits: '5'
 level: Advanced
 author: NMCGRORY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Business
 aim: This module aims to provide the student with the ability to develop an understanding
@@ -17,26 +17,26 @@ programmes:
 - timetable: ''
   code: WD_18AFICT_G
   name: Higher Diploma in Science in Agi-Food ICT Systems
-  stage: 1
-  semester: 3
+  stage: '1'
+  semester: '3'
   status: M
 - timetable: PROJ-0165
   code: WD_SBSAG_B
   name: Bachelor of Science (Honours) in Land Management (in Agriculture)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: E
 - timetable: PROJ-0165
   code: WD_SBSFO_B
   name: Bachelor of Science (Honours) in Land Management (in Forestry)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: PROJ-0165
   code: WD_SBSHO_B
   name: Bachelor of Science (Honours) in Land Management (in Horticulture)
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -70,28 +70,28 @@ learning_and_teaching_methods:
 - Class discussions and presentations.
 - Assigned self-learning.
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Lab
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,5,6,7
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 2,3,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -107,6 +107,7 @@ assessment_criteria:
 - '70%-100%: The learner will be able to demonstrate comprehensive knowledge and understanding
   of all learning outcomes and be able to recognise the inter-relationship between
   their role as a business professional and the effective operation of the organisation.'
+speccial_regulations: []
 essential_material:
 - 'Burke, R. _Project Management Planning and Control Techniques_. 4th ed. UK: Wiley,
   2003.'
@@ -120,7 +121,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

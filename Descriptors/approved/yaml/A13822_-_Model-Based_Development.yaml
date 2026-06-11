@@ -1,11 +1,11 @@
 reference: A13822
 full_title: Model-Based Development
 short_title: Model-Based Development
-credits: 5
+credits: '5'
 level: Intermediate
 author: FWWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Automotive, Automation and IoT
 aim: This laboratory-based module provides a comprehensive study of model-based design
@@ -17,20 +17,20 @@ programmes:
 - timetable: COMP-0433
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: COMP-0433
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: COMP-0433
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 prerequisites: []
 corequisites: []
@@ -57,30 +57,30 @@ learning_and_teaching_methods:
 - Laboratory-based practicals will combine topics covered in lectures to build, simulate
   and deploy embedded software solutions using the model-based development approach.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Lecture
   part_time: ''
-- full_time: 36
+- full_time: '36'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4,5,6
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 60
+  weighting: '60'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -95,13 +95,12 @@ assessment_criteria:
 - '70%-100%: All the previous to an excellent level. Can critically assess any experimental
   work undertaken. Combine self-directed research of state-of-the-art model-based
   design systems in assessment work.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"Model-Based Design." http://uk.mathworks.com/solutions/model-based-design/'
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

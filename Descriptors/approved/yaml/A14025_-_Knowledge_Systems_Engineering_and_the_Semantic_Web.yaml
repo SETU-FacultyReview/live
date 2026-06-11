@@ -1,11 +1,11 @@
 reference: A14025
 full_title: Knowledge Systems Engineering and the Semantic Web
 short_title: Knowledge Systems Engineering
-credits: 5
+credits: '5'
 level: Advanced
 author: LSTAPLETON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Information Systems and Modelling
 aim: 'Sophisticated techniques are used to capture, model, discover and utilize knowledge
@@ -30,14 +30,14 @@ programmes:
 - timetable: COMP-0656
   code: WD_KINTE_B
   name: Bachelor of Science (Honours) in Information Technology
-  stage: 4
-  semester: 2
+  stage: '4'
+  semester: '2'
   status: E
 - timetable: COMP-0656
   code: WD_KITMA_B
   name: BSc (Hons) in Information Technology Management
-  stage: 1
-  semester: 8
+  stage: '1'
+  semester: '8'
   status: E
 prerequisites: []
 corequisites: []
@@ -73,30 +73,30 @@ learning_and_teaching_methods:
   and systems management in an organisation, and generating knowledge based systems
   which can map into web services and other web-based resources in a web-enabled enterprise.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Lab
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 assessment_criteria:
 - <40%:Unable to interpret and describe key concepts of the specific knowledge domain(s).
 - 40%-49%:Be able to interpret and describe key concepts of the specific knowledge
@@ -108,6 +108,7 @@ assessment_criteria:
 - 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Akerkar, R. A. and P. S. Sajja. _Knowledge Based Systems_. Toronto: Jones and Bartlett,
@@ -123,7 +124,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

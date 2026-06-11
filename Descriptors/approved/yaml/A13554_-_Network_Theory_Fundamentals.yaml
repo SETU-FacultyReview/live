@@ -1,11 +1,11 @@
 reference: A13554
 full_title: Network Theory Fundamentals
 short_title: Network Theory Fundamentals
-credits: 5
+credits: '5'
 level: Intermediate
 author: ADALYWALSH
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Mathematics and Physics
 aim: This module will introduce students to the principles of graph/network models
@@ -16,14 +16,14 @@ programmes:
 - timetable: COMP-0658
   code: WD_KCOMP_D
   name: BSc in Applied Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: COMP-0658
   code: WD_KINFT_D
   name: Bachelor of Science in Information Technology
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -48,37 +48,37 @@ learning_and_teaching_methods:
 - The practicals will help students investigate and study real world problems using
   industry based software.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 12
-- full_time: 12
+  part_time: '12'
+- full_time: '12'
   name: Tutorial
-  part_time: 6
-- full_time: 12
+  part_time: '6'
+- full_time: '12'
   name: Practical
-  part_time: 6
-- full_time: 87
+  part_time: '6'
+- full_time: '87'
   name: Independent Learning
-  part_time: 111
+  part_time: '111'
 assessment_methods:
 - learning_outcomes: 2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 60
+  weighting: '60'
 - learning_outcomes: 1,2
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 40
+  weighting: '40'
 - learning_outcomes: '2'
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 15
+  weighting: '15'
   due_weeks: []
   comment: ''
 - learning_outcomes: '1'
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -96,6 +96,7 @@ assessment_criteria:
   rigour and precision.'
 - '70%-100%: All the above to an excellent level. Demonstrates an ability to put a
   solution into a context and assess whether such solutions are meaningful.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Johnsonbaugh, R. _Discrete Mathematics_. 7th Edition. New Jersey: Pearson, 2009.'
@@ -105,7 +106,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

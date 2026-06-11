@@ -1,11 +1,11 @@
 reference: A13942
 full_title: Introduction to Creative Media
 short_title: Introduction to Creative Media
-credits: 5
+credits: '5'
 level: Introductory
 author: MMCMAHON
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Media Production
 aim: This module is designed to introduce students to the history, development and
@@ -17,14 +17,14 @@ programmes:
 - timetable: COMP-0585
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: COMP-0585
   code: WD_KMULA_D
   name: Bachelor of Science in Multimedia Applications Development
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -52,34 +52,34 @@ learning_and_teaching_methods:
 - 'Independent learning : Students must be proactive, manage their own time and develop
   their own independent learning skills'
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 2,3,4
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 2,3
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Group Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -93,6 +93,7 @@ assessment_criteria:
   media development domain by experimenting with appropriate ubiquitous tools.'
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard both individually and within a group environment.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Campbell, R. _Media Essentials: A Brief Introduction_. 2nd ed.. UK: Bedford/St.
@@ -100,7 +101,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

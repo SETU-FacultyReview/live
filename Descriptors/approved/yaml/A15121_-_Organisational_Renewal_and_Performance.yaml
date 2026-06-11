@@ -1,11 +1,11 @@
 reference: A15121
 full_title: Organisational Renewal and Performance
 short_title: Org. Renewal & Performance
-credits: 10
+credits: '10'
 level: Postgraduate
 author: JMCGIBNEY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Business
 aim: The cornerstone of organisational renewal, revitalisation and performance (ORRP)
@@ -21,8 +21,8 @@ programmes:
 - timetable: BUSI-0071
   code: WD_KCESS_R
   name: MSc in Computer Science (Enterprise Software Systems)
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 prerequisites: []
 corequisites: []
@@ -57,25 +57,25 @@ learning_and_teaching_methods:
 - Self study of assigned readings and texts
 - Pre-class preparation of readings and case studies
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
-  part_time: 36
-- full_time: 234
+  part_time: '36'
+- full_time: '234'
   name: Independent Learning
-  part_time: 234
+  part_time: '234'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -91,6 +91,7 @@ assessment_criteria:
   issues, of theory to practice integration and of reflection from practice.'
 - '70%-100%: Good level of critical analysis, originality of thought, comprehensive
   knowledge base showing an ability to integrate theory and practice.'
+speccial_regulations: []
 essential_material:
 - 'Bovey, W.H. and A. Hede. "Resistance to organisational change: the role of defence
   mechanisms." _Journal of Managerial Psychology_ 16, 7. (2001): 543-548.'
@@ -113,7 +114,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

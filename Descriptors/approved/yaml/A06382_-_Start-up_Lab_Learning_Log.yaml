@@ -5,7 +5,7 @@ credits: 10
 level: Intermediate
 author: CGATELY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Management and Organisation
 cluster: Business
 aim: The Start-up Lab learning log is an important tool in the development of reflective
@@ -94,6 +94,7 @@ supplementary_material:
 requested_resources: []
 mlo_to_po: ''
 track_changes: true
+
 
 
 

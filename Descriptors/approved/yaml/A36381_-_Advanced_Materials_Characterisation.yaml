@@ -1,11 +1,11 @@
 reference: A36381
 full_title: Advanced Materials Characterisation
 short_title: Adv. Material Characterisation
-credits: 10
+credits: '10'
 level: Postgraduate
 author: KGRENNAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Analytical Science
 aim: This module provides an overview of the current technologies used for the characterisation
@@ -19,20 +19,20 @@ programmes:
 - timetable: SCIE-0052
   code: WD_SANSC_G
   name: Postgraduate Diploma in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: SCIE-0052
   code: WD_SANSC_R
   name: Master of Science in Analytical Science with Quality Management
-  stage: 1
-  semester: 0
+  stage: '1'
+  semester: '0'
   status: E
 - timetable: SCIE-0052
   code: WD_SMATR_MA
   name: Certificate in Advanced Materials Characterisation
-  stage: 5
-  semester: 0
+  stage: '5'
+  semester: '0'
   status: M
 prerequisites: []
 corequisites: []
@@ -72,28 +72,28 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Lecture
-  part_time: 24
+  part_time: '24'
 - full_time: ''
   name: Practical
-  part_time: 24
+  part_time: '24'
 - full_time: ''
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,5
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -110,6 +110,7 @@ assessment_criteria:
   comprehensive knowledge and understanding of all learning outcomes. Will display
   advanced competence and independence with regards to associated practical and resulting
   data analysis skills.'
+speccial_regulations: []
 essential_material:
 - '"Advanced Materials Characterisation module Moodle page." http://moodle.wit.ie'
 - '"WIT library databases." http://library.wit.ie/Resources/databases'
@@ -117,7 +118,5 @@ supplementary_material: []
 requested_resources:
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

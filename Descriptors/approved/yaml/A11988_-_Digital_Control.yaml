@@ -1,11 +1,11 @@
 reference: A11988
 full_title: Digital Control
 short_title: Digital Control
-credits: 5
+credits: '5'
 level: Advanced
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Engineering Technology
 cluster: Automotive, Automation and IoT
 aim: This course aims to introduce modern techniques used in the analysis and design
@@ -18,44 +18,44 @@ programmes:
 - timetable: ''
   code: WD_EAUTO_B
   name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: ''
   code: WD_EEELC_BI
   name: BEng (Hons) in Information Engineering (International)
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: ENGR-0021
   code: WD_EONIC_B
   name: Bachelor of Engineering (Honours) in Electronic Engineering
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 - timetable: ENGR-0021
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours) in Electrical Engineering
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: ENGR-0021
   code: WD_ETRIC_B
   name: Bachelor of Engineering (Honours)
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: ''
   code: WD_ETRIC_BI
   name: BEng (Hons) in Electrical and Automation Engineering (International)
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: ENGR-0021
   code: WD_KPHTE_B
   name: BSc (Hons) in Physics for Modern Technology
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: E
 prerequisites: []
 corequisites: []
@@ -81,37 +81,38 @@ learning_and_teaching_methods:
   based learning'
 - '- Practicals will involve use of MATLAB in analysis and design'
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 4,5,6
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 4,5,6
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 10
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria: []
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Astrom, K.J. _Computer Controlled Systems; Theory & Design_. 3rd. USA: Dover Publications,
@@ -123,7 +124,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'ENGINEERING LAB: Electronics'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

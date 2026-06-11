@@ -1,12 +1,12 @@
 reference: A08603
 full_title: Sportsturf Science
 short_title: Sportsturf
-credits: 10
+credits: '10'
 level: Intermediate
 author: GMCMAHON
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Horticulture
 aim: This module aims to enable students to develop an understanding of the construction
   and maintenance of turf and artificial surfaces used for sports.
@@ -14,26 +14,26 @@ programmes:
 - timetable: SPOR-0092
   code: WD_SHORT_D
   name: Bachelor of Science in Horticulture
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: SPOR-0092
   code: WD_SHORT_D
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: SPOR-0092
   code: WD_SHORT_DX
   name: Bachelor of Science in Horticulture
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: SPOR-0092
   code: WD_SHORT_DX
   name: Bachelor of Science in Horticulture
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 prerequisites: []
 corequisites: []
@@ -65,34 +65,34 @@ learning_and_teaching_methods:
 - Practical assignments
 - Reports
 learning_modes:
-- full_time: 72
+- full_time: '72'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 174
+- full_time: '174'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,4,5,
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: '7'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,6
-  main: false
+  main: 'false'
   name: Practical
-  weighting: 25
+  weighting: '25'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -116,6 +116,7 @@ assessment_criteria:
   use of references.'
 - '70%-100%: Demonstrates authoritative handling of complex material and a highly
   developed and extensive understanding.'
+speccial_regulations:
 - In addition to the normal regulations, a minimum of 35% must be achieved in both
   the final exam and continuous assessment components of the module. In cases where
   continuous assessment has a practical component attendance of at least 75% in the
@@ -145,7 +146,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Biology Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

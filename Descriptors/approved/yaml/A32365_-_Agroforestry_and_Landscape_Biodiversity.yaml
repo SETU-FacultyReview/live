@@ -1,12 +1,12 @@
 reference: A32365
 full_title: Agroforestry and Landscape Biodiversity
 short_title: Agroforestry and Biodiversity
-credits: 10
+credits: '10'
 level: Postgraduate
 author: JGERAGHTY
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Agriculture
 aim: The module will provide participants with an in depth appreciation for the role
   of agroforestry and biodiversity as a vital part of a functional landscape approach
@@ -24,14 +24,14 @@ programmes:
 - timetable: SCIE-0084
   code: WD_SGRAD_XX
   name: Postgraduate Programmes in Science
-  stage: 5
-  semester: 0
+  stage: '5'
+  semester: '0'
   status: E
 - timetable: SCIE-0084
   code: WD_SOBIA_R
   name: MSc in Organic and Biological Agriculture
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -71,31 +71,31 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Tutorial
-  part_time: 12
+  part_time: '12'
 - full_time: ''
   name: Practical
-  part_time: 12
+  part_time: '12'
 - full_time: ''
   name: Online Delivery
-  part_time: 24
+  part_time: '24'
 - full_time: ''
   name: Independent Learning
-  part_time: 222
+  part_time: '222'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4,5,6,7
-  main: false
+  main: 'false'
   name: Case Studies
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -114,6 +114,7 @@ assessment_criteria:
   understanding of all learning outcomes, including the vital role of agro-forestry
   and biodiversity in climate resilient farm enterprises and create a high quality
   plan for agro-forestry and biodiverse habitat development for an existing farm.'
+speccial_regulations: []
 essential_material:
 - '"National Biodiversity Data Centre." www.biodiversityireland.ie/resources'
 - '"Woodland Improvement Scheme." https://www.gov.ie/en/service/d54212-woodland-improvement-scheme/'
@@ -123,7 +124,5 @@ supplementary_material:
   USA: John Wiley & Sons, 2021.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

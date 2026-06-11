@@ -1,11 +1,11 @@
 reference: A34061
 full_title: Study Abroad for Scientists
 short_title: Science Study Abroad
-credits: 30
+credits: '30'
 level: Intermediate
 author: TKENT
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Land Sciences
 cluster: Placement and Projects
 aim: The Study Abroad module is offered to students to strengthen their studies through
@@ -21,38 +21,38 @@ programmes:
 - timetable: SCIE-0086
   code: WD_SAGRI_B
   name: BSc (Hons) in Agricultural Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: SCIE-0086
   code: WD_SFDSC_D
   name: BSc in Food Science with Business
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: SCIE-0086
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 - timetable: SCIE-0086
   code: WD_SFSIN_B
   name: BSc (Hons) in Food Science and Innovation
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: E
 - timetable: SCIE-0086
   code: WD_SMBIO_B
   name: BSc (Hons) in Molecular Biology with Biopharmaceutical Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 - timetable: SCIE-0086
   code: WD_SPHSC_B
   name: BSc (Hons) in Pharmaceutical Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: E
 prerequisites: []
 corequisites: []
@@ -94,24 +94,24 @@ learning_and_teaching_methods:
   will be submitted to the SETU Study Abroad Co-ordinator for assessment on completion
   of the study abroad period.
 learning_modes:
-- full_time: 810
+- full_time: '810'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1, 2
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 67
+  weighting: '67'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3, 4
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 33
+  weighting: '33'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -119,6 +119,7 @@ assessment_criteria:
   submitted within the appropriate deadlines.'
 - 'Fail: Student fails to obtain 20 ECTS from host institute and/or does not submit
   an adequate portfolio.'
+speccial_regulations: []
 essential_material:
 - '"Study Abroad for Scientists module page on Moodle.." www.setu.ie. https://moodle.wit.ie/'
 supplementary_material:
@@ -128,7 +129,5 @@ supplementary_material:
   New York: The Institute of International Education, 2013.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

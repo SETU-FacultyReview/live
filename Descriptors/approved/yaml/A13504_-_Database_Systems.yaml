@@ -1,11 +1,11 @@
 reference: A13504
 full_title: Database Systems
 short_title: Database Systems
-credits: 5
+credits: '5'
 level: Intermediate
 author: MLYNG
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Database and Analytics
 aim: This module concentrates on the physical design and implementation of a database.
@@ -16,50 +16,50 @@ programmes:
 - timetable: ''
   code: WD_EAUTO_B
   name: Bachelor of Engineering (Honours) in Automation Engineering with Data Intelligence
-  stage: 4
-  semester: 8
+  stage: '4'
+  semester: '8'
   status: M
 - timetable: COMP-0174
   code: WD_KCOMC_D
   name: Bachelor of Science in Software Systems Development
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0174
   code: WD_KCOMP_D
   name: BSc in Applied Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0174
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0174
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0174
   code: WD_KDEVP_BI
   name: BSc (Hons) in Software Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0174
   code: WD_KINFT_D
   name: Bachelor of Science in Information Technology
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: COMP-0174
   code: WD_KMULA_D
   name: Bachelor of Science in Multimedia Applications Development
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -87,36 +87,36 @@ learning_and_teaching_methods:
 - The practical element is fundamental. The aim is to provide the student with the
   skills and confidence to apply what has been demonstrated and learned.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 12
-- full_time: 24
+  part_time: '12'
+- full_time: '24'
   name: Practical
-  part_time: 12
-- full_time: 87
+  part_time: '12'
+- full_time: '87'
   name: Independent Learning
-  part_time: 111
+  part_time: '111'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5,6
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 40
+  weighting: '40'
   due_weeks: []
   comment: ''
 - learning_outcomes: 5,6
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 - learning_outcomes: 5,6
-  main: false
+  main: 'false'
   name: In-Class Practical
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -133,6 +133,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"Oracle Academy." https://academy.oracle.com/en/oa-web-overview.html'
@@ -143,7 +144,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

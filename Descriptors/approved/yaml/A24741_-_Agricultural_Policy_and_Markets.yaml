@@ -1,11 +1,11 @@
 reference: A24741
 full_title: Agricultural Policy and Markets
 short_title: Ag Policy and Markets
-credits: 5
+credits: '5'
 level: Advanced
 author: ADUNPHY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: AgriFoodICT
 aim: The purpose of this module is to study and evaluate the wider economic environment
@@ -17,14 +17,14 @@ programmes:
 - timetable: ''
   code: WD_18AFICT_G
   name: Higher Diploma in Science in Agi-Food ICT Systems
-  stage: 1
-  semester: 1
+  stage: '1'
+  semester: '1'
   status: M
 - timetable: AGRI-0110
   code: WD_SAFICT_G
   name: HDip in Science in Agri-Food ICT Systems
-  stage: 5
-  semester: 1
+  stage: '5'
+  semester: '1'
   status: M
 prerequisites: []
 corequisites: []
@@ -69,30 +69,30 @@ learning_and_teaching_methods:
 - Practical work will also allow for independent research, presentations, peer learning
   and peer review.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 24
-- full_time: 12
+  part_time: '24'
+- full_time: '12'
   name: Practical
-  part_time: 12
-- full_time: 99
+  part_time: '12'
+- full_time: '99'
   name: Independent Learning
-  part_time: 99
+  part_time: '99'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,3,5
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 assessment_criteria:
 - '<40%: Very limited knowledge and understanding of the subject matter.'
 - '40%-49%: Will be able to show a good knowledge of the key learning outcomes including
@@ -110,6 +110,7 @@ assessment_criteria:
   of all learning outcomes, including the current and future trends in Irish, EU and
   competitor trading blocks. The student will be able to source key data and present
   it in a convincing manner in the assignment and in the exam.'
+speccial_regulations: []
 essential_material:
 - '"Dept Agriculture Food and the Marine - Compendium of Agricultural Statistics."
   Dept Agriculture Food and the Marine. www.irlgov.ie'
@@ -129,7 +130,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

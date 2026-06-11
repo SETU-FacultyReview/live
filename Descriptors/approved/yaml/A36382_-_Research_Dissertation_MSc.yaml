@@ -1,11 +1,11 @@
 reference: A36382
 full_title: Research Dissertation (MSc)
 short_title: Research Dissertation (MSc)
-credits: 30
+credits: '30'
 level: Postgraduate
 author: KGRENNAN
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Science
 cluster: Placement and Projects
 aim: This module will develop the learner s ability to access relevant scientific
@@ -20,8 +20,8 @@ programmes:
 - timetable: DISS-0096
   code: WD_SANSC_R
   name: Master of Science in Analytical Science with Quality Management
-  stage: 1
-  semester: 3
+  stage: '1'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -55,23 +55,23 @@ learning_and_teaching_methods:
 learning_modes:
 - full_time: ''
   name: Online Delivery
-  part_time: 24
+  part_time: '24'
 - full_time: ''
   name: Independent Learning
-  part_time: 786
+  part_time: '786'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Dissertation
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: '6'
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: '6'
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -87,6 +87,7 @@ assessment_criteria:
 - '70%-100%: Good level of critical analysis, originality of thought and a comprehensive
   knowledge base. Good critical evaluation and synthesis of relevant issues, showing
   an ability to integrate theory and practice.'
+speccial_regulations: []
 essential_material:
 - '"Academic Search Complete database - WIT library databases." http://library.wit.ie/Resources/databases'
 - '"Emerald database - WIT library databases." http://library.wit.ie/Resources/databases'
@@ -105,7 +106,5 @@ supplementary_material:
   NY: Open University Press, 2010.'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

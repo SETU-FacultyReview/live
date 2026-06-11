@@ -1,12 +1,12 @@
 reference: A10465
 full_title: Earth Science
 short_title: Earth Science
-credits: 5
+credits: '5'
 level: Introductory
 author: NMCCARTHY
 history_comment: ''
-school: Science and Computing
-department: Science
+faculty: Science and Computing
+department: Land Sciences
 cluster: Forestry
 aim: This module is designed to give first year students of land-based courses an
   introduction to the earth, its origin and basic makeup, the interactions which occur
@@ -17,14 +17,14 @@ programmes:
 - timetable: ENVI-0001
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ENVI-0001
   code: WD_SFORS_D
   name: Bachelor of Science in Forestry
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: E
 prerequisites: []
 corequisites: []
@@ -61,36 +61,36 @@ learning_and_teaching_methods:
 - Field trips.
 - Project.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Field Trips
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,5
-  main: false
+  main: 'false'
   name: Project
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,5
-  main: false
+  main: 'false'
   name: Presentation
-  weighting: 35
+  weighting: '35'
   due_weeks: []
   comment: ''
 - learning_outcomes: 3,4
-  main: false
+  main: 'false'
   name: Project
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -119,6 +119,7 @@ assessment_criteria:
   argument on the subject. Demonstrate imaginative approach, excellent technical ability,
   awareness, and aptitude in carrying out and reporting on assessments. Show initiative,
   individual thought, and enthusiasm in self study and independent learning.'
+speccial_regulations: []
 essential_material:
 - 'Aalen, F.H.A., K. Whelan and M. Stout. _Atlas of the Irish rural landscape_. 2nd
   ed.. Ireland: Cork University Press, 1997.'
@@ -135,7 +136,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

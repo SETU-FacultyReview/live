@@ -1,11 +1,11 @@
 reference: A15303
 full_title: Learning Portfolio-Flexible Semester
 short_title: Learning Portfolio
-credits: 10
+credits: '10'
 level: Intermediate
 author: KMURPHY
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Professional Skills
 aim: The purpose of the learning portfolio module is to require the student to reflect
@@ -16,62 +16,62 @@ programmes:
 - timetable: COMP-0662
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: COMP-0662
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: COMP-0662
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: COMP-0662
   code: WD_KCOMC_D
   name: Bachelor of Science in Software Systems Development
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: COMP-0662
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 3
-  semester: 6
+  stage: '3'
+  semester: '6'
   status: M
 - timetable: COMP-0662
   code: WD_KCOMP_D
   name: BSc in Applied Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: COMP-0662
   code: WD_KCRCO_B
   name: BSc (Hons) in Creative Computing
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: COMP-0662
   code: WD_KDEVP_B
   name: BSc (Hons) in Software Systems Development
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: COMP-0662
   code: WD_KINFT_D
   name: Bachelor of Science in Information Technology
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 - timetable: COMP-0662
   code: WD_KMULA_D
   name: Bachelor of Science in Multimedia Applications Development
-  stage: 3
-  semester: 5
+  stage: '3'
+  semester: '5'
   status: M
 prerequisites: []
 corequisites: []
@@ -92,21 +92,21 @@ learning_and_teaching_methods:
   prior to the placement elective module.
 - Review with the work placement co-ordinator and/or academic mentor.
 learning_modes:
-- full_time: 12
+- full_time: '12'
   name: Tutorial
-  part_time: 12
-- full_time: 269
+  part_time: '12'
+- full_time: '269'
   name: Independent Learning
-  part_time: 269
+  part_time: '269'
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3,4
-  main: false
+  main: 'false'
   name: Portfolio
-  weighting: 100
+  weighting: '100'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -114,13 +114,12 @@ assessment_criteria:
   of assignments.'
 - 'Pass: Candidate has successfully completed and submitted the required portfolio
   of assignments.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"Reflective Writing: Principles and Practice. In Teaching Portfolio Practice in
   Ireland: A Handbook." http://www.tcd.ie/CAPSL/assets/pdf/Teaching_Portfolio_Practice_in_Ireland.pdf'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,11 +1,11 @@
 reference: A05281
 full_title: Thermodynamics For Engineers
 short_title: Thermodynamics Engs.
-credits: 5
+credits: '5'
 level: Intermediate
 author: CLAIRE.FITZPATRICK
 history_comment: ''
-school: Engineering
+faculty: Engineering
 department: Engineering Technology
 cluster: Engineering
 aim: 'This module takes an analytical approach to the subject of thermodynamics including
@@ -17,20 +17,20 @@ programmes:
 - timetable: ICTE-0014
   code: WD_CSUEN_B
   name: Bachelor of Engineering (Honours) in Sustainable Energy Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: ICTE-0014
   code: WD_EMSEN_B
   name: Bachelor of Engineering (Honours) in Mechanical and Manufacturing Engineering
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 - timetable: ENGR-0135
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: 2
-  semester: 4
+  stage: '2'
+  semester: '4'
   status: M
 prerequisites: []
 corequisites: []
@@ -55,28 +55,28 @@ learning_and_teaching_methods:
 - Lectures
 - Practicals
 learning_modes:
-- full_time: 36
+- full_time: '36'
   name: Lecture
   part_time: ''
-- full_time: 12
+- full_time: '12'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 70
+  weighting: '70'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 30
+  weighting: '30'
 - learning_outcomes: 4,5,6
-  main: false
+  main: 'false'
   name: Lab Report
-  weighting: 30
+  weighting: '30'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -97,6 +97,7 @@ assessment_criteria:
 - '<40%: The learner has not: attained the module learning outcomes; demonstrated
   sufficient knowledge of the associated subject matter; demonstrated a sufficient
   level of the skills required for the subject matter.'
+speccial_regulations: []
 essential_material:
 - 'Cengel, Y.A. _An Introduction to Thermodynamics and Heat Transfer_. 2nd ed. US:
   McGraw Hill, 2009.'
@@ -109,7 +110,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'ENGINEERING LAB: Technology'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

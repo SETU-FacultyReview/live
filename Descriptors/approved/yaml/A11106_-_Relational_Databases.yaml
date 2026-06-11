@@ -1,11 +1,11 @@
 reference: A11106
 full_title: Relational Databases
 short_title: Relational Databases
-credits: 5
+credits: '5'
 level: Introductory
 author: EREADE
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Database and Analytics
 aim: This module will introduce the student to the principles and practice of designing
@@ -18,32 +18,32 @@ programmes:
 - timetable: COMP-0638
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: COMP-0638
   code: WD_KACMI_B
   name: BSc (Hons) in Applied Computing (International)
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: COMP-0638
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: COMP-0638
   code: WD_KCOFO_B
   name: Bachelor of Science (Honours) in Computer Forensics and Security
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 - timetable: COMP-0638
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: M
 prerequisites: []
 corequisites: []
@@ -72,28 +72,28 @@ learning_and_teaching_methods:
 - The practical classes will encourage group work particularly for the relational
   modelling module content.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Practical
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,6
-  main: true
+  main: 'true'
   name: Final Written Examination
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 50
+  weighting: '50'
 - learning_outcomes: 1,2,3,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -107,6 +107,7 @@ assessment_criteria:
 - 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
   to a high standard for a range of both complex and unforeseen problems through the
   use and modification of appropriate skills and tools.
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - 'Connolly, Thomas M. and E. Carolyn. _Database Systems: A practical approach to
@@ -114,7 +115,5 @@ supplementary_material:
 requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

@@ -1,11 +1,11 @@
 reference: A10868
 full_title: Introduction to Game Design
 short_title: Introduction to Game Design
-credits: 5
+credits: '5'
 level: Introductory
 author: BLYNG
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Game Development
 aim: 'This module is a practical introduction to game design and game design concepts,
@@ -15,20 +15,20 @@ programmes:
 - timetable: COMP-0643
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: COMP-0643
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 - timetable: COMP-0643
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: 2
-  semester: 3
+  stage: '2'
+  semester: '3'
   status: E
 prerequisites: []
 corequisites: []
@@ -52,30 +52,30 @@ learning_and_teaching_methods:
 - Workshops are used to apply design theory to a game concept. Students are required
   to make a polished, playtested and boardgame using these workshops.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
   part_time: ''
-- full_time: 24
+- full_time: '24'
   name: Workshop
   part_time: ''
-- full_time: 87
+- full_time: '87'
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: '1'
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 20
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 2,3,4
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 80
+  weighting: '80'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -95,6 +95,7 @@ assessment_criteria:
   specialised skills within game design, generalise key concepts and deploy solutions
   to a high standard for a range of complex, specialised and unforeseen problems through
   the use and modification of advanced skills, tools and/or techniques.'
+speccial_regulations: []
 essential_material: []
 supplementary_material:
 - '"Game Balance Concepts." 08/09/2010. https://gamebalanceconcepts.wordpress.com/'
@@ -106,7 +107,5 @@ supplementary_material:
 requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 

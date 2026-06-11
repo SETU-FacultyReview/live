@@ -1,11 +1,11 @@
 reference: A36201
 full_title: Data Security
 short_title: Data Security
-credits: 5
+credits: '5'
 level: Advanced
 author: BERNARD.BUTLER
 history_comment: ''
-school: Science and Computing
+faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Forensics and Security
 aim: This module provides the essentials of data security. Topics covered include
@@ -18,14 +18,14 @@ programmes:
 - timetable: ''
   code: WD_KDAAN_G
   name: HDip in Science in Data Analytics
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 - timetable: ''
   code: WD_KDTAN_MA
   name: Certificate in Data Analytics
-  stage: 1
-  semester: 2
+  stage: '1'
+  semester: '2'
   status: M
 prerequisites: []
 corequisites: []
@@ -54,30 +54,30 @@ learning_and_teaching_methods:
 - The practical element allows the student to put into practice the theoretical concepts
   covered in the lectures.
 learning_modes:
-- full_time: 24
+- full_time: '24'
   name: Lecture
-  part_time: 24
-- full_time: 24
+  part_time: '24'
+- full_time: '24'
   name: Practical
-  part_time: 24
-- full_time: 87
+  part_time: '24'
+- full_time: '87'
   name: Independent Learning
-  part_time: 87
+  part_time: '87'
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: true
+  main: 'true'
   name: Continuous Assessment
-  weighting: 100
+  weighting: '100'
 - learning_outcomes: 1,2,3
-  main: false
+  main: 'false'
   name: In-Class Assessment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,4,5
-  main: false
+  main: 'false'
   name: Assignment
-  weighting: 50
+  weighting: '50'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -100,6 +100,7 @@ assessment_criteria:
 - '70%-100%: All of the above to an excellent level. Can demonstrate an understanding
   of some the trade-offs involved in providing security, trust and privacy. Able to
   demonstrate in detail how to protect data, its subjects and its users.'
+speccial_regulations: []
 essential_material:
 - '"General Data Protection Regulation." https://gdpr-info.eu/'
 - '"OpenSSL Cryptography and SSL/TLS Toolkit." https://www.openssl.org/'
@@ -119,7 +120,5 @@ supplementary_material:
 requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
-track_changes: true
-
-
+track_changes: 'true'
 
