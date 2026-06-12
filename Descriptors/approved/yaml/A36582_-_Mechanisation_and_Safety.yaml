@@ -118,5 +118,5 @@ supplementary_material:
 requested_resources:
 - 'WORKSHOP: Kildalton Agricultural College Equipment and Machinery'
 mlo_to_po: ''
-track_changes: true
+track_changes: 'true'
 

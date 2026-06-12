@@ -102,5 +102,5 @@ requested_resources:
 - 'COMPUTER LAB: Multimedia Lab'
 - 'CREATIVE AND PERFORMING: Special Purpose Area'
 mlo_to_po: ''
-track_changes: true
+track_changes: 'true'
 

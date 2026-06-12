@@ -134,5 +134,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'COMPUTER LAB: Networks Lab'
 mlo_to_po: ''
-track_changes: true
+track_changes: 'true'
 

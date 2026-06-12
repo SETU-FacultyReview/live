@@ -104,5 +104,5 @@ supplementary_material:
 - '"www.fda.com." http://www.fda.gov/Food/'
 requested_resources: []
 mlo_to_po: ''
-track_changes: true
+track_changes: 'true'
 

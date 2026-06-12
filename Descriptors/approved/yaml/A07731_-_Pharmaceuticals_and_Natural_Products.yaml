@@ -121,5 +121,5 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
-track_changes: true
+track_changes: 'true'
 

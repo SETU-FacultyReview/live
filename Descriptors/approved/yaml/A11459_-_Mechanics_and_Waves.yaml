@@ -108,5 +108,5 @@ supplementary_material:
 requested_resources:
 - 'SCIENCE LAB: Physics'
 mlo_to_po: ''
-track_changes: true
+track_changes: 'true'
 
