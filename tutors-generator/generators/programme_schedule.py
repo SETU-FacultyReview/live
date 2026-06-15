@@ -1,7 +1,7 @@
 """
 ProgrammeSchedule - Generates programme schedule tables.
 
-This class creates a programme schedule panelnote showing modules
+This class creates a programme schedule note showing modules
 organized by semester in a table format.
 """
 
@@ -20,7 +20,8 @@ class ProgrammeSchedule:
     mandatory/elective status.
     """
 
-    def __init__(self, department, programme_code: str, module_to_cluster_path: dict):
+    def __init__(self, department, programme_code: str, module_to_cluster_path: dict,
+                 icon_type: str = None, icon_color: str = None):
         """
         Initialize the programme schedule generator.
 
@@ -28,10 +29,14 @@ class ProgrammeSchedule:
             department: Department object containing programme data
             programme_code: The programme code (e.g., 'WD_KACCM_B')
             module_to_cluster_path: Dictionary mapping module codes to weburl paths
+            icon_type: Optional icon type for the schedule note
+            icon_color: Optional icon color for the schedule note
         """
         self.department = department
         self.programme_code = programme_code
         self.module_to_cluster_path = module_to_cluster_path
+        self.icon_type = icon_type
+        self.icon_color = icon_color
 
         # Get programme data
         if programme_code not in department.programmes:
@@ -41,36 +46,43 @@ class ProgrammeSchedule:
 
     def generate_schedule(self, output_dir: Path):
         """
-        Generate the programme schedule panelnote.
+        Generate the programme schedule note.
 
-        Creates a unit with a topic.md "Programme Schedule" containing
-        a panelnote with a markdown table showing modules by semester.
+        Creates a unit-0 directory containing a note-00-schedule note
+        with note.md containing a heading and a markdown table showing
+        modules by semester.
 
         Args:
-            output_dir: Directory where the schedule unit should be created
+            output_dir: Directory where the schedule should be created
         """
-        # Create schedule unit directory
-        schedule_unit_dir = output_dir / "unit-00-schedule"
-        schedule_unit_dir.mkdir(exist_ok=True)
+        # Create unit-0 directory
+        unit_0_dir = output_dir / "unit-0"
+        unit_0_dir.mkdir(exist_ok=True)
 
-        # Create unit topic.md with programme title and code
-        prog_name = self.programme_data['name']
-        with open(schedule_unit_dir / "topic.md", 'w') as f:
-            f.write(f"# {prog_name} ({self.programme_code})\n")
+        # Create unit-0 topic.md
+        with open(unit_0_dir / "topic.md", 'w') as f:
+            f.write("# Programme Schedule\n")
 
-        # Create panelnote directory inside the unit
-        panelnote_dir = schedule_unit_dir / "panelnote-00-schedule"
-        panelnote_dir.mkdir(exist_ok=True)
+        # Create schedule note directory inside unit-0
+        schedule_note_dir = unit_0_dir / "note-00-schedule"
+        schedule_note_dir.mkdir(exist_ok=True)
 
         # Organize modules by semester
         modules_by_semester = self._organize_modules_by_semester()
 
         # Generate the markdown table
-        markdown_content = self._generate_markdown_table(modules_by_semester)
+        table_content = self._generate_markdown_table(modules_by_semester)
 
-        # Write panelnote.md (just the table, no headers)
-        with open(panelnote_dir / "panelnote.md", 'w') as f:
-            f.write(markdown_content)
+        # Write note.md with icon frontmatter, heading, "Modules by semester", and table
+        with open(schedule_note_dir / "note.md", 'w') as f:
+            # Add icon frontmatter if icon is provided
+            if self.icon_type and self.icon_color:
+                from icons import create_icon_frontmatter
+                f.write(create_icon_frontmatter(self.icon_type, self.icon_color))
+
+            f.write("# Programme Schedule\n\n")
+            f.write("Modules by semester\n\n")
+            f.write(table_content)
 
     def _organize_modules_by_semester(self) -> dict:
         """
