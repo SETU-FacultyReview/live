@@ -90,5 +90,5 @@ requested_resources:
 - 'EQUIPMENT: MAC PCs'
 - 'EQUIPMENT: Blackboard'
 mlo_to_po: ''
-track_changes: true
+track_changes: 'true'
 

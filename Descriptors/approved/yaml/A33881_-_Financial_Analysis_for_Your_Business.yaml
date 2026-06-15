@@ -96,5 +96,5 @@ requested_resources:
 - 'Room Type: Computer Lab'
 - 'EQUIPMENT: Blackboard'
 mlo_to_po: ''
-track_changes: true
+track_changes: 'true'
 

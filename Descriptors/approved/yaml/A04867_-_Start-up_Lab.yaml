@@ -1,7 +1,7 @@
 reference: A04867
 full_title: Start-up Lab
 short_title: Start-up Lab
-credits: '20'
+credits: 20
 level: Intermediate
 author: CGATELY
 history_comment: ''
@@ -18,44 +18,44 @@ programmes:
 - timetable: ''
   code: WD_BBUSI_B
   name: Bachelor of Business (Honours)
-  stage: '3'
-  semester: '6'
+  stage: 3
+  semester: 6
   status: E
 - timetable: BUSI-0304
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: '3'
-  semester: '6'
+  stage: 3
+  semester: 6
   status: E
 - timetable: BUSI-0304
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: '3'
-  semester: '6'
+  stage: 3
+  semester: 6
   status: E
 - timetable: BUSI-0304
   code: WD_KCOFO_B
   name: BSc (Hons) in Computer Forensics & Security
-  stage: '3'
-  semester: '6'
+  stage: 3
+  semester: 6
   status: E
 - timetable: BUSI-0304
   code: WD_KPHTE_B
   name: BSc (Hons) in Physics for Modern Technology
-  stage: '3'
-  semester: '6'
+  stage: 3
+  semester: 6
   status: E
 - timetable: BUSI-0304
   code: WD_SMBIO_B
   name: BSc (Hons) in Molecular Biology with Biopharmaceutical Science
-  stage: '3'
-  semester: '6'
+  stage: 3
+  semester: 6
   status: E
 - timetable: BUSI-0304
   code: WD_SPHSC_B
   name: BSc (Hons) in Pharmaceutical Science
-  stage: '3'
-  semester: '6'
+  stage: 3
+  semester: 6
   status: E
 prerequisites: []
 corequisites: []
@@ -122,3 +122,7 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: true
+
+
+
+

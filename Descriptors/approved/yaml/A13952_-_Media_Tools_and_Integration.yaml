@@ -85,5 +85,5 @@ requested_resources:
 - 'CREATIVE AND PERFORMING: Special Purpose Area'
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
-track_changes: true
+track_changes: 'true'
 

@@ -118,5 +118,5 @@ requested_resources:
 - 'ENGINEERING LAB: Electronics'
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
-track_changes: true
+track_changes: 'true'
 
