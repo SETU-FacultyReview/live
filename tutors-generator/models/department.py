@@ -98,7 +98,9 @@ class Department:
                             continue
 
                         prog_name = prog['name']
-                        semester = prog.get('semester', 0)
+                        # Normalize semester to string for consistent sorting
+                        semester_raw = prog.get('semester', 0)
+                        semester = str(semester_raw) if semester_raw is not None else '0'
                         status = prog.get('status', '')
 
                         # Initialize programme if not seen

@@ -406,8 +406,9 @@ class DepartmentGenerator:
             )
             programme_paths[prog_code] = prog_topic_path
 
-            # Create semester units
-            for semester_num in sorted(semesters.keys()):
+            # Create semester units (sort by numeric value)
+            sorted_semesters = sorted(semesters.keys(), key=lambda x: int(x) if str(x).isdigit() else 0)
+            for semester_num in sorted_semesters:
                 semester_modules = semesters[semester_num]
 
                 # Create semester unit directory
@@ -416,7 +417,7 @@ class DepartmentGenerator:
 
                 # Create semester topic.md
                 # Semester 0 = "Any Semester"
-                semester_label = "Any Semester" if semester_num == 0 else f"Semester {semester_num}"
+                semester_label = "Any Semester" if semester_num == '0' else f"Semester {semester_num}"
 
                 with open(semester_unit_dir / "topic.md", 'w') as f:
                     f.write(f"# {semester_label}\n\n")

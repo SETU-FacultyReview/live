@@ -92,7 +92,9 @@ class ProgrammeSchedule:
 
                 # Get module details
                 short_title = descriptor.get('short_title', descriptor.get('full_title', module_code))
-                credits = descriptor.get('credits', 5)
+                # Normalize credits to string (can be int or str in YAML)
+                credits_raw = descriptor.get('credits', 5)
+                credits = str(credits_raw)
 
                 # Determine status label (M or E)
                 status_label = 'M' if status in ['M', 'C'] else 'E'
@@ -141,8 +143,8 @@ class ProgrammeSchedule:
         if not modules_by_semester:
             return "*No modules scheduled*\n"
 
-        # Get sorted list of semesters
-        semesters = sorted(modules_by_semester.keys())
+        # Get sorted list of semesters (convert to int for proper numeric sorting)
+        semesters = sorted(modules_by_semester.keys(), key=lambda x: int(x) if str(x).isdigit() else 0)
 
         # Separate mandatory and elective modules for each semester
         mandatory_by_semester = {}
