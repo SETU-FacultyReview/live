@@ -389,8 +389,14 @@ class DepartmentGenerator:
                 f.write(f"# {prog_name}\n\n")
                 f.write("TODO: Programme leader information\n")
 
-            # Generate programme schedule panelnote
-            schedule_generator = ProgrammeSchedule(self.department, prog_code, module_to_cluster_path)
+            # Generate programme schedule with programme icon
+            schedule_generator = ProgrammeSchedule(
+                self.department,
+                prog_code,
+                module_to_cluster_path,
+                icon_type=icon_type,
+                icon_color=icon_color
+            )
             schedule_generator.generate_schedule(prog_dir)
 
             # Build weburl path for this programme

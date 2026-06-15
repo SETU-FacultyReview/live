@@ -1,4 +1,0 @@
-| Semester 1 |  |  | Semester 2 |  |  | Semester 3 |  |  | Semester 4 |  |  |
-| ----------------- | --- | --- | ----------------- | --- | --- | ----------------- | --- | --- | ----------------- | --- | --- |
-| Organic Crop Management | 10 | M | [Food, Health and Nutrition](/note/setu-science-faculty/unit-2/topic-02-clusters/topic-07-Food_Science/note-16-note-16-Food_Health_and_Nutrition) | 10 | M | Agroforestry and Biodiversity | 10 | M | [Research Research](/note/setu-science-faculty/unit-2/topic-02-clusters/topic-11-Placement_and_Projects/note-21-note-21-Research_Methods_and_Dissertation) | 30 | M |
-| Soil and Water Management | 10 | M | Organic Livestock Management | 10 | M | [Management and Marketing](/note/setu-science-faculty/unit-2/topic-02-clusters/topic-11-Placement_and_Projects/note-18-note-18-Project_Management_and_Marketing) | 10 | M |  |  |  |
