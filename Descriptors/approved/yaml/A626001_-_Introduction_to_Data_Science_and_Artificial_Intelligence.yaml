@@ -1,0 +1,119 @@
+reference: A626001
+full_title: Introduction to Data Science and Artificial Intelligence
+short_title: Introduction to DS and AI
+credits: 5
+level: Intermediate
+author: BBUTLER
+history_comment: New module on the Data Science and AI stream.
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Data Science and AI
+aim: 'This module introduces students to data, its management and usage, in all its
+  forms. It considers the characteristics of varied data sources (enterprise databases,
+  internet and intranet endpoints accessible by APIs, cyberphysical systems at the
+  network edge, etc.). Push and pull strategies for obtaining data are presented and
+  compared e.g., in terms of timeliness and completeness, especially from streaming
+  data sources. Data context (its structure, metadata, inbuilt relationships and quality)
+  is considered and students shown how to incorporate this into model building pipelines.
+  Having obtained the data, a suite of data wrangling procedures are considered, including
+  filtering, merging and reshaping, with the goal being to prepare a data set suitable
+  for Exploratory Data Analysis and model building. Students will be able to develop
+  familiarity with frameworks supporting these operations during practicals.
+
+  '
+programmes:
+- timetable: null
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 4
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Push vs pull data architectures in data-first distributed computing
+- Programmed data extraction from relational and document databases
+- Event-based and streaming data - APIs, queuing and state management
+- Functional programming for building robust and scalable data pipelines
+- Design patterns for filtering, merging, aggregating, projecting, reshaping and mapping
+  data between different representations
+learning_outcomes:
+- Devise a strategy to understand the data that is available for analysis
+- Design a suitable data architecture, incorporating data pipelines with robust validation
+  and state management (start, stop, restart, report, ...)
+- Develop code to implement those data pipelines in a robust and scalable manner,
+  with built-in validation, visualisation and observability
+- Build distributed applications that extract source data and transform it so that
+  it is suitable for machine learning
+- Use informed choices of software frameworks and specify hardware requirements to
+  ensure such applications meet both functional and nonfunctional requirements
+learning_and_teaching_methods:
+- Lectures introducing theory, e.g., of data structure models, queues, reliability,
+  automation....
+- Hands-on practical labs using Python (or equivalent) and industry-standard frameworks
+  and libraries.
+- Case studies designing data architectures and making implementation choices.
+- Selected projects where students apply data engineering principles by building deployable
+  data ingestion and transformation applications.
+- Use Apache-based big data platforms and the Python ecosystem (pandas, DuckDB, polars,
+  matplotlib, ...) or equivalent for practical work.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: null
+- full_time: 24
+  name: Practical
+  part_time: null
+- full_time: 77
+  name: Independent Learning
+  part_time: null
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3
+  main: false
+  name: Assignment
+  weighting: 40
+  due_weeks: 2-7
+  comment: ''
+- learning_outcomes: 3,4,5
+  main: false
+  name: Assignment
+  weighting: 40
+  due_weeks: 8-13
+  comment: ''
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: In-Class Practicals
+  weighting: 20
+  due_weeks: 2,5,9,11
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to obtain data programmatically in a repeatable fashion from even
+  structured data sources'
+- '40%-49%: Able to obtain data from highly structured, largely static data sources,
+  but unable to assess and manage its quality and suitability for further analysis'
+- '50%-59%: Able to obtain data from varied sources, but with limited synergy, and
+  some deficiencies in how the data is assessed and prepared for use later in the
+  data pipelines'
+- '60%-69%: Able to obtain data from varied sources in a way that maximises its utility
+  for machine learning, but with limited focus on reliability, scalability and observability'
+- '70%-100%: Able to build a scalable, performant and observable data application,
+  that provides a sound foundation for machine learning operations'
+essential_material: []
+supplementary_material:
+- McGregor, S.E. (2021) _Practical Python Data Wrangling and Data Quality_, O'Reilly
+- Eppenschutz, G. (2023) _Data Ingestion with Python Cookbook_, Packt Publishing
+- Haba, D. (2023) _Data Augmentation with Python_, O'Reilly
+- Danuschka, D. (2026) _Practical Data Engineering with Apache Projects_, Apress
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: 1,2,3,4
+track_changes: true
+
+
+
+
+

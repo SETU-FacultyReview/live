@@ -1,6 +1,6 @@
 reference: A33861
 full_title: Enterprise Data Interchange
-short_title: EDI
+short_title: Enterprise Data Interchange
 credits: '5'
 level: Advanced
 author: BONEILL
@@ -116,4 +116,9 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: 'true'
+
+
+
+
+
 

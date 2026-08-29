@@ -1,0 +1,156 @@
+reference: A29443
+full_title: Artificial Intelligence Engineering 2
+short_title: AI Engineering 2
+credits: 5
+level: Advanced
+author: BBUTLER
+history_comment: Change of module title to align more with what is covered in the
+  module. Update of content and LO to reflect change.
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Database and Analytics
+aim: 'It is assumed the student is familiar with the fundamental concepts and techniques
+  of data investigations using machine learning procedures. Students build upon the
+  knowledge of modelling and prediction techniques gained in Artificial Intelligence
+  Engineering 1, learning how to apply these procedures in more realistic contexts.
+  Students will also learn about how machine learning results can be presented in
+  ways that support decision making that is objective, methodologically sound and
+  explainable. Compared to its Artificial Intelligence Engineering 1 companion module,
+  the data will require more preparation before analysis, and there is also more emphasis
+  on generative techniques for AI, and on application domains, especially language
+  and text processing.
+
+  '
+programmes:
+- timetable: COMP-0572
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 8
+  status: M
+- timetable: COMP-0572
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 4
+  semester: 8
+  status: M
+- timetable: COMP-0572
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 8
+  status: M
+- timetable: COMP-0572
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 4
+  semester: 8
+  status: M
+- timetable: COMP-0572
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 8
+  status: M
+- timetable: COMP-0572
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 4
+  semester: 8
+  status: M
+- timetable: COMP-0572
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Review of model building, with increased focus on optimisation and validation.
+- Advanced techniques for data preprocessing and feature engineering.
+- Newer types of ML models, including deep learning and large language models.
+- Machine Learning for decision support - assessing the limits of what the models
+  can provide, as well as strategies to interpret ML models.
+- Machine Learning as enabler of smart ICT solutions.
+learning_outcomes:
+- Summarise how ML pipelines are built and display a clear understanding of the steps
+  involved.
+- Critically evaluate the fundamental concepts behind each stage of a Machine Learning
+  pipeline, challenging any assumptions, ensuring sound choices are made.
+- Justify the use of appropriate tools and techniques for each stage of the ML pipeline.
+- Evaluate, interpret and utilize results obtained at each step of a Machine Learning
+  pipeline.
+- Create a working prototype for a set of problems that employ Machine Learning to
+  provide the analytical component of the solution.
+learning_and_teaching_methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures, generally using software tools and packages drawn from the python
+  machine learning ecosystem.
+- Students will apply appropriate tools and methods to Machine Learning exercises
+  provided in the practical classes and the continuous assessments.
+- Students will implement appropriate tools and methods to ML-based continuous assessment
+  projects.
+- Students will interpret and present the findings produced in the practical classes
+  and continuous assessment.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: ''
+- full_time: 36
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,3,5
+  main: false
+  name: Assignment
+  weighting: 35
+  due_weeks: 1-7
+  comment: An applied ML problem/application.
+- learning_outcomes: 2-5
+  main: false
+  name: Assignment
+  weighting: 45
+  due_weeks: 4-15
+  comment: A Kaggle based competition.
+- learning_outcomes: 1,2
+  main: false
+  name: In-Class Assessment
+  weighting: 20
+  due_weeks: 6,11
+  comment: Practical notebooks with Moodle quizzes.
+assessment_criteria:
+- <40%:Unable to describe and apply basic ML model building and validation procedures.
+- 40%-49%:Be able to describe and apply basic ML model building and validation procedures.
+- 50%-59%:Be able to discuss and apply more advanced ML model building, validation
+  and interpretation procedures.
+- 60%-69%:Be able to solve problems using ML techniques in a professional manner,
+  including discovering and integrating related knowledge across domains.
+- 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+essential_material: []
+supplementary_material:
+- Geron, Aurelien. _Hands-On Machine Learning with Scikit-Learn and PyTorch_ 2025.
+- Huyen, C. _Designing Machine Learning Systems_. 2022.
+- 'Alammar, J. and Grootendorst, M. _Hands-On Large Language Models: Language Understanding
+  and Generation_. 2024.'
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: 1,2,3,4,5,7,8
+track_changes: true
+
+
+
+
+

@@ -1,6 +1,6 @@
 reference: A07812
 full_title: Food Product Development
-short_title: Food Product Dev.
+short_title: Food Product Development
 credits: '15'
 level: Advanced
 author: EDUGGAN
@@ -154,4 +154,9 @@ requested_resources:
 - 'Room Type: Chemistry Lab'
 mlo_to_po: ''
 track_changes: 'true'
+
+
+
+
+
 

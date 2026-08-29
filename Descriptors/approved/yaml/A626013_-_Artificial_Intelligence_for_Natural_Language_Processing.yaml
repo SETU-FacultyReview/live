@@ -1,0 +1,134 @@
+reference: A626013
+full_title: Artificial Intelligence for Natural Language Processing
+short_title: AI for NLP
+credits: 5
+level: Advanced
+author: KMURPHY
+history_comment: New module currently under review in CE3, SSD and AI (now approved).
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Data Science and AI
+aim: This module provides students with an advanced understanding of large language
+  models (LLMs) and their role in the development of intelligent applications. Students
+  will explore the theoretical underpinnings of transformer architectures, preparing
+  text for model training, use of pre-trained models, and fine-tuning techniques,
+  alongside current industry practices for deploying models through APIs. The module
+  emphasises practical development using prompt engineering and evaluation techniques,
+  while also encouraging critical reflection on ethical, legal, and societal challenges
+  such as bias, misinformation, and data privacy. Through hands-on project work and
+  critical analysis, students will gain the skills to responsibly develop and integrate
+  LLM capabilities into real-world software systems.
+programmes:
+- timetable: null
+  code: WD_KDEVP_B
+  name: BSc (Hons) Software Development and AI
+  stage: 4
+  semester: 7
+  status: M
+- timetable: null
+  code: WD_KCMSC_B
+  name: BSc (Hons) Computer Science
+  stage: 4
+  semester: 7
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Overview of NLP and the evolution of LLMs
+- Transformer architecture and training base models
+- Fine-tuning pre-trained base models
+- Tokenization, embeddings, attention mechanisms
+- Prompt engineering and zero/few-shot learning
+- Accessing and using LLM APIs (OpenAI, Hugging Face)
+- '*Building applications:* chatbots, summarisation, Q&A systems, text classification'
+- Performance evaluation metrics
+- '*Ethical risks:* hallucination, bias, misuse, traceability, data exposure, copyright'
+- Guardrails and responsible deployment
+learning_outcomes:
+- Demonstrate an understanding of the theoretical foundations and architectural principles
+  of large language models, including transformer-based architectures.
+- Explain and evaluate the processes of pretraining, fine-tuning, and transfer learning
+  in the development of LLMs.
+- Design and develop functional LLM-powered applications using techniques such as
+  prompt engineering and integration with public APIs.
+- Analyse and assess the performance of LLMs using appropriate evaluation methods,
+  including both quantitative metrics and qualitative techniques.
+- Critically evaluate ethical, legal, and societal issues surrounding the deployment
+  and use of LLMs, including bias, misinformation, and data privacy
+learning_and_teaching_methods:
+- This module will be taught through a variety of ways, including lectures, discussions,
+  and case-based practical studies.
+- Self-directed learning will also be encouraged throughout the duration of the module.
+- Students in this module are required to engage in discussions and labs, enhancing
+  their participation.
+- The topic of Large Language Models and its related concepts will be introduced and
+  explained by instructors in the lectures.
+- The case-based practical studies implemented in this module through labs will assist
+  students in gaining problem-based skills that result in significant improvement
+  in their critical thinking and active participation in the learning process.
+learning_modes:
+- name: Independent Learning
+  full_time: 77
+  part_time: null
+- name: Lecture
+  full_time: 12
+  part_time: null
+- name: Practical
+  full_time: 36
+  part_time: null
+assessment_methods:
+- name: Continuous Assessment
+  main: true
+  weighting: 100
+  learning_outcomes: 1-5
+- name: Project
+  main: false
+  weighting: 50
+  learning_outcomes: 1,3,4,5
+  due_weeks: 5-10
+  comment: ''
+- name: Technical Report
+  main: false
+  weighting: 30
+  learning_outcomes: 2,5
+  due_weeks: 8!,14
+  comment: ''
+- name: Presentation
+  main: false
+  weighting: 20
+  learning_outcomes: 1,2,4
+  due_weeks: 10-11
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to demonstrate understanding of the theoretical foundations and architectural
+  principles of large language models, including transformer-based architectures.
+  Inability to develop an LLM powered application and a technical report. Inability
+  to attend presentation.'
+- '40%-49%: Able to describe the theoretical foundations and architectural principles
+  of large language models, including transformer-based architectures. Developed an
+  LLM powered application with limited functionality, along with a technical report
+  and presentation, demonstrating understanding of the technical design.'
+- '50%-59%: Able to understand the theoretical foundations and architectural principles
+  of large language models, including transformer-based architectures. Ability to
+  develop LLM powered application using public API and to evaluate the performance
+  and critically analyse the work in a technical report.'
+- '60%-69%: All of the above and in addition, can present the evaluation of performance
+  and the responsible use of LLMs in real-world settings.'
+- '70%-100%: All the above to an excellent level.'
+essential_material:
+- 'Hugging Face Learn: https://huggingface.co/learn'
+- 'OpenAI API documentation: https://platform.openai.com/docs'
+- Howard, J., & Gugger, S. (2020). _Deep Learning for Coders with fastai and PyTorch_.
+  O Reilly.
+- 'Alammar, J. & Grootendorst, M. (2024). _Hands-On Large Language Models: Language
+  Understanding and Generation_. O Reilly.'
+supplementary_material: []
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: 4,5,7,8
+track_changes: true
+
+
+
+
+

@@ -1,10 +1,10 @@
 reference: A29462
 full_title: Advanced Driver Assistance Systems
 short_title: Adv. Driver Assistance Systems
-credits: '5'
+credits: 5
 level: Advanced
-author: EREADE
-history_comment: ''
+author: BJACKMAN
+history_comment: Revised content.
 faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Automotive, Automation and IoT
@@ -17,48 +17,45 @@ programmes:
 - timetable: COMP-0568
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: '4'
-  semester: '7'
+  stage: 4
+  semester: 7
   status: E
 - timetable: COMP-0568
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: '4'
-  semester: '7'
+  stage: 4
+  semester: 8
   status: E
 - timetable: COMP-0568
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: '4'
-  semester: '7'
+  stage: 4
+  semester: 7
   status: E
 - timetable: COMP-0568
   code: WD_KPHTE_B
   name: Bachelor of Science (Honours) in Physics for Modern Technology
-  stage: '4'
-  semester: '7'
+  stage: 4
+  semester: 7
   status: E
 prerequisites: []
 corequisites: []
 indicative_content:
-- 'The evolution of driver assistance systems: Overview; motivation; history; categorisation'
-- Vehicle Stability Systems
-- Vehicle Control Systems
-- 'Optical and radar based systems: Object and collision detection; Lane departure
-  warning; emergency brake assist, traffic sign recognition'
-- 'Automated Driver Assistance Technology and Applications: Parking assistance; driverless
-  car technology; driver behaviour monitoring'
-- 'Vehicle to Vehicle communication and applications: V2V technologies; Early warning
-  applications; VANETs (Vehicular Ad Hoc Networks) based applications'
+- The evolution of driver assistance systems - Overview; motivation; history; categorisation.
+- ADAS automation/autonomy (SAE) levels.
+- ADAS Architectures.
+- Sensor types (Camera, Radar, Lidar).
+- ADAS Horizon and High Definition Mapping.
+- Sensor Fusion - Bayes Theorem, Kalman filter.
+- Vehicle to Vehicle communication and applications - Car2x protocol.
 learning_outcomes:
-- Appraise the characteristics, motivations and applications of ADAS.
-- Evaluate, model, and simulate stability and control systems used in modern vehicles.
-- Develop in-vehicle and external optical based applications for driver assistance.
-- Integrate driver assistance application with existing in-car communication networks
-  and applications.
-- Develop and implement driver assistance applications that use Vehicle-to-Vehicle(V2V)
-  technologies.
-- Use industry-standard network and application development tools.
+- Understand the use cases and limitations of ADAS technologies.
+- Learn how an autonomous vehicle perceives its environment - Camera, Radar, Lidar
+  operating principles.
+- Examine common ADAS software architectures.
+- Use sensor fusion techniques to improve sensor data.
+- Implement the Car2x protocol on real vehicles.
+- Use industry-standard ADAS simulation tools.
 learning_and_teaching_methods:
 - Combination of lectures and lab-based practicals.
 - The lectures will cover the theory and underlying technologies behind ADAS systems.
@@ -69,37 +66,37 @@ learning_and_teaching_methods:
 - Student will be encouraged to enhance their lab work and assessment submissions
   using self-directed research and learning into state-of-the-art ADAS systems.
 learning_modes:
-- full_time: '24'
+- full_time: 24
   name: Lecture
   part_time: ''
-- full_time: '24'
+- full_time: 24
   name: Practical
   part_time: ''
-- full_time: '87'
+- full_time: 87
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: 'true'
+  main: true
   name: Continuous Assessment
-  weighting: '100'
-- learning_outcomes: 2,3,4,5
-  main: 'false'
-  name: Lab Report
-  weighting: '30'
-  due_weeks: []
-  comment: ''
-- learning_outcomes: 1,6
-  main: 'false'
-  name: In-Class Assessment
-  weighting: '20'
-  due_weeks: []
-  comment: ''
-- learning_outcomes: 4,5,6
-  main: 'false'
+  weighting: 100
+- learning_outcomes: 5,6
+  main: false
   name: Assignment
-  weighting: '50'
-  due_weeks: []
+  weighting: 40
+  due_weeks: '7'
+  comment: ''
+- learning_outcomes: 1,2,4
+  main: false
+  name: In-Class Assessment
+  weighting: 30
+  due_weeks: '9'
+  comment: ''
+- learning_outcomes: 3
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: '11'
   comment: ''
 assessment_criteria:
 - <40%:Unable to interpret and appraise key characteristics and motivation for ADAS
@@ -114,11 +111,14 @@ assessment_criteria:
 - '70%-100%: In addition to the above , combine self-directed research of state-of-the-art
   ADAS systems in assessment work. Exhibit the ability to solve unforeseen problems
   through the use and modification of self-learned skills and tools.'
-special_regulations: []
 essential_material: []
 supplementary_material: []
 requested_resources:
-- 'Room Type: Computer Lab'
-mlo_to_po: ''
-track_changes: 'true'
+- Automotive Systems Laboratory
+mlo_to_po: 1,2,3,8
+track_changes: true
+
+
+
+
 

@@ -1,6 +1,6 @@
 reference: A33642
 full_title: Biopharmaceutical Operations
-short_title: Biopharm Ops
+short_title: Biopharmaceutical Operations
 credits: '10'
 level: Advanced
 author: AHAYDEN
@@ -97,4 +97,9 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: 'true'
+
+
+
+
+
 

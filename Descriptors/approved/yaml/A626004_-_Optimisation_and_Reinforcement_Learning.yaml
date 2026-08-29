@@ -1,0 +1,143 @@
+reference: A626004
+full_title: Optimisation and Reinforcement Learning
+short_title: Optimisation and RL
+credits: 5
+level: Intermediate
+author: BBUTLER
+history_comment: New module on the Data Science and AI stream.
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Data Science and AI
+aim: 'This module introduces students to the mathematical foundations of machine learning,
+  notably computational linear algebra, numerical optimisation and vector calculus.  Nearly
+  all machine learning procedures work by minimising a loss function, often using
+  variations of gradient descent. As such, they iterate towards their solution, so
+  understanding of convergence and the effect of starting values and parameter choices
+  are critical. At each step, it is common to linearise the system, and this is where
+  computational linear algebra becomes essential. In addition to gradient-based optimisation,
+  there are other ways to search the space for the optimum settings. One such technique
+  is reinforcement learning, and this formulation will be introduced and its use in
+  applications (like controlling robots and aligning LLMs) will be emphasised.
+
+  '
+programmes:
+- timetable: null
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 3
+  semester: 5
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Vector Spaces, Norms, and Geometry of Data, including inner products, distances
+  and similarity, orthogonality, subspaces and feature representations of states in
+  Reinforcement Learning (RL)
+- Matrix Decompositions and Spectral Methods, including eigensystems, SVD, low-rank
+  approximations, conditioning, Markov processes and successor representations in
+  RL.
+- Multivariate Calculus for Optimization, with Automatic Differentiation, including
+  gradients and Jacobians, local approximations, policy gradient methods in RL.
+- Numerical Optimization Algorithms and Learning Dynamics, including (stochastic)
+  gradient descent, choice of hyperparameters (momentum, learning rate, etc.), role
+  of convexity, constraints and regularisation, and actor-critic models in RL
+- Numerical Linear Algebra and Computational Considerations, including computational
+  complexity, algorithm choice and configuration, stability and conditioning, under-
+  and overdetermined systems and the effects of scale
+learning_outcomes:
+- Represent datasets and models using vectors and matrices, choose and interpret norms,
+  distances, and angles, explain linear regression as a projection onto a subspace
+  and reason geometrically about similarity and feature scaling.
+- Compute and interpret eigensystems and SVD, explain and employ dimensionality techniques
+  such as PCA and techniques such as UMAP for visualising high dimensional data, use
+  low-rank approximations to compress data, analyse system conditioning, and relate
+  eigenvalues to long-term behaviour in RL.
+- 'Compute gradients and higher order derivatives of multivariate functions by numerical
+  and analytical means, apply the chain rule in vector/matrix form, derive gradient
+  updates for common ML loss functions that include MSE and cross entropy, understand
+  gradients of expected return in RL, and interpret learning curves '
+- Formulate ML training as an optimization problem, analyze gradient-based optimization
+  algorithms, explain convexity and its implications for learning, and understand
+  the role of regularization and early stopping in response to optimization failure
+  modes.
+- Make informed choices and use computational linear algebra libraries successfully
+  from python, reason about the metrics provided, adjust the settings and diagnose
+  the problems in terms of the characteristics of the data and the problem being solved.
+learning_and_teaching_methods:
+- Lectures introducing theory, e.g., of machine learning as an optimisation problem
+  and how to make the problem more tractable.
+- Hands-on practical labs using Python (or equivalent) and industry-standard frameworks
+  and libraries.
+- Case studies modelling dimensionality reduction, regression, classification and
+  clustering as optimisation problems, to be solved using gradient-based and RL techniques,
+  and making suitable implementation choices.
+- Selected projects where students apply mathematical and numerical methods to derive
+  knowledge from data. Note that building ML applications for deployment is covered
+  elsewhere in this stream..
+- Use well-established libraries and frameworks from the  Python ecosystem (numpy,
+  scipy, pandas, scikit-learn, matplotlib, PyTorch and supporting libraries) or equivalent
+  for practical work.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: null
+- full_time: 24
+  name: Practical
+  part_time: null
+- full_time: 77
+  name: Independent Learning
+  part_time: null
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Final Examination
+  weighting: 50
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 50
+- learning_outcomes: 2,3,4
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: 5-10
+  comment: ''
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: In-Class Practicals
+  weighting: 20
+  due_weeks: 2,5,9,12
+  comment: ''
+assessment_criteria:
+- '<40%: Limited understanding of the mathematical foundations of machine learning.
+  The submitted work contains significant conceptual errors, and demonstrates minimal
+  ability to apply and/or interpret these techniques.'
+- '40%-49%: Basic comprehension is demonstrated but the use of these techniques is
+  lacking. Application to problems may be partially correct and/or evaluation is limited.'
+- '50%-59%: Competent understanding with generally effective usage. However, techniques
+  could be used more effectively.'
+- '60%-69%: Good application of concepts interpretation of metrics with appropriate
+  choices, sound evaluation, and clear communication. Minor issues only.'
+- '70%-100%: Excellent use of mathematical and reasoning about their use, with comprehensive
+  evaluation and insightful communication of these advanced techniques in action.'
+essential_material: []
+supplementary_material:
+- Deisenroth, M.P, Faisal, A.A. and Ong, C.S. _Mathematics for Machine Learning_,
+  Cambridge University Press.
+- 'James, G., Witten, D., Hastie, T., Tibshirani, R., and Taylor, J. (2023) _An Introduction
+  to Statistical Learning: with Applications in Python_, Springer.'
+- Flammarion, N. et al. (2025) [EPFL Course - Optimization for Machine Learning -
+  CS-439](https://github.com/epfml/OptML_course) GitHub (online).
+- Sutton, R.S., Barto, A.G, Bach F. (2018). _Reinforcement Learning - AnIntroduction
+  (2nd ed)_ MIT Press.
+- 'Agarwal, C.C. (2021). _Linear Algebra and Optimization for Machine Learning: A
+  Textbook_. Springer.'
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: 2,3,4,6
+track_changes: true
+
+
+
+
+

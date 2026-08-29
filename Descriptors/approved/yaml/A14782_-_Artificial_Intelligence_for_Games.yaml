@@ -1,48 +1,51 @@
 reference: A14782
 full_title: Artificial Intelligence for Games
 short_title: AI for Games
-credits: '5'
+credits: 5
 level: Advanced
 author: PFELICIA
-history_comment: ''
+history_comment: Aim, Indicative Content, and Learning Outcomes revised to be engine-agnostic,
+  reducing Unity/C# specificity and incorporating Unreal Engine concepts and C++.
+  Supplementary material extended.
 faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Game Development
 aim: This module provides students with theoretical and practical concepts for the
-  implementation and development of artificial intelligence in video games.
+  implementation and development of artificial intelligence in video games using current
+  Game Engines.
 programmes:
 - timetable: GAME-0006
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: '4'
-  semester: '8'
+  stage: 4
+  semester: 8
   status: E
 - timetable: GAME-0006
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: '4'
-  semester: '8'
+  stage: 4
+  semester: 8
   status: E
 - timetable: GAME-0006
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: '4'
-  semester: '8'
+  stage: 4
+  semester: 8
   status: E
 prerequisites: []
 corequisites: []
 indicative_content:
 - Static and dynamic path finding
-- Behaviour trees
-- Obstacle avoidance
-- Machine learning
+- Behaviour trees and sets
+- Obstacle and local avoidance
+- Machine learning and AI senses
 - Finite state machines
 learning_outcomes:
-- Develop artificial intelligence for a 2D or 3D game using C# (or equivalent) and
-  demonstrate how it can improve the game play.
-- Design and implement path finding and obstacle avoidance techniques.
+- 'Develop artificial intelligence for a 2D or 3D game using C++/C\# (or equivalent)
+  and demonstrate how it can improve the game play in Unreal Engine or Unity.'
+- Design and implement path finding, local and obstacle avoidance techniques.
 - Construct and implement a finite state machine.
-- Design and implement behaviour trees and machine learning.
+- Design and implement behaviour trees/sets and machine learning.
 - Implement and assess common AI principles and algorithms for video games.
 learning_and_teaching_methods:
 - Since this module is focused on developing practical programming skills (i.e., game
@@ -54,34 +57,28 @@ learning_and_teaching_methods:
   and whereby lecturers provide short formal presentations of relevant concepts and
   technologies, as well as practical tips, feedback, and best practices.
 learning_modes:
-- full_time: '48'
+- full_time: 48
   name: Practical
   part_time: ''
-- full_time: '87'
+- full_time: 87
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4
-  main: 'true'
+  main: true
   name: Continuous Assessment
-  weighting: '100'
+  weighting: 100
 - learning_outcomes: 1,2,3
-  main: 'false'
+  main: false
   name: Assignment
-  weighting: '25'
-  due_weeks: []
+  weighting: 30
+  due_weeks: '6'
   comment: ''
-- learning_outcomes: 3,4
-  main: 'false'
+- learning_outcomes: 1,3,4,5
+  main: false
   name: Assignment
-  weighting: '25'
-  due_weeks: []
-  comment: ''
-- learning_outcomes: 1,5
-  main: 'false'
-  name: Assignment
-  weighting: '50'
-  due_weeks: []
+  weighting: 70
+  due_weeks: '13'
   comment: ''
 assessment_criteria:
 - '<40%: Inability to understand, explain the workings of or modify, a simple program.
@@ -99,16 +96,25 @@ assessment_criteria:
   to see programs in terms of system of components.'
 - '70%-100%: All previous to an excellent level. Starts to understand the concept
   of good solutions.'
-special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Buckland, M. _Programming Game AI by example_. Burlington, MA, USA: Jones & Bartlett
   Learning, 2010.'
 - 'Millington, I. and J. Fudge. _Artificial Intelligence for Games_. Boca Raton: CRC
   Press, 2009.'
+- 'Yannakakis, G. N., & Togelius, J. (2024/2025). _Artificial Intelligence and Games_
+  (2nd ed.). London: Springer.'
+- 'Rabin, S. (Ed.). _Game AI Pro: Collected Wisdom of Game AI Professionals_ (series).
+  Boca Raton: CRC Press.'
+- Unity Technologies. Unity Manual & Scripting API - AI Navigation and Behaviour Packages.
+- Epic Games. Unreal Engine Manual - Behaviour Trees and Sets.
 requested_resources:
 - 'EQUIPMENT: MAC PCs'
 - 'Room Type: Computer Lab'
-mlo_to_po: ''
-track_changes: 'true'
+mlo_to_po: 1,2,8
+track_changes: true
+
+
+
+
 

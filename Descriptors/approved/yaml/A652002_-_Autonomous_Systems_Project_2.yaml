@@ -1,0 +1,106 @@
+reference: A652002
+full_title: Autonomous Systems Project 2
+short_title: Autonomous Systems Project 2
+credits: 5
+level: Introductory
+author: FWWALSH
+history_comment: New module on the Automotive Software Engineering stream
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Automotive, Automation and IoT
+aim: This modules will utilise the students embedded board from the provious semester
+  to design and a build an automous based system. The desing will be team based, which
+  each individual student been assigned a personal scope with the overall project.
+  The project wil include hardware interfacing, software development and system integration
+  and testing. The student will use scrum based management techniques for the project.
+programmes:
+- timetable: null
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 4
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Autonamous system design
+- Hardware Interfacing
+- Embedded programming
+- Scrum-based Project Manangement
+- Team-based/collaborative learning and communication
+learning_outcomes:
+- Contribute to the specification and design of an autonomous, themed embedded system
+  solution.
+- Design and implement the required hardware interfaces to support the system.
+- Develop the embedded software needed to deliver the required autonomous behaviours
+  and system functionality.
+- Collaborate effectively as part of a team to deliver a single, integrated class
+  solution.
+- Apply Scrum-based project management practices to plan and monitor progress.
+- Integrate, test, and document individual subsystems within the overall system design.
+- Demonstrate and validate individual subsystem functionality within the integrated
+  system.
+learning_and_teaching_methods:
+- Combination of lectures and practical labs.
+- Cooperative learning/peer tutoring in labs and workshops.
+- Self-directed learning.
+learning_modes:
+- full_time: 12
+  name: Lecture
+  part_time: null
+- full_time: 36
+  name: Practical
+  part_time: null
+- full_time: 77
+  name: Independent Learning
+  part_time: null
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 2,3,4,5
+  main: false
+  name: Artifact
+  weighting: 70
+  due_weeks: 4,6,8,11
+  comment: Interfae  design (Week 4 - formative), Embedded software design (Week 8
+    - formative), build validation and integration (Week 11)
+- learning_outcomes: 1,6,7
+  main: false
+  name: Communication
+  weighting: 30
+  due_weeks: 3,5,7,9,12
+  comment: Sprint reviews and retrospectives (Weeks 3,6,9, - formative), final report/presentation
+    (Week 12).
+assessment_criteria:
+- <40%:Inability to produce and present a working artifact. Little evidence of specification
+  and design of embedded and integrated subsystem solution
+- 40%-49%:Ability to develop a model and present a basic working sunsystem artifact
+  with relecent interfaces. Reasonable evidence of communication and collaboaration
+  through sprint planning, task tracjing and reviews. Adequate subsystem documentaion
+  and report.
+- 50%-59%:All the above and in addition has produced a good working subsystem.Evidence
+  of good collaborative participation through the project lifecycle and clear integration
+  into overall system.
+- 60%-69%:All the above and in addition, be able to integrate and analyse more advanced
+  concepts from more than two and at least one past module, showing an ability to
+  transfer skills and knowledge across modules/strands. Strong collaboration and involvement
+  in all scrum-based activities. Strong subsystem report.
+- 70%-100%:All previous to an excellent level. Shows the ability to evaluate different
+  models and combine self-acquired knowledge. The student will also show consistent,
+  proactive participation in Scrum activities (planning, stand-ups, reviews, retrospectives,
+  and task tracking) and produce a high-quality subsystem report that clearly justifies
+  design decisions and provides robust integration and test evidence within the overall
+  class solution.
+essential_material: []
+supplementary_material: []
+requested_resources:
+- 'Electronics Lab: BYOD Lab'
+mlo_to_po: 1,2,3,4,5
+track_changes: true
+
+
+
+
+

@@ -1,34 +1,37 @@
 reference: A10867
 full_title: Advanced 3D Game Development
 short_title: Advanced 3D Game Development
-credits: '5'
+credits: 5
 level: Advanced
 author: PFELICIA
-history_comment: ''
+history_comment: Aim, Indicative Content, and Learning Outcomes revised to be engine-agnostic,
+  reducing Unity/C# specificity and incorporating Unreal Engine concepts and C++.  Supplementary
+  material extended.
 faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Game Development
 aim: This module provides students with theoretical and practical concepts for the
   development of 3D games. This module will provide the students with advanced skills
-  related to the development of 3D games using the Unity Game Engine (or similar software).
+  related to the development of 3D games using the Unreal Engine or Unity Game Engine
+  (or similar software).
 programmes:
 - timetable: GAME-0009
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: '4'
-  semester: '8'
+  stage: 4
+  semester: 8
   status: E
 - timetable: GAME-0009
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: '4'
-  semester: '8'
+  stage: 4
+  semester: 8
   status: E
 - timetable: GAME-0009
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: '4'
-  semester: '8'
+  stage: 4
+  semester: 8
   status: E
 prerequisites: []
 corequisites: []
@@ -37,15 +40,16 @@ indicative_content:
 - Artificial intelligence
 - Design patterns
 - Lighting and shaders
-- Object-Oriented Programming in C#
+- Object-Oriented Programming in C++/C\#
 learning_outcomes:
-- Implement game mechanics using C# (or similar language) and understand how object
-  oriented programming can improve and optimize their game.
+- Implement game mechanics using C++/C\# (or similar language) and understand how
+  object oriented programming can improve and optimize their game in Unreal Engine
+  or Unity.
 - Manage advanced texturing (bump- or normal mapping), lighting (e.g., global illumination),
   animations (blend-tree) or AI (ray-casting or group movement) techniques.
 - Compare and apply common design patterns for game development.
 - Integrate a version control system into the development cycle.
-- Develop networked games using built-in networking capabilities.
+- Develop networked games using industry standard networking capabilities.
 learning_and_teaching_methods:
 - Since this module is focused on developing practical programming skills (i.e., game
   programming for mobile devices), the four contact hours will be delivered in the
@@ -56,34 +60,34 @@ learning_and_teaching_methods:
   and whereby lecturers provide short formal presentations of relevant concepts and
   technologies, as well as practical tips, feedback, and best practices.
 learning_modes:
-- full_time: '48'
+- full_time: 48
   name: Practical
   part_time: ''
-- full_time: '87'
+- full_time: 87
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: 1,2,3,4,5
-  main: 'true'
+  main: true
   name: Continuous Assessment
-  weighting: '100'
+  weighting: 100
 - learning_outcomes: 1,2,3
-  main: 'false'
+  main: false
   name: Assignment
-  weighting: '25'
-  due_weeks: []
+  weighting: 25
+  due_weeks: 4-6
   comment: ''
 - learning_outcomes: 4,5
-  main: 'false'
+  main: false
   name: Assignment
-  weighting: '25'
-  due_weeks: []
+  weighting: 25
+  due_weeks: 9-12
   comment: ''
 - learning_outcomes: 1,2,3
-  main: 'false'
-  name: Assignment
-  weighting: '50'
-  due_weeks: []
+  main: false
+  name: In-Class Assignment
+  weighting: 50
+  due_weeks: '13'
   comment: ''
 assessment_criteria:
 - '<40%: Inability to understand, explain the workings of or modify, a simple program.
@@ -101,14 +105,27 @@ assessment_criteria:
   to see programs in terms of system of components.'
 - '70%-100%: All previous to an excellent level. Starts to understand the concept
   of good solutions.'
-special_regulations: []
 essential_material: []
 supplementary_material:
 - 'Nystrom, R. _Game Programming Patterns_. NY: Genever Benning, 2014.'
 - 'Okita, A. _Learning C\# Programming with Unity 3D_. NY: CRC Press, 2014.'
+- Akenine-Möller, T., Haines, E., & Hoffman, N. _Real-Time Rendering_ (4th ed.). CRC
+  Press, 2018.
+- McDermott, W. _The PBR Guide_, Allegorithmic, 2018.
+- Lengyel, E. _Mathematics for 3D Game Programming and Computer Graphics_ (3rd ed.).
+  Cengage Learning.
+- Unity Technologies. Unity Documentation (Shader Graph, lighting, occlusion culling,
+  Profiler, Frame Debugger, AI Navigation).
+- Epic Games. Unreal Engine Documentation (Material Editor, Lumen, Nanite).
+- Photon Engine. Photon Fusion 2 Documentation (simulation loop, network objects/state
+  authority, RPCs).
 requested_resources:
 - 'EQUIPMENT: MAC PCs'
 - 'Room Type: Computer Lab'
-mlo_to_po: ''
-track_changes: 'true'
+mlo_to_po: 1,2,3,8
+track_changes: true
+
+
+
+
 

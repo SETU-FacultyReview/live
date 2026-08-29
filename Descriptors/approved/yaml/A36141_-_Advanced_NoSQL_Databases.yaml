@@ -1,6 +1,6 @@
 reference: A36141
 full_title: Advanced NoSQL Databases
-short_title: Adv. NoSQL
+short_title: Advanced NoSQL Databases
 credits: '5'
 level: Advanced
 author: TMCDONALD
@@ -107,4 +107,9 @@ requested_resources:
 - 'COMPUTER LAB: BYOD Lab'
 mlo_to_po: ''
 track_changes: 'true'
+
+
+
+
+
 

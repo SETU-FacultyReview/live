@@ -1,0 +1,119 @@
+reference: A626012
+full_title: Mainframe Systems
+short_title: Mainframe Systems
+credits: 5
+level: Advanced
+author: PWINDLE
+history_comment: New Level 8 module incorporating mainframe systems.
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Networks and Cloud
+aim: 'This module provides an introduction to mainframe systems and their role  in
+  modern enterprise computing environments. Students develop foundational  knowledge
+  of mainframe architecture, operating systems, job control, security,  and programming.
+  Emphasis is placed on practical skills in accessing and working  within a live mainframe
+  environment using TSO/ISPF, JCL, COBOL, and basic RACF  concepts. Students will
+  also examine how mainframe systems differ from conventional  PC and Linux server
+  environments and how they integrate with contemporary  hybrid cloud infrastructures.
+
+  '
+programmes:
+- timetable: null
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- '*Enterprise Computing and Mainframes:* role of mainframes in banking, government,
+  healthcare, retail; high-volume transaction processing; reliability and availability
+  concepts.'
+- '*Architecture:* overview of systems; centralised architecture; logical partitions
+  (LPARs); comparison with other server environments.'
+- '*Operating Systems:* overview of OS; introduction to VM (conceptual); batch and
+  interactive processing.'
+- '*Accessing the Mainframe:* TSO/ISPF environment; dataset navigation; job submission;
+  interpreting job output.'
+- '*Introduction to JCL:* job structure; EXEC and DD statements; return codes; batch
+  processing fundamentals.'
+- '*Introduction to COBOL:* program structure; data division; simple file handling;
+  compile, link and run cycle.'
+- '*Introduction to RACF:* users, groups and permissions; access control concepts;
+  security in regulated industries.'
+- '*Mainframe and Cloud Integration:* hybrid cloud concepts; APIs and service exposure;
+  role of mainframes in modern enterprise architectures.'
+learning_outcomes:
+- Explain the architecture and enterprise role of mainframe systems.
+- Compare mainframe systems with other server environments.
+- Use TSO/ISPF and JCL to submit, monitor, and interpret batch jobs.
+- Develop and execute simple COBOL programs within a mainframe environment.
+- Describe fundamental mainframe security concepts using RACF.
+- Discuss how mainframe systems integrate with modern cloud and enterprise architectures.
+learning_and_teaching_methods:
+- Lectures introducing core architectural, operational and enterprise concepts.
+- Supervised practical laboratory sessions using a live environment.
+- Guided hands-on exercises in TSO/ISPF, JCL and COBOL.
+- Applied mini-project integrating job control and program development.
+- Independent study supported by structured lab tasks.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: null
+- full_time: 24
+  name: Practical
+  part_time: null
+- full_time: 77
+  name: Independent Learning
+  part_time: null
+assessment_methods:
+- learning_outcomes: 1-6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: In-class examination
+  weighting: 30
+  due_weeks: '5'
+  comment: ''
+- learning_outcomes: 1,2,4,6
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: 7-13
+  comment: ''
+- learning_outcomes: 1,2,3,4,5,6
+  main: false
+  name: In-Class Practicals
+  weighting: 20
+  due_weeks: 2,5,8,12
+  comment: ''
+assessment_criteria:
+- '<40%: Limited understanding of mainframe concepts; inability to complete basic
+  configuration or programming tasks.'
+- '40%-49%: Basic understanding of architecture and tools; partially functioning JCL
+  and COBOL submissions.'
+- '50%-59%: Adequate practical implementation with generally correct job control and
+  program execution; some conceptual gaps.'
+- '60%-69%: Good application of mainframe tools and concepts; clear explanations and
+  mostly correct implementations.'
+- '70%-100%: Excellent practical execution and clear technical understanding; well-structured
+  solutions and strong integration of concepts.'
+essential_material:
+- 'IBM Redbooks. Introduction to the New Mainframe: z/OS Basics.'
+- IBM Z documentation and IBM Learn resources.
+supplementary_material:
+- Stern, N. & Stern, J. COBOL for the 21st Century.
+- IBM Hybrid Cloud documentation resources.
+requested_resources:
+- Access to IBM Z (z/OS) environment.
+- BYOD laboratory support.
+mlo_to_po: ''
+track_changes: true
+
+
+
+
+

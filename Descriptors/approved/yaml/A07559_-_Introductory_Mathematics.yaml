@@ -130,13 +130,13 @@ assessment_methods:
 - learning_outcomes: 1,2,3
   main: 'false'
   name: In-Class Assessment
-  weighting: '10'
+  weighting: '20'
   due_weeks: []
   comment: ''
 - learning_outcomes: 1,2,3
   main: 'false'
   name: Tutorial/Problem Sheets
-  weighting: '20'
+  weighting: '10'
   due_weeks: []
   comment: ''
 assessment_criteria:
@@ -150,7 +150,7 @@ assessment_criteria:
 - '70%-100%: All the above to an excellent level, with the ability to analyse and
   design solutions to algebraic and trigonometric problems to a high standard, for
   a range of complex or unseen problems.'
-special_regulations: []
+speccial_regulations: []
 essential_material:
 - 'Croft, A. and R. Davison. _Foundation Maths_. 5th Edition. England: Pearson Education
   Limited, 2010.'
@@ -168,4 +168,8 @@ requested_resources:
 - 'Room Type: Computer Lab'
 mlo_to_po: ''
 track_changes: 'true'
+
+
+
+
 
