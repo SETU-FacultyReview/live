@@ -1,97 +1,100 @@
 reference: A10865
 full_title: Introduction to 3D Game Development
 short_title: Intro to 3D Game Development
-credits: '5'
+credits: 5
 level: Introductory
 author: PFELICIA
-history_comment: ''
+history_comment: 'Aim, Indicative Content, and Learning Outcomes revised to be engine-agnostic,
+  reducing Unity/C# specificity and incorporating Unreal Engine concepts and C++.  Minor
+  revisions to learning outcomes for improved clarity and expression. Supplementary
+  material updated. '
 faculty: Science and Computing
 department: Computing and Mathematics
 cluster: Game Development
 aim: This module will provide the students with the necessary skill set to develop
-  a 3D game using the Unity Game Engine. It focuses on a high-level approach and the
-  use of 3D game engines to create video games that implement some of the basic features
-  found in commercial video games (e.g., collision detection, 3D navigation, 3D views,
-  and basic artificial intelligence).
+  a 3D game using using a modern game engine. It focuses on a high-level approach
+  and the use of 3D game engines to create video games that implement some of the
+  basic features found in commercial video games.
 programmes:
 - timetable: COMP-0647
   code: WD_KACCM_B
   name: BSc (Hons) in Applied Computing
-  stage: '2'
-  semester: '4'
+  stage: 2
+  semester: 4
   status: E
 - timetable: COMP-0647
   code: WD_KCMSC_B
   name: BSc (Hons) in Computer Science
-  stage: '2'
-  semester: '4'
+  stage: 2
+  semester: 4
   status: E
 - timetable: COMP-0647
   code: WD_KCOMP_B
   name: Bachelor of Science (Honours) in Applied Computing
-  stage: '2'
-  semester: '4'
+  stage: 2
+  semester: 4
   status: E
 prerequisites: []
 corequisites: []
 indicative_content:
-- Collision detection
+- Collision and physics systems
 - Navigation
 - Environment creation
-- Javascript coding
+- Gameplay scripting and event-driven programming
 - Object instantiation
 - Artificial intelligence
-- Rigid bodies
 - Assets creation and management
 - 3D animation
-- User interface
+- User interface design
+- Version control systems for interactive media projects
 learning_outcomes:
-- Code a 3-Dimensional game with the Unity engine with a corresponding GUI.
-- Code game mechanics using Javascript.
+- Develop an interactive 3D game prototype using a contemporary game development environment.
+- Implement gameplay mechanics using an object-oriented scripting approach.
 - Employ both bespoke assets (audio, textures, 3D objects), and built-in assets (audio,
   textures, 3D objects), to create indoors and outdoors environments.
 - Code and use navigation (first- and third-person controllers), collision detection,
   and cameras (e.g., view ports, multiple cameras, layers, etc.).
-- Use rigid-bodies, particles effects, and manage 3D animations for improved realism.
-- Employ and manage NPCs (e.g, AI, Finite-State Machines and navigation).
+- Apply physics systems, particle effects, and animation controllers to enhance realism
+  and responsiveness.
+- Design and implement non-player character (NPC) behaviours using foundational AI
+  techniques such as state-based systems and navigation meshes.
 learning_and_teaching_methods:
-- Since this module is focused on developing practical programming skills (i.e., game
-  programming for mobile devices), the four contact hours will be delivered in the
-  computer labs in the form of two 2-hour practicals.
+- Since this module is focused on developing practical programming skills, the four
+  contact hours will be delivered in computer labs in the form of two 2-hour practicals.
 - Due to the very practical nature of the skills to be acquired in this module, these
   practical sessions will be centred around the idea of learning by doing, whereby
   students develop proficiency in the specified skill set through guided activities,
   and whereby lecturers provide short formal presentations of relevant concepts and
   technologies, as well as practical tips, feedback, and best practices.
 learning_modes:
-- full_time: '48'
+- full_time: 48
   name: Practical
   part_time: ''
-- full_time: '87'
+- full_time: 87
   name: Independent Learning
   part_time: ''
 assessment_methods:
 - learning_outcomes: ''
-  main: 'true'
+  main: true
   name: Continuous Assessment
-  weighting: '100'
+  weighting: 100
 - learning_outcomes: 1,5,6
-  main: 'false'
+  main: false
   name: Assignment
-  weighting: '25'
-  due_weeks: []
+  weighting: 25
+  due_weeks: '3'
   comment: ''
 - learning_outcomes: 1,2,3,4
-  main: 'false'
+  main: false
   name: Assignment
-  weighting: '25'
-  due_weeks: []
+  weighting: 25
+  due_weeks: '10'
   comment: ''
 - learning_outcomes: '2'
-  main: 'false'
+  main: false
   name: In-Class Assignment
-  weighting: '50'
-  due_weeks: []
+  weighting: 50
+  due_weeks: '14'
   comment: ''
 assessment_criteria:
 - '<40%: Inability to understand, explain the workings of or modify, a simple program.
@@ -109,13 +112,16 @@ assessment_criteria:
   to see programs in terms of system of components.'
 - '70%-100%: All previous to an excellent level. Starts to understand the concept
   of good solutions.'
-special_regulations: []
 essential_material: []
 supplementary_material:
-- 'Blackman, S. and J. Wang. _Unity for Absolute Beginners_. NY: Apress, 2014.'
+- 'Romero, M. and Sewell, B., _Blueprints Visual Scripting for Unreal Engine 5_. Birmingham,
+  UK: Packt Publishing, 2022.'
 requested_resources:
-- 'EQUIPMENT: MAC PCs'
 - 'Room Type: Computer Lab'
-mlo_to_po: ''
-track_changes: 'true'
+mlo_to_po: 1,2
+track_changes: true
+
+
+
+
 

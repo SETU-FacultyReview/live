@@ -1,6 +1,6 @@
 reference: A11485
 full_title: Sustainable Food Production
-short_title: Sustainable Food Prod.
+short_title:  Sustainable Food Production
 credits: '10'
 level: Intermediate
 author: CPWALSH
@@ -134,4 +134,9 @@ requested_resources:
 - 'Lecture Room: Loose Seated'
 mlo_to_po: ''
 track_changes: 'true'
+
+
+
+
+
 

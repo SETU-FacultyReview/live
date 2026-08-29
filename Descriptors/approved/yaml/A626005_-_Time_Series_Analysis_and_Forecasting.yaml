@@ -1,0 +1,121 @@
+reference: A626005
+full_title: Time Series Analysis and Forecasting
+short_title: TS Analysis & Forecasting
+credits: 5
+level: Intermediate
+author: KMURPHY
+history_comment: New module on the Data Science and AI stream.
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Data Science and AI
+aim: 'This module provides students with a comprehensive introduction to analysing
+  and forecasting temporal data. Students learn to identify time series  components,
+  apply classical statistical forecasting models, and implement modern machine-learning
+  and deep-learning approaches for sequence prediction. Emphasis is placed on practical
+  forecasting skills, evaluation and  backtesting, uncertainty quantification, and
+  the ability to apply models  to real-world domains such as demand forecasting, IoT/sensor
+  analysis, finance, anomaly detection, and risk assessment.
+
+  '
+programmes:
+- timetable: ''
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 3
+  semester: 5
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- '*Introduction to time series concepts:* trend, seasonality, cycles, noise'
+- Stationarity, autocorrelation (ACF), partial autocorrelation (PACF)
+- '*Data preparation:* resampling, missing data handling, normalisation, differencing,
+  feature engineering'
+- '*Classical models:* AR, MA, ARMA, ARIMA, SARIMA'
+- Exponential smoothing and ETS models
+- State-space models and the Kalman filter
+- '*Machine-learning forecasting approaches:* tree-based models, feature-based ML'
+- '*Deep learning models:* RNNs, LSTMs/GRUs, and Transformers for sequences'
+- '*Forecast evaluation:* MAE, RMSE, MAPE/SMAPE, cross-validation and backtesting,
+  prediction intervals, residual diagnostics'
+- '*Applications:* demand forecasting, anomaly detection, IoT/sensor analysis, finance,
+  energy forecasting, risk and scenario modelling'
+learning_outcomes:
+- Explain key concepts in time series analysis, including trend, seasonality, stationarity,
+  and autocorrelation.
+- Prepare and transform temporal datasets, including feature engineering and resampling
+  suitable for forecasting tasks.
+- Build, fit, and evaluate classical statistical forecasting models such as ARIMA,
+  SARIMA, and ETS.
+- Implement machine-learning and deep-learning forecasting models, including RNN/LSTM
+  and Transformer-based approaches.
+- Evaluate forecast accuracy using appropriate metrics and backtesting techniques,
+  and interpret uncertainty in forecasts.
+learning_and_teaching_methods:
+- Lectures introducing theoretical foundations and modelling approaches.
+- Hands-on practical labs using Python (or equivalent) and industry-standard libraries.
+- Case studies applying forecasting to multiple domains.
+- Guided project work with feedback and iterative model development.
+- Use Python ecosystem (pandas, statsmodels, scikit-learn, Prophet, PyTorch/TensorFlow,
+  Darts) or equivalent for practical work.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: null
+- full_time: 24
+  name: Practical
+  part_time: null
+- full_time: 77
+  name: Independent Learning
+  part_time: null
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 2,3
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: 3-7
+  comment: ''
+- learning_outcomes: 2,4,5
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: 8-13
+  comment: ''
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: In-Class Practicals
+  weighting: 20
+  due_weeks: 2,5,9,11
+  comment: ''
+assessment_criteria:
+- '<40%: Limited understanding of time series concepts. Work lacks structure, contains
+  significant errors, and demonstrates minimal ability to apply or evaluate forecasting
+  methods.'
+- '40%-49%: Basic comprehension demonstrated but with gaps in analysis or implementation.
+  Solutions show partial correctness and limited evaluation.'
+- '50%-59%: Competent understanding with generally correct modelling and evaluation.
+  Has limitations in feature engineering, model selection, or interpretation.'
+- '60%-69%: Good application of concepts with appropriate model selection, sound evaluation,
+  and clear communication. Minor issues only.'
+- '70%-100%: Excellent technical execution with strong justification of modelling
+  choices, comprehensive evaluation and backtesting, and clear, insightful interpretation
+  of forecasting results.'
+essential_material:
+- 'Hyndman and Athanasopoulos. (2022). _Forecasting: Principles and Practice_. (online,
+  free). https://otexts.com/fpp3.'
+supplementary_material:
+- Shumway and Stoffer. (2017). _Time Series Analysis and Its Applications_.
+- Goodfellow et al. (2016). _Deep Learning_ (sequence modelling chapters). https://www.deeplearningbook.org.
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: 1,2,3,5,7
+track_changes: true
+
+
+
+
+

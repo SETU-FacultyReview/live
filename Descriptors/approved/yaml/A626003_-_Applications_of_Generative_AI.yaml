@@ -1,0 +1,122 @@
+reference: A626003
+full_title: Applications of Generative AI
+short_title: Applications of Generative AI
+credits: 5
+level: Intermediate
+author: KMURPHY
+history_comment: New module on the Data Science and AI stream.
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Data Science and AI
+aim: 'This module introduces students to the practical use of modern generative AI
+  systems across text, code, images, audio, and multimodal content. Students learn
+  effective prompting techniques, workflow integration, evaluation of generated content,
+  and responsible AI practices. The focus is on applied usage and critical engagement
+  rather than mathematical or algorithmic theory, which will be addressed in later
+  modules such as Natural Language Processing. Students gain early hands-on experience
+  in designing AI-assisted solutions while understanding safety, limitations, and
+  ethical considerations.
+
+  '
+programmes:
+- timetable: null
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 4
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- '*Introduction to generative AI:* LLMs, multimodal models, diffusion models (conceptual
+  overview)'
+- '*Prompt engineering:* zero-shot, few-shot, instruction prompts, structured/system
+  prompts'
+- '*Text generation applications:* summarisation, rewriting, ideation, drafting'
+- '*Code generation:* assisted programming, debugging, test creation, documentation
+  workflows'
+- '*Image and multimodal generation:* text-to-image, editing, prompt refinement, creative
+  applications'
+- '*Audio and speech generation:* voice synthesis, music generation (practical usage)'
+- '*Generative AI for data work:* data cleaning, documentation, synthetic data creation'
+- '*Model reliability:* hallucinations, verification, bias, prompt failure cases'
+- '*Responsible AI:* academic integrity, safety, fairness, content filtering, copyright
+  awareness'
+- '*Applications of generative AI:* troubleshooting, configuration, installation and
+  maintenance of systems and software'
+learning_outcomes:
+- Use a range of generative AI tools to complete text, code, image, and audio generation
+  tasks.
+- Design effective prompts and refine them iteratively to improve the quality of generated
+  output.
+- Evaluate generated content for accuracy, coherence, safety, and ethical implications.
+- Create small applications or workflows integrating generative AI APIs.
+- Explain at a high level how LLMs, multimodal models, and diffusion models operate.
+- Apply responsible AI principles when using generative systems, including fairness,
+  safety, and academic integrity.
+learning_and_teaching_methods:
+- Lectures introducing conceptual foundations, responsible AI, and applied workflows.
+- Hands-on practical labs using real generative AI tools and APIs.
+- Scenario-based tasks and problem-solving activities.
+- Mini-project focusing on applied generative AI use cases.
+- Critical discussions and reflection on ethical and societal impacts.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: null
+- full_time: 24
+  name: Practical
+  part_time: null
+- full_time: 77
+  name: Independent Learning
+  part_time: null
+assessment_methods:
+- learning_outcomes: 1-6
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4,5
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: 3-8
+  comment: Short applied task involving prompt engineering and multimodal generation.
+- learning_outcomes: 1,2,4,6
+  main: false
+  name: Assignment
+  weighting: 50
+  due_weeks: 7-13
+  comment: Design and evaluation of a small generative AI workflow or prototype.
+- learning_outcomes: 1,2,3,4,5,6
+  main: false
+  name: In-Class Practicals
+  weighting: 20
+  due_weeks: 2,5,8,12
+  comment: Applied exercises conducted during practical sessions.
+assessment_criteria:
+- '<40%: Limited understanding; significant errors; incomplete or unsafe use of generative
+  systems.'
+- '40%-49%: Basic understanding but with gaps; partially functioning solutions; weak
+  analysis.'
+- '50%-59%: Adequate practical competence; generally correct workflows; some issues
+  in interpretation.'
+- '60%-69%: Good technical execution, clear reasoning, responsible use; minor issues
+  only.'
+- '70%-100%: Excellent creativity, strong justification, comprehensive evaluation,
+  and insightful ethical reflection.'
+essential_material:
+- Official documentation for generative AI tools used in the module
+- Hugging Face Inference API documentation
+supplementary_material:
+- 'Phoenix and Taylor. (2024). _Prompt Engineering for Generative AI: Future-Proof
+  Inputs for Reliable AI Outputs_. https://www.oreilly.com/library/view/practical-prompt-engineering/9781098151041/'
+- Introductory papers on LLMs and diffusion models.
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: 1,2,3,4,7,
+track_changes: true
+
+
+
+
+

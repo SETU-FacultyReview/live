@@ -1,0 +1,98 @@
+reference: A626007
+full_title: Machine Learning Deployment and Operations
+short_title: ML Ops
+credits: 5
+level: Advanced
+author: JRELLIS
+history_comment: New module on the Data Science and AI stream.
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Data Science and AI
+aim: 'This module introduces students to the practical deployment of artificial intelligence
+  models and applications. Students learn how trained machine-learning, natural language
+  processing, time-series, and generative AI models can be exposed as usable services
+  and integrated into software systems. The focus is on fundamental deployment patterns,
+  evaluation in operational contexts, and responsible use, rather than full-scale
+  industrial MLOps platforms.
+
+  '
+programmes:
+- timetable: null
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- '*From training to deployment:* saving, loading, and serving trained models'
+- Batch inference and simple real-time inference services
+- Deploying predictive models, NLP pipelines, and generative AI workflows
+- '*System integration:* APIs and interaction with data pipelines'
+- Basic versioning of models and inputs
+- '*Evaluation in deployment:* latency, throughput, and output quality'
+- Introduction to monitoring and logging for deployed AI systems
+- '*Responsible deployment:* basic ethical, legal, and safety considerations'
+- Documenting deployed AI systems and their limitations
+learning_outcomes:
+- Deploy trained AI models or workflows as usable software services.
+- Integrate deployed AI components into simple software systems using APIs.
+- Evaluate deployed AI systems using basic operational and quality metrics.
+- Identify ethical, legal, and safety considerations relevant to deploying AI applications.
+- Document deployment decisions, limitations, and expected behaviour of AI systems.
+learning_and_teaching_methods:
+- Lectures introducing core deployment concepts and patterns.
+- Hands-on practical labs focused on deploying AI models and applications.
+- Guided exercises integrating deployed models with simple software systems.
+- Case-based discussion of real-world AI deployment examples.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: null
+- full_time: 24
+  name: Practical
+  part_time: null
+- full_time: 77
+  name: Independent Learning
+  part_time: null
+assessment_methods:
+- learning_outcomes: 1-5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3
+  main: false
+  name: Deployment Assignment
+  weighting: 60
+  due_weeks: 7-13
+  comment: Deployment of an AI model or workflow developed in a previous module.
+- learning_outcomes: 4,5
+  main: false
+  name: Short Technical Report
+  weighting: 40
+  due_weeks: '13'
+  comment: Documentation and reflection on deployment decisions and responsible use.
+assessment_criteria:
+- '<40%: Unable to deploy a functional AI application or explain its behaviour.'
+- '40%-49%: Basic deployment achieved but with limited integration or evaluation.'
+- '50%-59%: Competent deployment with generally correct integration and evaluation.'
+- '60%-69%: Well-executed deployment with clear documentation and responsible considerations.'
+- '70%-100%: High-quality deployment with strong technical clarity, evaluation, and
+  reflection.'
+essential_material:
+- Alammar and Grootendorst (2024). _Hands-On Large Language Models_, O Reilly Media.
+- 'Huyen (2022). _Designing Machine Learning Systems: An Iterative Process for Production-Ready
+  Applications_, O''Reilly Media.'
+supplementary_material:
+- Official documentation for AI frameworks and deployment tools used in the module.
+- Introductory readings on deploying machine-learning models in practice.
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: 5,6,7,8
+track_changes: true
+
+
+
+
+

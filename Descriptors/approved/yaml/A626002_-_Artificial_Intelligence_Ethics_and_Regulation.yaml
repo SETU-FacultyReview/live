@@ -1,0 +1,136 @@
+reference: A626002
+full_title: Artificial Intelligence, Ethics and Regulation
+short_title: AI Ethics and Regulation
+credits: 5
+level: Introductory
+author: KMURPHY
+history_comment: New module currently under review in CE3, SSD and AI (now approved).
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Data Science and AI
+aim: As artificial intelligence (AI) technologies become increasingly integrated into
+  society, understanding their ethical and regulatory implications is critical. This
+  module explores the ethical challenges posed by AI systems, including issues of
+  bias, accountability, transparency, and impact. Students will examine and assess
+  the impact of current and emerging regulatory frameworks such as the EU AI Act and
+  GDPR on the design and deployment of AI. Students will learn to assess ethical risks,
+  suggest responsible solutions, and discuss how AI should be governed in society.
+programmes:
+- timetable: null
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 3
+  status: M
+- timetable: null
+  code: WD_KDEVP_B
+  name: BSc (Hons) Software Development and AI
+  stage: 2
+  semester: 3
+  status: M
+- timetable: null
+  code: WD_KSDSS_B
+  name: BSc (Hons) Software Development and Sports Science
+  stage: 2
+  semester: 3
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- Introduction to Ethics
+- Foundations of AI Ethics
+- Data Acquisition, Ownership, Rights and Provenance
+- Societal and Global impacts (Algorithmic Bias, discrimination, environmental)
+- AI Governance (Explainable AI) and Regulation (EU, GDPR, US, UK, UNESCO, OECD)
+- AI Ethics (society, sustainability, innovation, security, safety, etc.)
+- Case Studies in Ethical and Regulatory Challenges (facial recognition, recommender
+  systems, GenAI)
+learning_outcomes:
+- Critically evaluate key ethical principles relevant to the development and deployment
+  of AI systems, including fairness, accountability, transparency, and privacy.
+- Analyse the societal and global impacts of AI technologies, including bias, discrimination,
+  labour displacement, surveillance and environmental.
+- Understand and assess national and international regulatory frameworks and policy
+  initiatives governing AI, such as the EU AI Act, GDPR, and emerging standards.
+- Apply ethical reasoning and regulatory considerations to real-world AI case studies,
+  identifying potential impacts and risks and proposing responsible mitigation strategies.
+- Communicate clearly about ethical and regulatory issues in AI, showing awareness
+  of different stakeholder perspectives.
+learning_and_teaching_methods:
+- This module will be taught through a variety of ways, including direct instructions,
+  discussions, and case-based practical studies.
+- Self-directed learning will also be encouraged throughout the duration of the module.
+- Students in this module are required to engage in discussions and class exercises,
+  enhancing their participation.
+- The topics of Artificial Intelligence ethics and regulations will be introduced
+  and explained by instructors in lectures.
+- The case-based practical studies implemented in this module will assist students
+  in gaining problem-based skills that result in significant improvement in their
+  critical thinking and active participation in the learning process.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: null
+- full_time: 24
+  name: Practical
+  part_time: null
+- full_time: 77
+  name: Independent Learning
+  part_time: null
+assessment_methods:
+- learning_outcomes: 1-5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,4,5
+  main: false
+  name: Group debate
+  weighting: 40
+  due_weeks: 10-11
+  comment: ''
+- learning_outcomes: 2-5
+  main: false
+  name: Case Study Report
+  weighting: 60
+  due_weeks: '13'
+  comment: ''
+assessment_criteria:
+- '<40%: Unable to express knowledge/concepts of Artificial Intelligence ethics and
+  regulations. Inability to participate in class discussion. Inability to produce
+  case study report.'
+- '40%-49%: Able to describe basic concepts of ethical and regulatory implications
+  of AI. Explain in own words the impacts and risks of an AI case study in relation
+  to bias, discrimination, labour displacement, surveillance and environmental.'
+- '50%-59%: Ability to understand key concepts of the AI ethics and regulatory domain
+  and ability to discover and integrate related knowledge from other knowledge domains.'
+- '60%-69%: All of the above and in addition, can present on the issues from multiple
+  stakeholder perspectives.'
+- '70%-100%: All the above to an excellent level.'
+essential_material:
+- 'Coeckelbergh, M. (2020) _AI ethics_. Cambridge, MA: MIT Press. (MIT Press Essential
+  Knowledge series).'
+- 'Sinnott-Armstrong, W. (2024) _Moral AI: and how we get there_. London: Pelican.'
+- 'Vallor, S. (2024) _The AI mirror: how to reclaim our humanity in an age of machine
+  thinking_. New York: OUP USA.'
+- 'Santos, O. (2024) _Beyond the algorithm: AI, security, privacy, and ethics_. Boston:
+  Addison-Wesley Professional.'
+- 'Boddington, P. (2023) _AI ethics: a textbook_. Singapore: Springer. (Artificial
+  Intelligence: Foundations, Theory, and Algorithms).'
+- 'Hendrycks, D. (2024) _Introduction to AI safety, ethics, and society_. Boca Raton,
+  FL: CRC Press.'
+- 'Floridi, L. (2023) _The ethics of artificial intelligence: principles, challenges,
+  and opportunities_. Oxford: OUP Oxford.'
+- 'Dubber, M.D. (ed.) (2021) _The Oxford handbook of ethics of AI_. Oxford: Oxford
+  University Press.'
+- https://www.europarl.europa.eu/topics/en/article/20230601STO93804/eu-ai-act-first-regulation-on-artificial-intelligence
+- https://enterprise.gov.ie/en/what-we-do/innovation-research-development/artificial-intelligence/
+supplementary_material: []
+requested_resources:
+- 'COMPUTER LAB: BYOD Lab'
+mlo_to_po: 5,6,7,8
+track_changes: true
+
+
+
+
+

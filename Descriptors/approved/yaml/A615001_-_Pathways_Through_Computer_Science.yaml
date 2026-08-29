@@ -1,0 +1,75 @@
+reference: A615001
+full_title: Pathways Through Computer Science
+short_title: Pathways Through CS
+credits: 5
+level: Introductory
+author: ROCONNOR
+history_comment: New module introducing specialist streams to all Computer Science
+  students in a structured fashion.
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Computer Science
+aim: This module introduces first-year students to the full range of Computer Science
+  streams through structured taster units. Students gain hands-on exposure to core
+  concepts, tools, and practices in each pathway, enabling informed selection of their
+  Year 2 stream (e.g., Cloud & Networks, Security/Forensics, Automotive Software Engineering,
+  Data Science & AI, Games Development). Emphasis is on reflection, peer interaction,
+  and career alignment.
+programmes:
+- timetable: null
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 1
+  semester: 2
+  status: M
+prerequisites: []
+corequisites: []
+indicative_content:
+- The student is required to actively engage in multiple taster sessions for the streams
+  available for elective study on Computer Science. Each taster activity includes
+  labs, workshops and a short reflective task.
+learning_outcomes:
+- Describe the aims, content, tools, and career contexts of the major Computer Science
+  streams through practical taster activities.
+- Perform guided introductory tasks in each stream (e.g., basic scripting, data handling,
+  hardware setup) and reflect on associated professional skills and environments.
+- Analyse their own aptitudes, interests, and strengths relative to each stream using
+  self-assessment tools and tutor feedback.
+- Justify their Year 2 stream choice in a reflective portfolio, linking module experiences
+  to personal goals and computing career pathways.
+learning_and_teaching_methods:
+- This is a skills-based module, but the emphasis is on student reflection.
+- The lab hours will be timetabled together.
+learning_modes:
+- full_time: 48
+  name: Practical
+  part_time: null
+- full_time: 77
+  name: Independent Learning
+  part_time: null
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Reflective Journal
+  weighting: 100
+  due_weeks: 3!,5!,7!,9!,11!,13
+  comment: Learing journal submitted at the end of the Semester
+assessment_criteria:
+- 'Fail: Candidate has not successfully completed the module and reflective journal.'
+- 'Pass: Candidate has successfully completed the module and reflective journal.'
+essential_material: []
+supplementary_material: []
+requested_resources:
+- Groups should be timetabled simulataneously across each other, to ensure similar
+  running times each week and allow for easy movement of students between groups.
+mlo_to_po: 3,4,10,12
+track_changes: true
+
+
+
+
+

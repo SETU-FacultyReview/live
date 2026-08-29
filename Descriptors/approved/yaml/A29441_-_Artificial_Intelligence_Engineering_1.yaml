@@ -1,0 +1,166 @@
+reference: A29441
+full_title: Artificial Intelligence Engineering 1
+short_title: AI Engineering 1
+credits: 5
+level: Advanced
+author: BBUTLER
+history_comment: Change of module title to align more with what is covered in the
+  module. Update of content and LO to reflect change.
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Database and Analytics
+aim: 'The purpose of this module is to introduce the student to the fundamental concepts
+  and techniques of Machine Learning / Artificial Intelligence Engineering.  The student
+  will become familiar with both supervised learning (such as regression  and classification)
+  and unsupervised learning (such as clustering and dimensionality reduction). Machine
+  Learning / AI Engineering begins with understanding and cleaning the data, continues
+  with feature engineering and analytical learning procedures, and is supplemented
+  with validation and interpretation of the results. Students will be introduced to
+  the tools needed to investigate data and to interpret and report their findings.
+  The primary focus will be on discriminative rather than generative AI applications
+  of Machine Learning. Practicals will help students to apply their knowledge, and
+  assessments will largely test how well they can apply machine learning in practice.
+
+  '
+programmes:
+- timetable: COMP-0563
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0563
+  code: WD_KACMI_B
+  name: BSc (Hons) in Applied Computing (International)
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0563
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0563
+  code: WD_KCOFO_B
+  name: Bachelor of Science (Honours) in Computer Forensics and Security
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0563
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0563
+  code: WD_KINTT_BI
+  name: BSc (Hons) in the Internet of Things (International)
+  stage: 4
+  semester: 7
+  status: M
+- timetable: COMP-0563
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 4
+  semester: 7
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Introduction to Machine Learning / AI Engineering  - its roots in Data Mining, dependence
+  on mathematics, statistics, data architectures, ...
+- Machine learning pipelines - building understanding in stages, choosing appropriate
+  procedures, assessing capability, reporting plausible results.
+- Model building and inference from models - how to apply machine learning to make
+  reliable predictions from data.
+- 'Machine learning in support of data science: from data to insights'
+learning_outcomes:
+- Categorise typical data investigations, recognising how machine learning can be
+  applied.
+- Appraise the concepts and fundamentals of Classification, Regression and Clustering
+  and their solution techniques.
+- Evaluate the use of typical machine learning methods and choose appropriate algorithms
+  and settings.
+- Solve new problems using the investigative procedures (especially machine learning)
+  introduced in the module.
+- Assemble, validate and interpret the results of conducting the data investigation.
+learning_and_teaching_methods:
+- The lectures will introduce the theory content to the student. The student will
+  be encouraged to participate in class discussions and ask questions to support their
+  learning process.
+- The practical classes facilitate the student in implementing the theory learned
+  in the lectures, and will use the python ecosystem (software tools and packages)
+  for machine learning.
+- Students will apply typical methods of Machine Learning / AI Engineering to data
+  sets provided in the practical classes.
+- Students will choose and apply appropriate data-intensive machine learning techniques
+  to representative data sets used for continuous assessment.
+- Students will interpret and present the findings produced in the practical classes
+  and continuous assessment.
+learning_modes:
+- full_time: 36
+  name: Lecture
+  part_time: ''
+- full_time: 12
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: 1,2,3,4,5
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,3
+  main: false
+  name: In-Class Practicals
+  weighting: 20
+  due_weeks: 1-5
+  comment: ''
+- learning_outcomes: 1,2,3,4
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: 4-7
+  comment: ''
+- learning_outcomes: 2,3,4,5
+  main: false
+  name: Assignment
+  weighting: 30
+  due_weeks: 7-10
+  comment: ''
+- learning_outcomes: 1,4,5
+  main: false
+  name: Assignment
+  weighting: 20
+  due_weeks: 10-13
+  comment: Assignment validation (interview) in weeks 13-14.
+assessment_criteria:
+- <40%:Unable to interpret and describe key concepts of machine learning / AI engineering.
+- 40%-49%:Be able to interpret and describe key concepts of machine learning / AI
+  engineering.
+- 50%-59%:Ability to discuss key concepts and ability to discover and integrate related
+  knowledge in other knowledge domains, using well-known procedures and standard settings.
+- 60%-69%:Be able to solve problems using machine learning by experimenting with the
+  appropriate skills and tools, particularly when simple/obvious choices do not work
+  well.
+- 70%-100%:All the above to an excellent level. Be able to analyse and design solutions
+  to a high standard for a range of both complex and unforeseen problems through the
+  use and modification of appropriate skills and tools.
+essential_material: []
+supplementary_material:
+- Theobald, Oliver. _Machine Learning and AI for Absolute Beginners_ 2025.
+- Raschka, Sebastian. _Machine Learning with PyTorch and scikit-learn_ 2022
+- James, G., D. Witten, T. Hastie, R. Tibshirani and Taylor, J.. _An Introduction
+  to Statistical Learning, with Applications in Python_. 2024.
+requested_resources:
+- 'Room Type: Computer Lab'
+mlo_to_po: 1,2,3,4,7,8
+track_changes: true
+
+
+
+
+

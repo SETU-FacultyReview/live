@@ -1,0 +1,106 @@
+reference: A11583
+full_title: Automotive Networks
+short_title: Automotive Networks
+credits: 5
+level: Intermediate
+author: BJACKMAN
+history_comment: New module title. Level changed to Intermediate.  Content revised
+  to focus on the most commonly used protocols. Reduced the scope of topics to suit
+  intermediate level.
+faculty: Science and Computing
+department: Computing and Mathematics
+cluster: Automotive, Automation and IoT
+aim: In this module, students explore and use the technologies required to exchange
+  data between Electronic Control Units within the vehicle.
+programmes:
+- timetable: COMP-0575
+  code: WD_KACCM_B
+  name: BSc (Hons) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0575
+  code: WD_KCMSC_B
+  name: BSc (Hons) in Computer Science
+  stage: 2
+  semester: 4
+  status: E
+- timetable: COMP-0575
+  code: WD_KCOMP_B
+  name: Bachelor of Science (Honours) in Applied Computing
+  stage: 4
+  semester: 8
+  status: E
+- timetable: COMP-0575
+  code: WD_KPHTE_B
+  name: Bachelor of Science (Honours) in Physics for Modern Technology
+  stage: 4
+  semester: 8
+  status: E
+prerequisites: []
+corequisites: []
+indicative_content:
+- Vehicle network architectures
+- Event-triggered network protocols - CAN, CAN-FD, CAN-XL.
+- Time-triggered network protocols - LIN, FlexRay.
+- Service-Oriented Architectures - Automotive Ethenet.
+- Network simulation and testing.
+learning_outcomes:
+- Understand the characteristics of the different network protocols.
+- Simulate signal-oriented vehicle network communication networks.
+- Simulate service-oriented vehicle network communication networks.
+- Use industry standard network development and testing tools to troubleshoot network
+  problems.
+learning_and_teaching_methods:
+- Combination of lectures and laboratory-based practicals.
+- Self-directed learning.
+learning_modes:
+- full_time: 24
+  name: Lecture
+  part_time: ''
+- full_time: 24
+  name: Practical
+  part_time: ''
+- full_time: 87
+  name: Independent Learning
+  part_time: ''
+assessment_methods:
+- learning_outcomes: ''
+  main: true
+  name: Continuous Assessment
+  weighting: 100
+- learning_outcomes: 1,2,4
+  main: false
+  name: Assignment
+  weighting: 60
+  due_weeks: '8'
+  comment: ''
+- learning_outcomes: 3,4
+  main: false
+  name: Assignment
+  weighting: 40
+  due_weeks: '12'
+  comment: ''
+assessment_criteria:
+- <40%:Inability to specify a coherent network design.
+- 40%-49%:Able to describe the basic network design concepts.
+- 50%-59%:All the above and in addition is able demonstrate a technical understanding
+  of the common automotive network protocols.
+- 60%-69%:In addition, is able to develop and test a network using two or more protocols
+  connected with a gateway.
+- 70%-100%:All of the above and able to debug network issues at a low level.
+essential_material: []
+supplementary_material:
+- 'Schaeuffele, J. and T. Zurawaka. _Automotive Software Engineering._. NY: SAE International,
+  2005.'
+- Etschberger, K., Controller Area Network, Hanser Fachbuch, 2000.
+- Paret, D., Multiplexed Networks for Embedded Systems, John Wiley & Sons, 2007.
+requested_resources:
+- Automotive Systems Laboratory
+mlo_to_po: 1,2,3,8
+track_changes: true
+
+
+
+
+
